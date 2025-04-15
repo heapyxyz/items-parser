@@ -8065,9 +8065,6 @@
             "highest_float": 0.7
         }
     },
-    "sticker": {},
-    "spray": {},
-    "patch": {},
     "weapon_taser": {
         "zeus_thunder_god": {
             "index": "1172",
@@ -8105,6 +8102,5 @@
             "lowest_float": 0.0,
             "highest_float": 1.0
         }
-    },
-    "keychain": {}
+    }
 }

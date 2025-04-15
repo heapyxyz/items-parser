@@ -38,6 +38,10 @@ class Items():
 
         for item in data:
             item_data = data[item]
+
+            if not str(item_data["name"]).startswith("weapon_"):
+                continue
+
             weapons[item_data["name"]] = item
 
         return weapons
@@ -60,8 +64,12 @@ class Items():
 
                 paint_kit = paint_kit_split[0]
                 item = paint_kit_split[1]
+                
+                # No need to save keychains or stickers (for now!!!)
+                if not item in self.weapons:
+                    continue
 
-                if item not in loot_list:
+                if not item in loot_list:
                     loot_list[item] = {}
 
                 if paint_kit in self.paint_kits:
