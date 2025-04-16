@@ -64,6 +64,9 @@ class Items():
 
                 paint_kit = paint_kit_split[0]
                 item = paint_kit_split[1]
+
+                if not paint_kit in self.paint_kits:
+                    continue
                 
                 # No need to save keychains or stickers (for now!!!)
                 if not item in self.weapons:
@@ -72,8 +75,7 @@ class Items():
                 if not item in loot_list:
                     loot_list[item] = {}
 
-                if paint_kit in self.paint_kits:
-                    loot_list[item][paint_kit] = self.paint_kits[paint_kit]
+                loot_list[item][paint_kit] = self.paint_kits[paint_kit]
 
         return loot_list
     
