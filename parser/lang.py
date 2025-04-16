@@ -1,6 +1,7 @@
 import os, vdf
 
-class Lang():
+
+class Lang:
     def __init__(self, prefix: str):
         print(f"Loading {prefix.upper()} language file...")
 
@@ -12,7 +13,7 @@ class Lang():
             data = f.read()
 
         return vdf.loads(data)
-    
+
     def get(self, key: str):
         key = key.replace("#", "")
         data = self._data["lang"]["Tokens"]
@@ -22,10 +23,12 @@ class Lang():
                 return data_value
 
         return None
-    
+
+
 class CS2Lang(Lang):
     def __init__(self):
         super().__init__("cs2")
+
 
 class CSGOLang(Lang):
     def __init__(self):
