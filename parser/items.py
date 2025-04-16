@@ -80,7 +80,8 @@ class Items():
         return loot_list
     
     def _get_paint_kits(self) -> dict:
-        data = self._data["items_game"]["paint_kits"]        
+        data = self._data["items_game"]["paint_kits"]
+        rarity_data = self._data["items_game"]["paint_kits_rarity"]
         kits = {}
 
         for kit in data:
@@ -90,13 +91,16 @@ class Items():
             if not "description_string" in kit_data:
                 continue
 
+            paint_kit_name = kit_data["name"]
+
             paint_kit = {}
             paint_kit["index"] = kit
             paint_kit["tag"] = self._lang.get(kit_data["description_tag"])
             paint_kit["lowest_float"] = float(kit_data["wear_remap_min"] if "wear_remap_min" in kit_data else 0.0)
             paint_kit["highest_float"] = float(kit_data["wear_remap_max"] if "wear_remap_max" in kit_data else 1.0)
+            paint_kit["rarity"] = rarity_data[paint_kit_name] if paint_kit_name in rarity_data else "default"
 
-            kits[kit_data["name"]] = paint_kit
+            kits[paint_kit_name] = paint_kit
 
         return kits
 
