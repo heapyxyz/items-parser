@@ -177,7 +177,7 @@ class Items:
             "skins": {},
             "stickers": {},
             "patches": {},
-            "keychains": {},
+            "keychains": self._keychains,
         }
 
         for set in data:
@@ -207,8 +207,6 @@ class Items:
                     loot_list["stickers"][kit] = self._sticker_kits[kit]
                 elif type == "patch":
                     loot_list["patches"][kit] = self._sticker_kits[kit]
-                elif type == "keychain":
-                    loot_list["keychains"][kit] = self._keychains[kit]
 
         return loot_list
 

@@ -39464,36 +39464,6 @@
             "tag": "Lil' Ava",
             "rarity": "rare"
         },
-        "kc_missinglink_sam_salty": {
-            "index": "12",
-            "tag": "Pinch O' Salt",
-            "rarity": "rare"
-        },
-        "kc_missinglink_sam_catchup": {
-            "index": "10",
-            "tag": "Hot Sauce",
-            "rarity": "rare"
-        },
-        "kc_missinglink_sas": {
-            "index": "15",
-            "tag": "Lil' SAS",
-            "rarity": "rare"
-        },
-        "kc_missinglink_guerilla": {
-            "index": "6",
-            "tag": "Lil' Crass",
-            "rarity": "rare"
-        },
-        "kc_missinglink_kev": {
-            "index": "8",
-            "tag": "Big Kev",
-            "rarity": "rare"
-        },
-        "kc_missinglink_chicken": {
-            "index": "5",
-            "tag": "Chicken Lil'",
-            "rarity": "mythical"
-        },
         "kc_missinglink_banana": {
             "index": "2",
             "tag": "That's Bananas",
@@ -39509,35 +39479,60 @@
             "tag": "Lil' Sandy",
             "rarity": "mythical"
         },
-        "kc_missinglink_bigfoot": {
-            "index": "33",
-            "tag": "Lil' Squatch",
+        "kc_missinglink_chicken": {
+            "index": "5",
+            "tag": "Chicken Lil'",
             "rarity": "mythical"
         },
-        "kc_missinglink_sam_toile": {
-            "index": "14",
-            "tag": "Lil' Teacup",
-            "rarity": "mythical"
+        "kc_missinglink_guerilla": {
+            "index": "6",
+            "tag": "Lil' Crass",
+            "rarity": "rare"
+        },
+        "kc_missinglink_howl": {
+            "index": "7",
+            "tag": "Hot Howl",
+            "rarity": "ancient"
+        },
+        "kc_missinglink_kev": {
+            "index": "8",
+            "tag": "Big Kev",
+            "rarity": "rare"
         },
         "kc_missinglink_monster": {
             "index": "9",
             "tag": "Lil' Monster",
             "rarity": "legendary"
         },
+        "kc_missinglink_sam_catchup": {
+            "index": "10",
+            "tag": "Hot Sauce",
+            "rarity": "rare"
+        },
         "kc_missinglink_sam_diamond": {
             "index": "11",
             "tag": "Diamond Dog",
             "rarity": "legendary"
+        },
+        "kc_missinglink_sam_salty": {
+            "index": "12",
+            "tag": "Pinch O' Salt",
+            "rarity": "rare"
         },
         "kc_missinglink_sam_shape": {
             "index": "13",
             "tag": "Diner Dog",
             "rarity": "legendary"
         },
-        "kc_missinglink_howl": {
-            "index": "7",
-            "tag": "Hot Howl",
-            "rarity": "ancient"
+        "kc_missinglink_sam_toile": {
+            "index": "14",
+            "tag": "Lil' Teacup",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_sas": {
+            "index": "15",
+            "tag": "Lil' SAS",
+            "rarity": "rare"
         },
         "kc_missinglink_wurst": {
             "index": "16",
@@ -39549,25 +39544,25 @@
             "tag": "Baby's AK",
             "rarity": "rare"
         },
-        "kc_wpn_usp_yarn": {
-            "index": "32",
-            "tag": "Stitch-Loaded",
-            "rarity": "rare"
-        },
-        "kc_wpn_tec9_cap": {
-            "index": "27",
-            "tag": "Lil' Cap Gun",
-            "rarity": "rare"
+        "kc_wpn_ak_jelly": {
+            "index": "18",
+            "tag": "Die-cast AK",
+            "rarity": "mythical"
         },
         "kc_wpn_awp_plastic": {
             "index": "19",
             "tag": "Pocket AWP",
             "rarity": "rare"
         },
-        "kc_wpn_mac10_tile": {
-            "index": "26",
-            "tag": "Backsplash",
-            "rarity": "rare"
+        "kc_wpn_awp_spoon": {
+            "index": "20",
+            "tag": "Titeenium AWP",
+            "rarity": "legendary"
+        },
+        "kc_wpn_ctknife_gold": {
+            "index": "21",
+            "tag": "Baby Karat CT",
+            "rarity": "ancient"
         },
         "kc_wpn_ctknife_wood": {
             "index": "22",
@@ -39579,50 +39574,55 @@
             "tag": "POP Art",
             "rarity": "mythical"
         },
-        "kc_wpn_usp_jewel": {
-            "index": "31",
-            "tag": "Glamour Shot",
-            "rarity": "mythical"
-        },
-        "kc_wpn_ak_jelly": {
-            "index": "18",
-            "tag": "Die-cast AK",
-            "rarity": "mythical"
+        "kc_wpn_m4a1s_ss": {
+            "index": "24",
+            "tag": "Lil' Squirt",
+            "rarity": "legendary"
         },
         "kc_wpn_mac10_glitter": {
             "index": "25",
             "tag": "Disco MAC",
             "rarity": "mythical"
         },
+        "kc_wpn_mac10_tile": {
+            "index": "26",
+            "tag": "Backsplash",
+            "rarity": "rare"
+        },
+        "kc_wpn_tec9_cap": {
+            "index": "27",
+            "tag": "Lil' Cap Gun",
+            "rarity": "rare"
+        },
         "kc_wpn_tec9_magma": {
             "index": "28",
             "tag": "Hot Hands",
             "rarity": "mythical"
-        },
-        "kc_wpn_awp_spoon": {
-            "index": "20",
-            "tag": "Titeenium AWP",
-            "rarity": "legendary"
-        },
-        "kc_wpn_m4a1s_ss": {
-            "index": "24",
-            "tag": "Lil' Squirt",
-            "rarity": "legendary"
         },
         "kc_wpn_tknife_crystal": {
             "index": "29",
             "tag": "Semi-Precious",
             "rarity": "legendary"
         },
-        "kc_wpn_ctknife_gold": {
-            "index": "21",
-            "tag": "Baby Karat CT",
-            "rarity": "ancient"
-        },
         "kc_wpn_tknife_gold": {
             "index": "30",
             "tag": "Baby Karat T",
             "rarity": "ancient"
+        },
+        "kc_wpn_usp_jewel": {
+            "index": "31",
+            "tag": "Glamour Shot",
+            "rarity": "mythical"
+        },
+        "kc_wpn_usp_yarn": {
+            "index": "32",
+            "tag": "Stitch-Loaded",
+            "rarity": "rare"
+        },
+        "kc_missinglink_bigfoot": {
+            "index": "33",
+            "tag": "Lil' Squatch",
+            "rarity": "mythical"
         }
     }
 }
