@@ -23,9 +23,10 @@ class Items:
         self._data = self._parse()
 
         self._medals = {}
+        self._agents = {"ct": {}, "t": {}}
         self._items = self._get_items()
         self._paint_kits = self._get_paint_kits()
-        self._stickers = self._get_stickers()
+        self._sticker_kits = self._get_sticker_kits()
         self._keychains = self._get_keychains()
 
         self._loot = self._get_loot()
@@ -48,17 +49,35 @@ class Items:
             item_name = item_data["name"]
             items[item_name] = index
 
-            if not "item_name" in item_data:
-                continue
+            if "item_name" in item_data:
+                item_tag: str = item_data["item_name"]
+                if item_tag.startswith("#CSGO_Collectible"):
+                    medal = {
+                        "index": index,
+                        "tag": self._lang.get(item_tag),
+                    }
 
-            item_tag: str = item_data["item_name"]
-            if item_tag.startswith("#CSGO_Collectible"):
-                medal = {
-                    "index": index,
-                    "tag": self._lang.get(item_tag),
-                }
+                    self._medals[item_name] = medal
 
-                self._medals[item_name] = medal
+            if "prefab" in item_data:
+                prefab: str = item_data["prefab"]
+                if prefab == "customplayertradable":
+                    agent = {
+                        "index": index,
+                        "tag": self._lang.get(item_tag),
+                        "rarity": (
+                            item_data["item_rarity"]
+                            if "item_rarity" in item_data
+                            else "default"
+                        ),
+                    }
+
+                    agent_team = (
+                        "ct"
+                        if "counter-terrorists" in item_data["used_by_classes"]
+                        else "t"
+                    )
+                    self._agents[agent_team][item_name] = agent
 
         return items
 
@@ -92,7 +111,7 @@ class Items:
 
         return kits
 
-    def _get_stickers(self) -> dict:
+    def _get_sticker_kits(self) -> dict:
         data = self._data["items_game"]["sticker_kits"]
         stickers = {}
 
@@ -139,6 +158,7 @@ class Items:
         data = self._data["items_game"]["client_loot_lists"]
         loot_list = {
             "medals": self._medals,
+            "agents": self._agents,
             "skins": {},
             "stickers": {},
             "keychains": {},
@@ -168,7 +188,7 @@ class Items:
 
                     loot_list["skins"][item][kit] = self._paint_kits[kit]
                 elif item == "sticker":
-                    loot_list["stickers"][kit] = self._stickers[kit]
+                    loot_list["stickers"][kit] = self._sticker_kits[kit]
                 elif item == "keychain":
                     loot_list["keychains"][kit] = self._keychains[kit]
 

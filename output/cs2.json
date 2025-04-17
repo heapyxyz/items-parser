@@ -1753,6 +1753,327 @@
             "tag": "Quarterfinalist at Perfect World Shanghai 2024"
         }
     },
+    "agents": {
+        "ct": {
+            "customplayer_ctm_fbi_variantf": {
+                "index": "5305",
+                "tag": "Operator | FBI SWAT",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_fbi_variantg": {
+                "index": "5306",
+                "tag": "Markus Delrow | FBI HRT",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_fbi_varianth": {
+                "index": "5307",
+                "tag": "Michael Syfers  | FBI Sniper",
+                "rarity": "legendary"
+            },
+            "customplayer_ctm_fbi_variantb": {
+                "index": "5308",
+                "tag": "Special Agent Ava | FBI",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_st6_variantk": {
+                "index": "5400",
+                "tag": "3rd Commando Company | KSK",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_st6_variante": {
+                "index": "5401",
+                "tag": "Seal Team 6 Soldier | NSWC SEAL",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_st6_variantg": {
+                "index": "5402",
+                "tag": "Buckshot | NSWC SEAL",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_st6_variantm": {
+                "index": "5403",
+                "tag": "'Two Times' McCoy | USAF TACP",
+                "rarity": "legendary"
+            },
+            "customplayer_ctm_st6_varianti": {
+                "index": "5404",
+                "tag": "Lt. Commander Ricksaw | NSWC SEAL",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_st6_variantj": {
+                "index": "4619",
+                "tag": "'Blueberries' Buckshot | NSWC SEAL",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_st6_variantl": {
+                "index": "4680",
+                "tag": "'Two Times' McCoy | TACP Cavalry",
+                "rarity": "legendary"
+            },
+            "customplayer_ctm_st6_variantn": {
+                "index": "5405",
+                "tag": "Primeiro Tenente | Brazilian 1st Battalion",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_sas_variantf": {
+                "index": "5601",
+                "tag": "B Squadron Officer | SAS",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_sas_variantg": {
+                "index": "5602",
+                "tag": "D Squadron Officer | NZSAS",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_swat_variante": {
+                "index": "4711",
+                "tag": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_swat_variantf": {
+                "index": "4712",
+                "tag": "1st Lieutenant Farlow | SWAT",
+                "rarity": "legendary"
+            },
+            "customplayer_ctm_swat_variantg": {
+                "index": "4713",
+                "tag": "John 'Van Healen' Kask | SWAT",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_swat_varianth": {
+                "index": "4714",
+                "tag": "Bio-Haz Specialist | SWAT",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_swat_varianti": {
+                "index": "4715",
+                "tag": "Sergeant Bombson | SWAT",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_swat_variantj": {
+                "index": "4716",
+                "tag": "Chem-Haz Specialist | SWAT",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_swat_variantk": {
+                "index": "4756",
+                "tag": "Lieutenant 'Tree Hugger' Farlow | SWAT",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_gendarmerie_varianta": {
+                "index": "4749",
+                "tag": "Sous-Lieutenant Medic | Gendarmerie Nationale",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_gendarmerie_variantb": {
+                "index": "4750",
+                "tag": "Chem-Haz Capitaine | Gendarmerie Nationale",
+                "rarity": "legendary"
+            },
+            "customplayer_ctm_gendarmerie_variantc": {
+                "index": "4751",
+                "tag": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_gendarmerie_variantd": {
+                "index": "4752",
+                "tag": "Aspirant | Gendarmerie Nationale",
+                "rarity": "rare"
+            },
+            "customplayer_ctm_gendarmerie_variante": {
+                "index": "4753",
+                "tag": "Officer Jacques Beltram | Gendarmerie Nationale",
+                "rarity": "mythical"
+            },
+            "customplayer_ctm_diver_varianta": {
+                "index": "4757",
+                "tag": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_diver_variantb": {
+                "index": "4771",
+                "tag": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+                "rarity": "ancient"
+            },
+            "customplayer_ctm_diver_variantc": {
+                "index": "4772",
+                "tag": "Lieutenant Rex Krikey | SEAL Frogman",
+                "rarity": "legendary"
+            }
+        },
+        "t": {
+            "customplayer_tm_leet_variantg": {
+                "index": "5105",
+                "tag": "Ground Rebel  | Elite Crew",
+                "rarity": "rare"
+            },
+            "customplayer_tm_leet_varianth": {
+                "index": "5106",
+                "tag": "Osiris | Elite Crew",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_leet_varianti": {
+                "index": "5107",
+                "tag": "Prof. Shahmat | Elite Crew",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_leet_variantf": {
+                "index": "5108",
+                "tag": "The Elite Mr. Muhlik | Elite Crew",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_leet_variantj": {
+                "index": "5109",
+                "tag": "Jungle Rebel | Elite Crew",
+                "rarity": "rare"
+            },
+            "customplayer_tm_phoenix_varianth": {
+                "index": "5205",
+                "tag": "Soldier | Phoenix",
+                "rarity": "rare"
+            },
+            "customplayer_tm_phoenix_variantf": {
+                "index": "5206",
+                "tag": "Enforcer | Phoenix",
+                "rarity": "rare"
+            },
+            "customplayer_tm_phoenix_variantg": {
+                "index": "5207",
+                "tag": "Slingshot | Phoenix",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_phoenix_varianti": {
+                "index": "5208",
+                "tag": "Street Soldier | Phoenix",
+                "rarity": "rare"
+            },
+            "customplayer_tm_balkan_variantf": {
+                "index": "5500",
+                "tag": "Dragomir | Sabre",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_balkan_varianti": {
+                "index": "5501",
+                "tag": "Maximus | Sabre",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_balkan_variantg": {
+                "index": "5502",
+                "tag": "Rezan The Ready | Sabre",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_balkan_variantj": {
+                "index": "5503",
+                "tag": "Blackwolf | Sabre",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_balkan_varianth": {
+                "index": "5504",
+                "tag": "'The Doctor' Romanov | Sabre",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_balkan_variantk": {
+                "index": "4718",
+                "tag": "Rezan the Redshirt | Sabre",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_balkan_variantl": {
+                "index": "5505",
+                "tag": "Dragomir | Sabre Footsoldier",
+                "rarity": "rare"
+            },
+            "customplayer_tm_professional_varf": {
+                "index": "4726",
+                "tag": "Sir Bloody Miami Darryl | The Professionals",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_professional_varf1": {
+                "index": "4733",
+                "tag": "Sir Bloody Silent Darryl | The Professionals",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_professional_varf2": {
+                "index": "4734",
+                "tag": "Sir Bloody Skullhead Darryl | The Professionals",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_professional_varf3": {
+                "index": "4735",
+                "tag": "Sir Bloody Darryl Royale | The Professionals",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_professional_varf4": {
+                "index": "4736",
+                "tag": "Sir Bloody Loudmouth Darryl | The Professionals",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_professional_varg": {
+                "index": "4727",
+                "tag": "Safecracker Voltzmann | The Professionals",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_professional_varh": {
+                "index": "4728",
+                "tag": "Little Kev | The Professionals",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_professional_vari": {
+                "index": "4732",
+                "tag": "Number K | The Professionals",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_professional_varj": {
+                "index": "4730",
+                "tag": "Getaway Sally | The Professionals",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_professional_varf5": {
+                "index": "4613",
+                "tag": "Bloody Darryl The Strapped | The Professionals",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_jungle_raider_varianta": {
+                "index": "4773",
+                "tag": "Elite Trapper Solman | Guerrilla Warfare",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_jungle_raider_variantb": {
+                "index": "4774",
+                "tag": "Crasswater The Forgotten | Guerrilla Warfare",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_jungle_raider_variantc": {
+                "index": "4775",
+                "tag": "Arno The Overgrown | Guerrilla Warfare",
+                "rarity": "legendary"
+            },
+            "customplayer_tm_jungle_raider_variantd": {
+                "index": "4776",
+                "tag": "Col. Mangos Dabisi | Guerrilla Warfare",
+                "rarity": "mythical"
+            },
+            "customplayer_tm_jungle_raider_variante": {
+                "index": "4777",
+                "tag": "Vypa Sista of the Revolution | Guerrilla Warfare",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_jungle_raider_variantf": {
+                "index": "4778",
+                "tag": "Trapper Aggressor | Guerrilla Warfare",
+                "rarity": "rare"
+            },
+            "customplayer_tm_jungle_raider_variantb2": {
+                "index": "4780",
+                "tag": "'Medium Rare' Crasswater | Guerrilla Warfare",
+                "rarity": "ancient"
+            },
+            "customplayer_tm_jungle_raider_variantf2": {
+                "index": "4781",
+                "tag": "Trapper | Guerrilla Warfare",
+                "rarity": "mythical"
+            }
+        }
+    },
     "skins": {
         "weapon_bizon": {
             "hy_blueprint_white": {
