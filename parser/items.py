@@ -161,6 +161,7 @@ class Items:
             "agents": self._agents,
             "skins": {},
             "stickers": {},
+            "patches": {},
             "keychains": {},
         }
 
@@ -189,6 +190,8 @@ class Items:
                     loot_list["skins"][item][kit] = self._paint_kits[kit]
                 elif item == "sticker":
                     loot_list["stickers"][kit] = self._sticker_kits[kit]
+                elif item == "patch":
+                    loot_list["patches"][kit] = self._sticker_kits[kit]
                 elif item == "keychain":
                     loot_list["keychains"][kit] = self._keychains[kit]
 

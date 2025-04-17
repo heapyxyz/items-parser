@@ -38606,6 +38606,568 @@
             "rarity": "ancient"
         }
     },
+    "patches": {
+        "patch_payback": {
+            "index": "4567",
+            "tag": "Payback",
+            "rarity": "rare"
+        },
+        "patch_bravo": {
+            "index": "4563",
+            "tag": "Bravo",
+            "rarity": "rare"
+        },
+        "patch_phoenix": {
+            "index": "4568",
+            "tag": "Phoenix",
+            "rarity": "rare"
+        },
+        "patch_breakout": {
+            "index": "4564",
+            "tag": "Breakout",
+            "rarity": "rare"
+        },
+        "patch_vanguard": {
+            "index": "4570",
+            "tag": "Vanguard",
+            "rarity": "rare"
+        },
+        "patch_bloodhound": {
+            "index": "4562",
+            "tag": "Bloodhound",
+            "rarity": "rare"
+        },
+        "patch_wildfire": {
+            "index": "4560",
+            "tag": "Wildfire",
+            "rarity": "rare"
+        },
+        "patch_hydra": {
+            "index": "4566",
+            "tag": "Hydra",
+            "rarity": "rare"
+        },
+        "patch_shatteredweb": {
+            "index": "4569",
+            "tag": "Shattered Web",
+            "rarity": "rare"
+        },
+        "patch_dangerzone": {
+            "index": "4565",
+            "tag": "Danger Zone",
+            "rarity": "mythical"
+        },
+        "patch_easypeasy": {
+            "index": "4555",
+            "tag": "Easy Peasy",
+            "rarity": "mythical"
+        },
+        "patch_chickenlover": {
+            "index": "4552",
+            "tag": "Chicken Lover",
+            "rarity": "mythical"
+        },
+        "patch_banana": {
+            "index": "4550",
+            "tag": "Crazy Banana",
+            "rarity": "mythical"
+        },
+        "patch_clutch": {
+            "index": "4553",
+            "tag": "Welcome to the Clutch",
+            "rarity": "mythical"
+        },
+        "patch_koi": {
+            "index": "4558",
+            "tag": "Koi",
+            "rarity": "mythical"
+        },
+        "patch_longevity": {
+            "index": "4559",
+            "tag": "Longevity",
+            "rarity": "mythical"
+        },
+        "patch_vigilance": {
+            "index": "4561",
+            "tag": "Vigilance",
+            "rarity": "mythical"
+        },
+        "patch_fury": {
+            "index": "4556",
+            "tag": "Rage",
+            "rarity": "legendary"
+        },
+        "patch_dragon": {
+            "index": "4554",
+            "tag": "Dragon",
+            "rarity": "legendary"
+        },
+        "patch_boss": {
+            "index": "4551",
+            "tag": "The Boss",
+            "rarity": "legendary"
+        },
+        "patch_howl": {
+            "index": "4557",
+            "tag": "Howl",
+            "rarity": "legendary"
+        },
+        "patch_globalelite": {
+            "index": "4583",
+            "tag": "Metal The Global Elite \u2605",
+            "rarity": "legendary"
+        },
+        "patch_silver_demon": {
+            "index": "4587",
+            "tag": "Metal Silver Demon",
+            "rarity": "legendary"
+        },
+        "patch_goldnova4": {
+            "index": "4700",
+            "tag": "Metal Gold Nova",
+            "rarity": "mythical"
+        },
+        "patch_masterguardian3": {
+            "index": "4699",
+            "tag": "Metal Master Guardian",
+            "rarity": "mythical"
+        },
+        "patch_legendaryeaglemaster": {
+            "index": "4581",
+            "tag": "Metal Legendary Eagle Master \u2605",
+            "rarity": "mythical"
+        },
+        "patch_dmg": {
+            "index": "4579",
+            "tag": "Metal Distinguished Master Guardian \u2605",
+            "rarity": "mythical"
+        },
+        "patch_supreme": {
+            "index": "4582",
+            "tag": "Metal Supreme Master First Class",
+            "rarity": "mythical"
+        },
+        "patch_silver": {
+            "index": "4571",
+            "tag": "Metal Silver",
+            "rarity": "rare"
+        },
+        "patch_goldnova1": {
+            "index": "4572",
+            "tag": "Metal Gold Nova I",
+            "rarity": "rare"
+        },
+        "patch_goldnovamaster": {
+            "index": "4575",
+            "tag": "Metal Gold Nova Master",
+            "rarity": "rare"
+        },
+        "patch_masterguardian1": {
+            "index": "4576",
+            "tag": "Metal Master Guardian I",
+            "rarity": "rare"
+        },
+        "patch_masterguardianelite": {
+            "index": "4578",
+            "tag": "Metal Master Guardian Elite",
+            "rarity": "rare"
+        },
+        "patch_dmg2": {
+            "index": "4584",
+            "tag": "Metal Distinguished Master Guardian",
+            "rarity": "rare"
+        },
+        "patch_legendaryeagle2": {
+            "index": "4585",
+            "tag": "Metal Legendary Eagle",
+            "rarity": "rare"
+        },
+        "patch_legendaryeaglemaster2": {
+            "index": "4586",
+            "tag": "Metal Legendary Eagle Master",
+            "rarity": "rare"
+        },
+        "patch_suprememaster": {
+            "index": "4588",
+            "tag": "Metal Supreme Master",
+            "rarity": "rare"
+        },
+        "patch_globalelite2": {
+            "index": "4697",
+            "tag": "Metal The Global Elite",
+            "rarity": "rare"
+        },
+        "patch_op11_abandon_hope": {
+            "index": "4937",
+            "tag": "Abandon Hope",
+            "rarity": "rare"
+        },
+        "patch_op11_anchor": {
+            "index": "4938",
+            "tag": "Anchors Aweigh",
+            "rarity": "rare"
+        },
+        "patch_op11_cruising": {
+            "index": "4939",
+            "tag": "Cruising Ray",
+            "rarity": "rare"
+        },
+        "patch_op11_mad_sushi": {
+            "index": "4941",
+            "tag": "Mad Sushi",
+            "rarity": "rare"
+        },
+        "patch_op11_pink_squid": {
+            "index": "4942",
+            "tag": "Giant Squid",
+            "rarity": "rare"
+        },
+        "patch_op11_piranha": {
+            "index": "4943",
+            "tag": "El Pirata",
+            "rarity": "rare"
+        },
+        "patch_op11_siren": {
+            "index": "4944",
+            "tag": "Death From Below",
+            "rarity": "mythical"
+        },
+        "patch_op11_skull_crossswords": {
+            "index": "4945",
+            "tag": "Dead Men",
+            "rarity": "mythical"
+        },
+        "patch_op11_meal_time": {
+            "index": "4949",
+            "tag": "Meal Time",
+            "rarity": "mythical"
+        },
+        "patch_op11_sunset_wave": {
+            "index": "4946",
+            "tag": "Sunset Wave",
+            "rarity": "mythical"
+        },
+        "patch_op11_cthulhu": {
+            "index": "4948",
+            "tag": "Elder God",
+            "rarity": "legendary"
+        },
+        "patch_op11_frog_skeleton": {
+            "index": "4940",
+            "tag": "Bayonet Frog",
+            "rarity": "legendary"
+        },
+        "patch_op11_fish_go": {
+            "index": "4947",
+            "tag": "Aquatic Offensive",
+            "rarity": "legendary"
+        },
+        "patch_hlalyx_combine_front": {
+            "index": "4596",
+            "tag": "Combine Helmet",
+            "rarity": "rare"
+        },
+        "patch_hlalyx_headcrab_teal": {
+            "index": "4593",
+            "tag": "Headcrab Glyph",
+            "rarity": "rare"
+        },
+        "patch_hlalyx_vort": {
+            "index": "4592",
+            "tag": "Vortigaunt",
+            "rarity": "rare"
+        },
+        "patch_hlalyx_cmb": {
+            "index": "4598",
+            "tag": "CMB",
+            "rarity": "rare"
+        },
+        "patch_hlalyx_c17": {
+            "index": "4600",
+            "tag": "City 17",
+            "rarity": "rare"
+        },
+        "patch_hlalyx_lambda_orange": {
+            "index": "4599",
+            "tag": "Lambda",
+            "rarity": "mythical"
+        },
+        "patch_hlalyx_blackmesa": {
+            "index": "4597",
+            "tag": "Black Mesa",
+            "rarity": "mythical"
+        },
+        "patch_hlalyx_headcrab_green": {
+            "index": "4591",
+            "tag": "Sustenance!",
+            "rarity": "mythical"
+        },
+        "patch_hlalyx_lambda_copper": {
+            "index": "4594",
+            "tag": "Copper Lambda",
+            "rarity": "legendary"
+        },
+        "patch_hlalyx_alyx": {
+            "index": "4589",
+            "tag": "Alyx",
+            "rarity": "legendary"
+        },
+        "patch_hlalyx_hearts": {
+            "index": "4595",
+            "tag": "Health",
+            "rarity": "legendary"
+        },
+        "stockh2021_teampatch_nip": {
+            "index": "5079",
+            "tag": "Ninjas in Pyjamas | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_furi": {
+            "index": "5081",
+            "tag": "FURIA | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_navi": {
+            "index": "5083",
+            "tag": "Natus Vincere | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_vita": {
+            "index": "5085",
+            "tag": "Vitality | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_liq": {
+            "index": "5087",
+            "tag": "Team Liquid | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_gamb": {
+            "index": "5089",
+            "tag": "Gambit Gaming | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_g2": {
+            "index": "5091",
+            "tag": "G2 Esports | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_evl": {
+            "index": "5093",
+            "tag": "Evil Geniuses | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_pgl": {
+            "index": "5127",
+            "tag": "PGL | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_nip_gold": {
+            "index": "5080",
+            "tag": "Ninjas in Pyjamas (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_furi_gold": {
+            "index": "5082",
+            "tag": "FURIA (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_navi_gold": {
+            "index": "5084",
+            "tag": "Natus Vincere (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_vita_gold": {
+            "index": "5086",
+            "tag": "Vitality (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_liq_gold": {
+            "index": "5088",
+            "tag": "Team Liquid (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_gamb_gold": {
+            "index": "5090",
+            "tag": "Gambit Gaming (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_g2_gold": {
+            "index": "5092",
+            "tag": "G2 Esports (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_evl_gold": {
+            "index": "5094",
+            "tag": "Evil Geniuses (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_pgl_gold": {
+            "index": "5128",
+            "tag": "PGL (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_spir": {
+            "index": "5095",
+            "tag": "Team Spirit | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_astr": {
+            "index": "5097",
+            "tag": "Astralis | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_pain": {
+            "index": "5099",
+            "tag": "paiN Gaming | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_ence": {
+            "index": "5101",
+            "tag": "ENCE | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_big": {
+            "index": "5103",
+            "tag": "BIG | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_ride": {
+            "index": "5105",
+            "tag": "Movistar Riders | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_hero": {
+            "index": "5107",
+            "tag": "Heroic | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_mouz": {
+            "index": "5109",
+            "tag": "MOUZ | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_spir_gold": {
+            "index": "5096",
+            "tag": "Team Spirit (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_astr_gold": {
+            "index": "5098",
+            "tag": "Astralis (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_pain_gold": {
+            "index": "5100",
+            "tag": "paiN Gaming (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_ence_gold": {
+            "index": "5102",
+            "tag": "ENCE (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_big_gold": {
+            "index": "5104",
+            "tag": "BIG (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_ride_gold": {
+            "index": "5106",
+            "tag": "Movistar Riders (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_hero_gold": {
+            "index": "5108",
+            "tag": "Heroic (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_mouz_gold": {
+            "index": "5110",
+            "tag": "MOUZ (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_shrk": {
+            "index": "5111",
+            "tag": "Sharks Esports | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_tyl": {
+            "index": "5113",
+            "tag": "Tyloo | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_ren": {
+            "index": "5115",
+            "tag": "Renegades | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_ent": {
+            "index": "5117",
+            "tag": "Entropiq | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_god": {
+            "index": "5119",
+            "tag": "GODSENT | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_vp": {
+            "index": "5121",
+            "tag": "Virtus.Pro | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_cope": {
+            "index": "5123",
+            "tag": "Copenhagen Flames | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_faze": {
+            "index": "5125",
+            "tag": "FaZe Clan | Stockholm 2021",
+            "rarity": "rare"
+        },
+        "stockh2021_teampatch_shrk_gold": {
+            "index": "5112",
+            "tag": "Sharks Esports (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_tyl_gold": {
+            "index": "5114",
+            "tag": "Tyloo (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_ren_gold": {
+            "index": "5116",
+            "tag": "Renegades (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_ent_gold": {
+            "index": "5118",
+            "tag": "Entropiq (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_god_gold": {
+            "index": "5120",
+            "tag": "GODSENT (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_vp_gold": {
+            "index": "5122",
+            "tag": "Virtus.Pro (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_cope_gold": {
+            "index": "5124",
+            "tag": "Copenhagen Flames (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        },
+        "stockh2021_teampatch_faze_gold": {
+            "index": "5126",
+            "tag": "FaZe Clan (Gold) | Stockholm 2021",
+            "rarity": "mythical"
+        }
+    },
     "keychains": {
         "kc_missinglink_ava": {
             "index": "1",
