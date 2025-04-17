@@ -3,9 +3,9 @@ import os, vdf
 
 class Lang:
     def __init__(self, prefix: str):
-        print(f"Loading {prefix.upper()} language file...")
+        print(f"Parsing {prefix.upper()} language file...")
 
-        self._file = os.getcwd() + "/lang/" + prefix + "_lang.txt"
+        self._file = os.getcwd() + f"/lang/{prefix}_lang.txt"
         self._data = self._parse()
 
     def _parse(self):
@@ -19,7 +19,7 @@ class Lang:
         data = self._data["lang"]["Tokens"]
 
         for data_key, data_value in data.items():
-            if data_key.lower() == key.lower():
+            if str(data_key).lower() == key.lower():
                 return data_value
 
         return None
