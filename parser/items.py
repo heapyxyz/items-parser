@@ -24,6 +24,7 @@ class Items:
 
         self._medals = {}
         self._agents = {"ct": {}, "t": {}}
+        self._gloves = {}
         self._items = self._get_items()
         self._paint_kits = self._get_paint_kits()
         self._sticker_kits = self._get_sticker_kits()
@@ -93,21 +94,34 @@ class Items:
             if not "description_string" in kit_data:
                 continue
 
-            paint_kit = {
-                "index": index,
-                "tag": self._lang.get(kit_data["description_tag"]),
-                "lowest_float": float(
-                    kit_data["wear_remap_min"] if "wear_remap_min" in kit_data else 0.0
-                ),
-                "highest_float": float(
-                    kit_data["wear_remap_max"] if "wear_remap_max" in kit_data else 1.0
-                ),
-                "rarity": (
-                    rarity_data[kit_name] if kit_name in rarity_data else "default"
-                ),
-            }
+            if "vmt_path" in kit_data:
+                # Not happy with how it works, will group by glove types later (Bloodhound, Specialist, etc.)
+                paint_kit = {
+                    "index": index,
+                    "tag": self._lang.get(kit_data["description_tag"]),
+                }
 
-            kits[kit_name] = paint_kit
+                self._gloves[kit_name] = paint_kit
+            else:
+                paint_kit = {
+                    "index": index,
+                    "tag": self._lang.get(kit_data["description_tag"]),
+                    "lowest_float": float(
+                        kit_data["wear_remap_min"]
+                        if "wear_remap_min" in kit_data
+                        else 0.0
+                    ),
+                    "highest_float": float(
+                        kit_data["wear_remap_max"]
+                        if "wear_remap_max" in kit_data
+                        else 1.0
+                    ),
+                    "rarity": (
+                        rarity_data[kit_name] if kit_name in rarity_data else "default"
+                    ),
+                }
+
+                kits[kit_name] = paint_kit
 
         return kits
 
@@ -159,6 +173,7 @@ class Items:
         loot_list = {
             "medals": self._medals,
             "agents": self._agents,
+            "gloves": self._gloves,
             "skins": {},
             "stickers": {},
             "patches": {},
@@ -178,21 +193,21 @@ class Items:
                     continue
 
                 kit: str = loot_split[0]
-                item: str = loot_split[1]
+                type: str = loot_split[1]
 
-                if not item in self._items:
+                if not type in self._items:
                     continue
 
-                if item.startswith("weapon_"):
-                    if not item in loot_list["skins"]:
-                        loot_list["skins"][item] = {}
+                if type.startswith("weapon_"):
+                    if not type in loot_list["skins"]:
+                        loot_list["skins"][type] = {}
 
-                    loot_list["skins"][item][kit] = self._paint_kits[kit]
-                elif item == "sticker":
+                    loot_list["skins"][type][kit] = self._paint_kits[kit]
+                elif type == "sticker":
                     loot_list["stickers"][kit] = self._sticker_kits[kit]
-                elif item == "patch":
+                elif type == "patch":
                     loot_list["patches"][kit] = self._sticker_kits[kit]
-                elif item == "keychain":
+                elif type == "keychain":
                     loot_list["keychains"][kit] = self._keychains[kit]
 
         return loot_list

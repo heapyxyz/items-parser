@@ -1810,6 +1810,296 @@
             }
         }
     },
+    "gloves": {
+        "bloodhound_black_silver": {
+            "index": "10006",
+            "tag": "Charred"
+        },
+        "bloodhound_snakeskin_brass": {
+            "index": "10007",
+            "tag": "Snakebite"
+        },
+        "bloodhound_metallic": {
+            "index": "10008",
+            "tag": "Bronzed"
+        },
+        "handwrap_leathery": {
+            "index": "10009",
+            "tag": "Leather"
+        },
+        "handwrap_camo_grey": {
+            "index": "10010",
+            "tag": "Spruce DDPAT"
+        },
+        "slick_black": {
+            "index": "10013",
+            "tag": "Lunar Weave"
+        },
+        "slick_military": {
+            "index": "10015",
+            "tag": "Convoy"
+        },
+        "slick_red": {
+            "index": "10016",
+            "tag": "Crimson Weave"
+        },
+        "sporty_light_blue": {
+            "index": "10018",
+            "tag": "Superconductor"
+        },
+        "sporty_military": {
+            "index": "10019",
+            "tag": "Arid"
+        },
+        "handwrap_red_slaughter": {
+            "index": "10021",
+            "tag": "Slaughter"
+        },
+        "motorcycle_basic_black": {
+            "index": "10024",
+            "tag": "Eclipse"
+        },
+        "motorcycle_mint_triangle": {
+            "index": "10026",
+            "tag": "Spearmint"
+        },
+        "motorcycle_mono_boom": {
+            "index": "10027",
+            "tag": "Boom!"
+        },
+        "motorcycle_triangle_blue": {
+            "index": "10028",
+            "tag": "Cool Mint"
+        },
+        "specialist_ddpat_green_camo": {
+            "index": "10030",
+            "tag": "Forest DDPAT"
+        },
+        "specialist_kimono_diamonds_red": {
+            "index": "10033",
+            "tag": "Crimson Kimono"
+        },
+        "specialist_emerald_web": {
+            "index": "10034",
+            "tag": "Emerald Web"
+        },
+        "specialist_orange_white": {
+            "index": "10035",
+            "tag": "Foundation"
+        },
+        "handwrap_fabric_orange_camo": {
+            "index": "10036",
+            "tag": "Badlands"
+        },
+        "sporty_purple": {
+            "index": "10037",
+            "tag": "Pandora's Box"
+        },
+        "sporty_green": {
+            "index": "10038",
+            "tag": "Hedge Maze"
+        },
+        "bloodhound_guerrilla": {
+            "index": "10039",
+            "tag": "Guerrilla"
+        },
+        "slick_snakeskin_yellow": {
+            "index": "10040",
+            "tag": "Diamondback"
+        },
+        "slick_snakeskin_white": {
+            "index": "10041",
+            "tag": "King Snake"
+        },
+        "slick_plaid_purple": {
+            "index": "10042",
+            "tag": "Imperial Plaid"
+        },
+        "slick_stitched_black_orange": {
+            "index": "10043",
+            "tag": "Overtake"
+        },
+        "slick_stitched_green_grey": {
+            "index": "10044",
+            "tag": "Racing Green"
+        },
+        "sporty_poison_frog_blue_white": {
+            "index": "10045",
+            "tag": "Amphibious"
+        },
+        "sporty_poison_frog_red_green": {
+            "index": "10046",
+            "tag": "Bronze Morph"
+        },
+        "sporty_black_webbing_yellow": {
+            "index": "10047",
+            "tag": "Omega"
+        },
+        "sporty_blue_pink": {
+            "index": "10048",
+            "tag": "Vice"
+        },
+        "motorcycle_choco_boom": {
+            "index": "10049",
+            "tag": "POW!"
+        },
+        "motorcycle_basic_green_orange": {
+            "index": "10050",
+            "tag": "Turtle"
+        },
+        "motorcycle_yellow_camo": {
+            "index": "10051",
+            "tag": "Transport"
+        },
+        "motorcycle_trigrid_blue": {
+            "index": "10052",
+            "tag": "Polygon"
+        },
+        "handwrap_leathery_fabric_blue_skulls": {
+            "index": "10053",
+            "tag": "Cobalt Skulls"
+        },
+        "handwrap_leathery_fabric_geometric_blue": {
+            "index": "10054",
+            "tag": "Overprint"
+        },
+        "handwrap_leathery_ducttape": {
+            "index": "10055",
+            "tag": "Duct Tape"
+        },
+        "handwrap_leathery_fabric_green_camo": {
+            "index": "10056",
+            "tag": "Arboreal"
+        },
+        "bloodhound_hydra_black_green": {
+            "index": "10057",
+            "tag": "Emerald"
+        },
+        "bloodhound_hydra_green_leather_mesh_brass": {
+            "index": "10058",
+            "tag": "Mangrove"
+        },
+        "bloodhound_hydra_snakeskin_brass": {
+            "index": "10059",
+            "tag": "Rattler"
+        },
+        "bloodhound_hydra_case_hardened": {
+            "index": "10060",
+            "tag": "Case Hardened"
+        },
+        "specialist_webs_red": {
+            "index": "10061",
+            "tag": "Crimson Web"
+        },
+        "specialist_forest_brown": {
+            "index": "10062",
+            "tag": "Buckshot"
+        },
+        "specialist_fade": {
+            "index": "10063",
+            "tag": "Fade"
+        },
+        "specialist_winterhex": {
+            "index": "10064",
+            "tag": "Mogul"
+        },
+        "specialist_marble_fade": {
+            "index": "10065",
+            "tag": "Marble Fade"
+        },
+        "specialist_ricksaw_camo": {
+            "index": "10066",
+            "tag": "Lt. Commander"
+        },
+        "specialist_tiger_orange": {
+            "index": "10067",
+            "tag": "Tiger Strike"
+        },
+        "specialist_fbi": {
+            "index": "10068",
+            "tag": "Field Agent"
+        },
+        "slick_rezan": {
+            "index": "10069",
+            "tag": "Rezan the Red"
+        },
+        "slick_jaguar_white": {
+            "index": "10070",
+            "tag": "Snow Leopard"
+        },
+        "slick_jaguar_yellow": {
+            "index": "10071",
+            "tag": "Queen Jaguar"
+        },
+        "slick_stitched_black_white": {
+            "index": "10072",
+            "tag": "Black Tie"
+        },
+        "sporty_slingshot": {
+            "index": "10073",
+            "tag": "Slingshot"
+        },
+        "sporty_hunter": {
+            "index": "10074",
+            "tag": "Big Game"
+        },
+        "sporty_houndstooth_red": {
+            "index": "10075",
+            "tag": "Scarlet Shamagh"
+        },
+        "sporty_jaguar": {
+            "index": "10076",
+            "tag": "Nocts"
+        },
+        "motorcycle_checker_flag_blue_green": {
+            "index": "10077",
+            "tag": "Finish Line"
+        },
+        "motorcycle_smoke": {
+            "index": "10078",
+            "tag": "Smoke Out"
+        },
+        "motorcycle_carbonfiber_red": {
+            "index": "10079",
+            "tag": "Blood Pressure"
+        },
+        "motorcycle_commando_ksk": {
+            "index": "10080",
+            "tag": "3rd Commando Company"
+        },
+        "handwrap_fabric_houndstooth_orange": {
+            "index": "10081",
+            "tag": "Desert Shamagh"
+        },
+        "handwrap_leathery_fabric_giraffe": {
+            "index": "10082",
+            "tag": "Giraffe"
+        },
+        "handwrap_leathery_snakeskin_orange": {
+            "index": "10083",
+            "tag": "Constrictor"
+        },
+        "handwrap_leathery_caution": {
+            "index": "10084",
+            "tag": "CAUTION!"
+        },
+        "operation10_metalic_green": {
+            "index": "10085",
+            "tag": "Jade"
+        },
+        "operation10_poison_frog_black_yellow": {
+            "index": "10086",
+            "tag": "Yellow-banded"
+        },
+        "operation10_floral": {
+            "index": "10087",
+            "tag": "Needle Point"
+        },
+        "operation10_snakeskin_black": {
+            "index": "10088",
+            "tag": "Unhinged"
+        }
+    },
     "skins": {
         "weapon_bizon": {
             "hy_blueprint_white": {
