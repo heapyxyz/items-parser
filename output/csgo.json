@@ -1,4 +1,1494 @@
 {
+    "medals": {
+        "Five Year Service Coin": {
+            "index": "874",
+            "tag": "5 Year Veteran Coin"
+        },
+        "DreamHack SteelSeries 2013 CS:GO Champion": {
+            "index": "875",
+            "tag": "Champion at DreamHack 2013"
+        },
+        "DreamHack SteelSeries 2013 CS:GO Finalist": {
+            "index": "876",
+            "tag": "Finalist at DreamHack 2013"
+        },
+        "DreamHack SteelSeries 2013 CS:GO Semifinalist": {
+            "index": "877",
+            "tag": "Semifinalist at DreamHack 2013"
+        },
+        "DreamHack SteelSeries 2013 CS:GO Quarterfinalist": {
+            "index": "878",
+            "tag": "Quarterfinalist at DreamHack 2013"
+        },
+        "EMS One Katowice 2014 CS:GO Champion": {
+            "index": "879",
+            "tag": "Champion at EMS One Katowice 2014"
+        },
+        "EMS One Katowice 2014 CS:GO Finalist": {
+            "index": "880",
+            "tag": "Finalist at EMS One Katowice 2014"
+        },
+        "EMS One Katowice 2014 CS:GO Semifinalist": {
+            "index": "881",
+            "tag": "Semifinalist at EMS One Katowice 2014"
+        },
+        "EMS One Katowice 2014 CS:GO Quarterfinalist": {
+            "index": "882",
+            "tag": "Quarterfinalist at EMS One Katowice 2014"
+        },
+        "ESL One Cologne 2014 CS:GO Champion": {
+            "index": "883",
+            "tag": "Champion at ESL One Cologne 2014"
+        },
+        "ESL One Cologne 2014 CS:GO Finalist": {
+            "index": "884",
+            "tag": "Finalist at ESL One Cologne 2014"
+        },
+        "ESL One Cologne 2014 CS:GO Semifinalist": {
+            "index": "885",
+            "tag": "Semifinalist at ESL One Cologne 2014"
+        },
+        "ESL One Cologne 2014 CS:GO Quarterfinalist": {
+            "index": "886",
+            "tag": "Quarterfinalist at ESL One Cologne 2014"
+        },
+        "ESL One Cologne 2014 Pick 'Em Challenge Bronze": {
+            "index": "887",
+            "tag": "Bronze Cologne 2014 Pick'Em Trophy"
+        },
+        "ESL One Cologne 2014 Pick 'Em Challenge Silver": {
+            "index": "888",
+            "tag": "Silver Cologne 2014 Pick'Em Trophy"
+        },
+        "ESL One Cologne 2014 Pick 'Em Challenge Gold": {
+            "index": "889",
+            "tag": "Gold Cologne 2014 Pick'Em Trophy"
+        },
+        "DreamHack Winter 2014 CS:GO Champion": {
+            "index": "890",
+            "tag": "Champion at DreamHack Winter 2014"
+        },
+        "DreamHack Winter 2014 CS:GO Finalist": {
+            "index": "891",
+            "tag": "Finalist at DreamHack Winter 2014"
+        },
+        "DreamHack Winter 2014 CS:GO Semifinalist": {
+            "index": "892",
+            "tag": "Semifinalist at DreamHack Winter 2014"
+        },
+        "DreamHack Winter 2014 CS:GO Quarterfinalist": {
+            "index": "893",
+            "tag": "Quarterfinalist at DreamHack Winter 2014"
+        },
+        "DreamHack Winter 2014 Pick 'Em Challenge Bronze": {
+            "index": "894",
+            "tag": "Bronze DreamHack 2014 Pick'Em Trophy"
+        },
+        "DreamHack Winter 2014 Pick 'Em Challenge Silver": {
+            "index": "895",
+            "tag": "Silver DreamHack 2014 Pick'Em Trophy"
+        },
+        "DreamHack Winter 2014 Pick 'Em Challenge Gold": {
+            "index": "896",
+            "tag": "Gold DreamHack 2014 Pick'Em Trophy"
+        },
+        "ESL One Katowice 2015 CS:GO Champion": {
+            "index": "897",
+            "tag": "Champion at ESL One Katowice 2015"
+        },
+        "ESL One Katowice 2015 CS:GO Finalist": {
+            "index": "898",
+            "tag": "Finalist at ESL One Katowice 2015"
+        },
+        "ESL One Katowice 2015 CS:GO Semifinalist": {
+            "index": "899",
+            "tag": "Semifinalist at ESL One Katowice 2015"
+        },
+        "ESL One Katowice 2015 CS:GO Quarterfinalist": {
+            "index": "900",
+            "tag": "Quarterfinalist at ESL One Katowice 2015"
+        },
+        "ESL One Katowice 2015 Pick 'Em Challenge Bronze": {
+            "index": "901",
+            "tag": "Bronze Katowice 2015 Pick'Em Trophy"
+        },
+        "ESL One Katowice 2015 Pick 'Em Challenge Silver": {
+            "index": "902",
+            "tag": "Silver Katowice 2015 Pick'Em Trophy"
+        },
+        "ESL One Katowice 2015 Pick 'Em Challenge Gold": {
+            "index": "903",
+            "tag": "Gold Katowice 2015 Pick'Em Trophy"
+        },
+        "ESL One Cologne 2015 CS:GO Champion": {
+            "index": "904",
+            "tag": "Champion at ESL One Cologne 2015"
+        },
+        "ESL One Cologne 2015 CS:GO Finalist": {
+            "index": "905",
+            "tag": "Finalist at ESL One Cologne 2015"
+        },
+        "ESL One Cologne 2015 CS:GO Semifinalist": {
+            "index": "906",
+            "tag": "Semifinalist at ESL One Cologne 2015"
+        },
+        "ESL One Cologne 2015 CS:GO Quarterfinalist": {
+            "index": "907",
+            "tag": "Quarterfinalist at ESL One Cologne 2015"
+        },
+        "ESL One Cologne 2015 Pick 'Em Challenge Bronze": {
+            "index": "908",
+            "tag": "Bronze Cologne 2015 Pick'Em Trophy"
+        },
+        "ESL One Cologne 2015 Pick 'Em Challenge Silver": {
+            "index": "909",
+            "tag": "Silver Cologne 2015 Pick'Em Trophy"
+        },
+        "ESL One Cologne 2015 Pick 'Em Challenge Gold": {
+            "index": "910",
+            "tag": "Gold Cologne 2015 Pick'Em Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Pick 'Em Challenge Bronze": {
+            "index": "911",
+            "tag": "Bronze Cluj-Napoca 2015 Pick'Em Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Pick 'Em Challenge Silver": {
+            "index": "912",
+            "tag": "Silver Cluj-Napoca 2015 Pick'Em Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Pick 'Em Challenge Gold": {
+            "index": "913",
+            "tag": "Gold Cluj-Napoca 2015 Pick'Em Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Fantasy Team Bronze": {
+            "index": "914",
+            "tag": "Bronze Cluj-Napoca 2015 Fantasy Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Fantasy Team Silver": {
+            "index": "915",
+            "tag": "Silver Cluj-Napoca 2015 Fantasy Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 Fantasy Team Gold": {
+            "index": "916",
+            "tag": "Gold Cluj-Napoca 2015 Fantasy Trophy"
+        },
+        "DreamHack Cluj-Napoca 2015 CS:GO Champion": {
+            "index": "917",
+            "tag": "Champion at DreamHack Cluj-Napoca 2015"
+        },
+        "DreamHack Cluj-Napoca 2015 CS:GO Finalist": {
+            "index": "918",
+            "tag": "Finalist at DreamHack Cluj-Napoca 2015"
+        },
+        "DreamHack Cluj-Napoca 2015 CS:GO Semifinalist": {
+            "index": "919",
+            "tag": "Semifinalist at DreamHack Cluj-Napoca 2015"
+        },
+        "DreamHack Cluj-Napoca 2015 CS:GO Quarterfinalist": {
+            "index": "920",
+            "tag": "Quarterfinalist at DreamHack Cluj-Napoca 2015"
+        },
+        "MLG Columbus 2016 Pick 'Em Challenge Bronze": {
+            "index": "921",
+            "tag": "Bronze Columbus 2016 Pick'Em Trophy"
+        },
+        "MLG Columbus 2016 Pick 'Em Challenge Silver": {
+            "index": "922",
+            "tag": "Silver Columbus 2016 Pick'Em Trophy"
+        },
+        "MLG Columbus 2016 Pick 'Em Challenge Gold": {
+            "index": "923",
+            "tag": "Gold Columbus 2016 Pick'Em Trophy"
+        },
+        "MLG Columbus 2016 Fantasy Team Bronze": {
+            "index": "924",
+            "tag": "Bronze Columbus 2016 Fantasy Trophy"
+        },
+        "MLG Columbus 2016 Fantasy Team Silver": {
+            "index": "925",
+            "tag": "Silver Columbus 2016 Fantasy Trophy"
+        },
+        "MLG Columbus 2016 Fantasy Team Gold": {
+            "index": "926",
+            "tag": "Gold Columbus 2016 Fantasy Trophy"
+        },
+        "MLG Columbus 2016 CS:GO Champion": {
+            "index": "927",
+            "tag": "Champion at MLG Columbus 2016"
+        },
+        "MLG Columbus 2016 CS:GO Finalist": {
+            "index": "928",
+            "tag": "Finalist at MLG Columbus 2016"
+        },
+        "MLG Columbus 2016 CS:GO Semifinalist": {
+            "index": "929",
+            "tag": "Semifinalist at MLG Columbus 2016"
+        },
+        "MLG Columbus 2016 CS:GO Quarterfinalist": {
+            "index": "930",
+            "tag": "Quarterfinalist at MLG Columbus 2016"
+        },
+        "ESL One Cologne 2016 CS:GO Champion": {
+            "index": "931",
+            "tag": "Champion at ESL One Cologne 2016"
+        },
+        "ESL One Cologne 2016 CS:GO Finalist": {
+            "index": "932",
+            "tag": "Finalist at ESL One Cologne 2016"
+        },
+        "ESL One Cologne 2016 CS:GO Semifinalist": {
+            "index": "933",
+            "tag": "Semifinalist at ESL One Cologne 2016"
+        },
+        "ESL One Cologne 2016 CS:GO Quarterfinalist": {
+            "index": "934",
+            "tag": "Quarterfinalist at ESL One Cologne 2016"
+        },
+        "Cologne 2016 Pick 'Em Challenge Bronze": {
+            "index": "935",
+            "tag": "Bronze Cologne 2016 Pick'Em Trophy"
+        },
+        "Cologne 2016 Pick 'Em Challenge Silver": {
+            "index": "936",
+            "tag": "Silver Cologne 2016 Pick'Em Trophy"
+        },
+        "Cologne 2016 Pick 'Em Challenge Gold": {
+            "index": "937",
+            "tag": "Gold Cologne 2016 Pick'Em Trophy"
+        },
+        "Cologne 2016 Fantasy Team Challenge Bronze": {
+            "index": "938",
+            "tag": "Bronze Cologne 2016 Fantasy Trophy"
+        },
+        "Cologne 2016 Fantasy Team Challenge Silver": {
+            "index": "939",
+            "tag": "Silver Cologne 2016 Fantasy Trophy"
+        },
+        "Cologne 2016 Fantasy Team Challenge Gold": {
+            "index": "940",
+            "tag": "Gold Cologne 2016 Fantasy Trophy"
+        },
+        "ELEAGUE Atlanta 2017 CS:GO Champion": {
+            "index": "941",
+            "tag": "Champion at ELEAGUE Atlanta 2017"
+        },
+        "ELEAGUE Atlanta 2017 CS:GO Finalist": {
+            "index": "942",
+            "tag": "Finalist at ELEAGUE Atlanta 2017"
+        },
+        "ELEAGUE Atlanta 2017 CS:GO Semifinalist": {
+            "index": "943",
+            "tag": "Semifinalist at ELEAGUE Atlanta 2017"
+        },
+        "ELEAGUE Atlanta 2017 CS:GO Quarterfinalist": {
+            "index": "944",
+            "tag": "Quarterfinalist at ELEAGUE Atlanta 2017"
+        },
+        "Atlanta 2017 Pick 'Em Challenge Bronze": {
+            "index": "945",
+            "tag": "Bronze Atlanta 2017 Pick'Em Trophy"
+        },
+        "Atlanta 2017 Pick 'Em Challenge Silver": {
+            "index": "946",
+            "tag": "Silver Atlanta 2017 Pick'Em Trophy"
+        },
+        "Atlanta 2017 Pick 'Em Challenge Gold": {
+            "index": "947",
+            "tag": "Gold Atlanta 2017 Pick'Em Trophy"
+        },
+        "PGL Krakow 2017 CS:GO Champion": {
+            "index": "948",
+            "tag": "Champion at PGL Krakow 2017"
+        },
+        "PGL Krakow 2017 CS:GO Finalist": {
+            "index": "949",
+            "tag": "Finalist at PGL Krakow 2017"
+        },
+        "PGL Krakow 2017 CS:GO Semifinalist": {
+            "index": "950",
+            "tag": "Semifinalist at PGL Krakow 2017"
+        },
+        "PGL Krakow 2017 CS:GO Quarterfinalist": {
+            "index": "951",
+            "tag": "Quarterfinalist at PGL Krakow 2017"
+        },
+        "Krakow 2017 Pick 'Em Challenge Bronze": {
+            "index": "952",
+            "tag": "Bronze Krakow 2017 Pick'Em Trophy"
+        },
+        "Krakow 2017 Pick 'Em Challenge Silver": {
+            "index": "953",
+            "tag": "Silver Krakow 2017 Pick'Em Trophy"
+        },
+        "Krakow 2017 Pick 'Em Challenge Gold": {
+            "index": "954",
+            "tag": "Gold Krakow 2017 Pick'Em Trophy"
+        },
+        "ELEAGUE Boston 2018 CS:GO Champion": {
+            "index": "955",
+            "tag": "Champion at ELEAGUE Boston 2018"
+        },
+        "ELEAGUE Boston 2018 CS:GO Finalist": {
+            "index": "956",
+            "tag": "Finalist at ELEAGUE Boston 2018"
+        },
+        "ELEAGUE Boston 2018 CS:GO Semifinalist": {
+            "index": "957",
+            "tag": "Semifinalist at ELEAGUE Boston 2018"
+        },
+        "ELEAGUE Boston 2018 CS:GO Quarterfinalist": {
+            "index": "958",
+            "tag": "Quarterfinalist at ELEAGUE Boston 2018"
+        },
+        "Boston 2018 Pick 'Em Challenge Bronze": {
+            "index": "959",
+            "tag": "Bronze Boston 2018 Pick'Em Trophy"
+        },
+        "Boston 2018 Pick 'Em Challenge Silver": {
+            "index": "960",
+            "tag": "Silver Boston 2018 Pick'Em Trophy"
+        },
+        "Boston 2018 Pick 'Em Challenge Gold": {
+            "index": "961",
+            "tag": "Gold Boston 2018 Pick'Em Trophy"
+        },
+        "FACEIT London 2018 CS:GO Champion": {
+            "index": "962",
+            "tag": "Champion at FACEIT London 2018"
+        },
+        "FACEIT London 2018 CS:GO Finalist": {
+            "index": "963",
+            "tag": "Finalist at FACEIT London 2018"
+        },
+        "FACEIT London 2018 CS:GO Semifinalist": {
+            "index": "964",
+            "tag": "Semifinalist at FACEIT London 2018"
+        },
+        "FACEIT London 2018 CS:GO Quarterfinalist": {
+            "index": "965",
+            "tag": "Quarterfinalist at FACEIT London 2018"
+        },
+        "London 2018 Pick 'Em Challenge Bronze": {
+            "index": "966",
+            "tag": "Bronze London 2018 Pick'Em Trophy"
+        },
+        "London 2018 Pick 'Em Challenge Silver": {
+            "index": "967",
+            "tag": "Silver London 2018 Pick'Em Trophy"
+        },
+        "London 2018 Pick 'Em Challenge Gold": {
+            "index": "968",
+            "tag": "Gold London 2018 Pick'Em Trophy"
+        },
+        "Ten Year Service Coin": {
+            "index": "969",
+            "tag": "10 Year Veteran Coin"
+        },
+        "Fortius Quo Fidelius": {
+            "index": "970",
+            "tag": "Loyalty Badge"
+        },
+        "IEM Katowice 2019 CS:GO Champion": {
+            "index": "971",
+            "tag": "Champion at IEM Katowice 2019"
+        },
+        "IEM Katowice 2019 CS:GO Finalist": {
+            "index": "972",
+            "tag": "Finalist at IEM Katowice 2019"
+        },
+        "IEM Katowice 2019 CS:GO Semifinalist": {
+            "index": "973",
+            "tag": "Semifinalist at IEM Katowice 2019"
+        },
+        "IEM Katowice 2019 CS:GO Quarterfinalist": {
+            "index": "974",
+            "tag": "Quarterfinalist at IEM Katowice 2019"
+        },
+        "StarLadder Berlin 2019 CS:GO Champion": {
+            "index": "975",
+            "tag": "Champion at StarLadder Berlin 2019"
+        },
+        "StarLadder Berlin 2019 CS:GO Finalist": {
+            "index": "976",
+            "tag": "Finalist at StarLadder Berlin 2019"
+        },
+        "StarLadder Berlin 2019 CS:GO Semifinalist": {
+            "index": "977",
+            "tag": "Semifinalist at StarLadder Berlin 2019"
+        },
+        "StarLadder Berlin 2019 CS:GO Quarterfinalist": {
+            "index": "978",
+            "tag": "Quarterfinalist at StarLadder Berlin 2019"
+        },
+        "PGL Stockholm 2021 CS:GO Champion": {
+            "index": "979",
+            "tag": "Champion at PGL Stockholm 2021"
+        },
+        "PGL Stockholm 2021 CS:GO Finalist": {
+            "index": "980",
+            "tag": "Finalist at PGL Stockholm 2021"
+        },
+        "PGL Stockholm 2021 CS:GO Semifinalist": {
+            "index": "981",
+            "tag": "Semifinalist at PGL Stockholm 2021"
+        },
+        "PGL Stockholm 2021 CS:GO Quarterfinalist": {
+            "index": "982",
+            "tag": "Quarterfinalist at PGL Stockholm 2021"
+        },
+        "PGL Antwerp 2022 CS:GO Champion": {
+            "index": "983",
+            "tag": "Champion at PGL Antwerp 2022"
+        },
+        "PGL Antwerp 2022 CS:GO Finalist": {
+            "index": "984",
+            "tag": "Finalist at PGL Antwerp 2022"
+        },
+        "PGL Antwerp 2022 CS:GO Semifinalist": {
+            "index": "985",
+            "tag": "Semifinalist at PGL Antwerp 2022"
+        },
+        "PGL Antwerp 2022 CS:GO Quarterfinalist": {
+            "index": "986",
+            "tag": "Quarterfinalist at PGL Antwerp 2022"
+        },
+        "CSGO Ten Year Anniversary Memorabilia": {
+            "index": "987",
+            "tag": "10 Year Birthday Coin"
+        },
+        "PGL Rio 2022 CS:GO Champion": {
+            "index": "988",
+            "tag": "Champion at IEM Rio 2022"
+        },
+        "PGL Rio 2022 CS:GO Finalist": {
+            "index": "989",
+            "tag": "Finalist at IEM Rio 2022"
+        },
+        "PGL Rio 2022 CS:GO Semifinalist": {
+            "index": "990",
+            "tag": "Semifinalist at IEM Rio 2022"
+        },
+        "PGL Rio 2022 CS:GO Quarterfinalist": {
+            "index": "991",
+            "tag": "Quarterfinalist at IEM Rio 2022"
+        },
+        "BLAST.tv Paris 2023 CS:GO Champion": {
+            "index": "992",
+            "tag": "Champion at BLAST.tv Paris 2023"
+        },
+        "BLAST.tv Paris 2023 CS:GO Finalist": {
+            "index": "993",
+            "tag": "Finalist at BLAST.tv Paris 2023"
+        },
+        "BLAST.tv Paris 2023 CS:GO Semifinalist": {
+            "index": "994",
+            "tag": "Semifinalist at BLAST.tv Paris 2023"
+        },
+        "BLAST.tv Paris 2023 CS:GO Quarterfinalist": {
+            "index": "995",
+            "tag": "Quarterfinalist at BLAST.tv Paris 2023"
+        },
+        "Coin CSGO": {
+            "index": "996",
+            "tag": "Global Offensive Badge"
+        },
+        "Community Season One Spring 2013 Coin 1": {
+            "index": "1001",
+            "tag": "Operation Payback Challenge Coin"
+        },
+        "Community Season One Spring 2013 Coin 2": {
+            "index": "1002",
+            "tag": "Silver Operation Payback Coin"
+        },
+        "Community Season One Spring 2013 Coin 3": {
+            "index": "1003",
+            "tag": "Gold Operation Payback Coin"
+        },
+        "Map Token Museum": {
+            "index": "1004",
+            "tag": "Museum Map Coin"
+        },
+        "Map Token Downtown": {
+            "index": "1005",
+            "tag": "Downtown Map Coin"
+        },
+        "Map Token Thunder": {
+            "index": "1006",
+            "tag": "Thunder Map Coin"
+        },
+        "Map Token Favela": {
+            "index": "1007",
+            "tag": "Favela Map Coin"
+        },
+        "Map Token Motel": {
+            "index": "1008",
+            "tag": "Motel Map Coin"
+        },
+        "Map Token Seaside": {
+            "index": "1009",
+            "tag": "Seaside Map Coin"
+        },
+        "Map Token Library": {
+            "index": "1010",
+            "tag": "Library Map Coin"
+        },
+        "Community Season Two Autumn 2013 Coin 1": {
+            "index": "1013",
+            "tag": "Operation Bravo Challenge Coin"
+        },
+        "Community Season Two Autumn 2013 Coin 2": {
+            "index": "1014",
+            "tag": "Silver Operation Bravo Coin"
+        },
+        "Community Season Two Autumn 2013 Coin 3": {
+            "index": "1015",
+            "tag": "Gold Operation Bravo Coin"
+        },
+        "Map Token Agency": {
+            "index": "1016",
+            "tag": "Agency Map Coin"
+        },
+        "Map Token Ali": {
+            "index": "1017",
+            "tag": "Ali Map Coin"
+        },
+        "Map Token Cache": {
+            "index": "1018",
+            "tag": "Cache Map Coin"
+        },
+        "Map Token Chinatown": {
+            "index": "1019",
+            "tag": "Chinatown Map Coin"
+        },
+        "Map Token Gwalior": {
+            "index": "1020",
+            "tag": "Gwalior Map Coin"
+        },
+        "Map Token Ruins": {
+            "index": "1021",
+            "tag": "Ruins Map Coin"
+        },
+        "Map Token Siege": {
+            "index": "1022",
+            "tag": "Siege Map Coin"
+        },
+        "Community Season Three Spring 2014 Coin 1": {
+            "index": "1024",
+            "tag": "Operation Phoenix Challenge Coin"
+        },
+        "Community Season Three Spring 2014 Coin 2": {
+            "index": "1025",
+            "tag": "Silver Operation Phoenix Coin"
+        },
+        "Community Season Three Spring 2014 Coin 3": {
+            "index": "1026",
+            "tag": "Gold Operation Phoenix Coin"
+        },
+        "Community Season Four Summer 2014 Coin 1": {
+            "index": "1028",
+            "tag": "Operation Breakout Challenge Coin"
+        },
+        "Community Season Four Summer 2014 Coin 2": {
+            "index": "1029",
+            "tag": "Silver Operation Breakout Coin"
+        },
+        "Community Season Four Summer 2014 Coin 3": {
+            "index": "1030",
+            "tag": "Gold Operation Breakout Coin"
+        },
+        "Map Token Castle": {
+            "index": "1031",
+            "tag": "Castle Map Coin"
+        },
+        "Map Token Black Gold": {
+            "index": "1032",
+            "tag": "Black Gold Map Coin"
+        },
+        "Map Token Rush": {
+            "index": "1033",
+            "tag": "Rush Map Coin"
+        },
+        "Map Token Mist": {
+            "index": "1034",
+            "tag": "Mist Map Coin"
+        },
+        "Map Token Insertion": {
+            "index": "1035",
+            "tag": "Insertion Map Coin"
+        },
+        "Map Token Overgrown": {
+            "index": "1036",
+            "tag": "Overgrown Map Coin"
+        },
+        "Map Token Marquis": {
+            "index": "1037",
+            "tag": "Marquis Map Coin"
+        },
+        "Map Token Workout": {
+            "index": "1038",
+            "tag": "Workout Map Coin"
+        },
+        "Map Token Backalley": {
+            "index": "1039",
+            "tag": "Backalley Map Coin"
+        },
+        "Map Token Season": {
+            "index": "1040",
+            "tag": "Season Map Coin"
+        },
+        "Map Token Bazaar": {
+            "index": "1041",
+            "tag": "Bazaar Map Coin"
+        },
+        "Map Token Facade": {
+            "index": "1042",
+            "tag": "Facade Map Coin"
+        },
+        "Map Token Log": {
+            "index": "1043",
+            "tag": "Log Map Coin"
+        },
+        "Map Token Rails": {
+            "index": "1044",
+            "tag": "Rails Map Coin"
+        },
+        "Map Token Resort": {
+            "index": "1045",
+            "tag": "Resort Map Coin"
+        },
+        "Map Token Zoo": {
+            "index": "1046",
+            "tag": "Zoo Map Coin"
+        },
+        "Map Token Santorini": {
+            "index": "1047",
+            "tag": "Santorini Map Coin"
+        },
+        "Map Token Coast": {
+            "index": "1048",
+            "tag": "Coast Map Coin"
+        },
+        "Map Token Mikla": {
+            "index": "1049",
+            "tag": "Mikla Map Coin"
+        },
+        "Map Token Royal": {
+            "index": "1050",
+            "tag": "Royal Map Coin"
+        },
+        "Map Token Empire": {
+            "index": "1051",
+            "tag": "Empire Map Coin"
+        },
+        "Map Token Tulip": {
+            "index": "1052",
+            "tag": "Tulip Map Coin"
+        },
+        "Map Token Cruise": {
+            "index": "1053",
+            "tag": "Cruise Map Coin"
+        },
+        "Map Token Subzero": {
+            "index": "1054",
+            "tag": "Subzero Map Coin"
+        },
+        "Map Token Biome": {
+            "index": "1055",
+            "tag": "Biome Map Coin"
+        },
+        "Map Token Abbey": {
+            "index": "1056",
+            "tag": "Abbey Map Coin"
+        },
+        "Map Token Ruby": {
+            "index": "1057",
+            "tag": "Ruby Map Coin"
+        },
+        "Map Token Breach": {
+            "index": "1058",
+            "tag": "Breach Map Coin"
+        },
+        "Map Token Studio": {
+            "index": "1059",
+            "tag": "Studio Map Coin"
+        },
+        "Map Token Jungle": {
+            "index": "1060",
+            "tag": "Jungle Map Coin"
+        },
+        "Map Token Anubis": {
+            "index": "1061",
+            "tag": "Anubis Map Coin"
+        },
+        "Map Token Chlorine": {
+            "index": "1062",
+            "tag": "Chlorine Map Coin"
+        },
+        "Map Token Mutiny": {
+            "index": "1063",
+            "tag": "Mutiny Map Coin"
+        },
+        "Map Token Swamp": {
+            "index": "1064",
+            "tag": "Swamp Map Coin"
+        },
+        "Map Token Frostbite": {
+            "index": "1065",
+            "tag": "Frostbite Map Coin"
+        },
+        "Map Token Engage": {
+            "index": "1066",
+            "tag": "Engage Map Coin"
+        },
+        "Map Token Apollo": {
+            "index": "1067",
+            "tag": "Apollo Map Coin"
+        },
+        "Map Token Guard": {
+            "index": "1068",
+            "tag": "Guard Map Coin"
+        },
+        "Map Token Elysion": {
+            "index": "1069",
+            "tag": "Elysion Map Coin"
+        },
+        "Map Token Grind": {
+            "index": "1070",
+            "tag": "Grind Map Coin"
+        },
+        "Map Token Mocha": {
+            "index": "1071",
+            "tag": "Mocha Map Coin"
+        },
+        "Map Token Calavera": {
+            "index": "1072",
+            "tag": "Calavera Map Coin"
+        },
+        "Map Token Pitstop": {
+            "index": "1073",
+            "tag": "Pitstop Map Coin"
+        },
+        "Map Token Basalt": {
+            "index": "1074",
+            "tag": "Basalt Map Coin"
+        },
+        "Map Token Insertion2": {
+            "index": "1075",
+            "tag": "Insertion II Map Coin"
+        },
+        "Map Token Ravine": {
+            "index": "1076",
+            "tag": "Ravine Map Coin"
+        },
+        "Map Token Extraction": {
+            "index": "1077",
+            "tag": "Extraction Map Coin"
+        },
+        "Map Token County": {
+            "index": "1078",
+            "tag": "County Map Coin"
+        },
+        "Map Token Iris": {
+            "index": "1079",
+            "tag": "Iris Map Coin"
+        },
+        "Map Token Climb": {
+            "index": "1080",
+            "tag": "Climb Map Coin"
+        },
+        "Map Token Crete": {
+            "index": "1081",
+            "tag": "Crete Map Coin"
+        },
+        "Map Token Hive": {
+            "index": "1082",
+            "tag": "Hive Map Coin"
+        },
+        "Map Token Vineyard": {
+            "index": "1083",
+            "tag": "Vineyard Map Coin"
+        },
+        "Map Token Ember": {
+            "index": "1084",
+            "tag": "Ember Map Coin"
+        },
+        "Map Token Tuscan": {
+            "index": "1085",
+            "tag": "Tuscan Map Coin"
+        },
+        "Map Token Prime": {
+            "index": "1086",
+            "tag": "Cascade Map Coin"
+        },
+        "Map Token Blagai": {
+            "index": "1087",
+            "tag": "Blagai Map Coin"
+        },
+        "Map Token Boyard": {
+            "index": "1088",
+            "tag": "Boyard Map Coin"
+        },
+        "Map Token Chalice": {
+            "index": "1089",
+            "tag": "Chalice Map Coin"
+        },
+        "Community Season Five Summer 2014 Coin 1": {
+            "index": "1316",
+            "tag": "Operation Vanguard Challenge Coin"
+        },
+        "Community Season Five Summer 2014 Coin 2": {
+            "index": "1317",
+            "tag": "Silver Operation Vanguard Coin"
+        },
+        "Community Season Five Summer 2014 Coin 3": {
+            "index": "1318",
+            "tag": "Gold Operation Vanguard Coin"
+        },
+        "Community Season Six 2015 Coin 1": {
+            "index": "1327",
+            "tag": "Operation Bloodhound Challenge Coin"
+        },
+        "Community Season Six 2015 Coin 2": {
+            "index": "1328",
+            "tag": "Silver Operation Bloodhound Coin"
+        },
+        "Community Season Six 2015 Coin 3": {
+            "index": "1329",
+            "tag": "Gold Operation Bloodhound Coin"
+        },
+        "prestige coin 2015": {
+            "index": "1331",
+            "tag": "2015 Service Medal"
+        },
+        "prestige coin 2015 level 2": {
+            "index": "1332",
+            "tag": "2015 Service Medal"
+        },
+        "CommunitySeasonSeven2016 Coin 1": {
+            "index": "1336",
+            "tag": "Operation Wildfire Challenge Coin"
+        },
+        "CommunitySeasonSeven2016 Coin 2": {
+            "index": "1337",
+            "tag": "Silver Operation Wildfire Coin"
+        },
+        "CommunitySeasonSeven2016 Coin 3": {
+            "index": "1338",
+            "tag": "Gold Operation Wildfire Coin"
+        },
+        "prestige coin 2016": {
+            "index": "1339",
+            "tag": "2016 Service Medal"
+        },
+        "prestige coin 2016 level 2": {
+            "index": "1340",
+            "tag": "2016 Service Medal"
+        },
+        "prestige coin 2016 level 3": {
+            "index": "1341",
+            "tag": "2016 Service Medal"
+        },
+        "prestige coin 2016 level 4": {
+            "index": "1342",
+            "tag": "2016 Service Medal"
+        },
+        "prestige coin 2016 level 5": {
+            "index": "1343",
+            "tag": "2016 Service Medal"
+        },
+        "prestige coin 2016 level 6": {
+            "index": "1344",
+            "tag": "2016 Service Medal"
+        },
+        "CommunitySeasonEight2017 Coin 1": {
+            "index": "4353",
+            "tag": "Operation Hydra Challenge Coin"
+        },
+        "CommunitySeasonEight2017 Coin 2": {
+            "index": "4354",
+            "tag": "Silver Operation Hydra Coin"
+        },
+        "CommunitySeasonEight2017 Coin 3": {
+            "index": "4355",
+            "tag": "Gold Operation Hydra Coin"
+        },
+        "CommunitySeasonEight2017 Coin 4": {
+            "index": "4356",
+            "tag": "Diamond Operation Hydra Coin"
+        },
+        "prestige coin 2017": {
+            "index": "1357",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 2": {
+            "index": "1358",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 3": {
+            "index": "1359",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 4": {
+            "index": "1360",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 5": {
+            "index": "1361",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 6": {
+            "index": "1362",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2017 level 7": {
+            "index": "1363",
+            "tag": "2017 Service Medal"
+        },
+        "prestige coin 2018": {
+            "index": "1367",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2018 level 2": {
+            "index": "1368",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2018 level 3": {
+            "index": "1369",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2018 level 4": {
+            "index": "1370",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2018 level 5": {
+            "index": "1371",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2018 level 6": {
+            "index": "1372",
+            "tag": "2018 Service Medal"
+        },
+        "prestige coin 2019": {
+            "index": "1376",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2019 level 2": {
+            "index": "1377",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2019 level 3": {
+            "index": "1378",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2019 level 4": {
+            "index": "1379",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2019 level 5": {
+            "index": "1380",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2019 level 6": {
+            "index": "1381",
+            "tag": "2019 Service Medal"
+        },
+        "prestige coin 2020": {
+            "index": "4674",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2020 level 2": {
+            "index": "4675",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2020 level 3": {
+            "index": "4676",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2020 level 4": {
+            "index": "4677",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2020 level 5": {
+            "index": "4678",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2020 level 6": {
+            "index": "4679",
+            "tag": "2020 Service Medal"
+        },
+        "prestige coin 2021": {
+            "index": "4737",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2021 level 2": {
+            "index": "4738",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2021 level 3": {
+            "index": "4739",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2021 level 4": {
+            "index": "4740",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2021 level 5": {
+            "index": "4741",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2021 level 6": {
+            "index": "4742",
+            "tag": "2021 Service Medal"
+        },
+        "prestige coin 2022": {
+            "index": "4819",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2022 level 2": {
+            "index": "4820",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2022 level 3": {
+            "index": "4821",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2022 level 4": {
+            "index": "4822",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2022 level 5": {
+            "index": "4823",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2022 level 6": {
+            "index": "4824",
+            "tag": "2022 Service Medal"
+        },
+        "prestige coin 2023": {
+            "index": "4873",
+            "tag": "2023 Service Medal"
+        },
+        "prestige coin 2023 level 2": {
+            "index": "4874",
+            "tag": "2023 Service Medal"
+        },
+        "prestige coin 2023 level 3": {
+            "index": "4875",
+            "tag": "2023 Service Medal"
+        },
+        "prestige coin 2023 level 4": {
+            "index": "4876",
+            "tag": "2023 Service Medal"
+        },
+        "prestige coin 2023 level 5": {
+            "index": "4877",
+            "tag": "2023 Service Medal"
+        },
+        "prestige coin 2023 level 6": {
+            "index": "4878",
+            "tag": "2023 Service Medal"
+        },
+        "Collectible Pin - Dust II": {
+            "index": "6001",
+            "tag": "Dust II Pin"
+        },
+        "Collectible Pin - Guardian Elite": {
+            "index": "6002",
+            "tag": "Guardian Elite Pin"
+        },
+        "Collectible Pin - Mirage": {
+            "index": "6003",
+            "tag": "Mirage Pin"
+        },
+        "Collectible Pin - Inferno": {
+            "index": "6004",
+            "tag": "Inferno Pin"
+        },
+        "Collectible Pin - Italy": {
+            "index": "6005",
+            "tag": "Italy Pin"
+        },
+        "Collectible Pin - Victory": {
+            "index": "6006",
+            "tag": "Victory Pin"
+        },
+        "Collectible Pin - Militia": {
+            "index": "6007",
+            "tag": "Militia Pin"
+        },
+        "Collectible Pin - Nuke": {
+            "index": "6008",
+            "tag": "Nuke Pin"
+        },
+        "Collectible Pin - Train": {
+            "index": "6009",
+            "tag": "Train Pin"
+        },
+        "Collectible Pin - Guardian": {
+            "index": "6010",
+            "tag": "Guardian Pin"
+        },
+        "Collectible Pin - Tactics": {
+            "index": "6011",
+            "tag": "Tactics Pin"
+        },
+        "Collectible Pin - Guardian 2": {
+            "index": "6012",
+            "tag": "Guardian 2 Pin"
+        },
+        "Commodity Pin - Guardian 2": {
+            "index": "6112",
+            "tag": "Guardian 2 Pin"
+        },
+        "Collectible Pin - Bravo": {
+            "index": "6013",
+            "tag": "Bravo Pin"
+        },
+        "Commodity Pin - Bravo": {
+            "index": "6113",
+            "tag": "Bravo Pin"
+        },
+        "Collectible Pin - Baggage": {
+            "index": "6014",
+            "tag": "Baggage Pin"
+        },
+        "Commodity Pin - Baggage": {
+            "index": "6114",
+            "tag": "Baggage Pin"
+        },
+        "Collectible Pin - Phoenix": {
+            "index": "6015",
+            "tag": "Phoenix Pin"
+        },
+        "Commodity Pin - Phoenix": {
+            "index": "6115",
+            "tag": "Phoenix Pin"
+        },
+        "Collectible Pin - Office": {
+            "index": "6016",
+            "tag": "Office Pin"
+        },
+        "Commodity Pin - Office": {
+            "index": "6116",
+            "tag": "Office Pin"
+        },
+        "Collectible Pin - Cobblestone": {
+            "index": "6017",
+            "tag": "Cobblestone Pin"
+        },
+        "Commodity Pin - Cobblestone": {
+            "index": "6117",
+            "tag": "Cobblestone Pin"
+        },
+        "Collectible Pin - Overpass": {
+            "index": "6018",
+            "tag": "Overpass Pin"
+        },
+        "Commodity Pin - Overpass": {
+            "index": "6118",
+            "tag": "Overpass Pin"
+        },
+        "Collectible Pin - Bloodhound": {
+            "index": "6019",
+            "tag": "Bloodhound Pin"
+        },
+        "Commodity Pin - Bloodhound": {
+            "index": "6119",
+            "tag": "Bloodhound Pin"
+        },
+        "Collectible Pin - Cache": {
+            "index": "6020",
+            "tag": "Cache Pin"
+        },
+        "Commodity Pin - Cache": {
+            "index": "6120",
+            "tag": "Cache Pin"
+        },
+        "Collectible Pin - Valeria": {
+            "index": "6021",
+            "tag": "Valeria Phoenix Pin"
+        },
+        "Commodity Pin - Valeria": {
+            "index": "6121",
+            "tag": "Valeria Phoenix Pin"
+        },
+        "Collectible Pin - Chroma": {
+            "index": "6022",
+            "tag": "Chroma Pin"
+        },
+        "Commodity Pin - Chroma": {
+            "index": "6122",
+            "tag": "Chroma Pin"
+        },
+        "Collectible Pin - Guardian 3": {
+            "index": "6023",
+            "tag": "Guardian 3 Pin"
+        },
+        "Commodity Pin - Guardian 3": {
+            "index": "6123",
+            "tag": "Guardian 3 Pin"
+        },
+        "Collectible Pin - Canals": {
+            "index": "6024",
+            "tag": "Canals Pin"
+        },
+        "Commodity Pin - Canals": {
+            "index": "6124",
+            "tag": "Canals Pin"
+        },
+        "Collectible Pin - Welcome to the Clutch": {
+            "index": "6025",
+            "tag": "Welcome to the Clutch Pin"
+        },
+        "Commodity Pin - Welcome to the Clutch": {
+            "index": "6125",
+            "tag": "Welcome to the Clutch Pin"
+        },
+        "Collectible Pin - Death Sentence": {
+            "index": "6026",
+            "tag": "Death Sentence Pin"
+        },
+        "Commodity Pin - Death Sentence": {
+            "index": "6126",
+            "tag": "Death Sentence Pin"
+        },
+        "Collectible Pin - Inferno 2": {
+            "index": "6027",
+            "tag": "Inferno 2 Pin"
+        },
+        "Commodity Pin - Inferno 2": {
+            "index": "6127",
+            "tag": "Inferno 2 Pin"
+        },
+        "Collectible Pin - Wildfire": {
+            "index": "6028",
+            "tag": "Wildfire Pin"
+        },
+        "Commodity Pin - Wildfire": {
+            "index": "6128",
+            "tag": "Wildfire Pin"
+        },
+        "Collectible Pin - Easy Peasy": {
+            "index": "6029",
+            "tag": "Easy Peasy Pin"
+        },
+        "Commodity Pin - Easy Peasy": {
+            "index": "6129",
+            "tag": "Easy Peasy Pin"
+        },
+        "Collectible Pin - Aces High": {
+            "index": "6030",
+            "tag": "Aces High Pin"
+        },
+        "Commodity Pin - Aces High": {
+            "index": "6130",
+            "tag": "Aces High Pin"
+        },
+        "Collectible Pin - Hydra": {
+            "index": "6031",
+            "tag": "Hydra Pin"
+        },
+        "Commodity Pin - Hydra": {
+            "index": "6131",
+            "tag": "Hydra Pin"
+        },
+        "Collectible Pin - Howl": {
+            "index": "6032",
+            "tag": "Howl Pin"
+        },
+        "Commodity Pin - Howl": {
+            "index": "6132",
+            "tag": "Howl Pin"
+        },
+        "Collectible Pin - Brigadier General": {
+            "index": "6033",
+            "tag": "Brigadier General Pin"
+        },
+        "Commodity Pin - Brigadier General": {
+            "index": "6133",
+            "tag": "Brigadier General Pin"
+        },
+        "Collectible Pin - alyx_10": {
+            "index": "6034",
+            "tag": "Alyx Pin"
+        },
+        "Commodity Pin - alyx_10": {
+            "index": "6134",
+            "tag": "Alyx Pin"
+        },
+        "Commodity Pin - Dust II": {
+            "index": "6101",
+            "tag": "Dust II Pin"
+        },
+        "Commodity Pin - Guardian Elite": {
+            "index": "6102",
+            "tag": "Guardian Elite Pin"
+        },
+        "Commodity Pin - Mirage": {
+            "index": "6103",
+            "tag": "Mirage Pin"
+        },
+        "Commodity Pin - Inferno": {
+            "index": "6104",
+            "tag": "Inferno Pin"
+        },
+        "Commodity Pin - Italy": {
+            "index": "6105",
+            "tag": "Italy Pin"
+        },
+        "Commodity Pin - Victory": {
+            "index": "6106",
+            "tag": "Victory Pin"
+        },
+        "Commodity Pin - Militia": {
+            "index": "6107",
+            "tag": "Militia Pin"
+        },
+        "Commodity Pin - Nuke": {
+            "index": "6108",
+            "tag": "Nuke Pin"
+        },
+        "Commodity Pin - Train": {
+            "index": "6109",
+            "tag": "Train Pin"
+        },
+        "Commodity Pin - Guardian": {
+            "index": "6110",
+            "tag": "Guardian Pin"
+        },
+        "Commodity Pin - Tactics": {
+            "index": "6111",
+            "tag": "Tactics Pin"
+        },
+        "Commodity Pin - alyx_04": {
+            "index": "4682",
+            "tag": "Civil Protection Pin"
+        },
+        "Commodity Pin - alyx_07": {
+            "index": "4683",
+            "tag": "Sustenance! Pin"
+        },
+        "Commodity Pin - alyx_09": {
+            "index": "4684",
+            "tag": "Vortigaunt Pin"
+        },
+        "Commodity Pin - alyx_05": {
+            "index": "4685",
+            "tag": "Headcrab Glyph Pin"
+        },
+        "Commodity Pin - alyx_12": {
+            "index": "4686",
+            "tag": "Health Pin"
+        },
+        "Commodity Pin - alyx_01": {
+            "index": "4687",
+            "tag": "Lambda Pin"
+        },
+        "Commodity Pin - alyx_02": {
+            "index": "4688",
+            "tag": "Copper Lambda Pin"
+        },
+        "Commodity Pin - alyx_03": {
+            "index": "4689",
+            "tag": "CMB Pin"
+        },
+        "Commodity Pin - alyx_06": {
+            "index": "4690",
+            "tag": "Black Mesa Pin"
+        },
+        "Commodity Pin - alyx_08": {
+            "index": "4691",
+            "tag": "Combine Helmet Pin"
+        },
+        "Commodity Pin - alyx_11": {
+            "index": "4692",
+            "tag": "City 17 Pin"
+        },
+        "CommunitySeasonNine2019 Coin 1": {
+            "index": "4550",
+            "tag": "Operation Shattered Web Challenge Coin"
+        },
+        "CommunitySeasonNine2019 Coin 2": {
+            "index": "4551",
+            "tag": "Silver Operation Shattered Web Coin"
+        },
+        "CommunitySeasonNine2019 Coin 3": {
+            "index": "4552",
+            "tag": "Gold Operation Shattered Web Coin"
+        },
+        "CommunitySeasonNine2019 Coin 4": {
+            "index": "4553",
+            "tag": "Diamond Operation Shattered Web Coin"
+        },
+        "CommunitySeasonNine2019_PlusStars1": {
+            "index": "4671",
+            "tag": "1 Star for Operation Shattered Web"
+        },
+        "CommunitySeasonNine2019_PlusStars10": {
+            "index": "4672",
+            "tag": "10 Stars for Operation Shattered Web"
+        },
+        "CommunitySeasonNine2019_PlusStars100": {
+            "index": "4673",
+            "tag": "100 Stars for Operation Shattered Web"
+        },
+        "CommunitySeasonTen2020 Coin 1": {
+            "index": "4700",
+            "tag": "Operation Broken Fang Challenge Coin"
+        },
+        "CommunitySeasonTen2020 Coin 2": {
+            "index": "4701",
+            "tag": "Silver Operation Broken Fang Coin"
+        },
+        "CommunitySeasonTen2020 Coin 3": {
+            "index": "4702",
+            "tag": "Gold Operation Broken Fang Coin"
+        },
+        "CommunitySeasonTen2020 Coin 4": {
+            "index": "4703",
+            "tag": "Diamond Operation Broken Fang Coin"
+        },
+        "CommunitySeasonTen2020_PlusStars1": {
+            "index": "4704",
+            "tag": "1 Star for Operation Broken Fang"
+        },
+        "CommunitySeasonTen2020_PlusStars10": {
+            "index": "4705",
+            "tag": "10 Stars for Operation Broken Fang"
+        },
+        "CommunitySeasonTen2020_PlusStars100": {
+            "index": "4706",
+            "tag": "100 Stars for Operation Broken Fang"
+        },
+        "CommunitySeasonEleven2021 Coin 1": {
+            "index": "4759",
+            "tag": "Operation Riptide Challenge Coin"
+        },
+        "CommunitySeasonEleven2021 Coin 2": {
+            "index": "4760",
+            "tag": "Silver Operation Riptide Coin"
+        },
+        "CommunitySeasonEleven2021 Coin 3": {
+            "index": "4761",
+            "tag": "Gold Operation Riptide Coin"
+        },
+        "CommunitySeasonEleven2021 Coin 4": {
+            "index": "4762",
+            "tag": "Diamond Operation Riptide Coin"
+        },
+        "CommunitySeasonEleven2021_PlusStars1": {
+            "index": "4763",
+            "tag": "1 Star for Operation Riptide"
+        },
+        "CommunitySeasonEleven2021_PlusStars10": {
+            "index": "4764",
+            "tag": "10 Stars for Operation Riptide"
+        },
+        "CommunitySeasonEleven2021_PlusStars100": {
+            "index": "4765",
+            "tag": "100 Stars for Operation Riptide"
+        }
+    },
     "skins": {
         "weapon_bizon": {
             "hy_blueprint_white": {

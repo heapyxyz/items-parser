@@ -22,12 +22,13 @@ class Items:
         self._file = os.getcwd() + f"/items/{prefix}_items.txt"
         self._data = self._parse()
 
-        self._items: dict = self._get_items()
-        self._paint_kits: dict = self._get_paint_kits()
-        self._stickers: dict = self._get_stickers()
-        self._keychains: dict = self._get_keychains()
+        self._medals = {}
+        self._items = self._get_items()
+        self._paint_kits = self._get_paint_kits()
+        self._stickers = self._get_stickers()
+        self._keychains = self._get_keychains()
 
-        self._loot: dict = self._get_loot()
+        self._loot = self._get_loot()
         with open(os.getcwd() + f"/output/{prefix}.json", "w") as f:
             f.write(json.dumps(self._loot, indent=4))
             print(f"Saved to output/{prefix}.json")
@@ -42,9 +43,22 @@ class Items:
         data = self._data["items_game"]["items"]
         items = {}
 
-        for item in data:
-            item_data = data[item]
-            items[item_data["name"]] = item
+        for index in data:
+            item_data = data[index]
+            item_name = item_data["name"]
+            items[item_name] = index
+
+            if not "item_name" in item_data:
+                continue
+
+            item_tag: str = item_data["item_name"]
+            if item_tag.startswith("#CSGO_Collectible"):
+                medal = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                }
+
+                self._medals[item_name] = medal
 
         return items
 
@@ -124,6 +138,7 @@ class Items:
     def _get_loot(self) -> dict:
         data = self._data["items_game"]["client_loot_lists"]
         loot_list = {
+            "medals": self._medals,
             "skins": {},
             "stickers": {},
             "keychains": {},
