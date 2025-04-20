@@ -1,5 +1,5 @@
 # items-parser
-`items-parser` is a parser for CS2/CS:GO `items_game.txt` files. It extracts game's information, such as weapon skins, gloves, keychains, or stickers in a JSON format. While this repository includes pre-generated output, you can run the script yourself if you need to parse a different version of the files or want the absolute latest data before this repository is updated.
+`items-parser` is a CS2/CS:GO `items_game.txt` file parser. The script extracts game's information, such as weapon skins, gloves, keychains, or stickers in a JSON format. While this repository includes pre-generated output, you can run the script yourself if you need to parse a different version of the files or want the absolute latest data before this repository is updated.
 
 ## Prerequisites
 - Python 3.3 or newer
