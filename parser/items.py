@@ -42,6 +42,9 @@ class Items:
         return vdf.loads(data)
 
     def _get_items(self) -> dict:
+        if not "items" in self._data["items_game"]:
+            return {}
+
         data = self._data["items_game"]["items"]
         items = {}
 
@@ -83,6 +86,12 @@ class Items:
         return items
 
     def _get_paint_kits(self) -> dict:
+        if not "paint_kits" in self._data["items_game"]:
+            return {}
+
+        if not "rarity_data" in self._data["items_game"]:
+            return {}
+
         data = self._data["items_game"]["paint_kits"]
         rarity_data = self._data["items_game"]["paint_kits_rarity"]
         kits = {}
@@ -126,6 +135,9 @@ class Items:
         return kits
 
     def _get_sticker_kits(self) -> dict:
+        if not "sticker_kits" in self._data["items_game"]:
+            return {}
+
         data = self._data["items_game"]["sticker_kits"]
         stickers = {}
 
@@ -169,6 +181,9 @@ class Items:
         return keychains
 
     def _get_loot(self) -> dict:
+        if not "client_loot_lists" in self._data["items_game"]:
+            return {}
+
         data = self._data["items_game"]["client_loot_lists"]
         loot_list = {
             "medals": self._medals,
