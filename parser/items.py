@@ -25,6 +25,7 @@ class Items:
         self._medals = {}
         self._agents = {"ct": {}, "t": {}}
         self._gloves = {}
+        self._containers = {}
         self._items = self._get_items()
         self._paint_kits = self._get_paint_kits()
         self._sticker_kits = self._get_sticker_kits()
@@ -84,6 +85,22 @@ class Items:
                         else "t"
                     )
                     self._agents[agent_team][item_name] = agent
+                elif prefab in [
+                    "weapon_case",
+                    "weapon_case_base",
+                    "weapon_case_souvenir",
+                    "weapon_case_selfopening_collection",
+                    "sticker_capsule",
+                    "patch_capsule",
+                    "graffiti_box",
+                ]:
+                    item_tag: str = item_data["item_name"]
+                    container = {
+                        "index": index,
+                        "tag": self._lang.get(item_tag),
+                    }
+
+                    self._containers[item_name] = container
 
         return items
 
@@ -191,6 +208,7 @@ class Items:
             "medals": self._medals,
             "agents": self._agents,
             "gloves": self._gloves,
+            "containers": self._containers,
             "skins": {},
             "stickers": {},
             "patches": {},

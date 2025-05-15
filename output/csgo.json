@@ -2196,6 +2196,720 @@
             "tag": "Unhinged"
         }
     },
+    "containers": {
+        "crate_valve_1": {
+            "index": "4001",
+            "tag": "CS:GO Weapon Case"
+        },
+        "crate_esports_2013": {
+            "index": "4002",
+            "tag": "eSports 2013 Case"
+        },
+        "crate_valve_2": {
+            "index": "4004",
+            "tag": "CS:GO Weapon Case 2"
+        },
+        "crate_operation_ii": {
+            "index": "4003",
+            "tag": "Operation Bravo Case"
+        },
+        "crate_esports_2013_winter": {
+            "index": "4005",
+            "tag": "eSports 2013 Winter Case"
+        },
+        "crate_sticker_pack01": {
+            "index": "4007",
+            "tag": "Sticker Capsule"
+        },
+        "crate_community_1": {
+            "index": "4009",
+            "tag": "Winter Offensive Weapon Case"
+        },
+        "crate_valve_3": {
+            "index": "4010",
+            "tag": "CS:GO Weapon Case 3"
+        },
+        "crate_community_2": {
+            "index": "4011",
+            "tag": "Operation Phoenix Weapon Case"
+        },
+        "crate_sticker_pack02": {
+            "index": "4012",
+            "tag": "Sticker Capsule 2"
+        },
+        "crate_sticker_pack_kat2014_01": {
+            "index": "4014",
+            "tag": "EMS Katowice 2014 Challengers"
+        },
+        "crate_sticker_pack_kat2014_02": {
+            "index": "4015",
+            "tag": "EMS Katowice 2014 Legends"
+        },
+        "crate_sticker_pack_community01": {
+            "index": "4016",
+            "tag": "Community Sticker Capsule 1"
+        },
+        "crate_community_3": {
+            "index": "4017",
+            "tag": "Huntsman Weapon Case"
+        },
+        "crate_community_4": {
+            "index": "4018",
+            "tag": "Operation Breakout Weapon Case"
+        },
+        "crate_esports_2014_summer": {
+            "index": "4019",
+            "tag": "eSports 2014 Summer Case"
+        },
+        "crate_sticker_pack_cologne2014_01": {
+            "index": "4020",
+            "tag": "ESL One Cologne 2014 Legends"
+        },
+        "crate_sticker_pack_cologne2014_02": {
+            "index": "4021",
+            "tag": "ESL One Cologne 2014 Challengers"
+        },
+        "crate_operation_vanguard": {
+            "index": "4029",
+            "tag": "Operation Vanguard Weapon Case"
+        },
+        "crate_sticker_pack_dhw2014_01": {
+            "index": "4030",
+            "tag": "DreamHack 2014 Legends (Holo/Foil)"
+        },
+        "crate_community_6": {
+            "index": "4061",
+            "tag": "Chroma Case"
+        },
+        "crate_sticker_pack_eslkatowice2015_01": {
+            "index": "4086",
+            "tag": "ESL One Katowice 2015 Legends (Holo/Foil)"
+        },
+        "crate_sticker_pack_eslkatowice2015_02": {
+            "index": "4087",
+            "tag": "ESL One Katowice 2015 Challengers (Holo/Foil)"
+        },
+        "crate_community_7": {
+            "index": "4089",
+            "tag": "Chroma 2 Case"
+        },
+        "crate_sticker_pack_enfu_capsule": {
+            "index": "4090",
+            "tag": "Enfu Sticker Capsule"
+        },
+        "crate_community_8": {
+            "index": "4091",
+            "tag": "Falchion Case"
+        },
+        "crate_sticker_pack_eslcologne2015_legends": {
+            "index": "4109",
+            "tag": "ESL One Cologne 2015 Legends (Foil)"
+        },
+        "crate_sticker_pack_eslcologne2015_challengers": {
+            "index": "4110",
+            "tag": "ESL One Cologne 2015 Challengers (Foil)"
+        },
+        "crate_signature_pack_eslcologne2015_group_1": {
+            "index": "4111",
+            "tag": "Autograph Capsule | Group A (Foil) | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_group_2": {
+            "index": "4112",
+            "tag": "Autograph Capsule | Group B (Foil) | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_group_3": {
+            "index": "4113",
+            "tag": "Autograph Capsule | Group C (Foil) | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_group_4": {
+            "index": "4114",
+            "tag": "Autograph Capsule | Group D (Foil) | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_fnatic": {
+            "index": "4115",
+            "tag": "Autograph Capsule | Fnatic | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_luminositygaming": {
+            "index": "4116",
+            "tag": "Autograph Capsule | Luminosity Gaming | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_navi": {
+            "index": "4117",
+            "tag": "Autograph Capsule | Natus Vincere | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_ninjasinpyjamas": {
+            "index": "4118",
+            "tag": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_envyus": {
+            "index": "4119",
+            "tag": "Autograph Capsule | Team EnVyUs | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_titan": {
+            "index": "4120",
+            "tag": "Autograph Capsule | Titan | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_solomid": {
+            "index": "4121",
+            "tag": "Autograph Capsule | Team SoloMid | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_virtuspro": {
+            "index": "4122",
+            "tag": "Autograph Capsule | Virtus.Pro | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_mousesports": {
+            "index": "4123",
+            "tag": "Autograph Capsule | mousesports | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_renegades": {
+            "index": "4124",
+            "tag": "Autograph Capsule | Renegades | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_teamimmunity": {
+            "index": "4125",
+            "tag": "Autograph Capsule | Team Immunity | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_ebettle": {
+            "index": "4126",
+            "tag": "Autograph Capsule | Team eBettle | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_kinguin": {
+            "index": "4127",
+            "tag": "Autograph Capsule | Team Kinguin | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_flipside": {
+            "index": "4128",
+            "tag": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_clg": {
+            "index": "4129",
+            "tag": "Autograph Capsule | Counter Logic Gaming | Cologne 2015"
+        },
+        "crate_signature_pack_eslcologne2015_cloud9": {
+            "index": "4130",
+            "tag": "Autograph Capsule | Cloud9 G2A | Cologne 2015"
+        },
+        "crate_community_9": {
+            "index": "4138",
+            "tag": "Shadow Case"
+        },
+        "crate_sticker_pack_cluj2015_legends": {
+            "index": "4156",
+            "tag": "DreamHack Cluj-Napoca 2015 Legends (Foil)"
+        },
+        "crate_sticker_pack_cluj2015_challengers": {
+            "index": "4157",
+            "tag": "DreamHack Cluj-Napoca 2015 Challengers (Foil)"
+        },
+        "crate_signature_pack_cluj2015_group_1": {
+            "index": "4158",
+            "tag": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_group_2": {
+            "index": "4159",
+            "tag": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_nip": {
+            "index": "4160",
+            "tag": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_dig": {
+            "index": "4161",
+            "tag": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_clg": {
+            "index": "4162",
+            "tag": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_vex": {
+            "index": "4163",
+            "tag": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_flip": {
+            "index": "4164",
+            "tag": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_liq": {
+            "index": "4165",
+            "tag": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_mss": {
+            "index": "4166",
+            "tag": "Autograph Capsule | mousesports | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_navi": {
+            "index": "4167",
+            "tag": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_vp": {
+            "index": "4168",
+            "tag": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_c9": {
+            "index": "4169",
+            "tag": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_g2": {
+            "index": "4170",
+            "tag": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_tit": {
+            "index": "4171",
+            "tag": "Autograph Capsule | Titan | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_tsolo": {
+            "index": "4172",
+            "tag": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_nv": {
+            "index": "4173",
+            "tag": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_fntc": {
+            "index": "4174",
+            "tag": "Autograph Capsule | Fnatic | Cluj-Napoca 2015"
+        },
+        "crate_signature_pack_cluj2015_lumi": {
+            "index": "4175",
+            "tag": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015"
+        },
+        "crate_sticker_pack_pinups_capsule": {
+            "index": "4183",
+            "tag": "Pinups Capsule"
+        },
+        "crate_sticker_pack_slid3_capsule": {
+            "index": "4184",
+            "tag": "Slid3 Capsule"
+        },
+        "crate_sticker_pack_team_roles_capsule": {
+            "index": "4185",
+            "tag": "Team Roles Capsule"
+        },
+        "crate_community_10": {
+            "index": "4186",
+            "tag": "Revolver Case"
+        },
+        "crate_community_11": {
+            "index": "4187",
+            "tag": "Operation Wildfire Case"
+        },
+        "crate_xray_p250": {
+            "index": "4668",
+            "tag": "X-Ray P250 Package"
+        },
+        "crate_pins_series_1": {
+            "index": "4235",
+            "tag": "Collectible Pins Capsule Series 1"
+        },
+        "crate_pins_series_2": {
+            "index": "4284",
+            "tag": "Collectible Pins Capsule Series 2"
+        },
+        "crate_pins_series_3": {
+            "index": "4481",
+            "tag": "Collectible Pins Capsule Series 3"
+        },
+        "crate_pins_hlalyx": {
+            "index": "4693",
+            "tag": "Half-Life: Alyx Collectible Pins Capsule"
+        },
+        "crate_community_12": {
+            "index": "4233",
+            "tag": "Chroma 3 Case"
+        },
+        "crate_community_13": {
+            "index": "4236",
+            "tag": "Gamma Case"
+        },
+        "crate_gamma_2": {
+            "index": "4281",
+            "tag": "Gamma 2 Case"
+        },
+        "crate_sprays_community_1": {
+            "index": "4234",
+            "tag": "Community Graffiti Box 1"
+        },
+        "crate_sprays_vcap1": {
+            "index": "4285",
+            "tag": "CS:GO Graffiti Box"
+        },
+        "crate_sticker_pack_sugarface_capsule": {
+            "index": "4282",
+            "tag": "Sugarface Capsule"
+        },
+        "crate_sticker_pack_bestiary_capsule": {
+            "index": "4283",
+            "tag": "Bestiary Capsule"
+        },
+        "crate_musickit_radicals_stattrak_capsule": {
+            "index": "4287",
+            "tag": "StatTrak\u2122 Radicals Box"
+        },
+        "crate_musickit_masterminds_capsule": {
+            "index": "4696",
+            "tag": "Masterminds Music Kit Box"
+        },
+        "crate_musickit_masterminds_stattrak_capsule": {
+            "index": "4697",
+            "tag": "StatTrak\u2122 Masterminds Music Kit Box"
+        },
+        "crate_musickit_tacticians_capsule": {
+            "index": "4754",
+            "tag": "Tacticians Music Kit Box"
+        },
+        "crate_musickit_tacticians_stattrak_capsule": {
+            "index": "4755",
+            "tag": "StatTrak\u2122 Tacticians Music Kit Box"
+        },
+        "crate_musickit_initiators_capsule": {
+            "index": "4848",
+            "tag": "Initiators Music Kit Box"
+        },
+        "crate_musickit_initiators_stattrak_capsule": {
+            "index": "4849",
+            "tag": "StatTrak\u2122 Initiators Music Kit Box"
+        },
+        "crate_community_15": {
+            "index": "4288",
+            "tag": "Glove Case"
+        },
+        "crate_community_16": {
+            "index": "4351",
+            "tag": "Spectrum Case"
+        },
+        "crate_community_17": {
+            "index": "4352",
+            "tag": "Operation Hydra Case"
+        },
+        "crate_community_18": {
+            "index": "4403",
+            "tag": "Spectrum 2 Case"
+        },
+        "crate_sticker_pack_illuminate_capsule_01": {
+            "index": "4404",
+            "tag": "Perfect World Sticker Capsule 1"
+        },
+        "crate_sticker_pack_illuminate_capsule_02": {
+            "index": "4405",
+            "tag": "Perfect World Sticker Capsule 2"
+        },
+        "crate_sprays_illuminate1": {
+            "index": "4286",
+            "tag": "Perfect World Graffiti Box"
+        },
+        "crate_sticker_pack_comm2018_01_capsule": {
+            "index": "4470",
+            "tag": "Community Capsule 2018"
+        },
+        "crate_sticker_pack_skillgroup_capsule": {
+            "index": "4547",
+            "tag": "Skill Groups Capsule"
+        },
+        "crate_sticker_pack_feral_predators_capsule": {
+            "index": "4599",
+            "tag": "Feral Predators Capsule"
+        },
+        "crate_sticker_pack_shattered_web": {
+            "index": "4600",
+            "tag": "Shattered Web Sticker Collection"
+        },
+        "crate_sticker_pack_halo_capsule": {
+            "index": "4597",
+            "tag": "Halo Capsule"
+        },
+        "crate_sticker_pack_warhammer": {
+            "index": "4616",
+            "tag": "Warhammer 40,000 Sticker Capsule"
+        },
+        "crate_sticker_pack_broken_fang": {
+            "index": "4729",
+            "tag": "Broken Fang Sticker Collection"
+        },
+        "crate_community_19": {
+            "index": "4471",
+            "tag": "Clutch Case"
+        },
+        "crate_community_20": {
+            "index": "4482",
+            "tag": "Horizon Case"
+        },
+        "character_operator_dossier_op09_rare": {
+            "index": "6404",
+            "tag": "Distinguished Agents"
+        },
+        "character_operator_dossier_op09_mythical": {
+            "index": "6405",
+            "tag": "Exceptional Agents"
+        },
+        "character_operator_dossier_op09_legendary": {
+            "index": "6406",
+            "tag": "Superior Agents"
+        },
+        "character_operator_dossier_op09_ancient": {
+            "index": "6407",
+            "tag": "Master Agents"
+        },
+        "character_operator_dossier_op10_rare": {
+            "index": "4707",
+            "tag": "Distinguished Agents"
+        },
+        "character_operator_dossier_op10_mythical": {
+            "index": "4708",
+            "tag": "Exceptional Agents"
+        },
+        "character_operator_dossier_op10_legendary": {
+            "index": "4709",
+            "tag": "Superior Agents"
+        },
+        "character_operator_dossier_op10_ancient1": {
+            "index": "4710",
+            "tag": "Master Agent - Commander Mae"
+        },
+        "character_operator_dossier_op10_ancient2": {
+            "index": "4724",
+            "tag": "Master Agents - Sir Bloody Darryl"
+        },
+        "character_operator_dossier_op11_rare": {
+            "index": "4766",
+            "tag": "Distinguished Agents"
+        },
+        "character_operator_dossier_op11_mythical": {
+            "index": "4767",
+            "tag": "Exceptional Agents"
+        },
+        "character_operator_dossier_op11_legendary": {
+            "index": "4768",
+            "tag": "Superior Agents"
+        },
+        "character_operator_dossier_op11_ancient1": {
+            "index": "4769",
+            "tag": "CT Master Agents"
+        },
+        "character_operator_dossier_op11_ancient2": {
+            "index": "4770",
+            "tag": "T Master Agents"
+        },
+        "crate_community_21": {
+            "index": "4548",
+            "tag": "Danger Zone Case"
+        },
+        "crate_community_22": {
+            "index": "4598",
+            "tag": "Prisma Case"
+        },
+        "selfopeningitem_set_overpass": {
+            "index": "4601",
+            "tag": "The Overpass Collection"
+        },
+        "selfopeningitem_set_cobblestone": {
+            "index": "4602",
+            "tag": "The Cobblestone Collection"
+        },
+        "selfopeningitem_set_cache": {
+            "index": "4603",
+            "tag": "The Cache Collection"
+        },
+        "selfopeningitem_set_gods_and_monsters": {
+            "index": "4604",
+            "tag": "The Gods and Monsters Collection"
+        },
+        "selfopeningitem_set_chopshop": {
+            "index": "4605",
+            "tag": "The Chop Shop Collection"
+        },
+        "selfopeningitem_set_kimono": {
+            "index": "4606",
+            "tag": "The Rising Sun Collection"
+        },
+        "selfopeningitem_set_canals": {
+            "index": "4608",
+            "tag": "The Canals Collection"
+        },
+        "selfopeningitem_set_norse": {
+            "index": "4611",
+            "tag": "The Norse Collection"
+        },
+        "selfopeningitem_set_stmarc": {
+            "index": "4612",
+            "tag": "The St. Marc Collection"
+        },
+        "selfopeningitem_set_op10_ct": {
+            "index": "4720",
+            "tag": "The Control Collection"
+        },
+        "selfopeningitem_set_op10_t": {
+            "index": "4721",
+            "tag": "The Havoc Collection"
+        },
+        "selfopeningitem_set_op10_ancient": {
+            "index": "4722",
+            "tag": "The Ancient Collection"
+        },
+        "selfopeningitem_set_train_2021_rare_standalone": {
+            "index": "4785",
+            "tag": "The 2021 Train Collection"
+        },
+        "selfopeningitem_set_train_2021_mythical_standalone": {
+            "index": "4786",
+            "tag": "The 2021 Train Collection"
+        },
+        "selfopeningitem_set_train_2021_legendary_standalone": {
+            "index": "4787",
+            "tag": "The 2021 Train Collection"
+        },
+        "selfopeningitem_set_train_2021_ancient_standalone": {
+            "index": "4788",
+            "tag": "The 2021 Train Collection"
+        },
+        "selfopeningitem_set_vertigo_2021": {
+            "index": "4792",
+            "tag": "The 2021 Vertigo Collection"
+        },
+        "selfopeningitem_set_dust_2_2021": {
+            "index": "4793",
+            "tag": "The 2021 Dust 2 Collection"
+        },
+        "selfopeningitem_set_mirage_2021": {
+            "index": "4794",
+            "tag": "The 2021 Mirage Collection"
+        },
+        "selfopeningitem_crate_spray_std2_1": {
+            "index": "4621",
+            "tag": "CS:GO Graffiti #2 Collection"
+        },
+        "selfopeningitem_crate_spray_std2_2": {
+            "index": "4618",
+            "tag": "Trolling Graffiti Collection"
+        },
+        "selfopeningitem_crate_spray_std3": {
+            "index": "4617",
+            "tag": "CS:GO Graffiti #3 Collection"
+        },
+        "selfopeningitem_crate_sticker_pack_shattered_web": {
+            "index": "4667",
+            "tag": "Shattered Web Sticker Collection"
+        },
+        "selfopeningitem_crate_sticker_pack_recoil": {
+            "index": "4723",
+            "tag": "Recoil Sticker Collection"
+        },
+        "selfopeningitem_crate_sticker_pack_broken_fang": {
+            "index": "4731",
+            "tag": "Broken Fang Sticker Collection"
+        },
+        "selfopeningitem_crate_sticker_pack_riptide_surfshop": {
+            "index": "4791",
+            "tag": "Riptide Surf Shop Sticker Collection"
+        },
+        "crate_sticker_pack_chicken_capsule": {
+            "index": "4477",
+            "tag": "Chicken Capsule"
+        },
+        "crate_community_23": {
+            "index": "4620",
+            "tag": "Shattered Web Case"
+        },
+        "crate_community_24": {
+            "index": "4669",
+            "tag": "CS20 Case"
+        },
+        "crate_sticker_pack_cs20_capsule": {
+            "index": "4670",
+            "tag": "CS20 Sticker Capsule"
+        },
+        "crate_patch_pack01": {
+            "index": "4610",
+            "tag": "CS:GO Patch Pack"
+        },
+        "crate_patch_pack02": {
+            "index": "4614",
+            "tag": "Metal Skill Group Patch Collection"
+        },
+        "crate_patch_pack03": {
+            "index": "4795",
+            "tag": "Operation Riptide Patch Collection"
+        },
+        "crate_patch_pack_hlalyx": {
+            "index": "4615",
+            "tag": "Half-Life: Alyx Patch Pack"
+        },
+        "crate_sticker_pack_hlalyx_capsule": {
+            "index": "4694",
+            "tag": "Half-Life: Alyx Sticker Capsule"
+        },
+        "crate_community_25": {
+            "index": "4695",
+            "tag": "Prisma 2 Case"
+        },
+        "crate_community_26": {
+            "index": "4698",
+            "tag": "Fracture Case"
+        },
+        "crate_community_27": {
+            "index": "4717",
+            "tag": "Operation Broken Fang Case"
+        },
+        "crate_sticker_pack_recoil": {
+            "index": "4719",
+            "tag": "Recoil Sticker Collection"
+        },
+        "crate_sticker_pack_poorly_drawn": {
+            "index": "4746",
+            "tag": "Poorly Drawn Capsule"
+        },
+        "crate_community_28": {
+            "index": "4747",
+            "tag": "Snakebite Case"
+        },
+        "crate_anubis_storepromo": {
+            "index": "4882",
+            "tag": "Anubis Collection Package"
+        },
+        "crate_sticker_pack_riptide_surfshop": {
+            "index": "4779",
+            "tag": "Riptide Surf Shop Sticker Collection"
+        },
+        "crate_sticker_pack_community2021_capsule": {
+            "index": "4782",
+            "tag": "2021 Community Sticker Capsule"
+        },
+        "crate_sticker_pack_bf2042_capsule": {
+            "index": "4789",
+            "tag": "Battlefield 2042 Sticker Capsule"
+        },
+        "crate_community_29": {
+            "index": "4790",
+            "tag": "Operation Riptide Case"
+        },
+        "crate_sticker_pack_op_riptide_capsule": {
+            "index": "4783",
+            "tag": "Operation Riptide Sticker Collection"
+        },
+        "crate_community_30": {
+            "index": "4818",
+            "tag": "Dreams & Nightmares Case"
+        },
+        "crate_sticker_pack_spring2022_capsule": {
+            "index": "4784",
+            "tag": "The Boardroom Sticker Capsule"
+        },
+        "crate_community_31": {
+            "index": "4846",
+            "tag": "Recoil Case"
+        },
+        "crate_sticker_pack_csgo10_capsule": {
+            "index": "4847",
+            "tag": "10 Year Birthday Sticker Capsule"
+        },
+        "crate_sticker_pack_community2022_capsule": {
+            "index": "4879",
+            "tag": "Espionage Sticker Capsule"
+        },
+        "crate_community_32": {
+            "index": "4880",
+            "tag": "Revolution Case"
+        }
+    },
     "skins": {
         "weapon_bizon": {
             "hy_blueprint_white": {
