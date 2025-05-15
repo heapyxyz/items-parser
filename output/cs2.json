@@ -1656,6 +1656,38 @@
             "index": "4692",
             "tag": "City 17 Pin"
         },
+        "tournament_journal_katowice2019": {
+            "index": "4555",
+            "tag": "Katowice 2019 Coin"
+        },
+        "tournament_journal_katowice2019_silver": {
+            "index": "4556",
+            "tag": "Katowice 2019 Silver Coin"
+        },
+        "tournament_journal_katowice2019_gold": {
+            "index": "4557",
+            "tag": "Katowice 2019 Gold Coin"
+        },
+        "tournament_journal_katowice2019_crystal": {
+            "index": "4558",
+            "tag": "Katowice 2019 Diamond Coin"
+        },
+        "tournament_journal_berlin2019": {
+            "index": "4623",
+            "tag": "Berlin 2019 Coin"
+        },
+        "tournament_journal_berlin2019_silver": {
+            "index": "4624",
+            "tag": "Berlin 2019 Silver Coin"
+        },
+        "tournament_journal_berlin2019_gold": {
+            "index": "4625",
+            "tag": "Berlin 2019 Gold Coin"
+        },
+        "tournament_journal_berlin2019_crystal": {
+            "index": "4626",
+            "tag": "Berlin 2019 Diamond Coin"
+        },
         "CommunitySeasonNine2019 Coin 1": {
             "index": "4550",
             "tag": "Operation Shattered Web Challenge Coin"
@@ -1740,6 +1772,86 @@
             "index": "4765",
             "tag": "100 Stars for Operation Riptide"
         },
+        "tournament_journal_stockh2021": {
+            "index": "4797",
+            "tag": "Stockholm 2021 Coin"
+        },
+        "tournament_journal_stockh2021_silver": {
+            "index": "4798",
+            "tag": "Stockholm 2021 Silver Coin"
+        },
+        "tournament_journal_stockh2021_gold": {
+            "index": "4799",
+            "tag": "Stockholm 2021 Gold Coin"
+        },
+        "tournament_journal_stockh2021_crystal": {
+            "index": "4800",
+            "tag": "Stockholm 2021 Diamond Coin"
+        },
+        "tournament_journal_antwerp2022": {
+            "index": "4826",
+            "tag": "Antwerp 2022 Coin"
+        },
+        "tournament_journal_antwerp2022_silver": {
+            "index": "4827",
+            "tag": "Antwerp 2022 Silver Coin"
+        },
+        "tournament_journal_antwerp2022_gold": {
+            "index": "4828",
+            "tag": "Antwerp 2022 Gold Coin"
+        },
+        "tournament_journal_antwerp2022_crystal": {
+            "index": "4829",
+            "tag": "Antwerp 2022 Diamond Coin"
+        },
+        "tournament_journal_rio2022": {
+            "index": "4851",
+            "tag": "Rio 2022 Coin"
+        },
+        "tournament_journal_rio2022_silver": {
+            "index": "4852",
+            "tag": "Rio 2022 Silver Coin"
+        },
+        "tournament_journal_rio2022_gold": {
+            "index": "4853",
+            "tag": "Rio 2022 Gold Coin"
+        },
+        "tournament_journal_rio2022_crystal": {
+            "index": "4854",
+            "tag": "Rio 2022 Diamond Coin"
+        },
+        "tournament_journal_paris2023": {
+            "index": "4884",
+            "tag": "Paris 2023 Coin"
+        },
+        "tournament_journal_paris2023_silver": {
+            "index": "4885",
+            "tag": "Paris 2023 Silver Coin"
+        },
+        "tournament_journal_paris2023_gold": {
+            "index": "4886",
+            "tag": "Paris 2023 Gold Coin"
+        },
+        "tournament_journal_paris2023_crystal": {
+            "index": "4887",
+            "tag": "Paris 2023 Diamond Coin"
+        },
+        "tournament_journal_cph2024": {
+            "index": "4917",
+            "tag": "Copenhagen 2024 Coin"
+        },
+        "tournament_journal_cph2024_silver": {
+            "index": "4918",
+            "tag": "Copenhagen 2024 Silver Coin"
+        },
+        "tournament_journal_cph2024_gold": {
+            "index": "4919",
+            "tag": "Copenhagen 2024 Gold Coin"
+        },
+        "tournament_journal_cph2024_crystal": {
+            "index": "4920",
+            "tag": "Copenhagen 2024 Diamond Coin"
+        },
         "PGL Copenhagen 2024 CS:GO Champion": {
             "index": "4933",
             "tag": "Champion at PGL Copenhagen 2024"
@@ -1755,6 +1867,22 @@
         "PGL Copenhagen 2024 CS:GO Quarterfinalist": {
             "index": "4936",
             "tag": "Quarterfinalist at PGL Copenhagen 2024"
+        },
+        "tournament_journal_sha2024": {
+            "index": "4958",
+            "tag": "Shanghai 2024 Coin"
+        },
+        "tournament_journal_sha2024_silver": {
+            "index": "4959",
+            "tag": "Shanghai 2024 Silver Coin"
+        },
+        "tournament_journal_sha2024_gold": {
+            "index": "4960",
+            "tag": "Shanghai 2024 Gold Coin"
+        },
+        "tournament_journal_sha2024_crystal": {
+            "index": "4961",
+            "tag": "Shanghai 2024 Diamond Coin"
         },
         "Perfect World Shanghai 2024 CS:GO Champion": {
             "index": "4974",

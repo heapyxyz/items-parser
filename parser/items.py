@@ -55,7 +55,9 @@ class Items:
 
             if "item_name" in item_data:
                 item_tag: str = item_data["item_name"]
-                if item_tag.startswith("#CSGO_Collectible"):
+                if item_tag.startswith("#CSGO_Collectible") or item_tag.startswith(
+                    "#CSGO_TournamentJournal"
+                ):
                     medal = {
                         "index": index,
                         "tag": self._lang.get(item_tag),
