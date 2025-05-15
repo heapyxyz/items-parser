@@ -44,7 +44,7 @@ class Items:
         return vdf.loads(data)
 
     def _get_items(self) -> dict:
-        if not "items" in self._data["items_game"]:
+        if "items" not in self._data["items_game"]:
             return {}
 
         data = self._data["items_game"]["items"]
@@ -55,67 +55,70 @@ class Items:
             item_name = item_data["name"]
             items[item_name] = index
 
-            if "item_name" in item_data:
-                item_tag: str = item_data["item_name"]
-                if item_tag.startswith("#CSGO_Collectible") or item_tag.startswith(
-                    "#CSGO_TournamentJournal"
-                ):
-                    medal = {
-                        "index": index,
-                        "tag": self._lang.get(item_tag),
-                    }
+            if "item_name" not in item_data:
+                continue
 
-                    self._medals[item_name] = medal
+            item_tag: str = item_data["item_name"]
+            if item_tag.startswith(("#CSGO_Collectible", "#CSGO_TournamentJournal")):
+                medal = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                }
 
-            if "prefab" in item_data:
-                prefab: str = item_data["prefab"]
-                if prefab == "customplayertradable":
-                    agent = {
-                        "index": index,
-                        "tag": self._lang.get(item_tag),
-                        "rarity": (
-                            item_data["item_rarity"]
-                            if "item_rarity" in item_data
-                            else "default"
-                        ),
-                    }
+                self._medals[item_name] = medal
 
-                    agent_team = (
-                        "ct"
-                        if "counter-terrorists" in item_data["used_by_classes"]
-                        else "t"
-                    )
-                    self._agents[agent_team][item_name] = agent
-                elif "season_pass" in prefab:
-                    ticket = {
-                        "index": index,
-                        "tag": self._lang.get(item_tag),
-                    }
+            if "prefab" not in item_data:
+                continue
 
-                    self._passes[item_name] = ticket
-                elif prefab in [
-                    "weapon_case",
-                    "weapon_case_base",
-                    "weapon_case_souvenir",
-                    "weapon_case_selfopening_collection",
-                    "sticker_capsule",
-                    "patch_capsule",
-                    "graffiti_box",
-                ]:
-                    container = {
-                        "index": index,
-                        "tag": self._lang.get(item_tag),
-                    }
+            prefab = item_data["prefab"]
+            if prefab == "customplayertradable":
+                agent = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                    "rarity": (
+                        item_data["item_rarity"]
+                        if "item_rarity" in item_data
+                        else "default"
+                    ),
+                }
 
-                    self._containers[item_name] = container
+                agent_team = (
+                    "ct"
+                    if "counter-terrorists" in item_data["used_by_classes"]
+                    else "t"
+                )
+
+                self._agents[agent_team][item_name] = agent
+            elif "season_pass" in prefab:
+                ticket = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                }
+
+                self._passes[item_name] = ticket
+            elif prefab in [
+                "weapon_case",
+                "weapon_case_base",
+                "weapon_case_souvenir",
+                "weapon_case_selfopening_collection",
+                "sticker_capsule",
+                "patch_capsule",
+                "graffiti_box",
+            ]:
+                container = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                }
+
+                self._containers[item_name] = container
 
         return items
 
     def _get_paint_kits(self) -> dict:
-        if not "paint_kits" in self._data["items_game"]:
+        if "paint_kits" not in self._data["items_game"]:
             return {}
 
-        if not "paint_kits_rarity" in self._data["items_game"]:
+        if "paint_kits_rarity" not in self._data["items_game"]:
             return {}
 
         data = self._data["items_game"]["paint_kits"]
@@ -126,7 +129,7 @@ class Items:
             kit_data = data[index]
             kit_name = kit_data["name"]
 
-            if not "description_string" in kit_data:
+            if "description_string" not in kit_data:
                 continue
 
             if "vmt_path" in kit_data:
@@ -161,7 +164,7 @@ class Items:
         return kits
 
     def _get_sticker_kits(self) -> dict:
-        if not "sticker_kits" in self._data["items_game"]:
+        if "sticker_kits" not in self._data["items_game"]:
             return {}
 
         data = self._data["items_game"]["sticker_kits"]
@@ -186,7 +189,7 @@ class Items:
         return stickers
 
     def _get_keychains(self) -> dict:
-        if not "keychain_definitions" in self._data["items_game"]:
+        if "keychain_definitions" not in self._data["items_game"]:
             return {}
 
         data = self._data["items_game"]["keychain_definitions"]
@@ -207,7 +210,7 @@ class Items:
         return keychains
 
     def _get_loot(self) -> dict:
-        if not "client_loot_lists" in self._data["items_game"]:
+        if "client_loot_lists" not in self._data["items_game"]:
             return {}
 
         data = self._data["items_game"]["client_loot_lists"]
@@ -226,29 +229,32 @@ class Items:
         for set in data:
             set_split = set.split("_")
 
-            if not set_split[-1] in rarities:
+            if set_split[-1] not in rarities:
                 continue
 
             for loot in data[set]:
+                if type(loot) != str:
+                    continue
+
                 loot_split = loot.replace("[", "").split("]")
 
                 if len(loot_split) != 2:
                     continue
 
-                kit: str = loot_split[0]
-                type: str = loot_split[1]
+                kit = loot_split[0]
+                loot_type = loot_split[1]
 
-                if not type in self._items:
+                if loot_type not in self._items:
                     continue
 
-                if type.startswith("weapon_"):
-                    if not type in loot_list["skins"]:
-                        loot_list["skins"][type] = {}
+                if loot_type.startswith("weapon_"):
+                    if loot_type not in loot_list["skins"]:
+                        loot_list["skins"][loot_type] = {}
 
-                    loot_list["skins"][type][kit] = self._paint_kits[kit]
-                elif type == "sticker":
+                    loot_list["skins"][loot_type][kit] = self._paint_kits[kit]
+                elif loot_type == "sticker":
                     loot_list["stickers"][kit] = self._sticker_kits[kit]
-                elif type == "patch":
+                elif loot_type == "patch":
                     loot_list["patches"][kit] = self._sticker_kits[kit]
 
         return loot_list
