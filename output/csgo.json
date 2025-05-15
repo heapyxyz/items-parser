@@ -2910,6 +2910,52 @@
             "tag": "Revolution Case"
         }
     },
+    "passes": {
+        "Community Season One Spring 2013": {
+            "index": "1000",
+            "tag": "Operation Payback Pass"
+        },
+        "Community Season Two Autumn 2013": {
+            "index": "1012",
+            "tag": "Operation Bravo Pass"
+        },
+        "Community Season Three Spring 2014": {
+            "index": "1023",
+            "tag": "Operation Phoenix Pass"
+        },
+        "Community Season Four Summer 2014": {
+            "index": "1027",
+            "tag": "Operation Breakout All Access Pass"
+        },
+        "Community Season Five Summer 2014": {
+            "index": "1315",
+            "tag": "Operation Vanguard Access Pass"
+        },
+        "Community Season Six 2015": {
+            "index": "1326",
+            "tag": "Operation Bloodhound Access Pass"
+        },
+        "CommunitySeasonSeven2016": {
+            "index": "1335",
+            "tag": "Operation Wildfire Access Pass"
+        },
+        "CommunitySeasonEight2017": {
+            "index": "1352",
+            "tag": "Operation Hydra Access Pass"
+        },
+        "CommunitySeasonNine2019": {
+            "index": "4549",
+            "tag": "Operation Shattered Web Premium Pass"
+        },
+        "CommunitySeasonTen2020": {
+            "index": "4699",
+            "tag": "Operation Broken Fang Premium Pass"
+        },
+        "CommunitySeasonEleven2021": {
+            "index": "4758",
+            "tag": "Operation Riptide Premium Pass"
+        }
+    },
     "skins": {
         "weapon_bizon": {
             "hy_blueprint_white": {

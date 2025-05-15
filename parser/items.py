@@ -26,6 +26,7 @@ class Items:
         self._agents = {"ct": {}, "t": {}}
         self._gloves = {}
         self._containers = {}
+        self._passes = {}
         self._items = self._get_items()
         self._paint_kits = self._get_paint_kits()
         self._sticker_kits = self._get_sticker_kits()
@@ -85,6 +86,13 @@ class Items:
                         else "t"
                     )
                     self._agents[agent_team][item_name] = agent
+                elif "season_pass" in prefab:
+                    ticket = {
+                        "index": index,
+                        "tag": self._lang.get(item_tag),
+                    }
+
+                    self._passes[item_name] = ticket
                 elif prefab in [
                     "weapon_case",
                     "weapon_case_base",
@@ -94,7 +102,6 @@ class Items:
                     "patch_capsule",
                     "graffiti_box",
                 ]:
-                    item_tag: str = item_data["item_name"]
                     container = {
                         "index": index,
                         "tag": self._lang.get(item_tag),
@@ -209,6 +216,7 @@ class Items:
             "agents": self._agents,
             "gloves": self._gloves,
             "containers": self._containers,
+            "passes": self._passes,
             "skins": {},
             "stickers": {},
             "patches": {},
