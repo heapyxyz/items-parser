@@ -868,6 +868,26 @@
             "index": "4985",
             "tag": "Basalt Map Coin"
         },
+        "Map Token AgencyCS2": {
+            "index": "5135",
+            "tag": "Agency Map Coin"
+        },
+        "Map Token Jura": {
+            "index": "5136",
+            "tag": "Jura Map Coin"
+        },
+        "Map Token Grail": {
+            "index": "5137",
+            "tag": "Grail Map Coin"
+        },
+        "Map Token Dogtown": {
+            "index": "5138",
+            "tag": "Dogtown Map Coin"
+        },
+        "Map Token Brewery": {
+            "index": "5139",
+            "tag": "Brewery Map Coin"
+        },
         "Community Season Five Summer 2014 Coin 1": {
             "index": "1316",
             "tag": "Operation Vanguard Challenge Coin"
