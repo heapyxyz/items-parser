@@ -1899,6 +1899,38 @@
         "Perfect World Shanghai 2024 CS:GO Quarterfinalist": {
             "index": "4977",
             "tag": "Quarterfinalist at Perfect World Shanghai 2024"
+        },
+        "tournament_journal_aus2025": {
+            "index": "5111",
+            "tag": "Austin 2025 Coin"
+        },
+        "tournament_journal_aus2025_silver": {
+            "index": "5112",
+            "tag": "Austin 2025 Silver Coin"
+        },
+        "tournament_journal_aus2025_gold": {
+            "index": "5113",
+            "tag": "Austin 2025 Gold Coin"
+        },
+        "tournament_journal_aus2025_crystal": {
+            "index": "5114",
+            "tag": "Austin 2025 Diamond Coin"
+        },
+        "BLAST.tv Austin 2025 CS:GO Champion": {
+            "index": "5127",
+            "tag": "Champion at BLAST.tv Austin 2025"
+        },
+        "BLAST.tv Austin 2025 CS:GO Finalist": {
+            "index": "5128",
+            "tag": "Finalist at BLAST.tv Austin 2025"
+        },
+        "BLAST.tv Austin 2025 CS:GO Semifinalist": {
+            "index": "5129",
+            "tag": "Semifinalist at BLAST.tv Austin 2025"
+        },
+        "BLAST.tv Austin 2025 CS:GO Quarterfinalist": {
+            "index": "5130",
+            "tag": "Quarterfinalist at BLAST.tv Austin 2025"
         }
     },
     "agents": {
@@ -3236,6 +3268,22 @@
         "crate_sticker_pack_community_2024_capsule": {
             "index": "4905",
             "tag": "Ambush Sticker Capsule"
+        },
+        "crate_sticker_pack_warhammer_traitor_capsule": {
+            "index": "7011",
+            "tag": "Warhammer 40,000 Traitor Astartes Sticker Capsule"
+        },
+        "crate_sticker_pack_warhammer_adeptus_capsule": {
+            "index": "7013",
+            "tag": "Warhammer 40,000 Adeptus Astartes Sticker Capsule"
+        },
+        "crate_sticker_pack_warhammer_imperium_capsule": {
+            "index": "7015",
+            "tag": "Warhammer 40,000 Imperium Sticker Capsule"
+        },
+        "crate_sticker_pack_warhammer_xenos_capsule": {
+            "index": "7017",
+            "tag": "Warhammer 40,000 Xenos Sticker Capsule"
         },
         "crate_community_33": {
             "index": "4904",
@@ -39584,6 +39632,366 @@
             "tag": "Old School (Lenticular)",
             "rarity": "ancient"
         },
+        "paper_world_eaters_1": {
+            "index": "9377",
+            "tag": "World Eaters 1",
+            "rarity": "rare"
+        },
+        "paper_world_eaters_2": {
+            "index": "9378",
+            "tag": "World Eaters 2",
+            "rarity": "rare"
+        },
+        "paper_word_bearers_1": {
+            "index": "9379",
+            "tag": "Word Bearers 1",
+            "rarity": "rare"
+        },
+        "paper_word_bearers_2": {
+            "index": "9380",
+            "tag": "Word Bearers 2",
+            "rarity": "rare"
+        },
+        "paper_thousand_sons_1": {
+            "index": "9381",
+            "tag": "Thousand Sons 1",
+            "rarity": "rare"
+        },
+        "paper_thousand_sons_2": {
+            "index": "9382",
+            "tag": "Thousand Sons 2",
+            "rarity": "rare"
+        },
+        "paper_night_lords_1": {
+            "index": "9383",
+            "tag": "Night Lords 1",
+            "rarity": "rare"
+        },
+        "paper_night_lords_2": {
+            "index": "9384",
+            "tag": "Night Lords 2",
+            "rarity": "rare"
+        },
+        "paper_iron_warriors_1": {
+            "index": "9385",
+            "tag": "Iron Warriors 1",
+            "rarity": "rare"
+        },
+        "paper_iron_warriors_2": {
+            "index": "9386",
+            "tag": "Iron Warriors 2",
+            "rarity": "rare"
+        },
+        "paper_emperors_children_1": {
+            "index": "9387",
+            "tag": "Emperor's Children 1",
+            "rarity": "rare"
+        },
+        "paper_emperors_children_2": {
+            "index": "9388",
+            "tag": "Emperor's Children 2",
+            "rarity": "rare"
+        },
+        "paper_death_guard_1": {
+            "index": "9389",
+            "tag": "Death Guard 1",
+            "rarity": "rare"
+        },
+        "paper_death_guard_2": {
+            "index": "9390",
+            "tag": "Death Guard 2",
+            "rarity": "rare"
+        },
+        "paper_black_legion_1": {
+            "index": "9391",
+            "tag": "Black Legion 1",
+            "rarity": "rare"
+        },
+        "paper_black_legion_2": {
+            "index": "9392",
+            "tag": "Black Legion 2",
+            "rarity": "rare"
+        },
+        "paper_alpha_legion_1": {
+            "index": "9393",
+            "tag": "Alpha Legion 1",
+            "rarity": "rare"
+        },
+        "paper_alpha_legion_2": {
+            "index": "9394",
+            "tag": "Alpha Legion 2",
+            "rarity": "rare"
+        },
+        "paper_ultramarines": {
+            "index": "9359",
+            "tag": "Ultramarines",
+            "rarity": "rare"
+        },
+        "paper_dark_angels": {
+            "index": "9360",
+            "tag": "Dark Angels",
+            "rarity": "rare"
+        },
+        "paper_blood_angels": {
+            "index": "9361",
+            "tag": "Blood Angels",
+            "rarity": "rare"
+        },
+        "paper_space_wolves": {
+            "index": "9362",
+            "tag": "Space Wolves",
+            "rarity": "rare"
+        },
+        "paper_imperial_fists": {
+            "index": "9363",
+            "tag": "Imperial Fists",
+            "rarity": "rare"
+        },
+        "paper_salamanders": {
+            "index": "9364",
+            "tag": "Salamanders",
+            "rarity": "rare"
+        },
+        "paper_white_scars": {
+            "index": "9365",
+            "tag": "White Scars",
+            "rarity": "rare"
+        },
+        "paper_raven_guard": {
+            "index": "9366",
+            "tag": "Raven Guard",
+            "rarity": "rare"
+        },
+        "paper_40k_skull": {
+            "index": "9367",
+            "tag": "Astartes Skull",
+            "rarity": "rare"
+        },
+        "paper_raptors": {
+            "index": "9368",
+            "tag": "Raptors",
+            "rarity": "rare"
+        },
+        "paper_iron_hands": {
+            "index": "9369",
+            "tag": "Iron Hands",
+            "rarity": "rare"
+        },
+        "paper_40k_halo": {
+            "index": "9370",
+            "tag": "Iron Halo",
+            "rarity": "rare"
+        },
+        "paper_flesh_tearers": {
+            "index": "9371",
+            "tag": "Flesh Tearers",
+            "rarity": "rare"
+        },
+        "paper_scythes_emperor": {
+            "index": "9372",
+            "tag": "Scythes of the Emperor",
+            "rarity": "rare"
+        },
+        "paper_blood_ravens": {
+            "index": "9373",
+            "tag": "Blood Ravens",
+            "rarity": "rare"
+        },
+        "paper_adeptus_astartes": {
+            "index": "9374",
+            "tag": "Adeptus Astartes",
+            "rarity": "rare"
+        },
+        "paper_crimson_fists": {
+            "index": "9375",
+            "tag": "Crimson Fists",
+            "rarity": "rare"
+        },
+        "paper_silver_skulls": {
+            "index": "9376",
+            "tag": "Silver Skulls",
+            "rarity": "rare"
+        },
+        "paper_ecclesiarchy": {
+            "index": "9395",
+            "tag": "Ecclesiarchy",
+            "rarity": "rare"
+        },
+        "paper_inquisition": {
+            "index": "9396",
+            "tag": "Inquisition",
+            "rarity": "rare"
+        },
+        "paper_imperial_knights": {
+            "index": "9397",
+            "tag": "Imperial Knights",
+            "rarity": "rare"
+        },
+        "paper_astra_militarum": {
+            "index": "9398",
+            "tag": "Astra Militarum 1",
+            "rarity": "rare"
+        },
+        "paper_astra_militarum_2": {
+            "index": "9399",
+            "tag": "Astra Militarum 2",
+            "rarity": "rare"
+        },
+        "paper_cadia": {
+            "index": "9400",
+            "tag": "Cadia",
+            "rarity": "rare"
+        },
+        "paper_adeptus_custodes_1": {
+            "index": "9401",
+            "tag": "Adeptus Custodes 1",
+            "rarity": "rare"
+        },
+        "paper_adeptus_custodes_2": {
+            "index": "9402",
+            "tag": "Adeptus Custodes 2",
+            "rarity": "rare"
+        },
+        "paper_officio_assassinorum": {
+            "index": "9403",
+            "tag": "Officio Assassinorum",
+            "rarity": "rare"
+        },
+        "paper_adepta_sororitas_1": {
+            "index": "9404",
+            "tag": "Sisters of Battle 1",
+            "rarity": "rare"
+        },
+        "paper_adepta_sororitas_2": {
+            "index": "9405",
+            "tag": "Sisters of Battle 2",
+            "rarity": "rare"
+        },
+        "paper_adeptus_arbites": {
+            "index": "9406",
+            "tag": "Adeptus Arbites",
+            "rarity": "rare"
+        },
+        "paper_catachan": {
+            "index": "9407",
+            "tag": "Catachan",
+            "rarity": "rare"
+        },
+        "paper_adeptus_titanicus_1": {
+            "index": "9408",
+            "tag": "Adeptus Titanicus 1",
+            "rarity": "rare"
+        },
+        "paper_adeptus_titanicus_2": {
+            "index": "9409",
+            "tag": "Adeptus Titanicus 2",
+            "rarity": "rare"
+        },
+        "paper_adeptus_mechanicus_1": {
+            "index": "9410",
+            "tag": "Adeptus Mechanicus 1",
+            "rarity": "rare"
+        },
+        "paper_adeptus_mechanicus_2": {
+            "index": "9411",
+            "tag": "Adeptus Mechanicus 2",
+            "rarity": "rare"
+        },
+        "paper_rogue_trader": {
+            "index": "9412",
+            "tag": "Rogue Trader",
+            "rarity": "rare"
+        },
+        "paper_tyranids_1": {
+            "index": "9413",
+            "tag": "Tyranids 1",
+            "rarity": "rare"
+        },
+        "paper_tyranids_2": {
+            "index": "9414",
+            "tag": "Tyranids 2",
+            "rarity": "rare"
+        },
+        "paper_tau_empire_1": {
+            "index": "9415",
+            "tag": "T'au Empire 1",
+            "rarity": "rare"
+        },
+        "paper_tau_empire_2": {
+            "index": "9416",
+            "tag": "T'au Empire 2",
+            "rarity": "rare"
+        },
+        "paper_orks_1": {
+            "index": "9417",
+            "tag": "Orks 1",
+            "rarity": "rare"
+        },
+        "paper_orks_2": {
+            "index": "9418",
+            "tag": "Orks 2",
+            "rarity": "rare"
+        },
+        "paper_necrons_1": {
+            "index": "9419",
+            "tag": "Necron Ankh",
+            "rarity": "rare"
+        },
+        "paper_necrons_2": {
+            "index": "9420",
+            "tag": "Necron Glyphs",
+            "rarity": "rare"
+        },
+        "paper_leagues_votann_1": {
+            "index": "9421",
+            "tag": "Leagues of Votann 1",
+            "rarity": "rare"
+        },
+        "paper_leagues_votann_2": {
+            "index": "9422",
+            "tag": "Leagues of Votann 2",
+            "rarity": "rare"
+        },
+        "paper_harlequins_1": {
+            "index": "9423",
+            "tag": "Harlequins 1",
+            "rarity": "rare"
+        },
+        "paper_harlequins_2": {
+            "index": "9424",
+            "tag": "Harlequins 2",
+            "rarity": "rare"
+        },
+        "paper_genestealer_cults_1": {
+            "index": "9425",
+            "tag": "Genestealer Cults 1",
+            "rarity": "rare"
+        },
+        "paper_genestealer_cults_2": {
+            "index": "9426",
+            "tag": "Genestealer Cults 2",
+            "rarity": "rare"
+        },
+        "paper_drukhari_1": {
+            "index": "9427",
+            "tag": "Drukhari 1",
+            "rarity": "rare"
+        },
+        "paper_drukhari_2": {
+            "index": "9428",
+            "tag": "Drukhari 2",
+            "rarity": "rare"
+        },
+        "paper_aeldari_1": {
+            "index": "9429",
+            "tag": "Aeldari 1",
+            "rarity": "rare"
+        },
+        "paper_aeldari_2": {
+            "index": "9430",
+            "tag": "Aeldari 2",
+            "rarity": "rare"
+        },
         "paper_lightning_two": {
             "index": "7882",
             "tag": "Bolt Strike",
@@ -39838,6 +40246,3066 @@
             "index": "7919",
             "tag": "Googly Eye (Lenticular)",
             "rarity": "ancient"
+        },
+        "aus2025_team_vita": {
+            "index": "8554",
+            "tag": "Vitality | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_mouz": {
+            "index": "8558",
+            "tag": "MOUZ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_spir": {
+            "index": "8562",
+            "tag": "Team Spirit | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_mngz": {
+            "index": "8566",
+            "tag": "The Mongolz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_aura": {
+            "index": "8570",
+            "tag": "Aurora | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_navi": {
+            "index": "8574",
+            "tag": "Natus Vincere | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_g2": {
+            "index": "8578",
+            "tag": "G2 Esports | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_liq": {
+            "index": "8582",
+            "tag": "Team Liquid | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_blst": {
+            "index": "8682",
+            "tag": "BLAST.tv | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_vita_foil": {
+            "index": "8555",
+            "tag": "Vitality (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_mouz_foil": {
+            "index": "8559",
+            "tag": "MOUZ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_spir_foil": {
+            "index": "8563",
+            "tag": "Team Spirit (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_mngz_foil": {
+            "index": "8567",
+            "tag": "The Mongolz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_aura_foil": {
+            "index": "8571",
+            "tag": "Aurora (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_navi_foil": {
+            "index": "8575",
+            "tag": "Natus Vincere (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_g2_foil": {
+            "index": "8579",
+            "tag": "G2 Esports (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_liq_foil": {
+            "index": "8583",
+            "tag": "Team Liquid (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_blst_foil": {
+            "index": "8683",
+            "tag": "BLAST.tv (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_vita_holo": {
+            "index": "8556",
+            "tag": "Vitality (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_mouz_holo": {
+            "index": "8560",
+            "tag": "MOUZ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_spir_holo": {
+            "index": "8564",
+            "tag": "Team Spirit (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_mngz_holo": {
+            "index": "8568",
+            "tag": "The Mongolz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_aura_holo": {
+            "index": "8572",
+            "tag": "Aurora (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_navi_holo": {
+            "index": "8576",
+            "tag": "Natus Vincere (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_g2_holo": {
+            "index": "8580",
+            "tag": "G2 Esports (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_liq_holo": {
+            "index": "8584",
+            "tag": "Team Liquid (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_blst_holo": {
+            "index": "8684",
+            "tag": "BLAST.tv (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_vita_gold": {
+            "index": "8557",
+            "tag": "Vitality (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_mouz_gold": {
+            "index": "8561",
+            "tag": "MOUZ (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_spir_gold": {
+            "index": "8565",
+            "tag": "Team Spirit (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_mngz_gold": {
+            "index": "8569",
+            "tag": "The Mongolz (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_aura_gold": {
+            "index": "8573",
+            "tag": "Aurora (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_navi_gold": {
+            "index": "8577",
+            "tag": "Natus Vincere (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_g2_gold": {
+            "index": "8581",
+            "tag": "G2 Esports (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_liq_gold": {
+            "index": "8585",
+            "tag": "Team Liquid (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_blst_gold": {
+            "index": "8685",
+            "tag": "BLAST.tv (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_fal": {
+            "index": "8586",
+            "tag": "Falcons | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_faze": {
+            "index": "8590",
+            "tag": "FaZe Clan | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_3dm": {
+            "index": "8594",
+            "tag": "3DMAX | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_vp": {
+            "index": "8598",
+            "tag": "Virtus.Pro | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_pain": {
+            "index": "8602",
+            "tag": "paiN Gaming | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_furi": {
+            "index": "8606",
+            "tag": "FURIA | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_mibr": {
+            "index": "8610",
+            "tag": "MIBR | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_m80": {
+            "index": "8614",
+            "tag": "M80 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_fal_foil": {
+            "index": "8587",
+            "tag": "Falcons (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_faze_foil": {
+            "index": "8591",
+            "tag": "FaZe Clan (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_3dm_foil": {
+            "index": "8595",
+            "tag": "3DMAX (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_vp_foil": {
+            "index": "8599",
+            "tag": "Virtus.Pro (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_pain_foil": {
+            "index": "8603",
+            "tag": "paiN Gaming (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_furi_foil": {
+            "index": "8607",
+            "tag": "FURIA (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_mibr_foil": {
+            "index": "8611",
+            "tag": "MIBR (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_m80_foil": {
+            "index": "8615",
+            "tag": "M80 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_fal_holo": {
+            "index": "8588",
+            "tag": "Falcons (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_faze_holo": {
+            "index": "8592",
+            "tag": "FaZe Clan (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_3dm_holo": {
+            "index": "8596",
+            "tag": "3DMAX (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_vp_holo": {
+            "index": "8600",
+            "tag": "Virtus.Pro (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_pain_holo": {
+            "index": "8604",
+            "tag": "paiN Gaming (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_furi_holo": {
+            "index": "8608",
+            "tag": "FURIA (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_mibr_holo": {
+            "index": "8612",
+            "tag": "MIBR (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_m80_holo": {
+            "index": "8616",
+            "tag": "M80 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_fal_gold": {
+            "index": "8589",
+            "tag": "Falcons (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_faze_gold": {
+            "index": "8593",
+            "tag": "FaZe Clan (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_3dm_gold": {
+            "index": "8597",
+            "tag": "3DMAX (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_vp_gold": {
+            "index": "8601",
+            "tag": "Virtus.Pro (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_pain_gold": {
+            "index": "8605",
+            "tag": "paiN Gaming (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_furi_gold": {
+            "index": "8609",
+            "tag": "FURIA (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_mibr_gold": {
+            "index": "8613",
+            "tag": "MIBR (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_m80_gold": {
+            "index": "8617",
+            "tag": "M80 (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_cplx": {
+            "index": "8618",
+            "tag": "Complexity Gaming | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_wcrd": {
+            "index": "8622",
+            "tag": "Wildcard | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_hero": {
+            "index": "8626",
+            "tag": "HEROIC | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_b8": {
+            "index": "8630",
+            "tag": "B8 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_og": {
+            "index": "8634",
+            "tag": "OG | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_nemi": {
+            "index": "8638",
+            "tag": "Nemiga | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_bb": {
+            "index": "8642",
+            "tag": "BetBoom | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_imp": {
+            "index": "8646",
+            "tag": "Imperial Esports | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_nrg": {
+            "index": "8650",
+            "tag": "NRG | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_fq": {
+            "index": "8654",
+            "tag": "FlyQuest | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_meti": {
+            "index": "8658",
+            "tag": "Metizport | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_tyl": {
+            "index": "8662",
+            "tag": "TYLOO | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_flux": {
+            "index": "8666",
+            "tag": "Fluxo | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_chin": {
+            "index": "8670",
+            "tag": "Chinggis Warriors | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_lynn": {
+            "index": "8674",
+            "tag": "Lynn Vision | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_lgcy": {
+            "index": "8678",
+            "tag": "Legacy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_team_cplx_foil": {
+            "index": "8619",
+            "tag": "Complexity Gaming (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_wcrd_foil": {
+            "index": "8623",
+            "tag": "Wildcard (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_hero_foil": {
+            "index": "8627",
+            "tag": "HEROIC (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_b8_foil": {
+            "index": "8631",
+            "tag": "B8 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_og_foil": {
+            "index": "8635",
+            "tag": "OG (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_nemi_foil": {
+            "index": "8639",
+            "tag": "Nemiga (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_bb_foil": {
+            "index": "8643",
+            "tag": "BetBoom (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_imp_foil": {
+            "index": "8647",
+            "tag": "Imperial Esports (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_nrg_foil": {
+            "index": "8651",
+            "tag": "NRG (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_fq_foil": {
+            "index": "8655",
+            "tag": "FlyQuest (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_meti_foil": {
+            "index": "8659",
+            "tag": "Metizport (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_tyl_foil": {
+            "index": "8663",
+            "tag": "TYLOO (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_flux_foil": {
+            "index": "8667",
+            "tag": "Fluxo (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_chin_foil": {
+            "index": "8671",
+            "tag": "Chinggis Warriors (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_lynn_foil": {
+            "index": "8675",
+            "tag": "Lynn Vision (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_lgcy_foil": {
+            "index": "8679",
+            "tag": "Legacy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_team_cplx_holo": {
+            "index": "8620",
+            "tag": "Complexity Gaming (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_wcrd_holo": {
+            "index": "8624",
+            "tag": "Wildcard (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_hero_holo": {
+            "index": "8628",
+            "tag": "HEROIC (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_b8_holo": {
+            "index": "8632",
+            "tag": "B8 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_og_holo": {
+            "index": "8636",
+            "tag": "OG (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_nemi_holo": {
+            "index": "8640",
+            "tag": "Nemiga (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_bb_holo": {
+            "index": "8644",
+            "tag": "BetBoom (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_imp_holo": {
+            "index": "8648",
+            "tag": "Imperial Esports (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_nrg_holo": {
+            "index": "8652",
+            "tag": "NRG (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_fq_holo": {
+            "index": "8656",
+            "tag": "FlyQuest (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_meti_holo": {
+            "index": "8660",
+            "tag": "Metizport (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_tyl_holo": {
+            "index": "8664",
+            "tag": "TYLOO (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_flux_holo": {
+            "index": "8668",
+            "tag": "Fluxo (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_chin_holo": {
+            "index": "8672",
+            "tag": "Chinggis Warriors (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_lynn_holo": {
+            "index": "8676",
+            "tag": "Lynn Vision (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_lgcy_holo": {
+            "index": "8680",
+            "tag": "Legacy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_team_cplx_gold": {
+            "index": "8621",
+            "tag": "Complexity Gaming (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_wcrd_gold": {
+            "index": "8625",
+            "tag": "Wildcard (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_hero_gold": {
+            "index": "8629",
+            "tag": "HEROIC (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_b8_gold": {
+            "index": "8633",
+            "tag": "B8 (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_og_gold": {
+            "index": "8637",
+            "tag": "OG (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_nemi_gold": {
+            "index": "8641",
+            "tag": "Nemiga (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_bb_gold": {
+            "index": "8645",
+            "tag": "BetBoom (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_imp_gold": {
+            "index": "8649",
+            "tag": "Imperial Esports (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_nrg_gold": {
+            "index": "8653",
+            "tag": "NRG (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_fq_gold": {
+            "index": "8657",
+            "tag": "FlyQuest (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_meti_gold": {
+            "index": "8661",
+            "tag": "Metizport (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_tyl_gold": {
+            "index": "8665",
+            "tag": "TYLOO (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_flux_gold": {
+            "index": "8669",
+            "tag": "Fluxo (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_chin_gold": {
+            "index": "8673",
+            "tag": "Chinggis Warriors (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_lynn_gold": {
+            "index": "8677",
+            "tag": "Lynn Vision (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_team_lgcy_gold": {
+            "index": "8681",
+            "tag": "Legacy (Gold) | Austin 2025",
+            "rarity": "ancient"
+        },
+        "aus2025_signature_apex_2": {
+            "index": "8719",
+            "tag": "apEX | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zywoo_2": {
+            "index": "8723",
+            "tag": "ZywOo | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_flamez_2": {
+            "index": "8727",
+            "tag": "FlameZ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_mezii_2": {
+            "index": "8731",
+            "tag": "mezii | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ropz_2": {
+            "index": "8735",
+            "tag": "ropz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_torzsi_2": {
+            "index": "8739",
+            "tag": "torzsi | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jimpphat_2": {
+            "index": "8743",
+            "tag": "Jimpphat | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_brollan_2": {
+            "index": "8747",
+            "tag": "Brollan | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_spinx_2": {
+            "index": "8751",
+            "tag": "Spinx | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_xertion_2": {
+            "index": "8755",
+            "tag": "xertioN | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_chopper_2": {
+            "index": "8759",
+            "tag": "chopper | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_magixx_2": {
+            "index": "8763",
+            "tag": "magixx | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_donk_2": {
+            "index": "8767",
+            "tag": "donk | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_sh1ro_2": {
+            "index": "8771",
+            "tag": "sh1ro | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zont1x_2": {
+            "index": "8775",
+            "tag": "zont1x | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_blitz_2": {
+            "index": "8779",
+            "tag": "bLitz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_techno4k_2": {
+            "index": "8783",
+            "tag": "Techno4K | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_senzu_2": {
+            "index": "8787",
+            "tag": "Senzu | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_910_2": {
+            "index": "8791",
+            "tag": "910 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_mzinho_2": {
+            "index": "8795",
+            "tag": "mzinho | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_maj3r_2": {
+            "index": "8799",
+            "tag": "MAJ3R | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_xantares_2": {
+            "index": "8803",
+            "tag": "XANTARES | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jottaaa_2": {
+            "index": "8807",
+            "tag": "jottAAA | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_wicadia_2": {
+            "index": "8811",
+            "tag": "Wicadia | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_woxic_2": {
+            "index": "8815",
+            "tag": "woxic | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_w0nderful_2": {
+            "index": "8819",
+            "tag": "w0nderful | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_aleksib_2": {
+            "index": "8823",
+            "tag": "Aleksib | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jl_2": {
+            "index": "8827",
+            "tag": "jL | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_b1t_2": {
+            "index": "8831",
+            "tag": "b1t | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_im_2": {
+            "index": "8835",
+            "tag": "iM | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_snax_2": {
+            "index": "8839",
+            "tag": "Snax | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_hunter_2": {
+            "index": "8843",
+            "tag": "huNter- | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_malbsmd_2": {
+            "index": "8847",
+            "tag": "malbsMd | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_heavygod_2": {
+            "index": "8851",
+            "tag": "Heavygod | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_hades_2": {
+            "index": "8855",
+            "tag": "hades | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_twistzz_2": {
+            "index": "8859",
+            "tag": "Twistzz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ultimate_2": {
+            "index": "8863",
+            "tag": "ultimate | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nertz_2": {
+            "index": "8867",
+            "tag": "NertZ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_siuhy_2": {
+            "index": "8871",
+            "tag": "siuhy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_naf_2": {
+            "index": "8875",
+            "tag": "NAF | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_apex_2_foil": {
+            "index": "8720",
+            "tag": "apEX (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zywoo_2_foil": {
+            "index": "8724",
+            "tag": "ZywOo (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_flamez_2_foil": {
+            "index": "8728",
+            "tag": "FlameZ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_mezii_2_foil": {
+            "index": "8732",
+            "tag": "mezii (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ropz_2_foil": {
+            "index": "8736",
+            "tag": "ropz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_torzsi_2_foil": {
+            "index": "8740",
+            "tag": "torzsi (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jimpphat_2_foil": {
+            "index": "8744",
+            "tag": "Jimpphat (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_brollan_2_foil": {
+            "index": "8748",
+            "tag": "Brollan (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_spinx_2_foil": {
+            "index": "8752",
+            "tag": "Spinx (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_xertion_2_foil": {
+            "index": "8756",
+            "tag": "xertioN (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_chopper_2_foil": {
+            "index": "8760",
+            "tag": "chopper (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_magixx_2_foil": {
+            "index": "8764",
+            "tag": "magixx (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_donk_2_foil": {
+            "index": "8768",
+            "tag": "donk (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_sh1ro_2_foil": {
+            "index": "8772",
+            "tag": "sh1ro (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zont1x_2_foil": {
+            "index": "8776",
+            "tag": "zont1x (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_blitz_2_foil": {
+            "index": "8780",
+            "tag": "bLitz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_techno4k_2_foil": {
+            "index": "8784",
+            "tag": "Techno4K (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_senzu_2_foil": {
+            "index": "8788",
+            "tag": "Senzu (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_910_2_foil": {
+            "index": "8792",
+            "tag": "910 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_mzinho_2_foil": {
+            "index": "8796",
+            "tag": "mzinho (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_maj3r_2_foil": {
+            "index": "8800",
+            "tag": "MAJ3R (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_xantares_2_foil": {
+            "index": "8804",
+            "tag": "XANTARES (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jottaaa_2_foil": {
+            "index": "8808",
+            "tag": "jottAAA (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_wicadia_2_foil": {
+            "index": "8812",
+            "tag": "Wicadia (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_woxic_2_foil": {
+            "index": "8816",
+            "tag": "woxic (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_w0nderful_2_foil": {
+            "index": "8820",
+            "tag": "w0nderful (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_aleksib_2_foil": {
+            "index": "8824",
+            "tag": "Aleksib (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jl_2_foil": {
+            "index": "8828",
+            "tag": "jL (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_b1t_2_foil": {
+            "index": "8832",
+            "tag": "b1t (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_im_2_foil": {
+            "index": "8836",
+            "tag": "iM (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_snax_2_foil": {
+            "index": "8840",
+            "tag": "Snax (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_hunter_2_foil": {
+            "index": "8844",
+            "tag": "huNter- (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_malbsmd_2_foil": {
+            "index": "8848",
+            "tag": "malbsMd (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_heavygod_2_foil": {
+            "index": "8852",
+            "tag": "Heavygod (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_hades_2_foil": {
+            "index": "8856",
+            "tag": "hades (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_twistzz_2_foil": {
+            "index": "8860",
+            "tag": "Twistzz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ultimate_2_foil": {
+            "index": "8864",
+            "tag": "ultimate (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nertz_2_foil": {
+            "index": "8868",
+            "tag": "NertZ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_siuhy_2_foil": {
+            "index": "8872",
+            "tag": "siuhy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_naf_2_foil": {
+            "index": "8876",
+            "tag": "NAF (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_apex_2_holo": {
+            "index": "8721",
+            "tag": "apEX (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zywoo_2_holo": {
+            "index": "8725",
+            "tag": "ZywOo (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_flamez_2_holo": {
+            "index": "8729",
+            "tag": "FlameZ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_mezii_2_holo": {
+            "index": "8733",
+            "tag": "mezii (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ropz_2_holo": {
+            "index": "8737",
+            "tag": "ropz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_torzsi_2_holo": {
+            "index": "8741",
+            "tag": "torzsi (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jimpphat_2_holo": {
+            "index": "8745",
+            "tag": "Jimpphat (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_brollan_2_holo": {
+            "index": "8749",
+            "tag": "Brollan (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_spinx_2_holo": {
+            "index": "8753",
+            "tag": "Spinx (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_xertion_2_holo": {
+            "index": "8757",
+            "tag": "xertioN (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_chopper_2_holo": {
+            "index": "8761",
+            "tag": "chopper (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_magixx_2_holo": {
+            "index": "8765",
+            "tag": "magixx (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_donk_2_holo": {
+            "index": "8769",
+            "tag": "donk (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_sh1ro_2_holo": {
+            "index": "8773",
+            "tag": "sh1ro (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zont1x_2_holo": {
+            "index": "8777",
+            "tag": "zont1x (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_blitz_2_holo": {
+            "index": "8781",
+            "tag": "bLitz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_techno4k_2_holo": {
+            "index": "8785",
+            "tag": "Techno4K (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_senzu_2_holo": {
+            "index": "8789",
+            "tag": "Senzu (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_910_2_holo": {
+            "index": "8793",
+            "tag": "910 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_mzinho_2_holo": {
+            "index": "8797",
+            "tag": "mzinho (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_maj3r_2_holo": {
+            "index": "8801",
+            "tag": "MAJ3R (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_xantares_2_holo": {
+            "index": "8805",
+            "tag": "XANTARES (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jottaaa_2_holo": {
+            "index": "8809",
+            "tag": "jottAAA (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_wicadia_2_holo": {
+            "index": "8813",
+            "tag": "Wicadia (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_woxic_2_holo": {
+            "index": "8817",
+            "tag": "woxic (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_w0nderful_2_holo": {
+            "index": "8821",
+            "tag": "w0nderful (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_aleksib_2_holo": {
+            "index": "8825",
+            "tag": "Aleksib (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jl_2_holo": {
+            "index": "8829",
+            "tag": "jL (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_b1t_2_holo": {
+            "index": "8833",
+            "tag": "b1t (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_im_2_holo": {
+            "index": "8837",
+            "tag": "iM (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_snax_2_holo": {
+            "index": "8841",
+            "tag": "Snax (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_hunter_2_holo": {
+            "index": "8845",
+            "tag": "huNter- (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_malbsmd_2_holo": {
+            "index": "8849",
+            "tag": "malbsMd (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_heavygod_2_holo": {
+            "index": "8853",
+            "tag": "Heavygod (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_hades_2_holo": {
+            "index": "8857",
+            "tag": "hades (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_twistzz_2_holo": {
+            "index": "8861",
+            "tag": "Twistzz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ultimate_2_holo": {
+            "index": "8865",
+            "tag": "ultimate (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nertz_2_holo": {
+            "index": "8869",
+            "tag": "NertZ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_siuhy_2_holo": {
+            "index": "8873",
+            "tag": "siuhy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_naf_2_holo": {
+            "index": "8877",
+            "tag": "NAF (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_niko_1": {
+            "index": "8879",
+            "tag": "NiKo | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_kyxsan_1": {
+            "index": "8883",
+            "tag": "kyxsan | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_m0nesy_1": {
+            "index": "8887",
+            "tag": "m0NESY | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_teses_1": {
+            "index": "8891",
+            "tag": "TeSeS | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_magisk_1": {
+            "index": "8895",
+            "tag": "Magisk | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_karrigan_1": {
+            "index": "8899",
+            "tag": "karrigan | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_broky_1": {
+            "index": "8903",
+            "tag": "broky | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_elige_1": {
+            "index": "8907",
+            "tag": "EliGE | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_frozen_1": {
+            "index": "8911",
+            "tag": "frozen | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_rain_1": {
+            "index": "8915",
+            "tag": "rain | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_maka_1": {
+            "index": "8919",
+            "tag": "Maka | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ex3rcice_1": {
+            "index": "8923",
+            "tag": "Ex3rcice | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_lucky_1": {
+            "index": "8927",
+            "tag": "Lucky | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_graviti_1": {
+            "index": "8931",
+            "tag": "Graviti | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_bodyy_1": {
+            "index": "8935",
+            "tag": "bodyy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_fl1t_1": {
+            "index": "8939",
+            "tag": "FL1T | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_fame_1": {
+            "index": "8943",
+            "tag": "fame | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_electronic_1": {
+            "index": "8947",
+            "tag": "electronic | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_fl4mus_1": {
+            "index": "8951",
+            "tag": "FL4MUS | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_icy_1": {
+            "index": "8955",
+            "tag": "ICY | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_biguzera_1": {
+            "index": "8959",
+            "tag": "biguzera | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nqz_1": {
+            "index": "8963",
+            "tag": "NQZ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_snow_1": {
+            "index": "8967",
+            "tag": "snow | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_dav1deus_1": {
+            "index": "8971",
+            "tag": "dav1deuS | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_dgt_1": {
+            "index": "8975",
+            "tag": "dgt | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_fallen_1": {
+            "index": "8979",
+            "tag": "FalleN | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_yuurih_1": {
+            "index": "8983",
+            "tag": "yuurih | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_kscerato_1": {
+            "index": "8987",
+            "tag": "KSCERATO | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_skullz_1": {
+            "index": "8991",
+            "tag": "skullz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_molodoy_1": {
+            "index": "8995",
+            "tag": "molodoy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_exit_1": {
+            "index": "8999",
+            "tag": "exit | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_insani_1": {
+            "index": "9003",
+            "tag": "insani | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_lucaozy_1": {
+            "index": "9007",
+            "tag": "Lucaozy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_brnz4n_1": {
+            "index": "9011",
+            "tag": "brnz4n | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_saffee_1": {
+            "index": "9015",
+            "tag": "saffee | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_reck_1": {
+            "index": "9019",
+            "tag": "reck | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_lake_1": {
+            "index": "9023",
+            "tag": "Lake | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_swisher_1": {
+            "index": "9027",
+            "tag": "Swisher | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_slaxz_1": {
+            "index": "9031",
+            "tag": "slaxz- | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_s1n_1": {
+            "index": "9035",
+            "tag": "s1n | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_niko_1_foil": {
+            "index": "8880",
+            "tag": "NiKo (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_kyxsan_1_foil": {
+            "index": "8884",
+            "tag": "kyxsan (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_m0nesy_1_foil": {
+            "index": "8888",
+            "tag": "m0NESY (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_teses_1_foil": {
+            "index": "8892",
+            "tag": "TeSeS (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_magisk_1_foil": {
+            "index": "8896",
+            "tag": "Magisk (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_karrigan_1_foil": {
+            "index": "8900",
+            "tag": "karrigan (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_broky_1_foil": {
+            "index": "8904",
+            "tag": "broky (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_elige_1_foil": {
+            "index": "8908",
+            "tag": "EliGE (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_frozen_1_foil": {
+            "index": "8912",
+            "tag": "frozen (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_rain_1_foil": {
+            "index": "8916",
+            "tag": "rain (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_maka_1_foil": {
+            "index": "8920",
+            "tag": "Maka (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ex3rcice_1_foil": {
+            "index": "8924",
+            "tag": "Ex3rcice (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_lucky_1_foil": {
+            "index": "8928",
+            "tag": "Lucky (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_graviti_1_foil": {
+            "index": "8932",
+            "tag": "Graviti (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_bodyy_1_foil": {
+            "index": "8936",
+            "tag": "bodyy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_fl1t_1_foil": {
+            "index": "8940",
+            "tag": "FL1T (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_fame_1_foil": {
+            "index": "8944",
+            "tag": "fame (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_electronic_1_foil": {
+            "index": "8948",
+            "tag": "electronic (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_fl4mus_1_foil": {
+            "index": "8952",
+            "tag": "FL4MUS (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_icy_1_foil": {
+            "index": "8956",
+            "tag": "ICY (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_biguzera_1_foil": {
+            "index": "8960",
+            "tag": "biguzera (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nqz_1_foil": {
+            "index": "8964",
+            "tag": "NQZ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_snow_1_foil": {
+            "index": "8968",
+            "tag": "snow (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_dav1deus_1_foil": {
+            "index": "8972",
+            "tag": "dav1deuS (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_dgt_1_foil": {
+            "index": "8976",
+            "tag": "dgt (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_fallen_1_foil": {
+            "index": "8980",
+            "tag": "FalleN (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_yuurih_1_foil": {
+            "index": "8984",
+            "tag": "yuurih (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_kscerato_1_foil": {
+            "index": "8988",
+            "tag": "KSCERATO (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_skullz_1_foil": {
+            "index": "8992",
+            "tag": "skullz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_molodoy_1_foil": {
+            "index": "8996",
+            "tag": "molodoy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_exit_1_foil": {
+            "index": "9000",
+            "tag": "exit (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_insani_1_foil": {
+            "index": "9004",
+            "tag": "insani (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_lucaozy_1_foil": {
+            "index": "9008",
+            "tag": "Lucaozy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_brnz4n_1_foil": {
+            "index": "9012",
+            "tag": "brnz4n (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_saffee_1_foil": {
+            "index": "9016",
+            "tag": "saffee (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_reck_1_foil": {
+            "index": "9020",
+            "tag": "reck (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_lake_1_foil": {
+            "index": "9024",
+            "tag": "Lake (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_swisher_1_foil": {
+            "index": "9028",
+            "tag": "Swisher (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_slaxz_1_foil": {
+            "index": "9032",
+            "tag": "slaxz- (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_s1n_1_foil": {
+            "index": "9036",
+            "tag": "s1n (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_niko_1_holo": {
+            "index": "8881",
+            "tag": "NiKo (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_kyxsan_1_holo": {
+            "index": "8885",
+            "tag": "kyxsan (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_m0nesy_1_holo": {
+            "index": "8889",
+            "tag": "m0NESY (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_teses_1_holo": {
+            "index": "8893",
+            "tag": "TeSeS (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_magisk_1_holo": {
+            "index": "8897",
+            "tag": "Magisk (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_karrigan_1_holo": {
+            "index": "8901",
+            "tag": "karrigan (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_broky_1_holo": {
+            "index": "8905",
+            "tag": "broky (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_elige_1_holo": {
+            "index": "8909",
+            "tag": "EliGE (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_frozen_1_holo": {
+            "index": "8913",
+            "tag": "frozen (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_rain_1_holo": {
+            "index": "8917",
+            "tag": "rain (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_maka_1_holo": {
+            "index": "8921",
+            "tag": "Maka (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ex3rcice_1_holo": {
+            "index": "8925",
+            "tag": "Ex3rcice (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_lucky_1_holo": {
+            "index": "8929",
+            "tag": "Lucky (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_graviti_1_holo": {
+            "index": "8933",
+            "tag": "Graviti (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_bodyy_1_holo": {
+            "index": "8937",
+            "tag": "bodyy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_fl1t_1_holo": {
+            "index": "8941",
+            "tag": "FL1T (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_fame_1_holo": {
+            "index": "8945",
+            "tag": "fame (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_electronic_1_holo": {
+            "index": "8949",
+            "tag": "electronic (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_fl4mus_1_holo": {
+            "index": "8953",
+            "tag": "FL4MUS (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_icy_1_holo": {
+            "index": "8957",
+            "tag": "ICY (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_biguzera_1_holo": {
+            "index": "8961",
+            "tag": "biguzera (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nqz_1_holo": {
+            "index": "8965",
+            "tag": "NQZ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_snow_1_holo": {
+            "index": "8969",
+            "tag": "snow (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_dav1deus_1_holo": {
+            "index": "8973",
+            "tag": "dav1deuS (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_dgt_1_holo": {
+            "index": "8977",
+            "tag": "dgt (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_fallen_1_holo": {
+            "index": "8981",
+            "tag": "FalleN (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_yuurih_1_holo": {
+            "index": "8985",
+            "tag": "yuurih (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_kscerato_1_holo": {
+            "index": "8989",
+            "tag": "KSCERATO (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_skullz_1_holo": {
+            "index": "8993",
+            "tag": "skullz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_molodoy_1_holo": {
+            "index": "8997",
+            "tag": "molodoy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_exit_1_holo": {
+            "index": "9001",
+            "tag": "exit (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_insani_1_holo": {
+            "index": "9005",
+            "tag": "insani (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_lucaozy_1_holo": {
+            "index": "9009",
+            "tag": "Lucaozy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_brnz4n_1_holo": {
+            "index": "9013",
+            "tag": "brnz4n (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_saffee_1_holo": {
+            "index": "9017",
+            "tag": "saffee (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_reck_1_holo": {
+            "index": "9021",
+            "tag": "reck (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_lake_1_holo": {
+            "index": "9025",
+            "tag": "Lake (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_swisher_1_holo": {
+            "index": "9029",
+            "tag": "Swisher (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_slaxz_1_holo": {
+            "index": "9033",
+            "tag": "slaxz- (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_s1n_1_holo": {
+            "index": "9037",
+            "tag": "s1n (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_cxzi_4": {
+            "index": "9039",
+            "tag": "Cxzi | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_grim_4": {
+            "index": "9043",
+            "tag": "Grim | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_hallzerk_4": {
+            "index": "9047",
+            "tag": "hallzerk | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jt_4": {
+            "index": "9051",
+            "tag": "JT | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nicx_4": {
+            "index": "9055",
+            "tag": "nicx | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_stanislaw_4": {
+            "index": "9059",
+            "tag": "stanislaw | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_sonic_4": {
+            "index": "9063",
+            "tag": "Sonic | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_phzy_4": {
+            "index": "9067",
+            "tag": "phzy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_susp_4": {
+            "index": "9071",
+            "tag": "susp | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jba_4": {
+            "index": "9075",
+            "tag": "JBa | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_tn1r_4": {
+            "index": "9079",
+            "tag": "tN1R | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_sunpayus_4": {
+            "index": "9083",
+            "tag": "SunPayus | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_xfl0ud_4": {
+            "index": "9087",
+            "tag": "xfl0ud | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_lnz_4": {
+            "index": "9091",
+            "tag": "LNZ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_yxngstxr_4": {
+            "index": "9095",
+            "tag": "yxngstxr | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_headtr1ck_4": {
+            "index": "9099",
+            "tag": "headtr1ck | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_kensizor_4": {
+            "index": "9103",
+            "tag": "kensizor | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_esenthial_4": {
+            "index": "9107",
+            "tag": "esenthial | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_npl_4": {
+            "index": "9111",
+            "tag": "npl | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_alex666_4": {
+            "index": "9115",
+            "tag": "alex666 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_chr1zn_4": {
+            "index": "9119",
+            "tag": "Chr1zN | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_f1ku_4": {
+            "index": "9123",
+            "tag": "F1KU | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nicoodoz_4": {
+            "index": "9127",
+            "tag": "nicoodoz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_spooke_4": {
+            "index": "9131",
+            "tag": "spooke | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_buzz_4": {
+            "index": "9135",
+            "tag": "Buzz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_1eer_4": {
+            "index": "9139",
+            "tag": "1eeR | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_xant3r_4": {
+            "index": "9143",
+            "tag": "Xant3r | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_khan_4": {
+            "index": "9147",
+            "tag": "khaN | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_riskyb0b_4": {
+            "index": "9151",
+            "tag": "riskyb0b | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zweih_4": {
+            "index": "9155",
+            "tag": "zweih | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zorte_4": {
+            "index": "9159",
+            "tag": "zorte | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_s1ren_4": {
+            "index": "9163",
+            "tag": "S1ren | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_magnojez_4": {
+            "index": "9167",
+            "tag": "Magnojez | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ax1le_4": {
+            "index": "9171",
+            "tag": "Ax1Le | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_boombl4_4": {
+            "index": "9175",
+            "tag": "Boombl4 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_vini_4": {
+            "index": "9179",
+            "tag": "VINI | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_try_4": {
+            "index": "9183",
+            "tag": "TRY | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_chayjesus_4": {
+            "index": "9187",
+            "tag": "chayJESUS | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_decenty_4": {
+            "index": "9191",
+            "tag": "decenty | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_noway_4": {
+            "index": "9195",
+            "tag": "noway | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_osee_4": {
+            "index": "9199",
+            "tag": "oSee | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_hext_4": {
+            "index": "9203",
+            "tag": "HexT | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_br0_4": {
+            "index": "9207",
+            "tag": "br0 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nitro_4": {
+            "index": "9211",
+            "tag": "nitr0 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jeorge_4": {
+            "index": "9215",
+            "tag": "jeorge | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ins_4": {
+            "index": "9219",
+            "tag": "INS | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_liazz_4": {
+            "index": "9223",
+            "tag": "Liazz | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_vexite_4": {
+            "index": "9227",
+            "tag": "vexite | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_regali_4": {
+            "index": "9231",
+            "tag": "regali | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_nettik_4": {
+            "index": "9235",
+            "tag": "nettik | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_hampus_4": {
+            "index": "9239",
+            "tag": "hampus | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_isak_4": {
+            "index": "9243",
+            "tag": "isak | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_plopski_4": {
+            "index": "9247",
+            "tag": "Plopski | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_l00m1_4": {
+            "index": "9251",
+            "tag": "L00m1 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_adamb_4": {
+            "index": "9255",
+            "tag": "adamb | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jamyoung_4": {
+            "index": "9259",
+            "tag": "JamYoung | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_moseyuh_4": {
+            "index": "9263",
+            "tag": "Moseyuh | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_attacker_4": {
+            "index": "9267",
+            "tag": "Attacker | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_jee_4": {
+            "index": "9271",
+            "tag": "Jee | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_mercury_4": {
+            "index": "9275",
+            "tag": "Mercury | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_art_4": {
+            "index": "9279",
+            "tag": "arT | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_piriajr_4": {
+            "index": "9283",
+            "tag": "piriajr | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zevy_4": {
+            "index": "9287",
+            "tag": "zevy | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_kye_4": {
+            "index": "9291",
+            "tag": "kye | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_mlhzin_4": {
+            "index": "9295",
+            "tag": "mlhzin | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_controlez_4": {
+            "index": "9299",
+            "tag": "controlez | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_efire_4": {
+            "index": "9303",
+            "tag": "efire | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_roux_4": {
+            "index": "9307",
+            "tag": "ROUX | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ariucle_4": {
+            "index": "9311",
+            "tag": "Ariucle | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_cool4st_4": {
+            "index": "9315",
+            "tag": "cool4st | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_westmelon_4": {
+            "index": "9319",
+            "tag": "westmelon | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_z4kr_4": {
+            "index": "9323",
+            "tag": "z4KR | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_starry_4": {
+            "index": "9327",
+            "tag": "Starry | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_emiliaqaq_4": {
+            "index": "9331",
+            "tag": "EmiliaQAQ | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_c4llm3su3_4": {
+            "index": "9335",
+            "tag": "C4LLM3SU3 | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_lux_4": {
+            "index": "9339",
+            "tag": "lux | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_saadzin_4": {
+            "index": "9343",
+            "tag": "saadzin | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_latto_4": {
+            "index": "9347",
+            "tag": "latto | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_dumau_4": {
+            "index": "9351",
+            "tag": "dumau | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_n1ssim_4": {
+            "index": "9355",
+            "tag": "n1ssim | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_cxzi_4_foil": {
+            "index": "9040",
+            "tag": "Cxzi (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_grim_4_foil": {
+            "index": "9044",
+            "tag": "Grim (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_hallzerk_4_foil": {
+            "index": "9048",
+            "tag": "hallzerk (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jt_4_foil": {
+            "index": "9052",
+            "tag": "JT (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nicx_4_foil": {
+            "index": "9056",
+            "tag": "nicx (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_stanislaw_4_foil": {
+            "index": "9060",
+            "tag": "stanislaw (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_sonic_4_foil": {
+            "index": "9064",
+            "tag": "Sonic (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_phzy_4_foil": {
+            "index": "9068",
+            "tag": "phzy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_susp_4_foil": {
+            "index": "9072",
+            "tag": "susp (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jba_4_foil": {
+            "index": "9076",
+            "tag": "JBa (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_tn1r_4_foil": {
+            "index": "9080",
+            "tag": "tN1R (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_sunpayus_4_foil": {
+            "index": "9084",
+            "tag": "SunPayus (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_xfl0ud_4_foil": {
+            "index": "9088",
+            "tag": "xfl0ud (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_lnz_4_foil": {
+            "index": "9092",
+            "tag": "LNZ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_yxngstxr_4_foil": {
+            "index": "9096",
+            "tag": "yxngstxr (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_headtr1ck_4_foil": {
+            "index": "9100",
+            "tag": "headtr1ck (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_kensizor_4_foil": {
+            "index": "9104",
+            "tag": "kensizor (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_esenthial_4_foil": {
+            "index": "9108",
+            "tag": "esenthial (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_npl_4_foil": {
+            "index": "9112",
+            "tag": "npl (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_alex666_4_foil": {
+            "index": "9116",
+            "tag": "alex666 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_chr1zn_4_foil": {
+            "index": "9120",
+            "tag": "Chr1zN (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_f1ku_4_foil": {
+            "index": "9124",
+            "tag": "F1KU (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nicoodoz_4_foil": {
+            "index": "9128",
+            "tag": "nicoodoz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_spooke_4_foil": {
+            "index": "9132",
+            "tag": "spooke (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_buzz_4_foil": {
+            "index": "9136",
+            "tag": "Buzz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_1eer_4_foil": {
+            "index": "9140",
+            "tag": "1eeR (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_xant3r_4_foil": {
+            "index": "9144",
+            "tag": "Xant3r (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_khan_4_foil": {
+            "index": "9148",
+            "tag": "khaN (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_riskyb0b_4_foil": {
+            "index": "9152",
+            "tag": "riskyb0b (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zweih_4_foil": {
+            "index": "9156",
+            "tag": "zweih (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zorte_4_foil": {
+            "index": "9160",
+            "tag": "zorte (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_s1ren_4_foil": {
+            "index": "9164",
+            "tag": "S1ren (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_magnojez_4_foil": {
+            "index": "9168",
+            "tag": "Magnojez (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ax1le_4_foil": {
+            "index": "9172",
+            "tag": "Ax1Le (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_boombl4_4_foil": {
+            "index": "9176",
+            "tag": "Boombl4 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_vini_4_foil": {
+            "index": "9180",
+            "tag": "VINI (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_try_4_foil": {
+            "index": "9184",
+            "tag": "TRY (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_chayjesus_4_foil": {
+            "index": "9188",
+            "tag": "chayJESUS (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_decenty_4_foil": {
+            "index": "9192",
+            "tag": "decenty (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_noway_4_foil": {
+            "index": "9196",
+            "tag": "noway (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_osee_4_foil": {
+            "index": "9200",
+            "tag": "oSee (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_hext_4_foil": {
+            "index": "9204",
+            "tag": "HexT (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_br0_4_foil": {
+            "index": "9208",
+            "tag": "br0 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nitro_4_foil": {
+            "index": "9212",
+            "tag": "nitr0 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jeorge_4_foil": {
+            "index": "9216",
+            "tag": "jeorge (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ins_4_foil": {
+            "index": "9220",
+            "tag": "INS (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_liazz_4_foil": {
+            "index": "9224",
+            "tag": "Liazz (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_vexite_4_foil": {
+            "index": "9228",
+            "tag": "vexite (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_regali_4_foil": {
+            "index": "9232",
+            "tag": "regali (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_nettik_4_foil": {
+            "index": "9236",
+            "tag": "nettik (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_hampus_4_foil": {
+            "index": "9240",
+            "tag": "hampus (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_isak_4_foil": {
+            "index": "9244",
+            "tag": "isak (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_plopski_4_foil": {
+            "index": "9248",
+            "tag": "Plopski (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_l00m1_4_foil": {
+            "index": "9252",
+            "tag": "L00m1 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_adamb_4_foil": {
+            "index": "9256",
+            "tag": "adamb (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jamyoung_4_foil": {
+            "index": "9260",
+            "tag": "JamYoung (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_moseyuh_4_foil": {
+            "index": "9264",
+            "tag": "Moseyuh (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_attacker_4_foil": {
+            "index": "9268",
+            "tag": "Attacker (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_jee_4_foil": {
+            "index": "9272",
+            "tag": "Jee (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_mercury_4_foil": {
+            "index": "9276",
+            "tag": "Mercury (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_art_4_foil": {
+            "index": "9280",
+            "tag": "arT (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_piriajr_4_foil": {
+            "index": "9284",
+            "tag": "piriajr (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zevy_4_foil": {
+            "index": "9288",
+            "tag": "zevy (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_kye_4_foil": {
+            "index": "9292",
+            "tag": "kye (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_mlhzin_4_foil": {
+            "index": "9296",
+            "tag": "mlhzin (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_controlez_4_foil": {
+            "index": "9300",
+            "tag": "controlez (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_efire_4_foil": {
+            "index": "9304",
+            "tag": "efire (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_roux_4_foil": {
+            "index": "9308",
+            "tag": "ROUX (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ariucle_4_foil": {
+            "index": "9312",
+            "tag": "Ariucle (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_cool4st_4_foil": {
+            "index": "9316",
+            "tag": "cool4st (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_westmelon_4_foil": {
+            "index": "9320",
+            "tag": "westmelon (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_z4kr_4_foil": {
+            "index": "9324",
+            "tag": "z4KR (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_starry_4_foil": {
+            "index": "9328",
+            "tag": "Starry (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_emiliaqaq_4_foil": {
+            "index": "9332",
+            "tag": "EmiliaQAQ (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_c4llm3su3_4_foil": {
+            "index": "9336",
+            "tag": "C4LLM3SU3 (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_lux_4_foil": {
+            "index": "9340",
+            "tag": "lux (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_saadzin_4_foil": {
+            "index": "9344",
+            "tag": "saadzin (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_latto_4_foil": {
+            "index": "9348",
+            "tag": "latto (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_dumau_4_foil": {
+            "index": "9352",
+            "tag": "dumau (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_n1ssim_4_foil": {
+            "index": "9356",
+            "tag": "n1ssim (Foil) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_cxzi_4_holo": {
+            "index": "9041",
+            "tag": "Cxzi (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_grim_4_holo": {
+            "index": "9045",
+            "tag": "Grim (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_hallzerk_4_holo": {
+            "index": "9049",
+            "tag": "hallzerk (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jt_4_holo": {
+            "index": "9053",
+            "tag": "JT (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nicx_4_holo": {
+            "index": "9057",
+            "tag": "nicx (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_stanislaw_4_holo": {
+            "index": "9061",
+            "tag": "stanislaw (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_sonic_4_holo": {
+            "index": "9065",
+            "tag": "Sonic (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_phzy_4_holo": {
+            "index": "9069",
+            "tag": "phzy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_susp_4_holo": {
+            "index": "9073",
+            "tag": "susp (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jba_4_holo": {
+            "index": "9077",
+            "tag": "JBa (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_tn1r_4_holo": {
+            "index": "9081",
+            "tag": "tN1R (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_sunpayus_4_holo": {
+            "index": "9085",
+            "tag": "SunPayus (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_xfl0ud_4_holo": {
+            "index": "9089",
+            "tag": "xfl0ud (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_lnz_4_holo": {
+            "index": "9093",
+            "tag": "LNZ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_yxngstxr_4_holo": {
+            "index": "9097",
+            "tag": "yxngstxr (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_headtr1ck_4_holo": {
+            "index": "9101",
+            "tag": "headtr1ck (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_kensizor_4_holo": {
+            "index": "9105",
+            "tag": "kensizor (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_esenthial_4_holo": {
+            "index": "9109",
+            "tag": "esenthial (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_npl_4_holo": {
+            "index": "9113",
+            "tag": "npl (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_alex666_4_holo": {
+            "index": "9117",
+            "tag": "alex666 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_chr1zn_4_holo": {
+            "index": "9121",
+            "tag": "Chr1zN (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_f1ku_4_holo": {
+            "index": "9125",
+            "tag": "F1KU (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nicoodoz_4_holo": {
+            "index": "9129",
+            "tag": "nicoodoz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_spooke_4_holo": {
+            "index": "9133",
+            "tag": "spooke (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_buzz_4_holo": {
+            "index": "9137",
+            "tag": "Buzz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_1eer_4_holo": {
+            "index": "9141",
+            "tag": "1eeR (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_xant3r_4_holo": {
+            "index": "9145",
+            "tag": "Xant3r (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_khan_4_holo": {
+            "index": "9149",
+            "tag": "khaN (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_riskyb0b_4_holo": {
+            "index": "9153",
+            "tag": "riskyb0b (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zweih_4_holo": {
+            "index": "9157",
+            "tag": "zweih (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zorte_4_holo": {
+            "index": "9161",
+            "tag": "zorte (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_s1ren_4_holo": {
+            "index": "9165",
+            "tag": "S1ren (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_magnojez_4_holo": {
+            "index": "9169",
+            "tag": "Magnojez (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ax1le_4_holo": {
+            "index": "9173",
+            "tag": "Ax1Le (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_boombl4_4_holo": {
+            "index": "9177",
+            "tag": "Boombl4 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_vini_4_holo": {
+            "index": "9181",
+            "tag": "VINI (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_try_4_holo": {
+            "index": "9185",
+            "tag": "TRY (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_chayjesus_4_holo": {
+            "index": "9189",
+            "tag": "chayJESUS (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_decenty_4_holo": {
+            "index": "9193",
+            "tag": "decenty (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_noway_4_holo": {
+            "index": "9197",
+            "tag": "noway (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_osee_4_holo": {
+            "index": "9201",
+            "tag": "oSee (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_hext_4_holo": {
+            "index": "9205",
+            "tag": "HexT (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_br0_4_holo": {
+            "index": "9209",
+            "tag": "br0 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nitro_4_holo": {
+            "index": "9213",
+            "tag": "nitr0 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jeorge_4_holo": {
+            "index": "9217",
+            "tag": "jeorge (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ins_4_holo": {
+            "index": "9221",
+            "tag": "INS (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_liazz_4_holo": {
+            "index": "9225",
+            "tag": "Liazz (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_vexite_4_holo": {
+            "index": "9229",
+            "tag": "vexite (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_regali_4_holo": {
+            "index": "9233",
+            "tag": "regali (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_nettik_4_holo": {
+            "index": "9237",
+            "tag": "nettik (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_hampus_4_holo": {
+            "index": "9241",
+            "tag": "hampus (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_isak_4_holo": {
+            "index": "9245",
+            "tag": "isak (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_plopski_4_holo": {
+            "index": "9249",
+            "tag": "Plopski (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_l00m1_4_holo": {
+            "index": "9253",
+            "tag": "L00m1 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_adamb_4_holo": {
+            "index": "9257",
+            "tag": "adamb (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jamyoung_4_holo": {
+            "index": "9261",
+            "tag": "JamYoung (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_moseyuh_4_holo": {
+            "index": "9265",
+            "tag": "Moseyuh (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_attacker_4_holo": {
+            "index": "9269",
+            "tag": "Attacker (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_jee_4_holo": {
+            "index": "9273",
+            "tag": "Jee (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_mercury_4_holo": {
+            "index": "9277",
+            "tag": "Mercury (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_art_4_holo": {
+            "index": "9281",
+            "tag": "arT (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_piriajr_4_holo": {
+            "index": "9285",
+            "tag": "piriajr (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zevy_4_holo": {
+            "index": "9289",
+            "tag": "zevy (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_kye_4_holo": {
+            "index": "9293",
+            "tag": "kye (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_mlhzin_4_holo": {
+            "index": "9297",
+            "tag": "mlhzin (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_controlez_4_holo": {
+            "index": "9301",
+            "tag": "controlez (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_efire_4_holo": {
+            "index": "9305",
+            "tag": "efire (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_roux_4_holo": {
+            "index": "9309",
+            "tag": "ROUX (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ariucle_4_holo": {
+            "index": "9313",
+            "tag": "Ariucle (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_cool4st_4_holo": {
+            "index": "9317",
+            "tag": "cool4st (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_westmelon_4_holo": {
+            "index": "9321",
+            "tag": "westmelon (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_z4kr_4_holo": {
+            "index": "9325",
+            "tag": "z4KR (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_starry_4_holo": {
+            "index": "9329",
+            "tag": "Starry (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_emiliaqaq_4_holo": {
+            "index": "9333",
+            "tag": "EmiliaQAQ (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_c4llm3su3_4_holo": {
+            "index": "9337",
+            "tag": "C4LLM3SU3 (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_lux_4_holo": {
+            "index": "9341",
+            "tag": "lux (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_saadzin_4_holo": {
+            "index": "9345",
+            "tag": "saadzin (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_latto_4_holo": {
+            "index": "9349",
+            "tag": "latto (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_dumau_4_holo": {
+            "index": "9353",
+            "tag": "dumau (Holo) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_n1ssim_4_holo": {
+            "index": "9357",
+            "tag": "n1ssim (Holo) | Austin 2025",
+            "rarity": "legendary"
         }
     },
     "patches": {
@@ -40567,6 +44035,11 @@
             "index": "33",
             "tag": "Lil' Squatch",
             "rarity": "mythical"
+        },
+        "kc_aus2025": {
+            "index": "36",
+            "tag": "Austin 2025 Highlight",
+            "rarity": "ancient"
         }
     }
 }
