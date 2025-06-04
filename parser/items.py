@@ -1,5 +1,5 @@
 import json, os, vdf
-from .lang import Lang, CS2Lang, CSGOLang
+from .lang import Lang
 
 rarities = [
     "default",
@@ -15,11 +15,12 @@ rarities = [
 
 
 class Items:
-    def __init__(self, lang: Lang, prefix: str):
-        print(f"Parsing {prefix.upper()} items file...")
+    def __init__(self, name: str):
+        self._lang = Lang(name)
 
-        self._lang = lang
-        self._file = os.getcwd() + f"/items/{prefix}_items.txt"
+        print(f'Parsing "{name}" items file...')
+
+        self._file = os.getcwd() + f"/items/{name}.txt"
         self._data = self._parse()
 
         self._medals = {}
@@ -33,9 +34,9 @@ class Items:
         self._keychains = self._get_keychains()
 
         self._loot = self._get_loot()
-        with open(os.getcwd() + f"/output/{prefix}.json", "w") as f:
+        with open(os.getcwd() + f"/output/{name}.json", "w") as f:
             f.write(json.dumps(self._loot, indent=4))
-            print(f"Saved to output/{prefix}.json")
+            print(f"Saved to output/{name}.json")
 
     def _parse(self):
         with open(self._file, "r") as f:
@@ -258,13 +259,3 @@ class Items:
                     loot_list["patches"][kit] = self._sticker_kits[kit]
 
         return loot_list
-
-
-class CS2Items(Items):
-    def __init__(self, lang: CS2Lang):
-        super().__init__(lang, "cs2")
-
-
-class CSGOItems(Items):
-    def __init__(self, lang: CSGOLang):
-        super().__init__(lang, "csgo")

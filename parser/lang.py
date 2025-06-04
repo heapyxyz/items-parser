@@ -2,10 +2,10 @@ import os, vdf
 
 
 class Lang:
-    def __init__(self, prefix: str):
-        print(f"Parsing {prefix.upper()} language file...")
+    def __init__(self, name: str):
+        print(f'Parsing "{name}" language file...')
 
-        self._file = os.getcwd() + f"/lang/{prefix}_lang.txt"
+        self._file = os.getcwd() + f"/lang/{name}.txt"
         self._data = self._parse()
 
     def _parse(self):
@@ -23,13 +23,3 @@ class Lang:
                 return data_value
 
         return None
-
-
-class CS2Lang(Lang):
-    def __init__(self):
-        super().__init__("cs2")
-
-
-class CSGOLang(Lang):
-    def __init__(self):
-        super().__init__("csgo")
