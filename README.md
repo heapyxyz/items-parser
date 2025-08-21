@@ -1,7 +1,7 @@
 # items-parser
-`items-parser` is a CS2/CS:GO `items_game.txt` file parser. The script extracts game's information, such as weapon skins, gloves, keychains, or stickers to a JSON file. While this repository includes pre-generated output, you can run the script yourself if you need to parse a different version of the files or want the absolute latest data before this repository is updated.
+`items-parser` is a CS2/CS:GO `items_game.txt` file parser. The script extracts game's items, such as weapon skins, gloves, keychains or stickers to a JSON file. While this repository includes pre-generated output, you can run the script yourself if you need to parse a different version of the files or want the absolute latest data before this repository is updated.
 
-## Prerequisites
+## Requirements
 - Python 3.3 or newer
 - [Source2Viewer](https://valveresourceformat.github.io/) (a tool for exploring Valve's VPK archives)
 - Python modules:
@@ -19,7 +19,7 @@
 ### Getting the Output
 Output gets written to the `output/` folder.
 
-1.  **Install Dependencies:**
+1. **Install Dependencies:**
     ```bash
     pip install vdf==3.4
 
@@ -27,8 +27,11 @@ Output gets written to the `output/` folder.
     pip install -r requirements.txt
     ```
 
-2.  **Run the Parser:**
+2. **Run the Parser:**
     ```bash
     # Make sure you are in the project's root folder
     python main.py
     ```
+
+## To-Do
+- [ ] Parse images (they're stored in a different file that is also inside `items/` folder, I guess?).
