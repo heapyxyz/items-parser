@@ -3,7 +3,7 @@ import os
 
 if __name__ == "__main__":
     print("CS2/CS:GO Items Parser")
-    print("GitHub: @ClutchCommunity")
+    print("https://github.com/heapyxyz/items-parser")
 
     for file in os.listdir("items"):
         if not file.endswith(".txt"):
