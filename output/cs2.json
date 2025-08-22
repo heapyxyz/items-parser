@@ -1340,6 +1340,150 @@
             "index": "5022",
             "tag": "Premier Season Two Medal"
         },
+        "premier season coin s=3": {
+            "index": "5140",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=1 b=1": {
+            "index": "5141",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=1 b=2": {
+            "index": "5142",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=1 b=3": {
+            "index": "5143",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=1 b=4": {
+            "index": "5144",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=1 b=5": {
+            "index": "5145",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=2 b=1": {
+            "index": "5146",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=2 b=2": {
+            "index": "5147",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=2 b=3": {
+            "index": "5148",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=2 b=4": {
+            "index": "5149",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=2 b=5": {
+            "index": "5150",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=3 b=1": {
+            "index": "5151",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=3 b=2": {
+            "index": "5152",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=3 b=3": {
+            "index": "5153",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=3 b=4": {
+            "index": "5154",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=3 b=5": {
+            "index": "5155",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=4 b=1": {
+            "index": "5156",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=4 b=2": {
+            "index": "5157",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=4 b=3": {
+            "index": "5158",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=4 b=4": {
+            "index": "5159",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=4 b=5": {
+            "index": "5160",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=5 b=1": {
+            "index": "5161",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=5 b=2": {
+            "index": "5162",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=5 b=3": {
+            "index": "5163",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=5 b=4": {
+            "index": "5164",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=5 b=5": {
+            "index": "5165",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=6 b=1": {
+            "index": "5166",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=6 b=2": {
+            "index": "5167",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=6 b=3": {
+            "index": "5168",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=6 b=4": {
+            "index": "5169",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=6 b=5": {
+            "index": "5170",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=7 b=1": {
+            "index": "5171",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=7 b=2": {
+            "index": "5172",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=7 b=3": {
+            "index": "5173",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=7 b=4": {
+            "index": "5174",
+            "tag": "Premier Season Three Medal"
+        },
+        "premier season coin s=3 c=7 b=5": {
+            "index": "5175",
+            "tag": "Premier Season Three Medal"
+        },
         "Collectible Pin - Dust II": {
             "index": "6001",
             "tag": "Dust II Pin"
@@ -3304,6 +3448,14 @@
         "crate_musickit_masterminds2_stattrak_capsule": {
             "index": "4947",
             "tag": "StatTrak\u2122 Masterminds 2 Music Kit Box"
+        },
+        "crate_musickit_deluge_capsule": {
+            "index": "7019",
+            "tag": "Deluge Music Kit Box"
+        },
+        "crate_musickit_deluge_stattrak_capsule": {
+            "index": "7021",
+            "tag": "StatTrak\u2122 Deluge Music Kit Box"
         }
     },
     "passes": {
@@ -8247,6 +8399,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.67,
                 "rarity": "rare"
+            },
+            "soch_mountains_m4a1s": {
+                "index": "1338",
+                "tag": "Solitude",
+                "lowest_float": 0.0,
+                "highest_float": 0.7,
+                "rarity": "mythical"
             }
         },
         "weapon_mp9": {
@@ -43306,6 +43465,81 @@
             "index": "9357",
             "tag": "n1ssim (Holo) | Austin 2025",
             "rarity": "legendary"
+        },
+        "aus2025_signature_apex_32": {
+            "index": "9431",
+            "tag": "apEX (Champion) | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_zywoo_32": {
+            "index": "9435",
+            "tag": "ZywOo (Champion) | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_flamez_32": {
+            "index": "9439",
+            "tag": "FlameZ (Champion) | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_mezii_32": {
+            "index": "9443",
+            "tag": "mezii (Champion) | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_ropz_32": {
+            "index": "9447",
+            "tag": "ropz (Champion) | Austin 2025",
+            "rarity": "rare"
+        },
+        "aus2025_signature_apex_32_foil": {
+            "index": "9432",
+            "tag": "apEX (Foil, Champion) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_zywoo_32_foil": {
+            "index": "9436",
+            "tag": "ZywOo (Foil, Champion) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_flamez_32_foil": {
+            "index": "9440",
+            "tag": "FlameZ (Foil, Champion) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_mezii_32_foil": {
+            "index": "9444",
+            "tag": "mezii (Foil, Champion) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_ropz_32_foil": {
+            "index": "9448",
+            "tag": "ropz (Foil, Champion) | Austin 2025",
+            "rarity": "mythical"
+        },
+        "aus2025_signature_apex_32_holo": {
+            "index": "9433",
+            "tag": "apEX (Holo, Champion) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_zywoo_32_holo": {
+            "index": "9437",
+            "tag": "ZywOo (Holo, Champion) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_flamez_32_holo": {
+            "index": "9441",
+            "tag": "FlameZ (Holo, Champion) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_mezii_32_holo": {
+            "index": "9445",
+            "tag": "mezii (Holo, Champion) | Austin 2025",
+            "rarity": "legendary"
+        },
+        "aus2025_signature_ropz_32_holo": {
+            "index": "9449",
+            "tag": "ropz (Holo, Champion) | Austin 2025",
+            "rarity": "legendary"
         }
     },
     "patches": {
@@ -44039,7 +44273,7 @@
         "kc_aus2025": {
             "index": "36",
             "tag": "Austin 2025 Highlight",
-            "rarity": "ancient"
+            "rarity": "rare"
         }
     }
 }
