@@ -8,6 +8,9 @@
   - `vdf`
 
 ## Usage
+> [!IMPORTANT]  
+> **Make sure to convert all `.txt` files to UTF-8 encoding!**
+
 ### Preparing `items_game.txt` File
 - **CS2:** To get CS2's `items_game.txt` file, use [Source2Viewer](https://valveresourceformat.github.io/). Expand "[730] Counter-Strike 2 ..." and open `game/csgo/pak01_dir.vpk`. Navigate to `scripts/items` and you should be able to see `items_game.txt` file. Right-click it and select "Export as is" to the `items/` folder within this project. Rename the exported file to (for example) `cs2.txt`.
 - **CS:GO:** Install the `csgo_legacy` beta on Steam. Then, browse CS:GO's local files and copy `csgo/scripts/items/items_game.txt` to the `items/` folder within this project. Rename the copied file to (for example) `csgo.txt`.
