@@ -4086,6 +4086,13 @@
                 "highest_float": 0.8,
                 "rarity": "legendary"
             },
+            "p250_bullfrog": {
+                "index": "1345",
+                "tag": "Bullfrog",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "soch_hunter_blaze_p250": {
                 "index": "774",
                 "tag": "Small Game",
@@ -4402,6 +4409,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "legendary"
+            },
+            "ump45_illumina_v2": {
+                "index": "1351",
+                "tag": "Continuum",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
             },
             "gsch_sport_ump45": {
                 "index": "412",
@@ -4967,6 +4981,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "nova_ocular": {
+                "index": "1350",
+                "tag": "Ocular",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "cu_overpass_wurst_nova": {
                 "index": "145",
                 "tag": "Wurst H\u00f6lle",
@@ -5291,6 +5312,13 @@
                 "highest_float": 1.0,
                 "rarity": "uncommon"
             },
+            "m4a4_skrrrt_green": {
+                "index": "1353",
+                "tag": "Full Throttle",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
+            },
             "soo_polysoup_m4a4": {
                 "index": "874",
                 "tag": "Polysoup",
@@ -5565,6 +5593,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "mythical"
+            },
+            "mp7_smoking_kills_v2": {
+                "index": "1354",
+                "tag": "Smoking Kills",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
             },
             "gs_constellation_dark_mp7": {
                 "index": "940",
@@ -6512,6 +6547,13 @@
                 "highest_float": 1.0,
                 "rarity": "rare"
             },
+            "mp5sd_chrome": {
+                "index": "1344",
+                "tag": "Focus",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "sp_overpass_paint_pen_neon": {
                 "index": "161",
                 "tag": "Neon Squeezer",
@@ -6829,6 +6871,13 @@
                 "highest_float": 1.0,
                 "rarity": "legendary"
             },
+            "awp_ice_coaled": {
+                "index": "1346",
+                "tag": "Ice Coaled",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "gs_independe_awp": {
                 "index": "163",
                 "tag": "CMYK",
@@ -7132,6 +7181,13 @@
                 "highest_float": 0.9,
                 "rarity": "rare"
             },
+            "aug_trigger_discipline_velco": {
+                "index": "1339",
+                "tag": "Trigger Discipline",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "gs_lilpig_aug": {
                 "index": "173",
                 "tag": "Lil' Pig",
@@ -7396,6 +7452,13 @@
             "mag7_ammo_box": {
                 "index": "1188",
                 "tag": "Resupply",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
+            "mag7_circle_copper": {
+                "index": "1355",
+                "tag": "MAGnitude",
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "rare"
@@ -7748,6 +7811,13 @@
             "glock_shinobu": {
                 "index": "1208",
                 "tag": "Shinobu",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
+            "glock_mirror_maze_v2_pearl": {
+                "index": "1348",
+                "tag": "Mirror Mosaic",
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "mythical"
@@ -8365,6 +8435,13 @@
                 "highest_float": 0.597321,
                 "rarity": "legendary"
             },
+            "m4a1s_quick_liquidation": {
+                "index": "1340",
+                "tag": "Liquidation",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "hy_overpass_doodle_m4a1s": {
                 "index": "160",
                 "tag": "Wash me plz",
@@ -8643,6 +8720,13 @@
             "mp9_nexus": {
                 "index": "1193",
                 "tag": "Nexus",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
+            "mp9_vinyl": {
+                "index": "1341",
+                "tag": "Broken Record",
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "rare"
@@ -9018,6 +9102,13 @@
                 "tag": "Saib\u0101 Oni",
                 "lowest_float": 0.0,
                 "highest_float": 0.66,
+                "rarity": "mythical"
+            },
+            "mac10_kamicatze": {
+                "index": "1349",
+                "tag": "Cat Fight",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
                 "rarity": "mythical"
             },
             "cu_overpass_squeak_mac10": {
@@ -10381,6 +10472,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "ak47_puffer_custom": {
+                "index": "1352",
+                "tag": "The Oligarch",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
+            },
             "cu_graphic_overlay_ak47": {
                 "index": "912",
                 "tag": "Crossfade",
@@ -10675,6 +10773,13 @@
                 "tag": "Hydro Strike",
                 "lowest_float": 0.0,
                 "highest_float": 0.801418,
+                "rarity": "mythical"
+            },
+            "dual_elite_biblical_angel": {
+                "index": "1347",
+                "tag": "Angel Eyes",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
                 "rarity": "mythical"
             },
             "cu_overpass_baby_dualies": {
@@ -11975,6 +12080,13 @@
                 "highest_float": 0.9,
                 "rarity": "uncommon"
             },
+            "p2000_deep_red": {
+                "index": "1342",
+                "tag": "Red Wing",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
             "ht_facet_p2000": {
                 "index": "878",
                 "tag": "Coral Halftone",
@@ -12185,6 +12297,13 @@
                 "tag": "Trail Blazer",
                 "lowest_float": 0.0,
                 "highest_float": 0.702614,
+                "rarity": "rare"
+            },
+            "scar_refraction_v4": {
+                "index": "1343",
+                "tag": "Caged",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
                 "rarity": "rare"
             },
             "cu_chevron_scar20": {

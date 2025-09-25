@@ -990,31 +990,6 @@
 	"Console_Title"		"Console"
 	"Console_Submit"	"Submit"
 
-	"FileOpenDialog_Open"		"Open"
-	"FileOpenDialog_Save"		"Save"
-	"FileOpenDialog_Select"		"Select"
-	"FileOpenDialog_Cancel"		"Cancel"
-	"FileOpenDialog_Look_in"	"Look in:"
-	"FileOpenDialog_File_Name"	"File name:"
-	"FileOpenDialog_Directory_Name"	"Directory name:"
-	"FileOpenDialog_File_Type"	"File type:"
-	"FileOpenDialog_Icon"		" "
-	"FileOpenDialog_Name"		"Name"
-	"FileOpenDialog_Type"		"Type"
-	"FileOpenDialog_Col_Name"	"Name"
-	"FileOpenDialog_Col_Size"	"Size"
-	"FileOpenDialog_Col_Type"	"Type"
-	"FileOpenDialog_Col_DateModified" "Date Modified"
-	"FileOpenDialog_Col_DateCreated" "Date Created"
-	"FileOpenDialog_Col_Attributes"	"Attributes"
-	"FileOpenDialog_FileType_Folder" "File Folder"
-	"FileOpenDialog_ToolTip_Up"	"Up"
-	"FileOpenDialog_ToolTip_NewFolder" "New Folder"
-	"FileOpenDialog_NewFolder_InputTitle"  "New Folder"
-	"FileOpenDialog_NewFolderPrompt" "Name:"
-	"FileOpenDialog_NewFolder_DefaultName" "New Folder"
-	"FileOpenDialog_ToolTip_OpenInExplorerButton" "Open In Explorer"
-
 	"vgui_ok"			"OK"
 	"vgui_close"			"Close"
 	"vgui_Cancel"			"Cancel"
@@ -2364,7 +2339,7 @@
 		"Econ_Revolving_Loot_List"				"Contains one of the following:"
 		"Econ_Revolving_Loot_List_Single"		"Open and receive one of the following"
 		"Econ_Revolving_Loot_List_Rental"		"<img src='file://{images}/icons/ui/hourglass.svg' class='popup-decodable-lootlist-single-icon'/> Rent every weapon (not including the Exceedingly Rare Item) in this container for 7 days "
-		"Econ_Revolving_Loot_SecureConnectionLine"	"Offers an opportunity to purchase one of the following:"
+		"Econ_Revolving_Loot_SecureConnectionLine"	"One item may be purchased from this Terminal. This Terminal will present multiple offers for the following items:"
 
 		
 		"Econ_Revolving_Loot_List_Rare_Item"	"or an Exceedingly Rare Special Item!"
@@ -2403,6 +2378,7 @@
 		"Item_Crafted"							" %s1 has fulfilled a contract and received: %s2"
 		"Item_Traded"							" %s1 has received in trade: %s2"
 		"Item_Purchased"						" %s1 has purchased: %s2"
+		"Item_PurchasedVolatile"				" %s1 has purchased from Arms Dealer: %s2"
 		"Item_FoundInCrate"						" %s1 has opened a container and found: %s2"
 		"Item_Gifted"							" %s1 has accepted a gift: %s2"
 		"Item_Earned"							" %s1 has earned: %s2"
@@ -2427,6 +2403,7 @@
 		"NewItemMethod_Crafted"			"You Received:"
 		"NewItemMethod_Traded"			"You Traded for:"
 		"NewItemMethod_Purchased"		"You Purchased:"
+		"NewItemMethod_PurchasedVolatile" "You Purchased from Arms Dealer:"
 		"NewItemMethod_FoundInCrate"	"You Unboxed:"
 		"NewItemMethod_Rental"			"You Rented:"
 		"NewItemMethod_XpShopRedeem"	"You Received from Armory:"
@@ -2486,6 +2463,7 @@
 		"ItemHistory_Action_Drop"										"Earned a new rank and got a drop"
 		"ItemHistory_Action_ManualCreate"								"Created by Counter-Strike Support"
 		"ItemHistory_Action_Purchase"									"Purchased from the store"
+		"ItemHistory_Action_PurchaseVolatileContainerItem"				"Purchased from Arms Dealer"
 		"ItemHistory_Action_AutoGrantItem"								"Earned"
 		"ItemHistory_Action_CrossGameAchievement"						"Earned from unlocking an achievement in a different game"
 		"ItemHistory_Action_AwardGift_Receiver"							"Received a gift"
@@ -2673,7 +2651,7 @@
 		"Attrib_MatchWins"							"Competitive Wins in Operation Maps: %s1"
 		"Attrib_HasSilencer"						"Silencer"
 		"Attrib_HasBurstMode"						"3 Round Burst Option"
-		"Attrib_SecureConnectionLine"				"Secure Connection Line #%s1"
+		"Attrib_SecureConnectionLine"				"Container Series #%s1"
 		"Attrib_SupplyCrateSeries"					"Container Series #%s1"
 		"Attrib_KillEater"							"This item features StatTrak™ technology, which tracks certain statistics when equipped by its owner."
 		"Attrib_ReferencedItem"						"Contains: %s1"
@@ -2709,6 +2687,8 @@
 		"Attrib_OperationBonusXP"					"Operation Bonus Earned: +%s1 XP"
 		"Attrib_IssueDate"							"Date of Issue: %s1"
 		"Attrib_ExpirationDate"						"Expiration Date: %s1"
+		"Attrib_PurchaserAccountID"					"This item has an Original Owner Certificate."
+		"Attrib_PurchaserAccountID_title"			"Original Owner Certificate"
 
 		"Notify_KeychainRemoveTool_ChargesUseToRemove"	"Charm Detachments Available: {d:item_count}<br>Detaching a charm consumes one Charm Detachment."
 		"Attrib_KeychainRemoveTool_Charges"			"Charm Detachments Available: {d:item_count}"
@@ -4472,6 +4452,18 @@
 		"CSGO_crate_sticker_pack_warhammer_xenos_capsule_desc"			"Bring forth the terror of the Xenos with the Warhammer 40,000 Xenos Sticker Capsule, released in May 2025."
 		"coupon_warhammer_xenos_sticker_capsule"						"Warhammer 40,000 Xenos Sticker Capsule"
 		
+		"CSGO_crate_sticker_pack_sugarface2_capsule"	   				"Sugarface 2 Sticker Collection"
+		"CSGO_crate_sticker_pack_sugarface2_capsule_desc"				"This sticker collection contains a variety of Sugarface-themed stickers and was released in September 2025."
+		"CSGO_crate_sticker_pack_sugarface2_short"						"Sugarface 2 Stickers"
+		
+		"CSGO_crate_sticker_pack_community2025_capsule"	    			"2025 Community Sticker Collection"
+		"CSGO_crate_sticker_pack_community2025_capsule_desc"			"This collection contains a variety of stickers and was released in September 2025."
+		"CSGO_crate_sticker_pack_community_2025_short"					"2025 Community Stickers"
+		
+		"CSGO_crate_community_36"				"Sealed Genesis Terminal"
+		"CSGO_crate_community_36^volatile"		"Active Genesis Terminal"
+		"CSGO_crate_community_36_desc"			""
+		
 "SprayKit_vcap1_ace_01"		"Ace"
 "SprayKit_desc_vcap1_ace_01"	""
 "SprayKit_vcap1_banana"		"Banana"
@@ -5653,6 +5645,9 @@
 		
 		"CSGO_set_timed_drops_cool"				"The Ascent Collection"
 		"CSGO_set_timed_drops_cool_desc"		""
+		
+		"CSGO_set_community_36"					"The Genesis Collection"
+		"CSGO_set_community_36_desc"			""
 		
 		/////////////////
 		// lootlist override strings
@@ -30284,6 +30279,124 @@
 		"StickerKit_warhammer_decals_paper_tyranids_2"					"Tyranids 2"
 		"StickerKit_desc_warhammer_decals_paper_tyranids_2"				""
 		
+		//Sugarface 2 Sticker Capsule
+		
+		"StickerKit_sugarface2_paper_clavis"							"Clavis"
+		"StickerKit_desc_sugarface2_paper_clavis"						""
+		
+		"StickerKit_sugarface2_paper_lorena"							"Lorena"
+		"StickerKit_desc_sugarface2_paper_lorena"						""
+		
+		"StickerKit_sugarface2_paper_lucas"								"Lucas"
+		"StickerKit_desc_sugarface2_paper_lucas"						""
+		
+		"StickerKit_sugarface2_holo_clavis"								"Clavis (Holo)"
+		"StickerKit_desc_sugarface2_holo_clavis"						""
+				
+		"StickerKit_sugarface2_holo_lorena"								"Lorena (Holo)"
+		"StickerKit_desc_sugarface2_holo_lorena"						""
+		
+		"StickerKit_sugarface2_holo_lucas"								"Lucas (Holo)"
+		"StickerKit_desc_sugarface2_holo_lucas"							""
+
+		"StickerKit_sugarface2_foil_clavis"								"Clavis (Foil)"
+		"StickerKit_desc_sugarface2_foil_clavis"						""
+		
+		"StickerKit_sugarface2_foil_lorena"								"Lorena (Foil)"
+		"StickerKit_desc_sugarface2_foil_lorena"						""
+		
+		"StickerKit_sugarface2_foil_lucas"								"Lucas (Foil)"
+		"StickerKit_desc_sugarface2_foil_lucas"							""
+		
+		//2025 Community Sticker Capsule
+		
+		"StickerKit_community_2025_paper_candy_apples"					"Candy Apples"
+		"StickerKit_desc_community_2025_paper_candy_apples"				""
+		
+		"StickerKit_community_2025_paper_cubix_connexion"				"Cubix Connexion"
+		"StickerKit_desc_community_2025_paper_cubix_connexion"			""
+		
+		"StickerKit_community_2025_paper_eyes_of_farlow"				"Eyes of Farlow"
+		"StickerKit_desc_community_2025_paper_eyes_of_farlow"			""
+		
+		"StickerKit_community_2025_paper_fade_mangos"					"Fade Mangos"
+		"StickerKit_desc_community_2025_paper_fade_mangos"				""
+		
+		"StickerKit_community_2025_paper_gloves_on"						"Gloves On"
+		"StickerKit_desc_community_2025_paper_gloves_on"				""
+		
+		"StickerKit_community_2025_paper_lock_in"						"Lock In"
+		"StickerKit_desc_community_2025_paper_lock_in"					""
+		
+		"StickerKit_community_2025_paper_mimicapsule"					"Mimicapsule"
+		"StickerKit_desc_community_2025_paper_mimicapsule"				""
+		
+		"StickerKit_community_2025_paper_pop_pup"						"Pop Pup"
+		"StickerKit_desc_community_2025_paper_pop_pup"					""
+		
+		"StickerKit_community_2025_paper_pots"							"POTS"
+		"StickerKit_desc_community_2025_paper_pots"						""
+		
+		"StickerKit_community_2025_paper_sent_with_love"				"Sent With Love"
+		"StickerKit_desc_community_2025_paper_sent_with_love"			""
+		
+		"StickerKit_community_2025_paper_skelly_stab"					"Skelly Stabby"
+		"StickerKit_desc_community_2025_paper_skelly_stab"				""
+		
+		"StickerKit_community_2025_paper_vice_cursor"					"Vice Cursor"
+		"StickerKit_desc_community_2025_paper_vice_cursor"				""
+		
+		"StickerKit_community_2025_glitter_ct_tracks"					"CT Tracks (Glitter)"
+		"StickerKit_desc_community_2025_glitter_ct_tracks"				""
+		
+		"StickerKit_community_2025_glitter_overloaded"					"Overloaded (Glitter)"
+		"StickerKit_desc_community_2025_glitter_overloaded"				""
+		
+		"StickerKit_community_2025_glitter_t_tracks"					"T Tracks (Glitter)"
+		"StickerKit_desc_community_2025_glitter_t_tracks"				""
+		
+		"StickerKit_community_2025_holo_bomb_planted"					"Bomb Planted (Holo)"
+		"StickerKit_desc_community_2025_holo_bomb_planted"				""
+		
+		"StickerKit_community_2025_holo_chrome_dome"					"Chrome Dome (Holo)"
+		"StickerKit_desc_community_2025_holo_chrome_dome"				""
+		
+		"StickerKit_community_2025_holo_cutie"							"Cutie (Holo)"
+		"StickerKit_desc_community_2025_holo_cutie"						""
+		
+		"StickerKit_community_2025_holo_evidence"						"Evidence (Holo)"
+		"StickerKit_desc_community_2025_holo_evidence"					""
+		
+		"StickerKit_community_2025_holo_froggles"						"Froggles (Holo)"
+		"StickerKit_desc_community_2025_holo_froggles"					""
+		
+		"StickerKit_community_2025_foil_aint_a_rental"					"Ain't A Rental (Foil)"
+		"StickerKit_desc_community_2025_foil_aint_a_rental"				""
+		
+		"StickerKit_community_2025_foil_eyes_sky"						"Eyes In The Sky (Foil)"
+		"StickerKit_desc_community_2025_foil_eyes_sky"					""
+	
+		"StickerKit_community_2025_foil_good_as_new"					"Good As New (Foil)"
+		"StickerKit_desc_community_2025_foil_good_as_new"				""
+	
+		"StickerKit_community_2025_foil_queen_ava"						"Queen Ava (Foil)"
+		"StickerKit_desc_community_2025_foil_queen_ava"					""
+		
+		"StickerKit_community_2025_foil_hands_off"						"Hands Off (Foil)"
+		"StickerKit_desc_community_2025_foil_hands_off"					""
+		
+		"StickerKit_community_2025_foil_king_crasswater"				"King Crasswater (Foil)"
+		"StickerKit_desc_community_2025_foil_king_crasswater"			""
+		
+		"StickerKit_community_2025_lenticular_bullhit"					"BullHit (Lenticular)"
+		"StickerKit_desc_community_2025_lenticular_bullhit"				""
+		
+		"StickerKit_community_2025_lenticular_digistrike"				"Digi-Strike (Lenticular)"
+		"StickerKit_desc_community_2025_lenticular_digistrike"			""
+	
+		"StickerKit_community_2025_lenticular_mvp"						"Neon MVP (Lenticular)"
+		"StickerKit_desc_community_2025_lenticular_mvp"					""
+		
 		
 		"PatchKit_patch_banana"            "Crazy Banana"
 		"PatchKit_desc_patch_banana"       "<i>Agent for scale</i>"
@@ -34454,7 +34567,7 @@
 		"PaintKit_p90_boost_blue"							"It has been custom painted using an angular blue and green design.\n\n<i>You look how you feel</i>"
 		"PaintKit_p90_boost_blue_Tag"						"Wave Breaker"
 		
-		"PaintKit_p2k_fractal"								"It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\n\n<i>>>WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE<<</i>"
+		"PaintKit_p2k_fractal"								"It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\n\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>"
 		"PaintKit_p2k_fractal_Tag"							"Sure Grip"
 		
 		"PaintKit_mag7_ammo_box"							"It has been custom painted to resemble an ammunition box.\n\n<i>Keep the receipt</i>"
@@ -34479,6 +34592,56 @@
 		"PaintKit_m4a4_green_camo_Tag"						"Choppa"
 
 // END COMMUNITY_35
+
+// COMMUNITY_36
+
+		"PaintKit_mp7_smoking_kills_v2"					"It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\n\n<i>\"We can do this fast or slow, it's your call\"</i>"
+		"PaintKit_mp7_smoking_kills_v2_Tag"				"Smoking Kills" 
+		
+		"PaintKit_m4a4_skrrrt_green"					"It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\n\n<i>Where \"Globoil 1 Synthetics\" meets \"ENTRI PERFORMANCE\"</i>"
+		"PaintKit_m4a4_skrrrt_green_Tag"				"Full Throttle" 
+		
+		"PaintKit_ak47_puffer_custom"					"It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\n\n<i>Seek power, gain power, hold power</i>"
+		"PaintKit_ak47_puffer_custom_Tag"				"The Oligarch" 
+		
+		"PaintKit_ump45_illumina_v2"					"This custom paint job features alternating bands of black and blue.\n\n<i>Into the void</i>"
+		"PaintKit_ump45_illumina_v2_Tag"				"Continuum" 
+		
+		"PaintKit_nova_ocular"							"This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\n\n<i>Eyes of the beholder</i>"
+		"PaintKit_nova_ocular_Tag"						"Ocular"
+		
+		"PaintKit_mac10_kamicatze"						"It has been custom painted with a snarling cat and a target on the rear of the receiver.\n\n<i>Kitty's got claws...</i>"
+		"PaintKit_mac10_kamicatze_Tag"					"Cat Fight" 
+		
+		"PaintKit_glock_mirror_maze"					"It has been custom painted to resemble a mosaic of mirrors.\n\n<i>Trapped in your own thoughts</i>"
+		"PaintKit_glock_mirror_maze_Tag"				"Mirror Mosaic" 
+		
+		"PaintKit_dual_elite_biblical_angel"			"They have been custom painted with eyes on the grips and celestial murals on the slides.\n\n<i>Keeping a close eye—or five—on you</i>"
+		"PaintKit_dual_elite_biblical_angel_Tag"		"Angel Eyes" 
+		
+		"PaintKit_p250_bullfrog"						"It has been custom painted with racing liveries in bronze and black.\n\n<i>Look at you go!</i>"
+		"PaintKit_p250_bullfrog_Tag"					"Bullfrog" 
+		
+		"PaintKit_mp5sd_chrome"							"It has been custom painted in gunmetal grey and finished with red accents.\n\n<i>STAY FOCUSED // TRUE AIM</i>"
+		"PaintKit_mp5sd_chrome_Tag"						"Focus" 
+		
+		"PaintKit_scar_refraction"						"A blue and purple gradient design has been applied.\n\n<i>\"That's a big weapon for such a small cage...\"</i>"
+		"PaintKit_scar_refraction_Tag"					"Caged" 
+		
+		"PaintKit_p2000_deep_red"						"It has been custom painted with a charcoal and deep red-colored design. \n\n<i>Preying on your enemies' downfall</i>"
+		"PaintKit_p2000_deep_red_Tag"					"Red Wing" 
+		
+		"PaintKit_mp9_vinyl"							"It has been custom painted to resemble a vinyl record, grooves and all.\n\n<i>Instant classic</i>"
+		"PaintKit_mp9_vinyl_Tag"						"Broken Record" 
+		
+		"PaintKit_mag7_circle_copper"					"This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\n\n<i>Two point oh</i>"
+		"PaintKit_mag7_circle_copper_Tag"				"MAGnitude" 
+		
+		"PaintKit_m4a1s_quick_liquidation"				"Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\n\n<i>Quiet reflection</i>"
+		
+		"PaintKit_aug_trigger_discipline_velco"			"A blue isometric pattern has been applied and finished with orange accents.\n\n<i>Patience is its own reward</i>"
+
+// END COMMUNITY_36
 
 // OVERPASS_2024
 				
@@ -35644,7 +35807,7 @@
 		"SFUI_Map_workshop_preview_inferno"	"Inferno Preview"
 
 		"SFUI_Map_warehouse"	"Warehouse"
-		"SFUI_Map_mainmenu"		"Main Menu (Currently {s:mainmenu_bkgnd})"
+		"SFUI_Map_mainmenu"		"Main Menu - {s:mainmenu_bkgnd}"
 		
 		// Single player dialog
 		"SFUI_CreateSinglePlayerTitle"		"SINGLE PLAYER"
@@ -38721,9 +38884,14 @@
 		"PANOHUD_Spectate_Navigation_New_Cameraman_On"		"[{s:bind_radio}] Turn Cameraman On "
 		"PANOHUD_Spectate_Navigation_ToggleSpec"			"[{s:bind_drop}] Mini Scoreboard "
 		"PANOHUD_Spectate_Navigation_ToggleOverview"		"[{s:bind_duck}] Overview "
-		"PANOHUD_Spectate_Navigation_PlayHighlight"			"[{s:bind_lookatweapon}] Play Highlight"
-		"PANOHUD_Spectate_Navigation_CopyHighlightAndClose"	"[{s:bind_lookatweapon}] Copy to Clipboard & Close"
-		"PANOHUD_Spectate_Navigation_CopyHighlightURL"		"[{s:bind_lookatweapon}] Copy Highlight URL"
+		"PANOHUD_Spectate_Navigation_PlayHighlight"			"[{s:bind_drop}] Play Highlight"
+		"PANOHUD_Spectate_Navigation_CopyHighlightAndClose"	"[{s:bind_drop}] Copy to Clipboard & Close"
+		"PANOHUD_Spectate_Navigation_CopyHighlightURL"		"[{s:bind_drop}] Copy Highlight URL"
+		"PANOHUD_Spectate_Vanity_Loadout_Hide"				"[{s:bind_lookatweapon}] Hide Loadout"
+		"PANOHUD_Spectate_Vanity_Loadout_Show"				"[{s:bind_lookatweapon}] Open Loadout"
+		"PANOHUD_Spectate_Vanity_Loadout_Close_Popup"		"[ESC] Close Popup"
+
+
 	
 		"PANOHUD_GhostBecomeSpectator"						"Press [%s1] to become a spectator"
 
@@ -39639,6 +39807,9 @@
 		"SFUI_HUDWeaponRarityColor"			"Glow Weapon with Rarity Color"
 		"SFUI_HUDWeaponRarityColor_desc"	"Enable to make weapon icons in the hud glow with their rarity color."
 
+		"SFUI_HUDSpecColorOverride"			"Override Spectating HUD Color"
+		"SFUI_HUDSpecColorOverride_desc"	"When spectating another player, the HUD color will match their team color in casual modes and their teammate color in competitive modes." 
+
 		"SFUI_Settings_High_Dynamic_Range"	"High Dynamic Range"
 		"SFUI_Settings_Very_High"			"Very High"
 		"SFUI_Settings_High"				"High"
@@ -40478,13 +40649,13 @@
 
 		"SFUI_OfficialDatacenterID_1"		"US, Seattle"
 		"SFUI_OfficialDatacenterID_2"		"US, Virginia"
-		"SFUI_OfficialDatacenterID_3"		"EU, Germany"
+		"SFUI_OfficialDatacenterID_3"		"EU, Frankfurt"
 		"SFUI_OfficialDatacenterID_4"		"South Korea"
 		"SFUI_OfficialDatacenterID_5"		"Singapore"
 		"SFUI_OfficialDatacenterID_6"		"United Arab Emirates"
 		"SFUI_OfficialDatacenterID_7"		"Australia"
-		"SFUI_OfficialDatacenterID_8"		"EU, Sweden"
-		"SFUI_OfficialDatacenterID_9"		"EU, Austria"
+		"SFUI_OfficialDatacenterID_8"		"EU, Stockholm"
+		"SFUI_OfficialDatacenterID_9"		"EU, Vienna"
 		"SFUI_OfficialDatacenterID_10"		"Brazil"
 		"SFUI_OfficialDatacenterID_11"		"South Africa"
 		"SFUI_OfficialDatacenterID_12"		"China, Shanghai"
@@ -40496,19 +40667,19 @@
 		// "SFUI_OfficialDatacenterID_18"	"TBD"
 		"SFUI_OfficialDatacenterID_19"		"Japan"
 		"SFUI_OfficialDatacenterID_20"		"Hong Kong"
-		"SFUI_OfficialDatacenterID_21"		"EU, Spain"
+		"SFUI_OfficialDatacenterID_21"		"EU, Madrid"
 		"SFUI_OfficialDatacenterID_22"		"US, California"
 		"SFUI_OfficialDatacenterID_23"		"US, Atlanta"
 		"SFUI_OfficialDatacenterID_24"		"Hong Kong"
 		"SFUI_OfficialDatacenterID_25"		"China, Tianjin"
 		"SFUI_OfficialDatacenterID_26"		"India, Chennai"
 		"SFUI_OfficialDatacenterID_27"		"US, Chicago"
-		"SFUI_OfficialDatacenterID_28"		"EU, Poland"
-		"SFUI_OfficialDatacenterID_29"		"EU, Netherlands"
+		"SFUI_OfficialDatacenterID_28"		"EU, Warsaw"
+		"SFUI_OfficialDatacenterID_29"		"EU, Amsterdam"
 		// "SFUI_OfficialDatacenterID_30"		"TBD"
 		"SFUI_OfficialDatacenterID_31"		"US, Dallas"
 		// "SFUI_OfficialDatacenterID_32"		"TBD"
-		"SFUI_OfficialDatacenterID_33"		"EU, Finland"
+		"SFUI_OfficialDatacenterID_33"		"EU, Helsinki"
 		"SFUI_OfficialDatacenterID_34"		"São Paulo"
 		// "SFUI_OfficialDatacenterID_35"		"US West"
 		// "SFUI_OfficialDatacenterID_36"		"Germany"
@@ -40519,10 +40690,11 @@
 		// "SFUI_OfficialDatacenterID_41"		"TBD"
 		"SFUI_OfficialDatacenterID_42"		"China, Chengdu"
 		"SFUI_OfficialDatacenterID_43"		"US, New York"
-		"SFUI_OfficialDatacenterID_44"		"EU, Finland"
+		"SFUI_OfficialDatacenterID_44"		"EU, Helsinki"
 		"SFUI_OfficialDatacenterID_45"		"United Kingdom"
 		"SFUI_OfficialDatacenterID_49"		"China, Guangdong"
 		"SFUI_OfficialDatacenterID_51"		"China, Beijing"
+		"SFUI_OfficialDatacenterID_52"		"EU, Falkenstein"
 
 		"SFUI_UserAlert_HighPings"			"Your best ping to official servers is %s1 ms."
 		"SFUI_UserAlert_Unreachable"		"Failed to reach any official servers."
@@ -44974,6 +45146,7 @@
 		"inv_context_useitem"				"Use Item"
 		"inv_context_usespray"				"Open and Equip"
 		"inv_context_open_package"			"Unlock Container"
+		"inv_context_open_terminal"			"Unseal Terminal"
 		"inv_context_open_watch_panel_pickem"	"Play the Pick'Em Challenge"
 		"inv_context_view_tournament_journal" "View Coin Challenges"
 		"inv_context_open_season_stats_panel" "View Season Statistics"
@@ -45084,6 +45257,12 @@
 		"popup_title_stattrack_swap"		"New StatTrak™ Value"
 		"popup_title_quest_reward"			"Reward"
 		"popup_title_xpshopredeem"			"Received From Armory"
+
+		"popup_control_tooltip_rotate_weapon"		"Drag the mouse to rotate weapon"
+		"popup_control_tooltip_rotate_sticker"		"Scroll mouse wheel while hovering over a sticker to rotate it"
+		"popup_control_tooltip_move_sticker"		"Click and drag a sticker to move it on the weapon"
+		"popup_control_tooltip_move_keychain"		"Click and drag the keychain to move it on the weapon"
+
 
 		"acknowledge_gifter"				"Gift from: {s:name}"
 		"acknowledge_quest"					"Mission reward"
@@ -45199,12 +45378,15 @@
 		"popup_decodeable_xray_desc"	"<b>{s:itemname}</b>"
 		"popup_decodeable_desc_graffiti"	"Open <b>{s:itemname}</b>"
 		"popup_decodeable_desc_fantoken"	"Activate <b>{s:itemname}</b>"
+		"popup_decodeable_desc_terminal"	"Unseal <b>{s:itemname}</b>"
 		"popup_decodeable_warning"		"This Container can only be opened once"
 		"popup_decodeable_warning_graffiti"		"This graffiti can only be unsealed once"
 		"popup_decodeable_warning_fantoken"		"This item can only be activated once"
+		"popup_decodeable_warning_terminal"		"Once unsealed, your Uplink Terminal becomes non-tradable and non-marketable"
 		"popup_decodeable_button"		"Unlock Container"
 		"popup_decodeable_button_graffiti"	"Unseal Graffiti"
 		"popup_decodeable_button_fantoken"	"Activate Item"
+		"popup_decodeable_button_terminal"	"Unseal Terminal"
 		"popup_decodeable_async_desc"	"Use <b>{s:itemname}</b>"
 		"popup_decodeable_async_xray_desc"		"Use the x-ray scanner to reveal the item inside"
 		"popup_decodeable_err_restricted"	"Opening <b>{s:itemname}</b> is not allowed in your country"
@@ -45224,6 +45406,7 @@
 		"popup_totool_decodeable_header_fantoken"	"Activate Item"
 		"popup_totool_purchase_header"	"Purchase"
 		"popup_totool_purchase_header2"	"PURCHASE TO CLAIM"
+		"popup_totool_decodeable_header_terminal"	"Unseal Terminal"
 
 		//Purchase
 		"popup_cartpreview_button"		"Preview"
@@ -46079,6 +46262,22 @@
 		"practicesettings_annotations_dropdown_tooltip"	"Specifies which Map Guide will be loaded"
 
 		"PlayMenuReplayNewUserTrainingButton"		"Replay Training Day"
+
+
+		"CSGO_VanityLoadout_Inspect"				"Inspect"
+		"CSGO_VanityLoadout_FindOnMarket"			"Find on Market"
+
+
+		"VanityLoadout_WeaponInfo_name"				"<span class=\"weapon-name\">{s:weapon_name_full}</span><br><span class=\"weapon-name-custom\">{s:weapon_name_custom}</span></font>"
+
+
+		"VanityLoadout_WeaponInfo_stock"		"Stock Weapon"
+
+		"VanityLoadout_WeaponInfo_collection"	"{s:collection}"
+		"VanityLoadout_WeaponInfo_wear"			"{s:wear}"
+		"VanityLoadout_WeaponInfo_pattern"		"{s:pattern}"
+
+		"VanityLoadout_WeaponInfo_wear_fill"			"<font color=\"\">%s1: %s2</font>"
 
 
 		//////////////////////
@@ -47924,6 +48123,299 @@
 		"Chatwheel_section_report"	"Report"
 
 		"Chatwheel_description" "The Chatwheel provides quick access to a customizable list of useful radio commands."
+
+		////
+		//
+		// Volatile Laptop
+		//
+		////
+
+		// ---------------------------------------------------------------------------------------------
+		"laptop_window_collection_title"			"COLLECTION CATALOG XP"
+		"laptop_window_expiration_title"			"EXPIRATION"
+		"laptop_window_seal_title"					"STATUS"
+		"laptop_window_messages_title"				"CHAT - ARMS DEALER"
+		"laptop_window_currentoffer_title"			"CURRENT OFFER"
+		"laptop_app_title"							"<span class=\"laptop-app-title-prefix\">UP-</span>Link"
+		"laptop_app_version"						"v 1.1.0.2000"
+
+		"dealer_offer_attachment_title"							"{s:item-name}"
+		"dealer_offer_attachment_wear"						"{s:item-rarity}"
+		"dealer_offer_attachment_remaining_title"				"OFFER #{d:offer-total}"
+		"dealer_offer_attachment_remaining"						"Offer #{d:offer-total}"
+		"dealer_offer_received_count"							"<b>{s:offer-count}</b> Offer"
+		"dealer_offer_attachment_final_title"					"FINAL OFFER"
+		"dealer_offer_attachment_final"							"{s:offer-count} and Final offer"
+		"dealer_offer_attachment_status"						"Offer - {s:offer-status}"
+		"dealer_offer_attachment_status-active"					"<b><span class=\"offer-active\">Active</span></b>"
+		"dealer_offer_attachment_status-price"					"<b><span class=\"offer-active\">{s:offer-price}</span></b>"
+		"dealer_offer_attachment_status-declined-price"			"{s:offer-price}"
+		"dealer_offer_attachment_status-declined"				"<span class=\"offer-declined\">{s:offer-count} Offer - Declined</span>"
+
+		"user_btn_purchase_desc_purchase"		"Hold to purchase this item. After purchase, the Terminal is discarded."
+		"user_btn_purchase_desc_continue"		"Hold to permanently decline this offer and see the next one."
+		"user_btn_purchase_desc_end"		"Decline the final offer and discard this Terminal."
+		"user_btn_purchase_title"			"<b>{s:offer-count} Offer</b> - Suggested Responses"
+		"user_btn_purchase_final_title"		"<b>Final Offer</b> - Suggested Responses"
+		"user_btn_decline_desc"				"Decline this offer and see another one"
+		"user_btn_accept"		"Accept Offer <b>{s:price}</b>"
+		"user_btn_accept_final"	"Accept Final Offer <b>{s:price}</b>"
+		"user_btn_accept_0"		"Deal. <b>{s:price} works.</b>"
+		"user_btn_accept_1"		"I'll accept it - <b>{s:price}</b>"
+		"user_btn_accept_2"		"I'm in for <b>{s:price}</b>"
+		"user_btn_accept_3"		"I'll bite <b>{s:price}</b>"
+		"user_btn_accept_4"		"You've got me at <b>{s:price}</b>"
+		"user_btn_accept_5"		"That's good — <b>{s:price}</b>"
+		"user_btn_next"			"Decline Offer"
+		"user_btn_next_0"		"Tempting, but no"
+		"user_btn_next_1"		"Not worth my bullets"
+		"user_btn_next_2"		"Can't do it"
+		"user_btn_next_3"		"Pass"
+		"user_btn_next_4"		"No deal"
+		"user_btn_next_5"		"Thanks, but no"
+		"user_btn_next_6"		"Not this time"
+		"user_btn_next_7"		"Not today"
+		"user_btn_pause"		"Pause Deal"
+		"user_btn_end"			"Decline Final Offer"
+
+		"dealer_offer_Unknown"							"-"
+		"dealer_offer_1"								"1st"
+		"dealer_offer_2"								"2nd"
+		"dealer_offer_3"								"3rd"
+		"dealer_offer_4"								"4th"
+		"dealer_offer_5"								"5th"
+		"dealer_offer_6"								"6th"
+		"dealer_offer_7"								"7th"
+		"dealer_offer_8"								"8th"
+		"dealer_offer_9"								"9th"
+		"dealer_offer_10"								"10th"
+
+		"current_offer_tooltip"		"The Arms Dealer's Current Offer to you."
+		"declined_offer_tooltip"	"Declined offer"
+		"future_offer_tooltip"		"Offer not yet revealed."
+		"laptop_expiration_tooltip"		"Time remaining until this Uplink Terminal and its offers expire."
+		"collection_xp_tooltip"			"Earn XP for viewing the offers in this collection. Open to see progress and redeem XP."
+		"popup_lootlist_title"			"Collection Catalog XP"
+		"popup_lootlist_desc"			"Earn XP for viewing the offers in this collection"
+		"popup_lootlist_progress"		"Seen {d:seen}/{d:total} offers"
+		"popup_lootlist_claim_xp"		"Get Bonus XP"
+		"popup_lootlist_claim_ww"		"Claiming XP..."
+		"popup_lootlist_claim_ok"		"✅ XP Claimed"
+		"popup_vpn_status_connected"	"Status: Connected to secure network"
+		"popup_vpn_status_disconnected"	"Status: Disconnected"
+		"popup_signal_full" 			"Full Signal"
+		"popup_signal_ok" 				"Strong Signal"
+		"laptop_battery_tooltip" 		"Battery Charge: {d:percent}%"
+		"laptop_original_seal_tooltip" 	"Any item purchased from this Uplink Terminal will come with an Original Owner Certificate, which is valid while you are the owner."
+		"laptop_zoom_tooltip" 			"Scroll mouse wheel to zoom in and out."
+		"laptop_pan_tooltip" 			"Hold 'Shift' key and drag to pan the camera."
+		"laptop_pricing_tooltip"		"Prices are global and adjusted automatically based on demand for each item in this collection."
+
+
+		"dealer_message_start_0"  	"This stuff's contractor issue across the board.<!--.25-->All the bells and whistles. None of the paperwork."
+		"dealer_message_start_1"  	"I'm moving gray channel stock, no paper.<!--.25-->Don't worry: they're cold. Out of circulation for years, no one's looking for them.<!--.25-->Plus they still shoot when you point them, if you're curious."
+		"dealer_message_start_2"  	"Customs in Ahradan froze my cargo this morning. I tried thawing it out with a sob story about medical equipment and some poor dying... whoever.<!--.25-->That didn't work. But the briefcase full of money did.<!--.25-->How about we take a look at these dialysis machines before I get them to the orphans."
+		"dealer_message_start_3"  	"Regime change just went down in one of the 'stans.<!--.25-->The depot doors swung open and I picked through the pile myself.<!--.25-->I'm only selling the sterile pieces. Take a look."
+		"dealer_message_start_4"  	"The stuff I've got today is all clean.<!--.25-->As far as anyone knows, yours are the first hands they've passed through."
+		"dealer_message_start_5"  	"Sterile pieces, no serials, perfect action.<!--.25-->A war tribunal would call these evidence.<!--.25-->You and I know they're goddamn masterpieces."
+		"dealer_message_start_6"  	"This whole shipment is exotics recently liberated from a parade unit.<!--.25-->Marched around a lot. Never fired."
+		"dealer_message_start_7"  	"Good. It's you.<!--.25-->My other clients always want to know how I got what I'm selling. I hate that.<!--.25-->All you ever want to know is if it's the best stuff on the market.<!--.25-->Guess what: It is."
+		"dealer_message_start_8"  	"Peace agreement in Drosvik. I love peace.<!--.25-->Because I've got a general with a lot of debts and a fully stocked armory gathering dust.<!--.25-->I mean...<!--.25-->Also because peace is good, obviously. Innocent lives and...<!--.25-->What am I saying, you don't care."
+		"dealer_message_start_9"  	"This load's got exotics from a gray channel diversion.<!--.25-->Unusual calibers, not for amateurs. You'll love 'em."
+		"dealer_message_start_10"  	"This is embarrassing.<!--.25-->I must have accidentally mislabeled a crate on my shipping manifest.<!--.25-->Well. A few dozen crates.<!--.25-->How about you help me make this inventory disappear before the port authority looks into it."
+		"dealer_message_start_11"  	"Drosvik inspector was after a bribe on this one. Idiot started talking about seizure orders. <!--.25-->I've got guys in Drosvik who know how to deal with the talkers. He's got his jaw wired shut now.<!--.25-->And luckily, this merchandise speaks for itself."
+		"dealer_message_start_12"  	"Had to grease every palm in Ahradan getting this shipment over the border.<!--.25-->All the bribes were in ahri, too. Do you know how much paper you have to move to pay bribes in a worthless currency? Those guys need to do something about their economy."
+		"dealer_message_start_13"	"I've got a shadow broker who needs this moved fast.<!--.25-->That's all he said. 'Fast.'<!--.25-->Also the words 'very very'.<!--.25-->Put it this way: If you're not curious why he's selling, you're about to be very very happy."
+		"dealer_message_start_14"	"Legacy models today.<!--.25-->Are they flashy? No. But they're reliable.<!--.25-->Your grandkids'll still be shooting people with 'em."
+		"dealer_message_start_15"	"A rebel militia liberated this hardware from Glorious Leader's armory.<!--.25-->I think he also liberated the Glorious Leader's torso from his limbs and head.<!--.25-->(I don't sell that kind of stuff, but I can put you in touch with a guy if you're interested.)"
+		"dealer_message_start_16"	"Drosvik border chief threatened to seize this shipment.<!--.25-->I don't think he got the memo I don't do bribes in Drosvik. Not when the local muscle is that cheap. Drosvik's like the kickboxing capital of the world.<!--.25-->Anyway, his replacement lost the seizure order. And his arms aren't broken."
+		"dealer_message_start_17"	"This is all from a billionaire's private collection.<!--.25-->Well, a former billionaire. He's under investigation, which means I'm liquidating what he can't.<!--.25-->Let's be honest, this is gonna look nicer in your hand than hanging on a wall in a yacht."
+		"dealer_message_start_18"	"Dock inspector flagged a discrepancy on this shipment.<!--.25-->Funny thing, a crate of rifles weighs exactly the same as a crate of 'tractor parts' once you add exactly ten thousand dollars to the scale.<!--.25-->Let's take a look at these tractor parts."
+		"dealer_message_start_19"	"The stuff I've got today survived a coup to get to you.<!--.25-->Scratched finish, but perfect function. It's what's inside that counts, right?"
+		"dealer_message_start_20"	"A shitty little republic just strung up their president.<!--.25-->Lucky me, I inherited his supply chain."
+		"dealer_message_start_21"	"Call it a processing error. A filing discrepancy. A simple, honest misfiling.<!--.25-->Mistakes happen. I'm just trying to help out a friend so they don't lose their supply sergeant post.<!--.25-->This gear needs to disappear."
+		"dealer_message_start_22"	"Some customs chief thought he could lean on me with this shipment. So I made the dockside unions lean harder.<!--.25-->Funny how fast paperwork clears when everyone's busy looking for a missing person.<!--.25-->I hope they find the poor guy. I don't think he can swim."
+		"dealer_message_start_23"	"Border guard in Ahradan said the paperwork didn't match. So I gave him a stack of ahri and suddenly it did.<!--.25-->I don't even know what ten thousand ahri is in actual money. Like six dollars or something.<!--.25-->So. You want to look at some guns that don't exist?"
+		"dealer_message_start_24"	"I had a war general committed to buying up this merchandise, and the idiot goes and gets blown up in a drone strike.<!--.25-->Keep your windows closed, that's my advice. Anyway, his explosion is your gain."
+		"dealer_message_start_25"	"Regime change in Drosvik. I don't know how this happened, but somehow a warehouse full of weapons crates got lost in the shuffle.<!--.25-->And somehow I wound up with them. Crazy, right?<!--.25-->It gets crazier. Also somehow I might be selling them. To you. Right now."
+		"dealer_message_start_26"	"I've got a crate of misdeclared cargo I want to show you. <!--.25-->Don't let the 'farm equipment' fool you. The only soil you're gonna be pushing is if you don't shoot first."
+		"dealer_message_start_27"	"I hate working with insurgents. It's just a polite way of saying civilians, which is a nice way of saying goddamn amateurs.<!--.25-->Anyway, they've gone dark, so I'm giving some actual professionals a chance at this hardware."
+		"dealer_message_start_28"	"Perennial hot zone down south just had its bi-annual parliament collapse.<!--.25-->Bunch of local armories busted open like pinatas."
+		"dealer_message_start_29"	"Port authority inspector called this shipment irregular last Friday.<!--.25-->By Monday his daughter's got enough tuition money to attend Stamwick and the shipment is farm tools again.<!--.25-->What can I say, education's important. Let's look at some farm tools."
+
+
+		"dealer_message_resume_0"  	"<!--1-->You're back. Good. Deal's still on the table."
+		"dealer_message_resume_1"  	"<!--1-->Needed a minute to think about it? Not a problem."
+		"dealer_message_resume_2"  	"<!--1-->I figured you'd be back."
+		"dealer_message_resume_3"  	"<!--1-->Let's pick up where we left off."
+		"dealer_message_resume_4"  	"<!--1-->Ready to do some business?"
+		"dealer_message_resume_5"  	"<!--1-->Good, you're back. I need to offload this or the wrong people are going to start asking questions."
+		"dealer_message_resume_6"  	"<!--1-->You're back. Where were we?"
+
+		"dealer_message_first_offer_0"	"<!--.5-->If you're interested let's make a deal."
+		"dealer_message_first_offer_1"	"<!--.5-->Just so you know, I've got other interested parties in this hardware."
+		"dealer_message_first_offer_2"	"<!--.5-->If you're in, you're in. Otherwise tell me, I've got a back channel full of interested buyers."
+		"dealer_message_first_offer_3"	"<!--.5-->This one's yours if you want it. If not, your loss."
+		"dealer_message_first_offer_4"	"<!--.5-->If it's a yes let's do this. I can't keep this deal on the table forever."
+		"dealer_message_first_offer_5"	"<!--.5-->Offer's on the table. Yes or no."
+		"dealer_message_first_offer_6"	"<!--.5-->You want this or not? You're not hurting my feelings if it's a no. I've got other buyers."
+		"dealer_message_first_offer_7"	"<!--.5-->We doing this or not?"
+		"dealer_message_first_offer_8"	"<!--.5-->I don't have all day."
+		"dealer_message_first_offer_9"	"<!--.5-->We doing business or not?"	
+		"dealer_message_first_offer_10"	"<!--.5-->I don't need to hard sell you here, this sells itself. You in or out?"		
+
+		"dealer_message_next_offer_0"	"<!--1-->Alright, that one didn't do it for you. How about this?"
+		"dealer_message_next_offer_1"	"<!--1-->Your loss. Luckily you caught me in a good mood. Check this out."
+		"dealer_message_next_offer_2"	"<!--1-->You're passing? Well, it's your mistake to make. Take a look at this."
+		"dealer_message_next_offer_3"	"<!--1-->This merchandise sells itself. If you're not buying I'll find someone who will.<!--.5-->While I've got you here, though, this one had your name all over it."
+		"dealer_message_next_offer_4"	"<!--1-->I get it. Not your style. Let's see if this is closer. I think you'll like this."
+		"dealer_message_next_offer_5"	"<!--1-->I had a feeling you'd pass on that. Luckily, I had this little beauty waiting in the wings."
+		"dealer_message_next_offer_6"	"<!--1-->Yeah, I figured. Here, check this out. I think this one's more your speed."
+		"dealer_message_next_offer_7"	"<!--1-->You're gonna regret passing on that later. Not a problem. How about this?"
+		"dealer_message_next_offer_8"	"<!--1-->I know you too well. I figured you weren't gonna bite on that. How about this?"
+		"dealer_message_next_offer_9"	"<!--1-->Alright, passing on the appetizer. Get ready for the main course."
+		"dealer_message_next_offer_10"	"<!--1-->I get it, I didn't like the look of that one either. Here, take a look at this."		
+		"dealer_message_next_offer_11"   "<!--1-->That one might have been an acquired taste. This next one's more of a people pleaser."
+		"dealer_message_next_offer_12"   "<!--1-->Plenty more stock where that came from. Take a look at this beauty."
+		"dealer_message_next_offer_13"   "<!--1-->You know what? I thought you might say that. Let’s move on to this one."
+		"dealer_message_next_offer_14"   "<!--1-->You’re harder to please than I thought. This one putting a smile on your face?"
+		"dealer_message_next_offer_15"   "<!--1-->You're not hurting my feelings. I didn't make the damn thing. Here’s another option."
+		"dealer_message_next_offer_16"   "<!--1-->I wouldn’t have taken that either. This one, though. Come on."
+		"dealer_message_next_offer_17"   "<!--1-->Passing? You got it. Next up."
+		"dealer_message_next_offer_18"   "<!--1-->I see you’ve got high standards. Works for me. This next one's the gold standard."
+		"dealer_message_next_offer_19"   "<!--1-->I don't want to waste your money and you don't want to waste my time. Take a look at this."
+		"dealer_message_next_offer_20"   "<!--1-->Hey, I appreciate the honesty. Let's keep it moving and stop wasting time."
+		"dealer_message_next_offer_21"   "<!--1-->Alright, you weren't feeling that one. Good thing I'm selling more than one gun."
+		"dealer_message_next_offer_22"   "<!--1-->Not a problem. Plenty of other inventory to move here. Next up."
+		"dealer_message_next_offer_23"   "<!--1-->I could have sworn I had a sale there. Maybe this will seal the deal."
+		"dealer_message_next_offer_24"   "<!--1-->Got it. Not for you. They can't all be. But this one is calling your name."
+		"dealer_message_next_offer_25"   "<!--1-->Doesn't look like you're picking up what I'm throwing down here. Let's see if this one grabs you."
+		"dealer_message_next_offer_26"   "<!--1-->Okay, no more fooling around. I am absolutely guaranteeing you're gonna love this next one. Probably."
+		"dealer_message_next_offer_27"   "<!--1-->Didn't like that one, huh? It's going in my private armory then. How about this?"
+		"dealer_message_next_offer_28"   "<!--1-->You’ve got taste. Let's see if this next one meets your high standards."
+		"dealer_message_next_offer_29"   "<!--1-->Alright, that one was just the top of the pile. Let me dig a little deeper."
+		"dealer_message_next_offer_30"   "<!--1-->Forget that last one. This is the one I wanted you to take a look at."
+		"dealer_message_next_offer_31"   "<!--1-->This one's got your name all over it. Not literally, it's clean."
+		"dealer_message_next_offer_32"   "<!--1-->Hey, you can't buy all of 'em, I get it. Maybe you're holding out for something in particular. Like this."
+		"dealer_message_next_offer_33"   "<!--1-->That one was practice. This is the real show."
+		"dealer_message_next_offer_34"   "<!--1-->Yeah, I didn’t think so. But this next one. I thought of you when I saw it."
+		"dealer_message_next_offer_35"   "<!--1-->Fair enough. I've been holding this one back for you."
+		"dealer_message_next_offer_36"   "<!--1-->Not my job to make you fall in love with it. I'm just trying to move hardware. Next."
+		"dealer_message_next_offer_37"   "<!--1-->No problem. I think this next one's more up your alley."
+		"dealer_message_next_offer_38"   "<!--1-->Smart. I knew you wouldn't jump at that. Let me show you something better."
+		"dealer_message_next_offer_39"   "<!--1-->Not a problem. I wouldn't have bought that either. Now this, on the other hand..."
+		"dealer_message_next_offer_40"   "<!--1-->Making me go all the way in the back for the premium shelf stuff, huh? Alright, you got it."
+
+
+		"dealer_message_last_offer_0"	"<!--0-->Alright, last and final offer. Take it or leave it."
+		"dealer_message_last_offer_1"	"<!--0-->Consider this my final offer."
+		"dealer_message_last_offer_2"	"<!--0-->Final offer. Take it or leave it, let's stop wasting my time."
+		"dealer_message_last_offer_3"	"<!--0-->Last offer.<!--1-->You don't want it, I'd take a step back. This thing WILL explode."
+		"dealer_message_last_offer_4"	"<!--0-->Last offer. I'm not begging."
+		"dealer_message_last_offer_5"	"<!--0-->Alright, this is the best I can do."
+		"dealer_message_last_offer_6"	"<!--0-->Fine. Here. We doing this or not?"		
+		"dealer_message_last_offer_7"	"<!--0-->Last best and final offer."
+		"dealer_message_last_offer_8"	"<!--0-->I'll meet you halfway. This is the best I can do."
+		"dealer_message_last_offer_9"	"<!--0-->This is as good as the offer's getting before it goes away."	
+
+		"dealer_message_end_0"			"<!--0-->Alright, you had your chance. If you're holding the exploding Uplink Terminal right now, I'd stop. In three... two..."
+		"dealer_message_end_1"			"<!--0-->Well, you've got something to think about the next time you're getting shot at and you reach for the weapon you just passed on."
+		"dealer_message_end_2"			"<!--0-->Alright, I'm not going to beg you to take it. Hope you didn't think you were getting a free Uplink Terminal out of this."
+		"dealer_message_end_3"			"<!--0-->Your call. Your business. Your funeral, probably.<!--1-->Step away from the about-to-explode Uplink Terminal, if you could."
+
+		"dealer_message_timerexpired_0"		"<!--.1-->Alright, nevermind."
+		"dealer_message_timerexpired_1"		"<!--.1-->Forget it<!--.5-->You had your chance."
+		"dealer_message_timerexpired_2"		"<!--.1-->Deal's off.<!--.5-->I've got things to do here."
+		"dealer_message_timerexpired_3"		"<!--.1-->Alright, let me find a buyer who's buying<!--.5-->We're done here."
+		"dealer_message_timerexpired_4"		"<!--.1-->Your call.<!--.5-->Later."
+		"dealer_message_timerexpired_5"		"<!--.1-->Tick tock.<!--.5-->Time's up."
+		"dealer_message_timerexpired_6"		"<!--.1-->Deal's off.<!--.5-->I could have moved this elsewhere ten times by now."
+		"dealer_message_timerexpired_7"		"<!--.1-->And here I thought I was helping you waste people.<!--.5-->Turns out you're just wasting my time."
+		"dealer_message_timerexpired_8"		"<!--.1-->Deal's off."	
+		"dealer_message_timerexpired_9"		"<!--.1-->Time's up."
+		"dealer_message_timerexpired_10"		"<!--.1-->Alright, I'm officially bored. We're done here."		
+
+		"dealer_message_open_check_out_0"		"<!--.5-->This one had your name all over it. That's why I thought of you first. Let's seal this deal."
+		"dealer_message_open_check_out_1"		"<!--.5-->An excellent decision. I'll make sure it's packed and ready."
+		"dealer_message_open_check_out_2"		"<!--.5-->You won't regret it. Though I'm betting someone's about to."
+		"dealer_message_open_check_out_3"		"<!--.5-->I knew you were my buyer. Let's make it official."
+		"dealer_message_open_check_out_4"		"<!--.5-->Perfect. Let's do this."		
+		"dealer_message_open_check_out_5"		"<!--.5-->Good choice."	
+		"dealer_message_open_check_out_6"		"<!--.5-->Smartest choice you've ever made. Let's make it final."		
+		"dealer_message_open_check_out_7"		"<!--.5-->Good. Let's make it official."	
+		
+		"dealer_message_txn_xld_bailout_0"		"<!--.5-->No rush. You know where to find me."
+		"dealer_message_txn_xld_bailout_1"		"<!--.5-->I'm not going anywhere."
+		"dealer_message_txn_xld_bailout_2"		"<!--.5-->I'll keep this one on the table for now."
+		"dealer_message_txn_xld_bailout_3"		"<!--.5-->You'll be back. Go chew on it a little."
+
+		"dealer_message_purchase_finalizing_0"	"Finalizing payment details..."
+		"dealer_message_purchase_confirm_0"		"<!--.5-->Done deal"
+
+		"dealer_message_stattrack_0"			"StatTrak™ installed, of course."
+		"dealer_message_stattrack_1"			"This baby comes with StatTrak™, too."
+		"dealer_message_stattrack_2"			"Outfitted with StatTrak™. So you don't have to keep track in your head."
+		"dealer_message_stattrack_3"			"It's got StatTrak™. You pull the trigger, it does the math."
+		"dealer_message_stattrack_4"			"StatTrak™. Think of it like a scoreboard. For a sport where you murder people."
+		"dealer_message_stattrack_6"			"Includes StatTrak™, for the professional who likes murder AND statistics."
+		"dealer_message_stattrack_7"			"Comes with StatTrak™, of course."
+		"dealer_message_factory_new_0"			"Fresh out the box. Trust me, I just gave it a sniff."
+		"dealer_message_factory_new_1"			"Factory new. It's got that new weapon smell."
+		"dealer_message_factory_new_2"			"No mileage on this one. You'll be the first to pull the trigger."
+		"dealer_message_factory_new_3"			"Straight from production, no wear. Just how you like it."
+		"dealer_message_factory_new_4"			"This one's clean and pristine. No scratches, no story. That's where you come in."
+		"dealer_message_factory_new_5"			"Factory new, never fired. This one's immaculate."
+		"dealer_message_covert_0"				"Guess what? You just hit the jackpot. This one's not just rare. It's covert."
+		"dealer_message_covert_1"				"I've been at this for a decade and I've never seen one of those in the wild.<!--.5-->You've got good taste. And better luck."
+		"dealer_message_covert_2"				"I know buyers who'd have sold their own mother to a gulag to get their hands on that. Well done."
+		"dealer_message_covert_3"				"Wow. Now you've got me second-thinking this. Get this out of here before I regret this sale."
+		"dealer_message_covert_4"				"That's covert. You see something like that show up on the open market maybe once in your life, if you're lucky.<!--.5-->Guess you just got lucky."
+		"dealer_message_covert_5"				"This one's a crown jewel. But you know that. I had a buyer lined up for it a year ago. Their loss is your gain."
+		"dealer_message_covert_6"				"As scarce as they come. This one's hard to find, and it just dropped in your lap."
+		"dealer_message_covert_7"				"Take it from someone who finds this hardware for a living. This was very, very hard to find."
+		"dealer_message_covert_8"				"I hope you appreciate the deal you just made. That's covert. You just bought a unicorn."
+		"dealer_message_covert_9"				"You better get that out of my sight and into your arsenal before I regret this. That's the rarest of the rare."
+		"dealer_message_classified_0"				"Classified. Sterile and unpapered. This one's off the books."
+		"dealer_message_classified_1"				"Classified. No papers, this one's clean and untraceable."
+		"dealer_message_classified_2"				"Classified. Black issue, unpapered. What I'm holding right now does not technically exist."
+		"dealer_message_classified_3"				"Private sale only. Classified. Hope you put this to good use."
+		"dealer_message_classified_4"				"Classified. No serial, no papers."
+		"dealer_message_classified_5"				"Classified. Back channel sale only, de-milled and completely deniable. I never saw it."
+		"dealer_message_restricted_0"				"Restricted. Better internals, tighter grouping. Definite edge over the standard issue."
+		"dealer_message_restricted_1"				"This one's restricted for a reason. It performs just a little too well for the civilians."
+		"dealer_message_restricted_2"				"Restricted, of course. Class III, Title II, and your new number one."
+		"dealer_message_battle_scarred_0"		"Got a few dings in it, but it still shoots straight."
+		"dealer_message_battle_scarred_1"		"A little wear, but all that means is it's seen some action and got out the other side of it."
+		"dealer_message_battle_scarred_2"		"Battlefield pickup. Got a few miles on it, but it's a workhorse."
+		"dealer_message_battle_scarred_3"		"I don't think of it as field-worn. I consider it combat proven."
+		"dealer_message_battle_scarred_4"		"This one's seen some action. Some cosmetic wear but still reliable."
+		"dealer_message_minimal_wear_0"			"Minimal wear on this one. Got a scuff or two, but it'll get the job done."
+		"dealer_message_minimal_wear_1"			"Mint condition. Well, mint-ish. Minimal wear."
+		"dealer_message_minimal_wear_2"			"Minimal wear, just a little broken in, nothing to worry about."
+		"dealer_message_minimal_wear_3"			"Minimal wear on this. She's a little banged up, but you won't regret adding her to your arsenal."
+		"dealer_message_minimal_wear_4"			"It's seen a little combat, already, I won't lie to you. This one's a veteran."
+		"dealer_message_usp-s_0"				"This dog won't bark. Nice and quiet."
+		"dealer_message_usp-s_1"				"Quiet and discreet. Sometimes it needs to be our little secret."
+		"dealer_message_usp-s_2"				"They'll feel this one when it gets there, but they won't hear it coming."
+		"dealer_message_usp-s_3"				"This one's a whisperer."
+		"dealer_message_item_desc_0"			"<!--.25-->This one's got a note:<!--.25-->{s:flavor-text}<!--.25-->Whatever that means."
+		"dealer_message_item_desc_1"			"<!--.25-->This one came with a little note:<!--.25-->{s:flavor-text}"
+
+		"dealer_message_addition_stattrak_0"	"<!--.25-->...and with StatTrak™."
+		"dealer_message_addition_stattrak_1"	"<!--.25-->StatTrak™ module's pre-installed."
+		"dealer_message_addition_stattrak_2"	"<!--.25-->With StatTrak™ to track all the chaos you're gonna be making."
+		"dealer_message_addition_stattrak_3"	"<!--.25-->It's got StatTrak™ too."
+		"dealer_message_addition_stattrak_4"	"<!--.25-->Comes with StatTrak™ too, so you're never gonna lose track of the misery you're making."
+
+		"dealer_message_addition_factory_new_0"	"<!--.25-->And it's factory new. Unfired."
+		"dealer_message_addition_factory_new_1"	"<!--.25-->And it's factory new. Pristine."
+		"dealer_message_addition_factory_new_2"	"<!--.25-->Straight from the vault. Factory new."
+		"dealer_message_addition_factory_new_3"	"<!--.25-->This one's factory new. Never fired."
+
+		"system_dealer_left_chat_0"				"The Dealer has left your chat."
+		"system_dealer_join_chat_0"				"{s:collection} Arms Deal Offers.<!--1.25-->Dealer Connected"
+		"system_user_reject_offer_0"			"{s:user-name} Declined Offer."
+		
 
 		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		//Retakes
