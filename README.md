@@ -24,17 +24,14 @@ Output gets written to the `output/` folder.
 
 1. **Install Dependencies:**
     ```bash
-    pip install vdf==3.4
-
-    # Or, if you are in the project's root folder
     pip install -r requirements.txt
     ```
 
 2. **Run the Parser:**
     ```bash
-    # Make sure you are in the project's root folder
     python main.py
     ```
 
 ## To-Do
-- [ ] Parse images (they're stored in a different file that is also inside `items/` folder, I guess?).
+- [ ] Improve parsing gloves.
+- [ ] Save output in types like SQL, VDF.
