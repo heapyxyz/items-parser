@@ -1484,6 +1484,22 @@
             "index": "5175",
             "tag": "Premier Season Three Medal"
         },
+        "Map Token Golden": {
+            "index": "5177",
+            "tag": "Golden Map Coin"
+        },
+        "Map Token Rooftop": {
+            "index": "5178",
+            "tag": "Rooftop Map Coin"
+        },
+        "Map Token Palacio": {
+            "index": "5179",
+            "tag": "Palacio Map Coin"
+        },
+        "Map Token Transit": {
+            "index": "5180",
+            "tag": "(Redacted) Map Coin"
+        },
         "Collectible Pin - Dust II": {
             "index": "6001",
             "tag": "Dust II Pin"
@@ -40270,6 +40286,151 @@
             "tag": "Aeldari 2",
             "rarity": "rare"
         },
+        "paper_candy_apples": {
+            "index": "9451",
+            "tag": "Candy Apples",
+            "rarity": "rare"
+        },
+        "paper_cubix_connexion": {
+            "index": "9452",
+            "tag": "Cubix Connexion",
+            "rarity": "rare"
+        },
+        "paper_eyes_of_farlow": {
+            "index": "9453",
+            "tag": "Eyes of Farlow",
+            "rarity": "rare"
+        },
+        "paper_fade_mangos": {
+            "index": "9454",
+            "tag": "Fade Mangos",
+            "rarity": "rare"
+        },
+        "paper_gloves_on": {
+            "index": "9455",
+            "tag": "Gloves On",
+            "rarity": "rare"
+        },
+        "paper_lock_in": {
+            "index": "9456",
+            "tag": "Lock In",
+            "rarity": "rare"
+        },
+        "paper_mimicapsule": {
+            "index": "9457",
+            "tag": "Mimicapsule",
+            "rarity": "rare"
+        },
+        "paper_pop_pup": {
+            "index": "9458",
+            "tag": "Pop Pup",
+            "rarity": "rare"
+        },
+        "paper_pots": {
+            "index": "9459",
+            "tag": "POTS",
+            "rarity": "rare"
+        },
+        "paper_sent_with_love": {
+            "index": "9460",
+            "tag": "Sent With Love",
+            "rarity": "rare"
+        },
+        "paper_skellystab": {
+            "index": "9461",
+            "tag": "Skelly Stabby",
+            "rarity": "rare"
+        },
+        "paper_vice_cursor": {
+            "index": "9462",
+            "tag": "Vice Cursor",
+            "rarity": "rare"
+        },
+        "glitter_ct_tracks": {
+            "index": "9463",
+            "tag": "CT Tracks (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_overloaded": {
+            "index": "9464",
+            "tag": "Overloaded (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_t_tracks": {
+            "index": "9465",
+            "tag": "T Tracks (Glitter)",
+            "rarity": "mythical"
+        },
+        "holo_bomb_planted": {
+            "index": "9466",
+            "tag": "Bomb Planted (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_chrome_dome": {
+            "index": "9467",
+            "tag": "Chrome Dome (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_cutie": {
+            "index": "9468",
+            "tag": "Cutie (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_evidence": {
+            "index": "9469",
+            "tag": "Evidence (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_froggles": {
+            "index": "9470",
+            "tag": "Froggles (Holo)",
+            "rarity": "mythical"
+        },
+        "foil_aint_a_rental": {
+            "index": "9471",
+            "tag": "Ain't A Rental (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_eyes_sky": {
+            "index": "9472",
+            "tag": "Eyes In The Sky (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_good_as_new": {
+            "index": "9473",
+            "tag": "Good As New (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_hands_off": {
+            "index": "9474",
+            "tag": "Hands Off (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_king_crasswater": {
+            "index": "9475",
+            "tag": "King Crasswater (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_queen_ava": {
+            "index": "9476",
+            "tag": "Queen Ava (Foil)",
+            "rarity": "legendary"
+        },
+        "lenticular_digistrike": {
+            "index": "9477",
+            "tag": "Digi-Strike (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_neonmvp": {
+            "index": "9478",
+            "tag": "Neon MVP (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_bullhit": {
+            "index": "9479",
+            "tag": "BullHit (Lenticular)",
+            "rarity": "ancient"
+        },
         "paper_lightning_two": {
             "index": "7882",
             "tag": "Bolt Strike",
@@ -40524,6 +40685,51 @@
             "index": "7919",
             "tag": "Googly Eye (Lenticular)",
             "rarity": "ancient"
+        },
+        "paper_clavis": {
+            "index": "9480",
+            "tag": "Clavis",
+            "rarity": "rare"
+        },
+        "paper_lorena": {
+            "index": "9481",
+            "tag": "Lorena",
+            "rarity": "rare"
+        },
+        "paper_lucas": {
+            "index": "9482",
+            "tag": "Lucas",
+            "rarity": "rare"
+        },
+        "holo_clavis": {
+            "index": "9483",
+            "tag": "Clavis (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_lorena": {
+            "index": "9484",
+            "tag": "Lorena (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_lucas": {
+            "index": "9485",
+            "tag": "Lucas (Holo)",
+            "rarity": "mythical"
+        },
+        "foil_clavis": {
+            "index": "9486",
+            "tag": "Clavis (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_lorena": {
+            "index": "9487",
+            "tag": "Lorena (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_lucas": {
+            "index": "9488",
+            "tag": "Lucas (Foil)",
+            "rarity": "legendary"
         },
         "aus2025_team_vita": {
             "index": "8554",
@@ -44387,6 +44593,231 @@
         "kc_missinglink_bigfoot": {
             "index": "33",
             "tag": "Lil' Squatch",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_ancientcurse": {
+            "index": "38",
+            "tag": "Lil' Curse",
+            "rarity": "rare"
+        },
+        "kc_missinglink_babyserpent": {
+            "index": "39",
+            "tag": "Lil' Serpent",
+            "rarity": "ancient"
+        },
+        "kc_missinglink_basketball": {
+            "index": "40",
+            "tag": "Lil' Baller",
+            "rarity": "rare"
+        },
+        "kc_missinglink_bodybag": {
+            "index": "41",
+            "tag": "Dead Weight",
+            "rarity": "rare"
+        },
+        "kc_missinglink_cactus": {
+            "index": "42",
+            "tag": "Lil' Prick",
+            "rarity": "legendary"
+        },
+        "kc_missinglink_charmburger": {
+            "index": "43",
+            "tag": "Lil' Buns",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_cigar": {
+            "index": "44",
+            "tag": "Lil' Smokey",
+            "rarity": "rare"
+        },
+        "kc_missinglink_cthulhu": {
+            "index": "45",
+            "tag": "Lil' Eldritch",
+            "rarity": "ancient"
+        },
+        "kc_missinglink_happy": {
+            "index": "46",
+            "tag": "Lil' Happy",
+            "rarity": "legendary"
+        },
+        "kc_missinglink_lilhothead": {
+            "index": "47",
+            "tag": "Magmatude",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_lillol": {
+            "index": "48",
+            "tag": "Lil' Cackle",
+            "rarity": "rare"
+        },
+        "kc_missinglink_melted": {
+            "index": "49",
+            "tag": "Quick Silver",
+            "rarity": "ancient"
+        },
+        "kc_missinglink_pencil": {
+            "index": "50",
+            "tag": "Lil' No. 2",
+            "rarity": "rare"
+        },
+        "kc_missinglink_pinata": {
+            "index": "51",
+            "tag": "Pi\u00f1atita",
+            "rarity": "legendary"
+        },
+        "kc_missinglink_popsicle": {
+            "index": "52",
+            "tag": "Pocket Pop",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_sentai": {
+            "index": "53",
+            "tag": "Lil' Hero",
+            "rarity": "legendary"
+        },
+        "kc_missinglink_sillyelephant": {
+            "index": "54",
+            "tag": "Lil' Tusk",
+            "rarity": "rare"
+        },
+        "kc_missinglink_slime": {
+            "index": "55",
+            "tag": "Lil' Goop",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_surfsup": {
+            "index": "56",
+            "tag": "Hang Loose",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_winemaker": {
+            "index": "57",
+            "tag": "Lil' Vino",
+            "rarity": "rare"
+        },
+        "kc_missinglink_retrovision": {
+            "index": "58",
+            "tag": "Lil' Moments",
+            "rarity": "mythical"
+        },
+        "kc_missinglink_muteghost": {
+            "index": "59",
+            "tag": "Lil' Boo",
+            "rarity": "ancient"
+        },
+        "kc_missinglink_lilhatchling": {
+            "index": "60",
+            "tag": "Lil' Chirp",
+            "rarity": "legendary"
+        },
+        "kc_db_200iq": {
+            "index": "61",
+            "tag": "Big Brain",
+            "rarity": "mythical"
+        },
+        "kc_db_biomech": {
+            "index": "62",
+            "tag": "Biomech",
+            "rarity": "rare"
+        },
+        "kc_db_hellcat": {
+            "index": "63",
+            "tag": "Splatter Cat",
+            "rarity": "rare"
+        },
+        "kc_db_terror": {
+            "index": "64",
+            "tag": "Gritty",
+            "rarity": "rare"
+        },
+        "kc_db_ugly": {
+            "index": "65",
+            "tag": "Fluffy",
+            "rarity": "rare"
+        },
+        "kc_db_wood": {
+            "index": "66",
+            "tag": "Whittle Guy",
+            "rarity": "rare"
+        },
+        "kc_db_yinyang": {
+            "index": "67",
+            "tag": "Lil' Zen",
+            "rarity": "rare"
+        },
+        "kc_db_aztec": {
+            "index": "68",
+            "tag": "Lil' Facelift",
+            "rarity": "mythical"
+        },
+        "kc_db_bombacat": {
+            "index": "69",
+            "tag": "Lil' Chomper",
+            "rarity": "mythical"
+        },
+        "kc_db_clown": {
+            "index": "70",
+            "tag": "Lil' Bloody",
+            "rarity": "mythical"
+        },
+        "kc_db_dimsum": {
+            "index": "71",
+            "tag": "Lil' Dumplin'",
+            "rarity": "mythical"
+        },
+        "kc_db_eviscerate": {
+            "index": "72",
+            "tag": "Bomb Tag",
+            "rarity": "mythical"
+        },
+        "kc_db_dripfade": {
+            "index": "73",
+            "tag": "Glitter Bomb",
+            "rarity": "ancient"
+        },
+        "kc_db_eco": {
+            "index": "74",
+            "tag": "Lil' Eco",
+            "rarity": "legendary"
+        },
+        "kc_db_eyecritter": {
+            "index": "75",
+            "tag": "Hungry Eyes",
+            "rarity": "legendary"
+        },
+        "kc_db_occult": {
+            "index": "76",
+            "tag": "Eye of Ball",
+            "rarity": "legendary"
+        },
+        "kc_db_yeti": {
+            "index": "77",
+            "tag": "Lil' Yeti",
+            "rarity": "legendary"
+        },
+        "kc_db_8ball": {
+            "index": "78",
+            "tag": "8 Ball IGL",
+            "rarity": "ancient"
+        },
+        "kc_db_flash": {
+            "index": "79",
+            "tag": "Flash Bomb",
+            "rarity": "legendary"
+        },
+        "kc_db_incendiary": {
+            "index": "80",
+            "tag": "Lil' Ferno",
+            "rarity": "ancient"
+        },
+        "kc_db_lighter": {
+            "index": "81",
+            "tag": "Butane Buddy",
+            "rarity": "ancient"
+        },
+        "kc_db_drbrian": {
+            "index": "82",
+            "tag": "Dr. Brian",
             "rarity": "mythical"
         },
         "kc_aus2025": {
