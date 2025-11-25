@@ -2091,6 +2091,38 @@
         "BLAST.tv Austin 2025 CS:GO Quarterfinalist": {
             "index": "5130",
             "tag": "Quarterfinalist at BLAST.tv Austin 2025"
+        },
+        "tournament_journal_bud2025": {
+            "index": "5210",
+            "tag": "Budapest 2025 Coin"
+        },
+        "tournament_journal_bud2025_silver": {
+            "index": "5211",
+            "tag": "Budapest 2025 Silver Coin"
+        },
+        "tournament_journal_bud2025_gold": {
+            "index": "5212",
+            "tag": "Budapest 2025 Gold Coin"
+        },
+        "tournament_journal_bud2025_crystal": {
+            "index": "5213",
+            "tag": "Budapest 2025 Diamond Coin"
+        },
+        "StarLadder Budapest 2025 CS:GO Champion": {
+            "index": "5226",
+            "tag": "Champion at StarLadder Budapest 2025"
+        },
+        "StarLadder Budapest 2025 CS:GO Finalist": {
+            "index": "5227",
+            "tag": "Finalist at StarLadder Budapest 2025"
+        },
+        "StarLadder Budapest 2025 CS:GO Semifinalist": {
+            "index": "5228",
+            "tag": "Semifinalist at StarLadder Budapest 2025"
+        },
+        "StarLadder Budapest 2025 CS:GO Quarterfinalist": {
+            "index": "5229",
+            "tag": "Quarterfinalist at StarLadder Budapest 2025"
         }
     },
     "agents": {
@@ -25376,52 +25408,52 @@
             "tag": "Stone Scales (Foil)",
             "rarity": "legendary"
         },
-        "chicken_capsule_BigClucks_pack01": {
+        "chicken_capsule_bigclucks_pack01": {
             "index": "3966",
             "tag": "Big Clucks",
             "rarity": "rare"
         },
-        "chicken_capsule_BoneHead_pack01": {
+        "chicken_capsule_bonehead_pack01": {
             "index": "3967",
             "tag": "Bonehead",
             "rarity": "rare"
         },
-        "chicken_capsule_BukAWP_pack01": {
+        "chicken_capsule_bukawp_pack01": {
             "index": "3968",
             "tag": "BukAWP",
             "rarity": "rare"
         },
-        "chicken_capsule_DoubleDip_pack01": {
+        "chicken_capsule_doubledip_pack01": {
             "index": "3969",
             "tag": "Double Dip",
             "rarity": "rare"
         },
-        "chicken_capsule_FowlPlay_pack01": {
+        "chicken_capsule_fowlplay_pack01": {
             "index": "3970",
             "tag": "Fowl Play",
             "rarity": "rare"
         },
-        "chicken_capsule_HeadsUp_pack01": {
+        "chicken_capsule_headsup_pack01": {
             "index": "3971",
             "tag": "Heads Up",
             "rarity": "rare"
         },
-        "chicken_capsule_HotWings_pack01": {
+        "chicken_capsule_hotwings_pack01": {
             "index": "3972",
             "tag": "Hot Wings",
             "rarity": "rare"
         },
-        "chicken_capsule_NestEgg_pack01": {
+        "chicken_capsule_nestegg_pack01": {
             "index": "3973",
             "tag": "Nest Egg",
             "rarity": "rare"
         },
-        "chicken_capsule_RoostyBoosty_pack01": {
+        "chicken_capsule_roostyboosty_pack01": {
             "index": "3974",
             "tag": "Roosty Boosty",
             "rarity": "rare"
         },
-        "chicken_capsule_WhatWhat_pack01": {
+        "chicken_capsule_whatwhat_pack01": {
             "index": "3975",
             "tag": "What What",
             "rarity": "rare"
@@ -43865,6 +43897,3866 @@
             "index": "9449",
             "tag": "ropz (Holo, Champion) | Austin 2025",
             "rarity": "legendary"
+        },
+        "bud2025_team_furi": {
+            "index": "9489",
+            "tag": "FURIA | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_vita": {
+            "index": "9493",
+            "tag": "Vitality | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_fal": {
+            "index": "9497",
+            "tag": "Falcons | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_mngz": {
+            "index": "9501",
+            "tag": "The Mongolz | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_mouz": {
+            "index": "9505",
+            "tag": "MOUZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_spir": {
+            "index": "9509",
+            "tag": "Team Spirit | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_g2": {
+            "index": "9513",
+            "tag": "G2 esports | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_pain": {
+            "index": "9517",
+            "tag": "paiN Gaming | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_star": {
+            "index": "9617",
+            "tag": "StarLadder | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_furi_embroidered": {
+            "index": "9490",
+            "tag": "FURIA (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_vita_embroidered": {
+            "index": "9494",
+            "tag": "Vitality (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_fal_embroidered": {
+            "index": "9498",
+            "tag": "Falcons (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_mngz_embroidered": {
+            "index": "9502",
+            "tag": "The Mongolz (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_mouz_embroidered": {
+            "index": "9506",
+            "tag": "MOUZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_spir_embroidered": {
+            "index": "9510",
+            "tag": "Team Spirit (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_g2_embroidered": {
+            "index": "9514",
+            "tag": "G2 esports (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_pain_embroidered": {
+            "index": "9518",
+            "tag": "paiN Gaming (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_star_embroidered": {
+            "index": "9618",
+            "tag": "StarLadder (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_furi_holo": {
+            "index": "9491",
+            "tag": "FURIA (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_vita_holo": {
+            "index": "9495",
+            "tag": "Vitality (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_fal_holo": {
+            "index": "9499",
+            "tag": "Falcons (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_mngz_holo": {
+            "index": "9503",
+            "tag": "The Mongolz (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_mouz_holo": {
+            "index": "9507",
+            "tag": "MOUZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_spir_holo": {
+            "index": "9511",
+            "tag": "Team Spirit (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_g2_holo": {
+            "index": "9515",
+            "tag": "G2 esports (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_pain_holo": {
+            "index": "9519",
+            "tag": "paiN Gaming (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_star_holo": {
+            "index": "9619",
+            "tag": "StarLadder (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_furi_gold": {
+            "index": "9492",
+            "tag": "FURIA (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_vita_gold": {
+            "index": "9496",
+            "tag": "Vitality (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_fal_gold": {
+            "index": "9500",
+            "tag": "Falcons (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_mngz_gold": {
+            "index": "9504",
+            "tag": "The Mongolz (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_mouz_gold": {
+            "index": "9508",
+            "tag": "MOUZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_spir_gold": {
+            "index": "9512",
+            "tag": "Team Spirit (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_g2_gold": {
+            "index": "9516",
+            "tag": "G2 esports (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_pain_gold": {
+            "index": "9520",
+            "tag": "paiN Gaming (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_star_gold": {
+            "index": "9620",
+            "tag": "StarLadder (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_aura": {
+            "index": "9521",
+            "tag": "Aurora | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_navi": {
+            "index": "9525",
+            "tag": "Natus Vincere | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_liq": {
+            "index": "9529",
+            "tag": "Team Liquid | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_3dm": {
+            "index": "9533",
+            "tag": "3DMAX | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_astr": {
+            "index": "9537",
+            "tag": "Astralis | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_tyl": {
+            "index": "9541",
+            "tag": "TYLOO | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_mibr": {
+            "index": "9545",
+            "tag": "MIBR | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_psnu": {
+            "index": "9549",
+            "tag": "Passion UA | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_aura_embroidered": {
+            "index": "9522",
+            "tag": "Aurora (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_navi_embroidered": {
+            "index": "9526",
+            "tag": "Natus Vincere (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_liq_embroidered": {
+            "index": "9530",
+            "tag": "Team Liquid (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_3dm_embroidered": {
+            "index": "9534",
+            "tag": "3DMAX (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_astr_embroidered": {
+            "index": "9538",
+            "tag": "Astralis (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_tyl_embroidered": {
+            "index": "9542",
+            "tag": "TYLOO (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_mibr_embroidered": {
+            "index": "9546",
+            "tag": "MIBR (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_psnu_embroidered": {
+            "index": "9550",
+            "tag": "Passion UA (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_aura_holo": {
+            "index": "9523",
+            "tag": "Aurora (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_navi_holo": {
+            "index": "9527",
+            "tag": "Natus Vincere (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_liq_holo": {
+            "index": "9531",
+            "tag": "Team Liquid (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_3dm_holo": {
+            "index": "9535",
+            "tag": "3DMAX (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_astr_holo": {
+            "index": "9539",
+            "tag": "Astralis (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_tyl_holo": {
+            "index": "9543",
+            "tag": "TYLOO (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_mibr_holo": {
+            "index": "9547",
+            "tag": "MIBR (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_psnu_holo": {
+            "index": "9551",
+            "tag": "Passion UA (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_aura_gold": {
+            "index": "9524",
+            "tag": "Aurora (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_navi_gold": {
+            "index": "9528",
+            "tag": "Natus Vincere (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_liq_gold": {
+            "index": "9532",
+            "tag": "Team Liquid (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_3dm_gold": {
+            "index": "9536",
+            "tag": "3DMAX (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_astr_gold": {
+            "index": "9540",
+            "tag": "Astralis (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_tyl_gold": {
+            "index": "9544",
+            "tag": "TYLOO (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_mibr_gold": {
+            "index": "9548",
+            "tag": "MIBR (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_psnu_gold": {
+            "index": "9552",
+            "tag": "Passion UA (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_lgcy": {
+            "index": "9553",
+            "tag": "Legacy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_faze": {
+            "index": "9557",
+            "tag": "FaZe Clan | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_b8": {
+            "index": "9561",
+            "tag": "B8 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_gl": {
+            "index": "9565",
+            "tag": "GamerLegion | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_fntc": {
+            "index": "9569",
+            "tag": "fnatic | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_pari": {
+            "index": "9573",
+            "tag": "PARIVISION | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_nip": {
+            "index": "9577",
+            "tag": "Ninjas in Pyjamas | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_imp": {
+            "index": "9581",
+            "tag": "Imperial Esports | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_fq": {
+            "index": "9585",
+            "tag": "FlyQuest | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_lynn": {
+            "index": "9589",
+            "tag": "Lynn Vision | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_m80": {
+            "index": "9593",
+            "tag": "M80 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_flux": {
+            "index": "9597",
+            "tag": "Fluxo | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_redc": {
+            "index": "9601",
+            "tag": "RED Canids | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_huns": {
+            "index": "9605",
+            "tag": "The Huns | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_nrg": {
+            "index": "9609",
+            "tag": "NRG | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_ratm": {
+            "index": "9613",
+            "tag": "Rare Atom | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_team_lgcy_embroidered": {
+            "index": "9554",
+            "tag": "Legacy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_faze_embroidered": {
+            "index": "9558",
+            "tag": "FaZe Clan (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_b8_embroidered": {
+            "index": "9562",
+            "tag": "B8 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_gl_embroidered": {
+            "index": "9566",
+            "tag": "GamerLegion (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_fntc_embroidered": {
+            "index": "9570",
+            "tag": "fnatic (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_pari_embroidered": {
+            "index": "9574",
+            "tag": "PARIVISION (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_nip_embroidered": {
+            "index": "9578",
+            "tag": "Ninjas in Pyjamas (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_imp_embroidered": {
+            "index": "9582",
+            "tag": "Imperial Esports (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_fq_embroidered": {
+            "index": "9586",
+            "tag": "FlyQuest (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_lynn_embroidered": {
+            "index": "9590",
+            "tag": "Lynn Vision (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_m80_embroidered": {
+            "index": "9594",
+            "tag": "M80 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_flux_embroidered": {
+            "index": "9598",
+            "tag": "Fluxo (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_redc_embroidered": {
+            "index": "9602",
+            "tag": "RED Canids (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_huns_embroidered": {
+            "index": "9606",
+            "tag": "The Huns (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_nrg_embroidered": {
+            "index": "9610",
+            "tag": "NRG (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_ratm_embroidered": {
+            "index": "9614",
+            "tag": "Rare Atom (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_team_lgcy_holo": {
+            "index": "9555",
+            "tag": "Legacy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_faze_holo": {
+            "index": "9559",
+            "tag": "FaZe Clan (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_b8_holo": {
+            "index": "9563",
+            "tag": "B8 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_gl_holo": {
+            "index": "9567",
+            "tag": "GamerLegion (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_fntc_holo": {
+            "index": "9571",
+            "tag": "fnatic (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_pari_holo": {
+            "index": "9575",
+            "tag": "PARIVISION (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_nip_holo": {
+            "index": "9579",
+            "tag": "Ninjas in Pyjamas (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_imp_holo": {
+            "index": "9583",
+            "tag": "Imperial Esports (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_fq_holo": {
+            "index": "9587",
+            "tag": "FlyQuest (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_lynn_holo": {
+            "index": "9591",
+            "tag": "Lynn Vision (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_m80_holo": {
+            "index": "9595",
+            "tag": "M80 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_flux_holo": {
+            "index": "9599",
+            "tag": "Fluxo (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_redc_holo": {
+            "index": "9603",
+            "tag": "RED Canids (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_huns_holo": {
+            "index": "9607",
+            "tag": "The Huns (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_nrg_holo": {
+            "index": "9611",
+            "tag": "NRG (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_ratm_holo": {
+            "index": "9615",
+            "tag": "Rare Atom (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_team_lgcy_gold": {
+            "index": "9556",
+            "tag": "Legacy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_faze_gold": {
+            "index": "9560",
+            "tag": "FaZe Clan (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_b8_gold": {
+            "index": "9564",
+            "tag": "B8 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_gl_gold": {
+            "index": "9568",
+            "tag": "GamerLegion (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_fntc_gold": {
+            "index": "9572",
+            "tag": "fnatic (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_pari_gold": {
+            "index": "9576",
+            "tag": "PARIVISION (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_nip_gold": {
+            "index": "9580",
+            "tag": "Ninjas in Pyjamas (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_imp_gold": {
+            "index": "9584",
+            "tag": "Imperial Esports (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_fq_gold": {
+            "index": "9588",
+            "tag": "FlyQuest (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_lynn_gold": {
+            "index": "9592",
+            "tag": "Lynn Vision (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_m80_gold": {
+            "index": "9596",
+            "tag": "M80 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_flux_gold": {
+            "index": "9600",
+            "tag": "Fluxo (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_redc_gold": {
+            "index": "9604",
+            "tag": "RED Canids (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_huns_gold": {
+            "index": "9608",
+            "tag": "The Huns (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_nrg_gold": {
+            "index": "9612",
+            "tag": "NRG (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_team_ratm_gold": {
+            "index": "9616",
+            "tag": "Rare Atom (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_fallen_2": {
+            "index": "9654",
+            "tag": "FalleN | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kscerato_2": {
+            "index": "9658",
+            "tag": "KSCERATO | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_molodoy_2": {
+            "index": "9662",
+            "tag": "molodoy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_yekindar_2": {
+            "index": "9666",
+            "tag": "YEKINDAR | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_yuurih_2": {
+            "index": "9670",
+            "tag": "yuurih | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_apex_2": {
+            "index": "9674",
+            "tag": "apEX | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_flamez_2": {
+            "index": "9678",
+            "tag": "FlameZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_mezii_2": {
+            "index": "9682",
+            "tag": "mezii | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ropz_2": {
+            "index": "9686",
+            "tag": "ropz | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_zywoo_2": {
+            "index": "9690",
+            "tag": "ZywOo | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kyousuke_2": {
+            "index": "9694",
+            "tag": "kyousuke | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kyxsan_2": {
+            "index": "9698",
+            "tag": "kyxsan | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_m0nesy_2": {
+            "index": "9702",
+            "tag": "m0NESY | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_niko_2": {
+            "index": "9706",
+            "tag": "NiKo | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_teses_2": {
+            "index": "9710",
+            "tag": "TeSeS | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_910_2": {
+            "index": "9714",
+            "tag": "910 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_blitz_2": {
+            "index": "9718",
+            "tag": "bLitz | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_mzinho_2": {
+            "index": "9722",
+            "tag": "mzinho | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_senzu_2": {
+            "index": "9726",
+            "tag": "Senzu | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_techno4k_2": {
+            "index": "9730",
+            "tag": "Techno4K | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_brollan_2": {
+            "index": "9734",
+            "tag": "Brollan | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jimpphat_2": {
+            "index": "9738",
+            "tag": "Jimpphat | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_spinx_2": {
+            "index": "9742",
+            "tag": "Spinx | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_torzsi_2": {
+            "index": "9746",
+            "tag": "torzsi | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xertion_2": {
+            "index": "9750",
+            "tag": "xertioN | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_chopper_2": {
+            "index": "9754",
+            "tag": "chopper | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_donk_2": {
+            "index": "9758",
+            "tag": "donk | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_sh1ro_2": {
+            "index": "9762",
+            "tag": "sh1ro | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_zont1x_2": {
+            "index": "9766",
+            "tag": "zont1x | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_zweih_2": {
+            "index": "9770",
+            "tag": "zweih | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_heavygod_2": {
+            "index": "9774",
+            "tag": "Heavygod | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_hunter_2": {
+            "index": "9778",
+            "tag": "huNter- | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_malbsmd_2": {
+            "index": "9782",
+            "tag": "malbsMd | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_matys_2": {
+            "index": "9786",
+            "tag": "MATYS | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_sunpayus_2": {
+            "index": "9790",
+            "tag": "SunPayus | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_biguzera_2": {
+            "index": "9794",
+            "tag": "biguzera | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_dav1deus_2": {
+            "index": "9798",
+            "tag": "dav1deuS | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_dgt_2": {
+            "index": "9802",
+            "tag": "dgt | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nqz_2": {
+            "index": "9806",
+            "tag": "NQZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_snow_2": {
+            "index": "9810",
+            "tag": "snow | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_fallen_2_embroidered": {
+            "index": "9655",
+            "tag": "FalleN (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kscerato_2_embroidered": {
+            "index": "9659",
+            "tag": "KSCERATO (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_molodoy_2_embroidered": {
+            "index": "9663",
+            "tag": "molodoy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_yekindar_2_embroidered": {
+            "index": "9667",
+            "tag": "YEKINDAR (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_yuurih_2_embroidered": {
+            "index": "9671",
+            "tag": "yuurih (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_apex_2_embroidered": {
+            "index": "9675",
+            "tag": "apEX (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_flamez_2_embroidered": {
+            "index": "9679",
+            "tag": "FlameZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_mezii_2_embroidered": {
+            "index": "9683",
+            "tag": "mezii (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ropz_2_embroidered": {
+            "index": "9687",
+            "tag": "ropz (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_zywoo_2_embroidered": {
+            "index": "9691",
+            "tag": "ZywOo (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kyousuke_2_embroidered": {
+            "index": "9695",
+            "tag": "kyousuke (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kyxsan_2_embroidered": {
+            "index": "9699",
+            "tag": "kyxsan (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_m0nesy_2_embroidered": {
+            "index": "9703",
+            "tag": "m0NESY (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_niko_2_embroidered": {
+            "index": "9707",
+            "tag": "NiKo (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_teses_2_embroidered": {
+            "index": "9711",
+            "tag": "TeSeS (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_910_2_embroidered": {
+            "index": "9715",
+            "tag": "910 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_blitz_2_embroidered": {
+            "index": "9719",
+            "tag": "bLitz (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_mzinho_2_embroidered": {
+            "index": "9723",
+            "tag": "mzinho (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_senzu_2_embroidered": {
+            "index": "9727",
+            "tag": "Senzu (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_techno4k_2_embroidered": {
+            "index": "9731",
+            "tag": "Techno4K (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_brollan_2_embroidered": {
+            "index": "9735",
+            "tag": "Brollan (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jimpphat_2_embroidered": {
+            "index": "9739",
+            "tag": "Jimpphat (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_spinx_2_embroidered": {
+            "index": "9743",
+            "tag": "Spinx (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_torzsi_2_embroidered": {
+            "index": "9747",
+            "tag": "torzsi (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xertion_2_embroidered": {
+            "index": "9751",
+            "tag": "xertioN (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_chopper_2_embroidered": {
+            "index": "9755",
+            "tag": "chopper (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_donk_2_embroidered": {
+            "index": "9759",
+            "tag": "donk (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_sh1ro_2_embroidered": {
+            "index": "9763",
+            "tag": "sh1ro (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_zont1x_2_embroidered": {
+            "index": "9767",
+            "tag": "zont1x (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_zweih_2_embroidered": {
+            "index": "9771",
+            "tag": "zweih (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_heavygod_2_embroidered": {
+            "index": "9775",
+            "tag": "Heavygod (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_hunter_2_embroidered": {
+            "index": "9779",
+            "tag": "huNter- (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_malbsmd_2_embroidered": {
+            "index": "9783",
+            "tag": "malbsMd (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_matys_2_embroidered": {
+            "index": "9787",
+            "tag": "MATYS (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_sunpayus_2_embroidered": {
+            "index": "9791",
+            "tag": "SunPayus (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_biguzera_2_embroidered": {
+            "index": "9795",
+            "tag": "biguzera (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_dav1deus_2_embroidered": {
+            "index": "9799",
+            "tag": "dav1deuS (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_dgt_2_embroidered": {
+            "index": "9803",
+            "tag": "dgt (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nqz_2_embroidered": {
+            "index": "9807",
+            "tag": "NQZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_snow_2_embroidered": {
+            "index": "9811",
+            "tag": "snow (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_fallen_2_holo": {
+            "index": "9656",
+            "tag": "FalleN (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kscerato_2_holo": {
+            "index": "9660",
+            "tag": "KSCERATO (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_molodoy_2_holo": {
+            "index": "9664",
+            "tag": "molodoy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_yekindar_2_holo": {
+            "index": "9668",
+            "tag": "YEKINDAR (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_yuurih_2_holo": {
+            "index": "9672",
+            "tag": "yuurih (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_apex_2_holo": {
+            "index": "9676",
+            "tag": "apEX (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_flamez_2_holo": {
+            "index": "9680",
+            "tag": "FlameZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_mezii_2_holo": {
+            "index": "9684",
+            "tag": "mezii (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ropz_2_holo": {
+            "index": "9688",
+            "tag": "ropz (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_zywoo_2_holo": {
+            "index": "9692",
+            "tag": "ZywOo (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kyousuke_2_holo": {
+            "index": "9696",
+            "tag": "kyousuke (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kyxsan_2_holo": {
+            "index": "9700",
+            "tag": "kyxsan (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_m0nesy_2_holo": {
+            "index": "9704",
+            "tag": "m0NESY (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_niko_2_holo": {
+            "index": "9708",
+            "tag": "NiKo (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_teses_2_holo": {
+            "index": "9712",
+            "tag": "TeSeS (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_910_2_holo": {
+            "index": "9716",
+            "tag": "910 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_blitz_2_holo": {
+            "index": "9720",
+            "tag": "bLitz (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_mzinho_2_holo": {
+            "index": "9724",
+            "tag": "mzinho (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_senzu_2_holo": {
+            "index": "9728",
+            "tag": "Senzu (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_techno4k_2_holo": {
+            "index": "9732",
+            "tag": "Techno4K (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_brollan_2_holo": {
+            "index": "9736",
+            "tag": "Brollan (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jimpphat_2_holo": {
+            "index": "9740",
+            "tag": "Jimpphat (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_spinx_2_holo": {
+            "index": "9744",
+            "tag": "Spinx (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_torzsi_2_holo": {
+            "index": "9748",
+            "tag": "torzsi (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xertion_2_holo": {
+            "index": "9752",
+            "tag": "xertioN (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_chopper_2_holo": {
+            "index": "9756",
+            "tag": "chopper (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_donk_2_holo": {
+            "index": "9760",
+            "tag": "donk (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_sh1ro_2_holo": {
+            "index": "9764",
+            "tag": "sh1ro (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_zont1x_2_holo": {
+            "index": "9768",
+            "tag": "zont1x (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_zweih_2_holo": {
+            "index": "9772",
+            "tag": "zweih (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_heavygod_2_holo": {
+            "index": "9776",
+            "tag": "Heavygod (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_hunter_2_holo": {
+            "index": "9780",
+            "tag": "huNter- (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_malbsmd_2_holo": {
+            "index": "9784",
+            "tag": "malbsMd (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_matys_2_holo": {
+            "index": "9788",
+            "tag": "MATYS (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_sunpayus_2_holo": {
+            "index": "9792",
+            "tag": "SunPayus (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_biguzera_2_holo": {
+            "index": "9796",
+            "tag": "biguzera (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_dav1deus_2_holo": {
+            "index": "9800",
+            "tag": "dav1deuS (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_dgt_2_holo": {
+            "index": "9804",
+            "tag": "dgt (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nqz_2_holo": {
+            "index": "9808",
+            "tag": "NQZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_snow_2_holo": {
+            "index": "9812",
+            "tag": "snow (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_fallen_2_gold": {
+            "index": "9657",
+            "tag": "FalleN (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kscerato_2_gold": {
+            "index": "9661",
+            "tag": "KSCERATO (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_molodoy_2_gold": {
+            "index": "9665",
+            "tag": "molodoy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_yekindar_2_gold": {
+            "index": "9669",
+            "tag": "YEKINDAR (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_yuurih_2_gold": {
+            "index": "9673",
+            "tag": "yuurih (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_apex_2_gold": {
+            "index": "9677",
+            "tag": "apEX (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_flamez_2_gold": {
+            "index": "9681",
+            "tag": "FlameZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_mezii_2_gold": {
+            "index": "9685",
+            "tag": "mezii (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ropz_2_gold": {
+            "index": "9689",
+            "tag": "ropz (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_zywoo_2_gold": {
+            "index": "9693",
+            "tag": "ZywOo (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kyousuke_2_gold": {
+            "index": "9697",
+            "tag": "kyousuke (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kyxsan_2_gold": {
+            "index": "9701",
+            "tag": "kyxsan (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_m0nesy_2_gold": {
+            "index": "9705",
+            "tag": "m0NESY (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_niko_2_gold": {
+            "index": "9709",
+            "tag": "NiKo (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_teses_2_gold": {
+            "index": "9713",
+            "tag": "TeSeS (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_910_2_gold": {
+            "index": "9717",
+            "tag": "910 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_blitz_2_gold": {
+            "index": "9721",
+            "tag": "bLitz (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_mzinho_2_gold": {
+            "index": "9725",
+            "tag": "mzinho (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_senzu_2_gold": {
+            "index": "9729",
+            "tag": "Senzu (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_techno4k_2_gold": {
+            "index": "9733",
+            "tag": "Techno4K (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_brollan_2_gold": {
+            "index": "9737",
+            "tag": "Brollan (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jimpphat_2_gold": {
+            "index": "9741",
+            "tag": "Jimpphat (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_spinx_2_gold": {
+            "index": "9745",
+            "tag": "Spinx (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_torzsi_2_gold": {
+            "index": "9749",
+            "tag": "torzsi (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xertion_2_gold": {
+            "index": "9753",
+            "tag": "xertioN (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_chopper_2_gold": {
+            "index": "9757",
+            "tag": "chopper (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_donk_2_gold": {
+            "index": "9761",
+            "tag": "donk (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_sh1ro_2_gold": {
+            "index": "9765",
+            "tag": "sh1ro (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_zont1x_2_gold": {
+            "index": "9769",
+            "tag": "zont1x (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_zweih_2_gold": {
+            "index": "9773",
+            "tag": "zweih (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_heavygod_2_gold": {
+            "index": "9777",
+            "tag": "Heavygod (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_hunter_2_gold": {
+            "index": "9781",
+            "tag": "huNter- (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_malbsmd_2_gold": {
+            "index": "9785",
+            "tag": "malbsMd (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_matys_2_gold": {
+            "index": "9789",
+            "tag": "MATYS (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_sunpayus_2_gold": {
+            "index": "9793",
+            "tag": "SunPayus (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_biguzera_2_gold": {
+            "index": "9797",
+            "tag": "biguzera (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_dav1deus_2_gold": {
+            "index": "9801",
+            "tag": "dav1deuS (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_dgt_2_gold": {
+            "index": "9805",
+            "tag": "dgt (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nqz_2_gold": {
+            "index": "9809",
+            "tag": "NQZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_snow_2_gold": {
+            "index": "9813",
+            "tag": "snow (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jottaaa_1": {
+            "index": "9814",
+            "tag": "jottAAA | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_maj3r_1": {
+            "index": "9818",
+            "tag": "MAJ3R | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_wicadia_1": {
+            "index": "9822",
+            "tag": "Wicadia | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_woxic_1": {
+            "index": "9826",
+            "tag": "woxic | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xantares_1": {
+            "index": "9830",
+            "tag": "XANTARES | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_aleksib_1": {
+            "index": "9834",
+            "tag": "Aleksib | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_b1t_1": {
+            "index": "9838",
+            "tag": "b1t | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_im_1": {
+            "index": "9842",
+            "tag": "iM | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_makazze_1": {
+            "index": "9846",
+            "tag": "makazze | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_w0nderful_1": {
+            "index": "9850",
+            "tag": "w0nderful | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_elige_1": {
+            "index": "9854",
+            "tag": "EliGE | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_naf_1": {
+            "index": "9858",
+            "tag": "NAF | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nertz_1": {
+            "index": "9862",
+            "tag": "NertZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_siuhy_1": {
+            "index": "9866",
+            "tag": "siuhy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ultimate_1": {
+            "index": "9870",
+            "tag": "ultimate | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_bodyy_1": {
+            "index": "9874",
+            "tag": "bodyy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ex3rcice_1": {
+            "index": "9878",
+            "tag": "Ex3rcice | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_graviti_1": {
+            "index": "9882",
+            "tag": "Graviti | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_lucky_1": {
+            "index": "9886",
+            "tag": "Lucky | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_maka_1": {
+            "index": "9890",
+            "tag": "Maka | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_device_1": {
+            "index": "9894",
+            "tag": "device | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_hooxi_1": {
+            "index": "9898",
+            "tag": "HooXi | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jabbi_1": {
+            "index": "9902",
+            "tag": "jabbi | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_magisk_1": {
+            "index": "9906",
+            "tag": "Magisk | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_staehr_1": {
+            "index": "9910",
+            "tag": "Staehr | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_attacker_1": {
+            "index": "9914",
+            "tag": "Attacker | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jamyoung_1": {
+            "index": "9918",
+            "tag": "JamYoung | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jee_1": {
+            "index": "9922",
+            "tag": "Jee | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_mercury_1": {
+            "index": "9926",
+            "tag": "Mercury | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_moseyuh_1": {
+            "index": "9930",
+            "tag": "Moseyuh | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_brnz4n_1": {
+            "index": "9934",
+            "tag": "brnz4n | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_exit_1": {
+            "index": "9938",
+            "tag": "exit | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_insani_1": {
+            "index": "9942",
+            "tag": "insani | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kl1m_1": {
+            "index": "9946",
+            "tag": "kl1m | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_qikert_1": {
+            "index": "9950",
+            "tag": "qikert | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_grim_1": {
+            "index": "9954",
+            "tag": "Grim | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_hallzerk_1": {
+            "index": "9958",
+            "tag": "hallzerk | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jt_1": {
+            "index": "9962",
+            "tag": "JT | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kvem_1": {
+            "index": "9966",
+            "tag": "Kvem | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nicx_1": {
+            "index": "9970",
+            "tag": "nicx | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jottaaa_1_embroidered": {
+            "index": "9815",
+            "tag": "jottAAA (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_maj3r_1_embroidered": {
+            "index": "9819",
+            "tag": "MAJ3R (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_wicadia_1_embroidered": {
+            "index": "9823",
+            "tag": "Wicadia (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_woxic_1_embroidered": {
+            "index": "9827",
+            "tag": "woxic (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xantares_1_embroidered": {
+            "index": "9831",
+            "tag": "XANTARES (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_aleksib_1_embroidered": {
+            "index": "9835",
+            "tag": "Aleksib (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_b1t_1_embroidered": {
+            "index": "9839",
+            "tag": "b1t (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_im_1_embroidered": {
+            "index": "9843",
+            "tag": "iM (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_makazze_1_embroidered": {
+            "index": "9847",
+            "tag": "makazze (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_w0nderful_1_embroidered": {
+            "index": "9851",
+            "tag": "w0nderful (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_elige_1_embroidered": {
+            "index": "9855",
+            "tag": "EliGE (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_naf_1_embroidered": {
+            "index": "9859",
+            "tag": "NAF (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nertz_1_embroidered": {
+            "index": "9863",
+            "tag": "NertZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_siuhy_1_embroidered": {
+            "index": "9867",
+            "tag": "siuhy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ultimate_1_embroidered": {
+            "index": "9871",
+            "tag": "ultimate (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_bodyy_1_embroidered": {
+            "index": "9875",
+            "tag": "bodyy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ex3rcice_1_embroidered": {
+            "index": "9879",
+            "tag": "Ex3rcice (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_graviti_1_embroidered": {
+            "index": "9883",
+            "tag": "Graviti (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_lucky_1_embroidered": {
+            "index": "9887",
+            "tag": "Lucky (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_maka_1_embroidered": {
+            "index": "9891",
+            "tag": "Maka (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_device_1_embroidered": {
+            "index": "9895",
+            "tag": "device (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_hooxi_1_embroidered": {
+            "index": "9899",
+            "tag": "HooXi (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jabbi_1_embroidered": {
+            "index": "9903",
+            "tag": "jabbi (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_magisk_1_embroidered": {
+            "index": "9907",
+            "tag": "Magisk (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_staehr_1_embroidered": {
+            "index": "9911",
+            "tag": "Staehr (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_attacker_1_embroidered": {
+            "index": "9915",
+            "tag": "Attacker (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jamyoung_1_embroidered": {
+            "index": "9919",
+            "tag": "JamYoung (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jee_1_embroidered": {
+            "index": "9923",
+            "tag": "Jee (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_mercury_1_embroidered": {
+            "index": "9927",
+            "tag": "Mercury (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_moseyuh_1_embroidered": {
+            "index": "9931",
+            "tag": "Moseyuh (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_brnz4n_1_embroidered": {
+            "index": "9935",
+            "tag": "brnz4n (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_exit_1_embroidered": {
+            "index": "9939",
+            "tag": "exit (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_insani_1_embroidered": {
+            "index": "9943",
+            "tag": "insani (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kl1m_1_embroidered": {
+            "index": "9947",
+            "tag": "kl1m (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_qikert_1_embroidered": {
+            "index": "9951",
+            "tag": "qikert (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_grim_1_embroidered": {
+            "index": "9955",
+            "tag": "Grim (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_hallzerk_1_embroidered": {
+            "index": "9959",
+            "tag": "hallzerk (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jt_1_embroidered": {
+            "index": "9963",
+            "tag": "JT (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kvem_1_embroidered": {
+            "index": "9967",
+            "tag": "Kvem (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nicx_1_embroidered": {
+            "index": "9971",
+            "tag": "nicx (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jottaaa_1_holo": {
+            "index": "9816",
+            "tag": "jottAAA (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_maj3r_1_holo": {
+            "index": "9820",
+            "tag": "MAJ3R (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_wicadia_1_holo": {
+            "index": "9824",
+            "tag": "Wicadia (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_woxic_1_holo": {
+            "index": "9828",
+            "tag": "woxic (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xantares_1_holo": {
+            "index": "9832",
+            "tag": "XANTARES (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_aleksib_1_holo": {
+            "index": "9836",
+            "tag": "Aleksib (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_b1t_1_holo": {
+            "index": "9840",
+            "tag": "b1t (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_im_1_holo": {
+            "index": "9844",
+            "tag": "iM (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_makazze_1_holo": {
+            "index": "9848",
+            "tag": "makazze (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_w0nderful_1_holo": {
+            "index": "9852",
+            "tag": "w0nderful (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_elige_1_holo": {
+            "index": "9856",
+            "tag": "EliGE (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_naf_1_holo": {
+            "index": "9860",
+            "tag": "NAF (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nertz_1_holo": {
+            "index": "9864",
+            "tag": "NertZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_siuhy_1_holo": {
+            "index": "9868",
+            "tag": "siuhy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ultimate_1_holo": {
+            "index": "9872",
+            "tag": "ultimate (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_bodyy_1_holo": {
+            "index": "9876",
+            "tag": "bodyy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ex3rcice_1_holo": {
+            "index": "9880",
+            "tag": "Ex3rcice (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_graviti_1_holo": {
+            "index": "9884",
+            "tag": "Graviti (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_lucky_1_holo": {
+            "index": "9888",
+            "tag": "Lucky (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_maka_1_holo": {
+            "index": "9892",
+            "tag": "Maka (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_device_1_holo": {
+            "index": "9896",
+            "tag": "device (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_hooxi_1_holo": {
+            "index": "9900",
+            "tag": "HooXi (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jabbi_1_holo": {
+            "index": "9904",
+            "tag": "jabbi (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_magisk_1_holo": {
+            "index": "9908",
+            "tag": "Magisk (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_staehr_1_holo": {
+            "index": "9912",
+            "tag": "Staehr (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_attacker_1_holo": {
+            "index": "9916",
+            "tag": "Attacker (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jamyoung_1_holo": {
+            "index": "9920",
+            "tag": "JamYoung (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jee_1_holo": {
+            "index": "9924",
+            "tag": "Jee (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_mercury_1_holo": {
+            "index": "9928",
+            "tag": "Mercury (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_moseyuh_1_holo": {
+            "index": "9932",
+            "tag": "Moseyuh (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_brnz4n_1_holo": {
+            "index": "9936",
+            "tag": "brnz4n (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_exit_1_holo": {
+            "index": "9940",
+            "tag": "exit (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_insani_1_holo": {
+            "index": "9944",
+            "tag": "insani (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kl1m_1_holo": {
+            "index": "9948",
+            "tag": "kl1m (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_qikert_1_holo": {
+            "index": "9952",
+            "tag": "qikert (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_grim_1_holo": {
+            "index": "9956",
+            "tag": "Grim (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_hallzerk_1_holo": {
+            "index": "9960",
+            "tag": "hallzerk (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jt_1_holo": {
+            "index": "9964",
+            "tag": "JT (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kvem_1_holo": {
+            "index": "9968",
+            "tag": "Kvem (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nicx_1_holo": {
+            "index": "9972",
+            "tag": "nicx (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jottaaa_1_gold": {
+            "index": "9817",
+            "tag": "jottAAA (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_maj3r_1_gold": {
+            "index": "9821",
+            "tag": "MAJ3R (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_wicadia_1_gold": {
+            "index": "9825",
+            "tag": "Wicadia (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_woxic_1_gold": {
+            "index": "9829",
+            "tag": "woxic (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xantares_1_gold": {
+            "index": "9833",
+            "tag": "XANTARES (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_aleksib_1_gold": {
+            "index": "9837",
+            "tag": "Aleksib (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_b1t_1_gold": {
+            "index": "9841",
+            "tag": "b1t (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_im_1_gold": {
+            "index": "9845",
+            "tag": "iM (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_makazze_1_gold": {
+            "index": "9849",
+            "tag": "makazze (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_w0nderful_1_gold": {
+            "index": "9853",
+            "tag": "w0nderful (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_elige_1_gold": {
+            "index": "9857",
+            "tag": "EliGE (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_naf_1_gold": {
+            "index": "9861",
+            "tag": "NAF (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nertz_1_gold": {
+            "index": "9865",
+            "tag": "NertZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_siuhy_1_gold": {
+            "index": "9869",
+            "tag": "siuhy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ultimate_1_gold": {
+            "index": "9873",
+            "tag": "ultimate (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_bodyy_1_gold": {
+            "index": "9877",
+            "tag": "bodyy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ex3rcice_1_gold": {
+            "index": "9881",
+            "tag": "Ex3rcice (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_graviti_1_gold": {
+            "index": "9885",
+            "tag": "Graviti (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_lucky_1_gold": {
+            "index": "9889",
+            "tag": "Lucky (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_maka_1_gold": {
+            "index": "9893",
+            "tag": "Maka (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_device_1_gold": {
+            "index": "9897",
+            "tag": "device (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_hooxi_1_gold": {
+            "index": "9901",
+            "tag": "HooXi (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jabbi_1_gold": {
+            "index": "9905",
+            "tag": "jabbi (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_magisk_1_gold": {
+            "index": "9909",
+            "tag": "Magisk (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_staehr_1_gold": {
+            "index": "9913",
+            "tag": "Staehr (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_attacker_1_gold": {
+            "index": "9917",
+            "tag": "Attacker (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jamyoung_1_gold": {
+            "index": "9921",
+            "tag": "JamYoung (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jee_1_gold": {
+            "index": "9925",
+            "tag": "Jee (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_mercury_1_gold": {
+            "index": "9929",
+            "tag": "Mercury (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_moseyuh_1_gold": {
+            "index": "9933",
+            "tag": "Moseyuh (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_brnz4n_1_gold": {
+            "index": "9937",
+            "tag": "brnz4n (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_exit_1_gold": {
+            "index": "9941",
+            "tag": "exit (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_insani_1_gold": {
+            "index": "9945",
+            "tag": "insani (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kl1m_1_gold": {
+            "index": "9949",
+            "tag": "kl1m (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_qikert_1_gold": {
+            "index": "9953",
+            "tag": "qikert (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_grim_1_gold": {
+            "index": "9957",
+            "tag": "Grim (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_hallzerk_1_gold": {
+            "index": "9961",
+            "tag": "hallzerk (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jt_1_gold": {
+            "index": "9965",
+            "tag": "JT (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kvem_1_gold": {
+            "index": "9969",
+            "tag": "Kvem (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nicx_1_gold": {
+            "index": "9973",
+            "tag": "nicx (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_dumau_4": {
+            "index": "9974",
+            "tag": "dumau | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_latto_4": {
+            "index": "9978",
+            "tag": "latto | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_lux_4": {
+            "index": "9982",
+            "tag": "lux | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_n1ssim_4": {
+            "index": "9986",
+            "tag": "n1ssim | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_saadzin_4": {
+            "index": "9990",
+            "tag": "saadzin | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_broky_4": {
+            "index": "9994",
+            "tag": "broky | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_frozen_4": {
+            "index": "9998",
+            "tag": "frozen | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jcobbb_4": {
+            "index": "10002",
+            "tag": "jcobbb | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_karrigan_4": {
+            "index": "10006",
+            "tag": "karrigan | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_rain_4": {
+            "index": "10010",
+            "tag": "rain | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_alex666_4": {
+            "index": "10014",
+            "tag": "alex666 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_esenthial_4": {
+            "index": "10018",
+            "tag": "esenthial | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_headtr1ck_4": {
+            "index": "10022",
+            "tag": "headtr1ck | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kensizor_4": {
+            "index": "10026",
+            "tag": "kensizor | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_npl_4": {
+            "index": "10030",
+            "tag": "npl | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kursy_4": {
+            "index": "10034",
+            "tag": "Kursy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_pr_4": {
+            "index": "10038",
+            "tag": "PR | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_rez_4": {
+            "index": "10042",
+            "tag": "REZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_tauson_4": {
+            "index": "10046",
+            "tag": "Tauson | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ztr_4": {
+            "index": "10050",
+            "tag": "ztr | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_blamef_4": {
+            "index": "10054",
+            "tag": "blameF | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_cypher_4": {
+            "index": "10058",
+            "tag": "Cypher | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_fear_4": {
+            "index": "10062",
+            "tag": "fEAR | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jambo_4": {
+            "index": "10066",
+            "tag": "jambo | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_krimz_4": {
+            "index": "10070",
+            "tag": "KRIMZ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_aw_4": {
+            "index": "10074",
+            "tag": "AW | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_belchonokk_4": {
+            "index": "10078",
+            "tag": "BELCHONOKK | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jame_4": {
+            "index": "10082",
+            "tag": "Jame | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nota_4": {
+            "index": "10086",
+            "tag": "nota | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xielo_4": {
+            "index": "10090",
+            "tag": "xiELO | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ewjerkz_4": {
+            "index": "10094",
+            "tag": "ewjerkz | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_r1nkle_4": {
+            "index": "10098",
+            "tag": "r1nkle | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_sjuush_4": {
+            "index": "10102",
+            "tag": "sjuush | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_snappi_4": {
+            "index": "10106",
+            "tag": "Snappi | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xkacpersky_4": {
+            "index": "10110",
+            "tag": "xKacpersky | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_chelo_4": {
+            "index": "10114",
+            "tag": "chelo | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_noway_4": {
+            "index": "10118",
+            "tag": "noway | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_skullz_4": {
+            "index": "10122",
+            "tag": "skullz | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_try_4": {
+            "index": "10126",
+            "tag": "TRY | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_vini_4": {
+            "index": "10130",
+            "tag": "VINI | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_ins_4": {
+            "index": "10134",
+            "tag": "INS | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jks_4": {
+            "index": "10138",
+            "tag": "jks | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nettik_4": {
+            "index": "10142",
+            "tag": "nettik | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_regali_4": {
+            "index": "10146",
+            "tag": "regali | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_vexite_4": {
+            "index": "10150",
+            "tag": "vexite | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_c4llm3su3_4": {
+            "index": "10154",
+            "tag": "C4LLM3SU3 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_emiliaqaq_4": {
+            "index": "10158",
+            "tag": "EmiliaQAQ | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_starry_4": {
+            "index": "10162",
+            "tag": "Starry | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_westmelon_4": {
+            "index": "10166",
+            "tag": "westmelon | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_z4kr_4": {
+            "index": "10170",
+            "tag": "z4KR | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_hext_4": {
+            "index": "10174",
+            "tag": "HexT | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_lake_4": {
+            "index": "10178",
+            "tag": "Lake | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_s1n_4": {
+            "index": "10182",
+            "tag": "s1n | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_slaxz_4": {
+            "index": "10186",
+            "tag": "slaxz- | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_swisher_4": {
+            "index": "10190",
+            "tag": "Swisher | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_art_4": {
+            "index": "10194",
+            "tag": "arT | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_decenty_4": {
+            "index": "10198",
+            "tag": "decenty | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kye_4": {
+            "index": "10202",
+            "tag": "kye | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_lucaozy_4": {
+            "index": "10206",
+            "tag": "Lucaozy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_zevy_4": {
+            "index": "10210",
+            "tag": "zevy | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_chayjesus_4": {
+            "index": "10214",
+            "tag": "chayJESUS | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_drop_4": {
+            "index": "10218",
+            "tag": "drop | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_history_4": {
+            "index": "10222",
+            "tag": "History | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_kauez_4": {
+            "index": "10226",
+            "tag": "kauez | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_venomzera_4": {
+            "index": "10230",
+            "tag": "venomzera | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_bart4k_4": {
+            "index": "10234",
+            "tag": "Bart4k | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_cobra_4": {
+            "index": "10238",
+            "tag": "cobra | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nin9_4": {
+            "index": "10242",
+            "tag": "nin9 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_sk0r_4": {
+            "index": "10246",
+            "tag": "sk0R | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xerolte_4": {
+            "index": "10250",
+            "tag": "xerolte | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_br0_4": {
+            "index": "10254",
+            "tag": "br0 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_jeorge_4": {
+            "index": "10258",
+            "tag": "jeorge | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_nitro_4": {
+            "index": "10262",
+            "tag": "nitr0 | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_sonic_4": {
+            "index": "10266",
+            "tag": "Sonic | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_xotic_4": {
+            "index": "10270",
+            "tag": "XotiC | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_childking_4": {
+            "index": "10274",
+            "tag": "ChildKing | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_l1hang_4": {
+            "index": "10278",
+            "tag": "L1haNg | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_marek_4": {
+            "index": "10282",
+            "tag": "Marek | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_summer_4": {
+            "index": "10286",
+            "tag": "Summer | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_tiger_4": {
+            "index": "10290",
+            "tag": "Tiger | Budapest 2025",
+            "rarity": "rare"
+        },
+        "bud2025_signature_dumau_4_embroidered": {
+            "index": "9975",
+            "tag": "dumau (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_latto_4_embroidered": {
+            "index": "9979",
+            "tag": "latto (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_lux_4_embroidered": {
+            "index": "9983",
+            "tag": "lux (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_n1ssim_4_embroidered": {
+            "index": "9987",
+            "tag": "n1ssim (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_saadzin_4_embroidered": {
+            "index": "9991",
+            "tag": "saadzin (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_broky_4_embroidered": {
+            "index": "9995",
+            "tag": "broky (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_frozen_4_embroidered": {
+            "index": "9999",
+            "tag": "frozen (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jcobbb_4_embroidered": {
+            "index": "10003",
+            "tag": "jcobbb (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_karrigan_4_embroidered": {
+            "index": "10007",
+            "tag": "karrigan (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_rain_4_embroidered": {
+            "index": "10011",
+            "tag": "rain (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_alex666_4_embroidered": {
+            "index": "10015",
+            "tag": "alex666 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_esenthial_4_embroidered": {
+            "index": "10019",
+            "tag": "esenthial (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_headtr1ck_4_embroidered": {
+            "index": "10023",
+            "tag": "headtr1ck (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kensizor_4_embroidered": {
+            "index": "10027",
+            "tag": "kensizor (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_npl_4_embroidered": {
+            "index": "10031",
+            "tag": "npl (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kursy_4_embroidered": {
+            "index": "10035",
+            "tag": "Kursy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_pr_4_embroidered": {
+            "index": "10039",
+            "tag": "PR (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_rez_4_embroidered": {
+            "index": "10043",
+            "tag": "REZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_tauson_4_embroidered": {
+            "index": "10047",
+            "tag": "Tauson (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ztr_4_embroidered": {
+            "index": "10051",
+            "tag": "ztr (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_blamef_4_embroidered": {
+            "index": "10055",
+            "tag": "blameF (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_cypher_4_embroidered": {
+            "index": "10059",
+            "tag": "Cypher (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_fear_4_embroidered": {
+            "index": "10063",
+            "tag": "fEAR (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jambo_4_embroidered": {
+            "index": "10067",
+            "tag": "jambo (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_krimz_4_embroidered": {
+            "index": "10071",
+            "tag": "KRIMZ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_aw_4_embroidered": {
+            "index": "10075",
+            "tag": "AW (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_belchonokk_4_embroidered": {
+            "index": "10079",
+            "tag": "BELCHONOKK (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jame_4_embroidered": {
+            "index": "10083",
+            "tag": "Jame (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nota_4_embroidered": {
+            "index": "10087",
+            "tag": "nota (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xielo_4_embroidered": {
+            "index": "10091",
+            "tag": "xiELO (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ewjerkz_4_embroidered": {
+            "index": "10095",
+            "tag": "ewjerkz (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_r1nkle_4_embroidered": {
+            "index": "10099",
+            "tag": "r1nkle (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_sjuush_4_embroidered": {
+            "index": "10103",
+            "tag": "sjuush (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_snappi_4_embroidered": {
+            "index": "10107",
+            "tag": "Snappi (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xkacpersky_4_embroidered": {
+            "index": "10111",
+            "tag": "xKacpersky (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_chelo_4_embroidered": {
+            "index": "10115",
+            "tag": "chelo (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_noway_4_embroidered": {
+            "index": "10119",
+            "tag": "noway (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_skullz_4_embroidered": {
+            "index": "10123",
+            "tag": "skullz (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_try_4_embroidered": {
+            "index": "10127",
+            "tag": "TRY (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_vini_4_embroidered": {
+            "index": "10131",
+            "tag": "VINI (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_ins_4_embroidered": {
+            "index": "10135",
+            "tag": "INS (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jks_4_embroidered": {
+            "index": "10139",
+            "tag": "jks (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nettik_4_embroidered": {
+            "index": "10143",
+            "tag": "nettik (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_regali_4_embroidered": {
+            "index": "10147",
+            "tag": "regali (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_vexite_4_embroidered": {
+            "index": "10151",
+            "tag": "vexite (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_c4llm3su3_4_embroidered": {
+            "index": "10155",
+            "tag": "C4LLM3SU3 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_emiliaqaq_4_embroidered": {
+            "index": "10159",
+            "tag": "EmiliaQAQ (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_starry_4_embroidered": {
+            "index": "10163",
+            "tag": "Starry (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_westmelon_4_embroidered": {
+            "index": "10167",
+            "tag": "westmelon (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_z4kr_4_embroidered": {
+            "index": "10171",
+            "tag": "z4KR (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_hext_4_embroidered": {
+            "index": "10175",
+            "tag": "HexT (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_lake_4_embroidered": {
+            "index": "10179",
+            "tag": "Lake (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_s1n_4_embroidered": {
+            "index": "10183",
+            "tag": "s1n (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_slaxz_4_embroidered": {
+            "index": "10187",
+            "tag": "slaxz- (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_swisher_4_embroidered": {
+            "index": "10191",
+            "tag": "Swisher (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_art_4_embroidered": {
+            "index": "10195",
+            "tag": "arT (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_decenty_4_embroidered": {
+            "index": "10199",
+            "tag": "decenty (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kye_4_embroidered": {
+            "index": "10203",
+            "tag": "kye (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_lucaozy_4_embroidered": {
+            "index": "10207",
+            "tag": "Lucaozy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_zevy_4_embroidered": {
+            "index": "10211",
+            "tag": "zevy (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_chayjesus_4_embroidered": {
+            "index": "10215",
+            "tag": "chayJESUS (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_drop_4_embroidered": {
+            "index": "10219",
+            "tag": "drop (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_history_4_embroidered": {
+            "index": "10223",
+            "tag": "History (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_kauez_4_embroidered": {
+            "index": "10227",
+            "tag": "kauez (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_venomzera_4_embroidered": {
+            "index": "10231",
+            "tag": "venomzera (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_bart4k_4_embroidered": {
+            "index": "10235",
+            "tag": "Bart4k (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_cobra_4_embroidered": {
+            "index": "10239",
+            "tag": "cobra (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nin9_4_embroidered": {
+            "index": "10243",
+            "tag": "nin9 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_sk0r_4_embroidered": {
+            "index": "10247",
+            "tag": "sk0R (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xerolte_4_embroidered": {
+            "index": "10251",
+            "tag": "xerolte (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_br0_4_embroidered": {
+            "index": "10255",
+            "tag": "br0 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_jeorge_4_embroidered": {
+            "index": "10259",
+            "tag": "jeorge (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_nitro_4_embroidered": {
+            "index": "10263",
+            "tag": "nitr0 (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_sonic_4_embroidered": {
+            "index": "10267",
+            "tag": "Sonic (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_xotic_4_embroidered": {
+            "index": "10271",
+            "tag": "XotiC (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_childking_4_embroidered": {
+            "index": "10275",
+            "tag": "ChildKing (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_l1hang_4_embroidered": {
+            "index": "10279",
+            "tag": "L1haNg (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_marek_4_embroidered": {
+            "index": "10283",
+            "tag": "Marek (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_summer_4_embroidered": {
+            "index": "10287",
+            "tag": "Summer (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_tiger_4_embroidered": {
+            "index": "10291",
+            "tag": "Tiger (Embroidered) | Budapest 2025",
+            "rarity": "mythical"
+        },
+        "bud2025_signature_dumau_4_holo": {
+            "index": "9976",
+            "tag": "dumau (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_latto_4_holo": {
+            "index": "9980",
+            "tag": "latto (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_lux_4_holo": {
+            "index": "9984",
+            "tag": "lux (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_n1ssim_4_holo": {
+            "index": "9988",
+            "tag": "n1ssim (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_saadzin_4_holo": {
+            "index": "9992",
+            "tag": "saadzin (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_broky_4_holo": {
+            "index": "9996",
+            "tag": "broky (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_frozen_4_holo": {
+            "index": "10000",
+            "tag": "frozen (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jcobbb_4_holo": {
+            "index": "10004",
+            "tag": "jcobbb (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_karrigan_4_holo": {
+            "index": "10008",
+            "tag": "karrigan (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_rain_4_holo": {
+            "index": "10012",
+            "tag": "rain (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_alex666_4_holo": {
+            "index": "10016",
+            "tag": "alex666 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_esenthial_4_holo": {
+            "index": "10020",
+            "tag": "esenthial (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_headtr1ck_4_holo": {
+            "index": "10024",
+            "tag": "headtr1ck (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kensizor_4_holo": {
+            "index": "10028",
+            "tag": "kensizor (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_npl_4_holo": {
+            "index": "10032",
+            "tag": "npl (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kursy_4_holo": {
+            "index": "10036",
+            "tag": "Kursy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_pr_4_holo": {
+            "index": "10040",
+            "tag": "PR (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_rez_4_holo": {
+            "index": "10044",
+            "tag": "REZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_tauson_4_holo": {
+            "index": "10048",
+            "tag": "Tauson (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ztr_4_holo": {
+            "index": "10052",
+            "tag": "ztr (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_blamef_4_holo": {
+            "index": "10056",
+            "tag": "blameF (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_cypher_4_holo": {
+            "index": "10060",
+            "tag": "Cypher (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_fear_4_holo": {
+            "index": "10064",
+            "tag": "fEAR (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jambo_4_holo": {
+            "index": "10068",
+            "tag": "jambo (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_krimz_4_holo": {
+            "index": "10072",
+            "tag": "KRIMZ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_aw_4_holo": {
+            "index": "10076",
+            "tag": "AW (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_belchonokk_4_holo": {
+            "index": "10080",
+            "tag": "BELCHONOKK (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jame_4_holo": {
+            "index": "10084",
+            "tag": "Jame (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nota_4_holo": {
+            "index": "10088",
+            "tag": "nota (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xielo_4_holo": {
+            "index": "10092",
+            "tag": "xiELO (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ewjerkz_4_holo": {
+            "index": "10096",
+            "tag": "ewjerkz (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_r1nkle_4_holo": {
+            "index": "10100",
+            "tag": "r1nkle (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_sjuush_4_holo": {
+            "index": "10104",
+            "tag": "sjuush (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_snappi_4_holo": {
+            "index": "10108",
+            "tag": "Snappi (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xkacpersky_4_holo": {
+            "index": "10112",
+            "tag": "xKacpersky (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_chelo_4_holo": {
+            "index": "10116",
+            "tag": "chelo (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_noway_4_holo": {
+            "index": "10120",
+            "tag": "noway (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_skullz_4_holo": {
+            "index": "10124",
+            "tag": "skullz (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_try_4_holo": {
+            "index": "10128",
+            "tag": "TRY (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_vini_4_holo": {
+            "index": "10132",
+            "tag": "VINI (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_ins_4_holo": {
+            "index": "10136",
+            "tag": "INS (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jks_4_holo": {
+            "index": "10140",
+            "tag": "jks (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nettik_4_holo": {
+            "index": "10144",
+            "tag": "nettik (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_regali_4_holo": {
+            "index": "10148",
+            "tag": "regali (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_vexite_4_holo": {
+            "index": "10152",
+            "tag": "vexite (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_c4llm3su3_4_holo": {
+            "index": "10156",
+            "tag": "C4LLM3SU3 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_emiliaqaq_4_holo": {
+            "index": "10160",
+            "tag": "EmiliaQAQ (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_starry_4_holo": {
+            "index": "10164",
+            "tag": "Starry (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_westmelon_4_holo": {
+            "index": "10168",
+            "tag": "westmelon (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_z4kr_4_holo": {
+            "index": "10172",
+            "tag": "z4KR (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_hext_4_holo": {
+            "index": "10176",
+            "tag": "HexT (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_lake_4_holo": {
+            "index": "10180",
+            "tag": "Lake (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_s1n_4_holo": {
+            "index": "10184",
+            "tag": "s1n (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_slaxz_4_holo": {
+            "index": "10188",
+            "tag": "slaxz- (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_swisher_4_holo": {
+            "index": "10192",
+            "tag": "Swisher (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_art_4_holo": {
+            "index": "10196",
+            "tag": "arT (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_decenty_4_holo": {
+            "index": "10200",
+            "tag": "decenty (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kye_4_holo": {
+            "index": "10204",
+            "tag": "kye (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_lucaozy_4_holo": {
+            "index": "10208",
+            "tag": "Lucaozy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_zevy_4_holo": {
+            "index": "10212",
+            "tag": "zevy (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_chayjesus_4_holo": {
+            "index": "10216",
+            "tag": "chayJESUS (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_drop_4_holo": {
+            "index": "10220",
+            "tag": "drop (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_history_4_holo": {
+            "index": "10224",
+            "tag": "History (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_kauez_4_holo": {
+            "index": "10228",
+            "tag": "kauez (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_venomzera_4_holo": {
+            "index": "10232",
+            "tag": "venomzera (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_bart4k_4_holo": {
+            "index": "10236",
+            "tag": "Bart4k (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_cobra_4_holo": {
+            "index": "10240",
+            "tag": "cobra (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nin9_4_holo": {
+            "index": "10244",
+            "tag": "nin9 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_sk0r_4_holo": {
+            "index": "10248",
+            "tag": "sk0R (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xerolte_4_holo": {
+            "index": "10252",
+            "tag": "xerolte (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_br0_4_holo": {
+            "index": "10256",
+            "tag": "br0 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_jeorge_4_holo": {
+            "index": "10260",
+            "tag": "jeorge (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_nitro_4_holo": {
+            "index": "10264",
+            "tag": "nitr0 (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_sonic_4_holo": {
+            "index": "10268",
+            "tag": "Sonic (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_xotic_4_holo": {
+            "index": "10272",
+            "tag": "XotiC (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_childking_4_holo": {
+            "index": "10276",
+            "tag": "ChildKing (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_l1hang_4_holo": {
+            "index": "10280",
+            "tag": "L1haNg (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_marek_4_holo": {
+            "index": "10284",
+            "tag": "Marek (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_summer_4_holo": {
+            "index": "10288",
+            "tag": "Summer (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_tiger_4_holo": {
+            "index": "10292",
+            "tag": "Tiger (Holo) | Budapest 2025",
+            "rarity": "legendary"
+        },
+        "bud2025_signature_dumau_4_gold": {
+            "index": "9977",
+            "tag": "dumau (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_latto_4_gold": {
+            "index": "9981",
+            "tag": "latto (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_lux_4_gold": {
+            "index": "9985",
+            "tag": "lux (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_n1ssim_4_gold": {
+            "index": "9989",
+            "tag": "n1ssim (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_saadzin_4_gold": {
+            "index": "9993",
+            "tag": "saadzin (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_broky_4_gold": {
+            "index": "9997",
+            "tag": "broky (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_frozen_4_gold": {
+            "index": "10001",
+            "tag": "frozen (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jcobbb_4_gold": {
+            "index": "10005",
+            "tag": "jcobbb (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_karrigan_4_gold": {
+            "index": "10009",
+            "tag": "karrigan (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_rain_4_gold": {
+            "index": "10013",
+            "tag": "rain (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_alex666_4_gold": {
+            "index": "10017",
+            "tag": "alex666 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_esenthial_4_gold": {
+            "index": "10021",
+            "tag": "esenthial (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_headtr1ck_4_gold": {
+            "index": "10025",
+            "tag": "headtr1ck (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kensizor_4_gold": {
+            "index": "10029",
+            "tag": "kensizor (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_npl_4_gold": {
+            "index": "10033",
+            "tag": "npl (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kursy_4_gold": {
+            "index": "10037",
+            "tag": "Kursy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_pr_4_gold": {
+            "index": "10041",
+            "tag": "PR (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_rez_4_gold": {
+            "index": "10045",
+            "tag": "REZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_tauson_4_gold": {
+            "index": "10049",
+            "tag": "Tauson (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ztr_4_gold": {
+            "index": "10053",
+            "tag": "ztr (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_blamef_4_gold": {
+            "index": "10057",
+            "tag": "blameF (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_cypher_4_gold": {
+            "index": "10061",
+            "tag": "Cypher (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_fear_4_gold": {
+            "index": "10065",
+            "tag": "fEAR (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jambo_4_gold": {
+            "index": "10069",
+            "tag": "jambo (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_krimz_4_gold": {
+            "index": "10073",
+            "tag": "KRIMZ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_aw_4_gold": {
+            "index": "10077",
+            "tag": "AW (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_belchonokk_4_gold": {
+            "index": "10081",
+            "tag": "BELCHONOKK (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jame_4_gold": {
+            "index": "10085",
+            "tag": "Jame (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nota_4_gold": {
+            "index": "10089",
+            "tag": "nota (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xielo_4_gold": {
+            "index": "10093",
+            "tag": "xiELO (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ewjerkz_4_gold": {
+            "index": "10097",
+            "tag": "ewjerkz (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_r1nkle_4_gold": {
+            "index": "10101",
+            "tag": "r1nkle (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_sjuush_4_gold": {
+            "index": "10105",
+            "tag": "sjuush (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_snappi_4_gold": {
+            "index": "10109",
+            "tag": "Snappi (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xkacpersky_4_gold": {
+            "index": "10113",
+            "tag": "xKacpersky (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_chelo_4_gold": {
+            "index": "10117",
+            "tag": "chelo (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_noway_4_gold": {
+            "index": "10121",
+            "tag": "noway (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_skullz_4_gold": {
+            "index": "10125",
+            "tag": "skullz (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_try_4_gold": {
+            "index": "10129",
+            "tag": "TRY (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_vini_4_gold": {
+            "index": "10133",
+            "tag": "VINI (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_ins_4_gold": {
+            "index": "10137",
+            "tag": "INS (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jks_4_gold": {
+            "index": "10141",
+            "tag": "jks (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nettik_4_gold": {
+            "index": "10145",
+            "tag": "nettik (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_regali_4_gold": {
+            "index": "10149",
+            "tag": "regali (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_vexite_4_gold": {
+            "index": "10153",
+            "tag": "vexite (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_c4llm3su3_4_gold": {
+            "index": "10157",
+            "tag": "C4LLM3SU3 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_emiliaqaq_4_gold": {
+            "index": "10161",
+            "tag": "EmiliaQAQ (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_starry_4_gold": {
+            "index": "10165",
+            "tag": "Starry (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_westmelon_4_gold": {
+            "index": "10169",
+            "tag": "westmelon (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_z4kr_4_gold": {
+            "index": "10173",
+            "tag": "z4KR (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_hext_4_gold": {
+            "index": "10177",
+            "tag": "HexT (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_lake_4_gold": {
+            "index": "10181",
+            "tag": "Lake (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_s1n_4_gold": {
+            "index": "10185",
+            "tag": "s1n (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_slaxz_4_gold": {
+            "index": "10189",
+            "tag": "slaxz- (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_swisher_4_gold": {
+            "index": "10193",
+            "tag": "Swisher (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_art_4_gold": {
+            "index": "10197",
+            "tag": "arT (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_decenty_4_gold": {
+            "index": "10201",
+            "tag": "decenty (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kye_4_gold": {
+            "index": "10205",
+            "tag": "kye (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_lucaozy_4_gold": {
+            "index": "10209",
+            "tag": "Lucaozy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_zevy_4_gold": {
+            "index": "10213",
+            "tag": "zevy (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_chayjesus_4_gold": {
+            "index": "10217",
+            "tag": "chayJESUS (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_drop_4_gold": {
+            "index": "10221",
+            "tag": "drop (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_history_4_gold": {
+            "index": "10225",
+            "tag": "History (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_kauez_4_gold": {
+            "index": "10229",
+            "tag": "kauez (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_venomzera_4_gold": {
+            "index": "10233",
+            "tag": "venomzera (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_bart4k_4_gold": {
+            "index": "10237",
+            "tag": "Bart4k (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_cobra_4_gold": {
+            "index": "10241",
+            "tag": "cobra (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nin9_4_gold": {
+            "index": "10245",
+            "tag": "nin9 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_sk0r_4_gold": {
+            "index": "10249",
+            "tag": "sk0R (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xerolte_4_gold": {
+            "index": "10253",
+            "tag": "xerolte (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_br0_4_gold": {
+            "index": "10257",
+            "tag": "br0 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_jeorge_4_gold": {
+            "index": "10261",
+            "tag": "jeorge (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_nitro_4_gold": {
+            "index": "10265",
+            "tag": "nitr0 (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_sonic_4_gold": {
+            "index": "10269",
+            "tag": "Sonic (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_xotic_4_gold": {
+            "index": "10273",
+            "tag": "XotiC (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_childking_4_gold": {
+            "index": "10277",
+            "tag": "ChildKing (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_l1hang_4_gold": {
+            "index": "10281",
+            "tag": "L1haNg (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_marek_4_gold": {
+            "index": "10285",
+            "tag": "Marek (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_summer_4_gold": {
+            "index": "10289",
+            "tag": "Summer (Gold) | Budapest 2025",
+            "rarity": "ancient"
+        },
+        "bud2025_signature_tiger_4_gold": {
+            "index": "10293",
+            "tag": "Tiger (Gold) | Budapest 2025",
+            "rarity": "ancient"
         }
     },
     "patches": {
@@ -44820,9 +48712,19 @@
             "tag": "Dr. Brian",
             "rarity": "mythical"
         },
+        "kc_sticker_display_case": {
+            "index": "37",
+            "tag": "Sticker Slab",
+            "rarity": "common"
+        },
         "kc_aus2025": {
             "index": "36",
             "tag": "Austin 2025 Highlight",
+            "rarity": "rare"
+        },
+        "kc_bud2025": {
+            "index": "83",
+            "tag": "Budapest 2025 Highlight",
             "rarity": "rare"
         }
     }
