@@ -34,12 +34,12 @@ class Items:
         self._keychains = self._get_keychains()
 
         self._loot = self._get_loot()
-        with open(os.getcwd() + f"/output/{name}.json", "w") as f:
+        with open(os.getcwd() + f"/output/{name}.json", "w", encoding="utf-8") as f:
             f.write(json.dumps(self._loot, indent=4))
             print(f"Saved to output/{name}.json")
 
     def _parse(self):
-        with open(self._file, "r") as f:
+        with open(self._file, "r", encoding="utf-8") as f:
             data = f.read()
 
         return vdf.loads(data)

@@ -9,7 +9,7 @@ class Lang:
         self._data = self._parse()
 
     def _parse(self):
-        with open(self._file, "r") as f:
+        with open(self._file, "r", encoding="utf-8") as f:
             data = f.read()
 
         return vdf.loads(data)
