@@ -33,5 +33,5 @@ Output gets written to the `output/` folder.
     ```
 
 ## To-Do
-- [ ] Improve parsing gloves.
+- [x] Improve parsing gloves.
 - [ ] Save output as SQL, VDF.

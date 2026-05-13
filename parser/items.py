@@ -26,6 +26,7 @@ class Items:
         self._medals = {}
         self._agents = {"ct": {}, "t": {}}
         self._gloves = {}
+        self._glove_bases = {}
         self._containers = {}
         self._passes = {}
         self._items = self._get_items()
@@ -112,6 +113,13 @@ class Items:
                 }
 
                 self._containers[item_name] = container
+            elif prefab == "hands_paintable":
+                glove_base = {
+                    "index": index,
+                    "tag": self._lang.get(item_tag),
+                }
+
+                self._glove_bases[item_name] = glove_base
 
         return items
 
@@ -133,11 +141,17 @@ class Items:
             if "description_string" not in kit_data:
                 continue
 
-            if "vmt_path" in kit_data:
-                # Not happy with how it works, will group by glove types later (Bloodhound, Specialist, etc.)
+            is_glove = "vmt_path" in kit_data or kit_data.get(
+                "composite_material_path", ""
+            ).startswith("gloves/paints/")
+
+            if is_glove:
                 paint_kit = {
                     "index": index,
                     "tag": self._lang.get(kit_data["description_tag"]),
+                    "rarity": (
+                        rarity_data[kit_name] if kit_name in rarity_data else "default"
+                    ),
                 }
 
                 self._gloves[kit_name] = paint_kit
@@ -210,6 +224,62 @@ class Items:
 
         return keychains
 
+    def _map_glove_base(self, kit_name: str) -> str:
+        if kit_name.startswith("glove_driver_"):
+            return "slick_gloves"
+
+        if kit_name.startswith("glove_sport_"):
+            return "sporty_gloves"
+
+        if kit_name.startswith("glove_specialist_"):
+            return "specialist_gloves"
+
+        if kit_name.startswith("bloodhound_hydra_"):
+            return "studded_hydra_gloves"
+
+        if kit_name.startswith("bloodhound_"):
+            return "studded_bloodhound_gloves"
+
+        if kit_name.startswith("slick_"):
+            return "slick_gloves"
+
+        if kit_name.startswith("sporty_"):
+            return "sporty_gloves"
+
+        if kit_name.startswith("handwrap_"):
+            return "leather_handwraps"
+
+        if kit_name.startswith("motorcycle_"):
+            return "motorcycle_gloves"
+
+        if kit_name.startswith("specialist_"):
+            return "specialist_gloves"
+
+        if kit_name.startswith("operation10_"):
+            return "studded_brokenfang_gloves"
+
+        return ""
+
+    def _get_gloves(self) -> dict:
+        gloves = {}
+
+        for base_name, base_data in self._glove_bases.items():
+            gloves[base_name] = {
+                "index": base_data["index"],
+                "tag": base_data["tag"],
+                "paint_kits": {},
+            }
+
+        for kit_name, kit_data in self._gloves.items():
+            base_name = self._map_glove_base(kit_name)
+
+            if not base_name or base_name not in gloves:
+                continue
+
+            gloves[base_name]["paint_kits"][kit_name] = kit_data
+
+        return gloves
+
     def _get_loot(self) -> dict:
         if "client_loot_lists" not in self._data["items_game"]:
             return {}
@@ -218,7 +288,7 @@ class Items:
         loot_list = {
             "medals": self._medals,
             "agents": self._agents,
-            "gloves": self._gloves,
+            "gloves": self._get_gloves(),
             "containers": self._containers,
             "passes": self._passes,
             "skins": {},
