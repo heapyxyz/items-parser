@@ -49644,5 +49644,387 @@
             "tag": "Budapest 2025 Highlight",
             "rarity": "rare"
         }
+    },
+    "music_kits": {
+        "danielsadowski_01": {
+            "index": "3",
+            "tag": "Daniel Sadowski, Crimson Assault"
+        },
+        "noisia_01": {
+            "index": "4",
+            "tag": "Noisia, Sharpened"
+        },
+        "robertallaire_01": {
+            "index": "5",
+            "tag": "Robert Allaire, Insurgency"
+        },
+        "seanmurray_01": {
+            "index": "6",
+            "tag": "Sean Murray, A*D*8"
+        },
+        "feedme_01": {
+            "index": "7",
+            "tag": "Feed Me, High Noon"
+        },
+        "dren_01": {
+            "index": "8",
+            "tag": "Dren, Death's Head Demolition"
+        },
+        "austinwintory_01": {
+            "index": "9",
+            "tag": "Austin Wintory, Desert Fire"
+        },
+        "sasha_01": {
+            "index": "10",
+            "tag": "Sasha, LNOE"
+        },
+        "skog_01": {
+            "index": "11",
+            "tag": "Skog, Metal"
+        },
+        "midnightriders_01": {
+            "index": "12",
+            "tag": "Midnight Riders, All I Want for Christmas"
+        },
+        "danielsadowski_02": {
+            "index": "16",
+            "tag": "Daniel Sadowski, Total Domination"
+        },
+        "hotlinemiami_01": {
+            "index": "15",
+            "tag": "Various Artists, Hotline Miami"
+        },
+        "mattlange_01": {
+            "index": "13",
+            "tag": "Matt Lange, IsoRhythm"
+        },
+        "mateomessina_01": {
+            "index": "14",
+            "tag": "Mateo Messina, For No Mankind"
+        },
+        "damjanmravunac_01": {
+            "index": "17",
+            "tag": "Damjan Mravunac, The Talos Principle"
+        },
+        "proxy_01": {
+            "index": "18",
+            "tag": "Proxy, Battlepack"
+        },
+        "kitheory_01": {
+            "index": "19",
+            "tag": "Ki:Theory, MOLOTOV"
+        },
+        "troelsfolmann_01": {
+            "index": "20",
+            "tag": "Troels Folmann, Uber Blasto Phone"
+        },
+        "kellybailey_01": {
+            "index": "21",
+            "tag": "Kelly Bailey, Hazardous Environments"
+        },
+        "skog_02": {
+            "index": "22",
+            "tag": "Skog, II-Headshot"
+        },
+        "danielsadowski_03": {
+            "index": "23",
+            "tag": "Daniel Sadowski, The 8-Bit Kit"
+        },
+        "awolnation_01": {
+            "index": "24",
+            "tag": "AWOLNATION, I Am"
+        },
+        "mordfustang_01": {
+            "index": "25",
+            "tag": "Mord Fustang, Diamonds"
+        },
+        "michaelbross_01": {
+            "index": "26",
+            "tag": "Michael Bross, Invasion!"
+        },
+        "ianhultquist_01": {
+            "index": "27",
+            "tag": "Ian Hultquist, Lion's Mouth"
+        },
+        "newbeatfund_01": {
+            "index": "28",
+            "tag": "New Beat Fund, Sponge Fingerz"
+        },
+        "beartooth_01": {
+            "index": "29",
+            "tag": "Beartooth, Disgusting"
+        },
+        "lenniemoore_01": {
+            "index": "30",
+            "tag": "Lennie Moore, Java Havana Funkaloo"
+        },
+        "darude_01": {
+            "index": "31",
+            "tag": "Darude, Moments CSGO"
+        },
+        "theverkkars_01": {
+            "index": "39",
+            "tag": "The Verkkars, EZ4ENCE"
+        },
+        "scarlxrd_01": {
+            "index": "41",
+            "tag": "Scarlxrd: King, Scar"
+        },
+        "amontobin_01": {
+            "index": "50",
+            "tag": "Amon Tobin, All for Dust"
+        },
+        "neckdeep_02": {
+            "index": "52",
+            "tag": "Neck Deep, The Lowlife Pack"
+        },
+        "scarlxrd_02": {
+            "index": "53",
+            "tag": "Scarlxrd, CHAIN$AW.LXADXUT."
+        },
+        "bbnos_01": {
+            "index": "60",
+            "tag": "bbno$, u mad!"
+        },
+        "theverkkars_02": {
+            "index": "61",
+            "tag": "The Verkkars & n0thing, Flashbang Dance"
+        },
+        "perfectworld_01": {
+            "index": "68",
+            "tag": "Perfect World, \u82b1\u8138 Hua Lian (Painted Face)"
+        },
+        "denzelcurry_01": {
+            "index": "69",
+            "tag": "Denzel Curry, ULTIMATE"
+        },
+        "beartooth_02": {
+            "index": "32",
+            "tag": "Beartooth, Aggressive"
+        },
+        "blitzkids_01": {
+            "index": "33",
+            "tag": "Blitz Kids, The Good Youth"
+        },
+        "hundredth_01": {
+            "index": "34",
+            "tag": "Hundredth, FREE"
+        },
+        "neckdeep_01": {
+            "index": "35",
+            "tag": "Neck Deep, Life's Not Out To Get You"
+        },
+        "roam_01": {
+            "index": "36",
+            "tag": "Roam, Backbone"
+        },
+        "twinatlantic_01": {
+            "index": "37",
+            "tag": "Twin Atlantic, GLA"
+        },
+        "skog_03": {
+            "index": "38",
+            "tag": "Skog, III-Arena"
+        },
+        "austinwintory_02": {
+            "index": "43",
+            "tag": "Austin Wintory, Bachram"
+        },
+        "dren_02": {
+            "index": "44",
+            "tag": "Dren, Gunman Taco Truck"
+        },
+        "danielsadowski_04": {
+            "index": "45",
+            "tag": "Daniel Sadowski, Eye of the Dragon"
+        },
+        "treeadams_benbromfield_01": {
+            "index": "46",
+            "tag": "Tree Adams and Ben Bromfield, M.U.D.D. FORCE"
+        },
+        "timhuling_01": {
+            "index": "47",
+            "tag": "Tim Huling, Neo Noir"
+        },
+        "sammarshall_01": {
+            "index": "48",
+            "tag": "Sam Marshall, Bodacious"
+        },
+        "mattlevine_01": {
+            "index": "49",
+            "tag": "Matt Levine, Drifter"
+        },
+        "austinwintory_03": {
+            "index": "54",
+            "tag": "Austin Wintory, Mocha Petal"
+        },
+        "chipzel_01": {
+            "index": "55",
+            "tag": "Chipzel, ~Yellow Magic~"
+        },
+        "freakydna_01": {
+            "index": "56",
+            "tag": "Freaky DNA, Vici"
+        },
+        "jesseharlin_01": {
+            "index": "57",
+            "tag": "Jesse Harlin, Astro Bellum"
+        },
+        "laurashigihara_01": {
+            "index": "58",
+            "tag": "Laura Shigihara: Work Hard, Play Hard"
+        },
+        "sarahschachner_01": {
+            "index": "59",
+            "tag": "Sarah Schachner, KOLIBRI"
+        },
+        "3kliksphilip_01": {
+            "index": "62",
+            "tag": "3kliksphilip, Heading for the Source"
+        },
+        "hlb_01": {
+            "index": "63",
+            "tag": "Humanity's Last Breath, Void"
+        },
+        "juelz_01": {
+            "index": "64",
+            "tag": "Juelz, Shooters"
+        },
+        "knock2_01": {
+            "index": "65",
+            "tag": "Knock2, dashstar*"
+        },
+        "meechydarko_01": {
+            "index": "66",
+            "tag": "Meechy Darko, Gothic Luxury"
+        },
+        "sullivanking_01": {
+            "index": "67",
+            "tag": "Sullivan King, Lock Me Up"
+        },
+        "dryden_01": {
+            "index": "71",
+            "tag": "DRYDEN, Feel The Power"
+        },
+        "isoxo_01": {
+            "index": "72",
+            "tag": "ISOxo, inhuman"
+        },
+        "killscript_01": {
+            "index": "73",
+            "tag": "KILL SCRIPT, All Night"
+        },
+        "knock2_02": {
+            "index": "74",
+            "tag": "Knock2, Make U SWEAT!"
+        },
+        "radcat_01": {
+            "index": "75",
+            "tag": "Rad Cat, Reason"
+        },
+        "twerl_01": {
+            "index": "76",
+            "tag": "TWERL and Ekko & Sidetrack, Under Bright Lights"
+        },
+        "perfectworld_02": {
+            "index": "86",
+            "tag": "Perfect World, Ay Hey"
+        },
+        "alrt_01": {
+            "index": "98",
+            "tag": "ALRT, DOPAMINE HIT"
+        },
+        "altare_01": {
+            "index": "99",
+            "tag": "Altare, Change My Mind"
+        },
+        "borne_01": {
+            "index": "100",
+            "tag": "borne, Give It To Me"
+        },
+        "pirapus_01": {
+            "index": "101",
+            "tag": "Pirapus, EVERYNITE"
+        },
+        "repiet_01": {
+            "index": "102",
+            "tag": "Repiet & Julia Kleijn, On And On"
+        },
+        "shockone_01": {
+            "index": "103",
+            "tag": "ShockOne, Voices"
+        },
+        "mattlevine_02": {
+            "index": "82",
+            "tag": "Matt Levine, Agency"
+        },
+        "treeadams_01": {
+            "index": "85",
+            "tag": "Tree Adams, Seventh Moon"
+        },
+        "benbromfield_01": {
+            "index": "79",
+            "tag": "Ben Bromfield, Rabbit Hole"
+        },
+        "timhuling_02": {
+            "index": "84",
+            "tag": "Tim Huling, Devil's Paintbrush"
+        },
+        "dren_03": {
+            "index": "81",
+            "tag": "Dren McDonald, Coffee! Kofe! Kahveh!"
+        },
+        "sammarshall_02": {
+            "index": "83",
+            "tag": "Sam Marshall, Clutch"
+        },
+        "austinwintory_04": {
+            "index": "78",
+            "tag": "Austin Wintory, The Devil Went Clubbing in Georgia"
+        },
+        "danielsadowski_05": {
+            "index": "80",
+            "tag": "Daniel Sadowski, Dead Shot"
+        },
+        "adambeyer_01": {
+            "index": "87",
+            "tag": "Adam Beyer, Red Room"
+        },
+        "ghost_01": {
+            "index": "88",
+            "tag": "Ghost, Skelet\u00e1"
+        },
+        "health_01": {
+            "index": "89",
+            "tag": "HEALTH, RAT WARS"
+        },
+        "jamesandthecoldgun_01": {
+            "index": "90",
+            "tag": "James and the Cold Gun, Chewing Glass"
+        },
+        "jonathanyoung_01": {
+            "index": "91",
+            "tag": "Jonathan Young, Starship Velociraptor"
+        },
+        "juelz_02": {
+            "index": "92",
+            "tag": "Juelz, Floorspace"
+        },
+        "killermike_01": {
+            "index": "93",
+            "tag": "Killer Mike, MICHAEL"
+        },
+        "pvris_01": {
+            "index": "94",
+            "tag": "PVRIS, Evergreen"
+        },
+        "selectiveresponse_01": {
+            "index": "95",
+            "tag": "Selective Response, No Love Only Pleasure"
+        },
+        "tigercub_01": {
+            "index": "96",
+            "tag": "Tigercub, The Perfume of Decay"
+        }
     }
 }

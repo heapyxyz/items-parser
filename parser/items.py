@@ -33,6 +33,7 @@ class Items:
         self._paint_kits = self._get_paint_kits()
         self._sticker_kits = self._get_sticker_kits()
         self._keychains = self._get_keychains()
+        self._music_kits = self._get_music_kits()
 
         self._loot = self._get_loot()
         with open(os.getcwd() + f"/output/{name}.json", "w", encoding="utf-8") as f:
@@ -280,6 +281,26 @@ class Items:
 
         return gloves
 
+    def _get_music_kits(self) -> dict:
+        if "music_definitions" not in self._data["items_game"]:
+            return {}
+
+        data = self._data["items_game"]["music_definitions"]
+        kits = {}
+
+        for index in data:
+            kit_data = data[index]
+            kit_name = kit_data["name"]
+
+            kit = {
+                "index": index,
+                "tag": self._lang.get(kit_data["loc_name"]),
+            }
+
+            kits[kit_name] = kit
+
+        return kits
+
     def _get_loot(self) -> dict:
         if "client_loot_lists" not in self._data["items_game"]:
             return {}
@@ -295,13 +316,11 @@ class Items:
             "stickers": {},
             "patches": {},
             "keychains": self._keychains,
+            "music_kits": {},
         }
 
         for set in data:
             set_split = set.split("_")
-
-            if set_split[-1] not in rarities:
-                continue
 
             for loot in data[set]:
                 if type(loot) != str:
@@ -314,6 +333,15 @@ class Items:
 
                 kit = loot_split[0]
                 loot_type = loot_split[1]
+
+                if loot_type == "musickit":
+                    if kit in self._music_kits:
+                        loot_list["music_kits"][kit] = self._music_kits[kit]
+
+                    continue
+
+                if set_split[-1] not in rarities:
+                    continue
 
                 if loot_type not in self._items:
                     continue
