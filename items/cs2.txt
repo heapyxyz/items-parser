@@ -217511,6 +217511,282 @@
 			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_tigercub_01.vmdl"
 		}
 	}
+	"music_definitions"
+	{
+		"98"
+		{
+			"name"		"alrt_01"
+			"loc_name"		"#MusicKit_alrt_01"
+			"loc_description"		"#MusicKit_alrt_01_desc"
+			"image_inventory"		"econ/music_kits/alrt_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_alrt_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7029"
+		{
+			"name"		"coupon - alrt_01"
+			"item_name"		"#coupon_alrt_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - alrt_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/alrt_01"
+		}
+		"7030"
+		{
+			"name"		"coupon - alrt_01_stattrak"
+			"item_name"		"#coupon_alrt_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - alrt_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/alrt_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - alrt_01"
+		{
+			"public_list_contents"		"1"
+			"[alrt_01]musickit"		"1"
+		}
+		"coupon loot list - alrt_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[alrt_01]musickit"		"1"
+		}
+	}
+	"music_definitions"
+	{
+		"99"
+		{
+			"name"		"altare_01"
+			"loc_name"		"#MusicKit_altare_01"
+			"loc_description"		"#MusicKit_altare_01_desc"
+			"image_inventory"		"econ/music_kits/altare_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_altare_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7033"
+		{
+			"name"		"coupon - altare_01"
+			"item_name"		"#coupon_altare_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - altare_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/altare_01"
+		}
+		"7034"
+		{
+			"name"		"coupon - altare_01_stattrak"
+			"item_name"		"#coupon_altare_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - altare_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/altare_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - altare_01"
+		{
+			"public_list_contents"		"1"
+			"[altare_01]musickit"		"1"
+		}
+		"coupon loot list - altare_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[altare_01]musickit"		"1"
+		}
+	}
+	"music_definitions"
+	{
+		"100"
+		{
+			"name"		"borne_01"
+			"loc_name"		"#MusicKit_borne_01"
+			"loc_description"		"#MusicKit_borne_01_desc"
+			"image_inventory"		"econ/music_kits/borne_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_borne_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7031"
+		{
+			"name"		"coupon - borne_01"
+			"item_name"		"#coupon_borne_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - borne_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/borne_01"
+		}
+		"7032"
+		{
+			"name"		"coupon - borne_01_stattrak"
+			"item_name"		"#coupon_borne_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - borne_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/borne_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - borne_01"
+		{
+			"public_list_contents"		"1"
+			"[borne_01]musickit"		"1"
+		}
+		"coupon loot list - borne_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[borne_01]musickit"		"1"
+		}
+	}
+	"music_definitions"
+	{
+		"101"
+		{
+			"name"		"pirapus_01"
+			"loc_name"		"#MusicKit_pirapus_01"
+			"loc_description"		"#MusicKit_pirapus_01_desc"
+			"image_inventory"		"econ/music_kits/pirapus_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_pirapus_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7035"
+		{
+			"name"		"coupon - pirapus_01"
+			"item_name"		"#coupon_pirapus_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - pirapus_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/pirapus_01"
+		}
+		"7036"
+		{
+			"name"		"coupon - pirapus_01_stattrak"
+			"item_name"		"#coupon_pirapus_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - pirapus_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/pirapus_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - pirapus_01"
+		{
+			"public_list_contents"		"1"
+			"[pirapus_01]musickit"		"1"
+		}
+		"coupon loot list - pirapus_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[pirapus_01]musickit"		"1"
+		}
+	}
+	"music_definitions"
+	{
+		"102"
+		{
+			"name"		"repiet_01"
+			"loc_name"		"#MusicKit_repiet_01"
+			"loc_description"		"#MusicKit_repiet_01_desc"
+			"image_inventory"		"econ/music_kits/repiet_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_repiet_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7038"
+		{
+			"name"		"coupon - repiet_01"
+			"item_name"		"#coupon_repiet_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - repiet_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/repiet_01"
+		}
+		"7037"
+		{
+			"name"		"coupon - repiet_01_stattrak"
+			"item_name"		"#coupon_repiet_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - repiet_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/repiet_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - repiet_01"
+		{
+			"public_list_contents"		"1"
+			"[repiet_01]musickit"		"1"
+		}
+		"coupon loot list - repiet_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[repiet_01]musickit"		"1"
+		}
+	}
+	"music_definitions"
+	{
+		"103"
+		{
+			"name"		"shockone_01"
+			"loc_name"		"#MusicKit_shockone_01"
+			"loc_description"		"#MusicKit_shockone_01_desc"
+			"image_inventory"		"econ/music_kits/shockone_01"
+			"pedestal_display_model"		"models/inventory_items/music_kits/music_kit_shockone_01.vmdl"
+		}
+	}
+	"items"
+	{
+		"7040"
+		{
+			"name"		"coupon - shockone_01"
+			"item_name"		"#coupon_shockone_01"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - shockone_01"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/shockone_01"
+		}
+		"7039"
+		{
+			"name"		"coupon - shockone_01_stattrak"
+			"item_name"		"#coupon_shockone_01_stattrak"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - shockone_01_stattrak"
+			"prefab"		"coupon_prefab"
+			"image_inventory"		"econ/music_kits/shockone_01"
+			"will_produce_stattrak"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"coupon loot list - shockone_01"
+		{
+			"public_list_contents"		"1"
+			"[shockone_01]musickit"		"1"
+		}
+		"coupon loot list - shockone_01_stattrak"
+		{
+			"public_list_contents"		"1"
+			"[shockone_01]musickit"		"1"
+		}
+	}
 	"items"
 	{
 		"4905"

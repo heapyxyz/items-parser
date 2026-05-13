@@ -1,4 +1,4 @@
-
+﻿
 "lang"
 {
 "Language" "English"
@@ -1591,7 +1591,30 @@
 		"TMid"				"T Mid"
 		"Toilets"			"Toilets"
 		"Candle"			"Candle"
-
+		//Cache
+		"OutsideA"			"Outside A"
+		"OutsideB"			"Outside B"
+		"AHalls"			"A Halls"
+		"BHalls"			"B Halls"
+		"SunRoom"			"Sun Room"
+		"Checkers"			"Checkers"
+		"Headshot"			"Headshot"
+		"TreeRoom"			"Tree Room"
+		"CTLane"			"CT Lane"
+		"Bear"				"Bear"
+		"BusStop"			"Bus Stop"
+		"Corner"			"Corner"
+		"ABoost"			"A Boost"
+		"Highway"			"Highway"
+		"Sandbags"			"Sandbags"
+		"Cubby"				"Cubby"
+		"MidRoof"			"Mid Roof"
+		"Lockers"			"Lockers"
+		"AStairs"			"A Stairs"
+		"TTruck"			"T Truck"
+		"Useless"			"Useless"
+		"TYard"				"T Yard"
+		"Boost"				"Boost"
 		// coop_cementplant
 		"Gravelpit"		"Gravel Pit"
 		"Forest"		"Forest"
@@ -6231,6 +6254,36 @@
 		"musickit_jamesandthecoldgun_01_desc"			"Welsh rock duo James and the Cold Gun unleash pure, unfiltered energy, blending classic punk attitude with modern alt-rock fire to create a blistering music kit."
 		"coupon_jamesandthecoldgun_01"					"Music Kit | James and the Cold Gun, Chewing Glass"
 		"coupon_jamesandthecoldgun_01_stattrak"			"StatTrak™ Music Kit | James and the Cold Gun, Chewing Glass"
+		
+		"musickit_alrt_01"						"ALRT, DOPAMINE HIT"
+		"musickit_alrt_01_desc"					"ALRT's bouncy bass house record delivers the ultimate \"DOPAMINE HIT\", keeping you locked in and ready to rise to the occasion when it matters most."
+		"coupon_alrt_01"						"Music Kit | ALRT, DOPAMINE HIT"
+		"coupon_alrt_01_stattrak"				"StatTrak™ Music Kit | ALRT, DOPAMINE HIT"
+		
+		"musickit_altare_01"					"Altare, Change My Mind"
+		"musickit_altare_01_desc"				"Altare's euphoric wave anthem \"Change My Mind\" is perfect for the highest of highs when it feels like nobody can stand in your way."
+		"coupon_altare_01"						"Music Kit | Altare, Change My Mind"
+		"coupon_altare_01_stattrak"				"StatTrak™ Music Kit | Altare, Change My Mind"
+		
+		"musickit_borne_01"						"borne, Give It To Me"
+		"musickit_borne_01_desc"				"borne's gritty bass banger \"Give It To Me\" will have players ready to give it to their opponents in Counter-Strike, and beyond."
+		"coupon_borne_01"						"Music Kit | borne, Give It To Me"
+		"coupon_borne_01_stattrak"				"StatTrak™ Music Kit | borne, Give It To Me"
+		
+		"musickit_pirapus_01"					"Pirapus, EVERYNITE"
+		"musickit_pirapus_01_desc"				"Pirapus' high octane drum and bass anthem \"EVERYNITE\" evokes the feeling of being on the edge of greatness. True to its name, this one ensures you're locked in every night."
+		"coupon_pirapus_01"						"Music Kit | Pirapus, EVERYNITE"
+		"coupon_pirapus_01_stattrak"			"StatTrak™ Music Kit | Pirapus, EVERYNITE"
+		
+		"musickit_repiet_01"					"Repiet & Julia Kleijn, On And On"
+		"musickit_repiet_01_desc"				"Be prepared for any challenge with Repiet and Julia Kleijn's infectious track \"On And On.\" Through the highs and the lows, it's a tune that sets the tone to attack any obstacle."
+		"coupon_repiet_01"						"Music Kit | Repiet & Julia Kleijn, On And On"
+		"coupon_repiet_01_stattrak"				"StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On"
+		
+		"musickit_shockone_01"					"ShockOne, Voices"
+		"musickit_shockone_01_desc"				"Break free with ShockOne's high energy drum and bass record \"Voices.\" Primed for delivering in the clutch, this music kit features punchy bass lines that will carry you to many MVPs."
+		"coupon_shockone_01"					"Music Kit | ShockOne, Voices"
+		"coupon_shockone_01_stattrak"			"StatTrak™ Music Kit | ShockOne, Voices"
 
 //////////////////
 
@@ -36914,6 +36967,8 @@
 		"store_nav_popular"		"NEW & POPULAR"
 		"store_linked_item_tooltip"		"Click to see both versions of this item"
 		"store_nav_more"		"See More"
+		"store_nav_shop_all"		"Shop All"
+		"store_nav_section_coupon_nightmode2" "NIGHTMODE II<br>Music Kits"
 
 		"StoreCheckout_NoItems"			"Your shopping cart is empty!"
 		"StoreCheckout_TooManyItems"	"You have too many items in your shopping cart!"
@@ -40388,7 +40443,10 @@
 		"SFUI_match_cancelled"			"Match Cancelled"
 		"SFUI_match_abort_match_network_event"	"A network interruption has resulted in the match being cancelled.\nThis match will not affect your Skill Rating."
 		"SFUI_match_abort_match_vac_live"	"VAC Live has detected a cheater and ended the match.\nThis match will not affect your Skill Rating."
-		"SFUI_match_abort_match_abnormal_behavior"	"VAC has detected irregular gameplay and has canceled the match.\nThe player who was flagged by VAC and their party have received a cooldown."
+		
+		"SFUI_match_abort_match_abnormal_behavior"	"%s1 and any party members have received VACNET cooldowns."
+		"SFUI_match_abort_match_abnormal_behavior_pano"	"VACNET has detected irregular gameplay and has canceled the match."
+
 		"SFUI_match_vac_live_partied_with_cheater"	"No progress will be awarded for this match because a player in your party was banned."
 		"SFUI_match_abort_match_missing_player"	" The match is being cancelled because a player never connected."
 		"SFUI_match_abort_match_player_abandoned"	" The match is being cancelled because a player disconnected."
@@ -50442,6 +50500,10 @@
 		"quest_11015_var_desc:f"	 					"{mission-points, plural, one{Win a round in <b>{s:gamemode}: {s:location}</b>.} other{Win rounds in <b>{s:gamemode}: {s:location}</b>.}}"
 		"quest_11015_var_partial:f" 					""
 		"quest_11015_var_ingame:f"						"{mission-points, plural, one{Win a round} other{Win rounds}}"
+
+		"quest_11016_var_desc:f"	 					"{mission-points, plural, one{Win a round in <b>{s:gamemode}: {s:location}</b>.} other{Win rounds in <b>{s:gamemode}: {s:location}</b>.}}"
+		"quest_11016_var_partial:f" 					""
+		"quest_11016_var_ingame:f"						"{mission-points, plural, one{Win a round} other{Win rounds}}"
 
 // ---------------------------------------------------------------------------------------------
 // Join Friend Listen Servers
