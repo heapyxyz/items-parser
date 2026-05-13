@@ -1,6 +1,18 @@
 # items-parser
 `items-parser` is a CS2/CS:GO `items_game.txt` file parser. The script extracts game's items, such as weapon skins, gloves, keychains or stickers to a JSON file. While this repository includes pre-generated output, you can run the script yourself if you need to parse a different version of the files or want the absolute latest data before this repository is updated.
 
+## Parsed Items
+- Medals
+- Agents (CT/T)
+- Gloves (grouped by base type with paint kits)
+- Containers (cases, sticker capsules, graffiti boxes)
+- Passes
+- Weapon skins (grouped by weapon type)
+- Stickers
+- Patches
+- Keychains
+- Music kits
+
 ## Requirements
 - Python 3.3 or newer
 - [Source2Viewer](https://valveresourceformat.github.io/) (a tool used for exploring Valve's VPK files)
@@ -34,4 +46,5 @@ Output gets written to the `output/` folder.
 
 ## To-Do
 - [x] Improve parsing gloves.
+- [x] Parse music kits.
 - [ ] Save output as SQL, VDF.
