@@ -5,21 +5,13 @@ class Lang:
     def __init__(self, name: str):
         print(f'Parsing "{name}" language file...')
 
-        self._file = os.getcwd() + f"/lang/{name}.txt"
-        self._data = self._parse()
-
-    def _parse(self):
-        with open(self._file, "r", encoding="utf-8") as f:
+        file = os.getcwd() + f"/lang/{name}.txt"
+        with open(file, "r", encoding="utf-8") as f:
             data = f.read()
 
-        return vdf.loads(data)
+        vdf_data = vdf.loads(data)
+        self._data = {k.lower(): v for k, v in vdf_data["lang"]["Tokens"].items()}
 
     def get(self, key: str):
         key = key.replace("#", "")
-        data = self._data["lang"]["Tokens"]
-
-        for data_key, data_value in data.items():
-            if str(data_key).lower() == key.lower():
-                return data_value
-
-        return None
+        return self._data.get(key.lower())
