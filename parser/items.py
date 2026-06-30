@@ -102,7 +102,7 @@ class Items:
             elif prefab in [
                 "weapon_case",
                 "weapon_case_base",
-                "weapon_case_souvenir",
+                "weapon_case_souvenirpkg",
                 "weapon_case_selfopening_collection",
                 "sticker_capsule",
                 "patch_capsule",
@@ -111,6 +111,15 @@ class Items:
                 container = {
                     "index": index,
                     "tag": self._lang.get(item_tag),
+                    "type": {
+                        "weapon_case": "case",
+                        "weapon_case_base": "capsule",
+                        "weapon_case_souvenirpkg": "souvenir",
+                        "weapon_case_selfopening_collection": "collection",
+                        "sticker_capsule": "sticker",
+                        "patch_capsule": "patch",
+                        "graffiti_box": "graffiti",
+                    }.get(prefab, "case"),
                 }
 
                 if "associated_items" in item_data:
