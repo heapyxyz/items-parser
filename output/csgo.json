@@ -2319,43 +2319,53 @@
     "containers": {
         "crate_valve_1": {
             "index": "4001",
-            "tag": "CS:GO Weapon Case"
+            "tag": "CS:GO Weapon Case",
+            "key": "1203"
         },
         "crate_esports_2013": {
             "index": "4002",
-            "tag": "eSports 2013 Case"
+            "tag": "eSports 2013 Case",
+            "key": "1204"
         },
         "crate_valve_2": {
             "index": "4004",
-            "tag": "CS:GO Weapon Case 2"
+            "tag": "CS:GO Weapon Case 2",
+            "key": "1203"
         },
         "crate_operation_ii": {
             "index": "4003",
-            "tag": "Operation Bravo Case"
+            "tag": "Operation Bravo Case",
+            "key": "1203"
         },
         "crate_esports_2013_winter": {
             "index": "4005",
-            "tag": "eSports 2013 Winter Case"
+            "tag": "eSports 2013 Winter Case",
+            "key": "1204"
         },
         "crate_sticker_pack01": {
             "index": "4007",
-            "tag": "Sticker Capsule"
+            "tag": "Sticker Capsule",
+            "key": "1212"
         },
         "crate_community_1": {
             "index": "4009",
-            "tag": "Winter Offensive Weapon Case"
+            "tag": "Winter Offensive Weapon Case",
+            "key": "1214"
         },
         "crate_valve_3": {
             "index": "4010",
-            "tag": "CS:GO Weapon Case 3"
+            "tag": "CS:GO Weapon Case 3",
+            "key": "1203"
         },
         "crate_community_2": {
             "index": "4011",
-            "tag": "Operation Phoenix Weapon Case"
+            "tag": "Operation Phoenix Weapon Case",
+            "key": "1303"
         },
         "crate_sticker_pack02": {
             "index": "4012",
-            "tag": "Sticker Capsule 2"
+            "tag": "Sticker Capsule 2",
+            "key": "1212"
         },
         "crate_sticker_pack_kat2014_01": {
             "index": "4014",
@@ -2367,19 +2377,23 @@
         },
         "crate_sticker_pack_community01": {
             "index": "4016",
-            "tag": "Community Sticker Capsule 1"
+            "tag": "Community Sticker Capsule 1",
+            "key": "1308"
         },
         "crate_community_3": {
             "index": "4017",
-            "tag": "Huntsman Weapon Case"
+            "tag": "Huntsman Weapon Case",
+            "key": "1307"
         },
         "crate_community_4": {
             "index": "4018",
-            "tag": "Operation Breakout Weapon Case"
+            "tag": "Operation Breakout Weapon Case",
+            "key": "1313"
         },
         "crate_esports_2014_summer": {
             "index": "4019",
-            "tag": "eSports 2014 Summer Case"
+            "tag": "eSports 2014 Summer Case",
+            "key": "1204"
         },
         "crate_sticker_pack_cologne2014_01": {
             "index": "4020",
@@ -2391,7 +2405,8 @@
         },
         "crate_operation_vanguard": {
             "index": "4029",
-            "tag": "Operation Vanguard Weapon Case"
+            "tag": "Operation Vanguard Weapon Case",
+            "key": "1322"
         },
         "crate_sticker_pack_dhw2014_01": {
             "index": "4030",
@@ -2399,7 +2414,8 @@
         },
         "crate_community_6": {
             "index": "4061",
-            "tag": "Chroma Case"
+            "tag": "Chroma Case",
+            "key": "1323"
         },
         "crate_sticker_pack_eslkatowice2015_01": {
             "index": "4086",
@@ -2411,7 +2427,8 @@
         },
         "crate_community_7": {
             "index": "4089",
-            "tag": "Chroma 2 Case"
+            "tag": "Chroma 2 Case",
+            "key": "1325"
         },
         "crate_sticker_pack_enfu_capsule": {
             "index": "4090",
@@ -2419,7 +2436,8 @@
         },
         "crate_community_8": {
             "index": "4091",
-            "tag": "Falchion Case"
+            "tag": "Falchion Case",
+            "key": "1330"
         },
         "crate_sticker_pack_eslcologne2015_legends": {
             "index": "4109",
@@ -2511,7 +2529,8 @@
         },
         "crate_community_9": {
             "index": "4138",
-            "tag": "Shadow Case"
+            "tag": "Shadow Case",
+            "key": "1333"
         },
         "crate_sticker_pack_cluj2015_legends": {
             "index": "4156",
@@ -2607,11 +2626,13 @@
         },
         "crate_community_10": {
             "index": "4186",
-            "tag": "Revolver Case"
+            "tag": "Revolver Case",
+            "key": "1334"
         },
         "crate_community_11": {
             "index": "4187",
-            "tag": "Operation Wildfire Case"
+            "tag": "Operation Wildfire Case",
+            "key": "7000"
         },
         "crate_xray_p250": {
             "index": "4668",
@@ -2635,15 +2656,18 @@
         },
         "crate_community_12": {
             "index": "4233",
-            "tag": "Chroma 3 Case"
+            "tag": "Chroma 3 Case",
+            "key": "1347"
         },
         "crate_community_13": {
             "index": "4236",
-            "tag": "Gamma Case"
+            "tag": "Gamma Case",
+            "key": "1350"
         },
         "crate_gamma_2": {
             "index": "4281",
-            "tag": "Gamma 2 Case"
+            "tag": "Gamma 2 Case",
+            "key": "1351"
         },
         "crate_sprays_community_1": {
             "index": "4234",
@@ -2691,19 +2715,23 @@
         },
         "crate_community_15": {
             "index": "4288",
-            "tag": "Glove Case"
+            "tag": "Glove Case",
+            "key": "1356"
         },
         "crate_community_16": {
             "index": "4351",
-            "tag": "Spectrum Case"
+            "tag": "Spectrum Case",
+            "key": "1364"
         },
         "crate_community_17": {
             "index": "4352",
-            "tag": "Operation Hydra Case"
+            "tag": "Operation Hydra Case",
+            "key": "1365"
         },
         "crate_community_18": {
             "index": "4403",
-            "tag": "Spectrum 2 Case"
+            "tag": "Spectrum 2 Case",
+            "key": "1366"
         },
         "crate_sticker_pack_illuminate_capsule_01": {
             "index": "4404",
@@ -2747,11 +2775,13 @@
         },
         "crate_community_19": {
             "index": "4471",
-            "tag": "Clutch Case"
+            "tag": "Clutch Case",
+            "key": "1373"
         },
         "crate_community_20": {
             "index": "4482",
-            "tag": "Horizon Case"
+            "tag": "Horizon Case",
+            "key": "1374"
         },
         "character_operator_dossier_op09_rare": {
             "index": "6404",
@@ -2811,11 +2841,13 @@
         },
         "crate_community_21": {
             "index": "4548",
-            "tag": "Danger Zone Case"
+            "tag": "Danger Zone Case",
+            "key": "1375"
         },
         "crate_community_22": {
             "index": "4598",
-            "tag": "Prisma Case"
+            "tag": "Prisma Case",
+            "key": "1383"
         },
         "selfopeningitem_set_overpass": {
             "index": "4601",
@@ -2927,11 +2959,13 @@
         },
         "crate_community_23": {
             "index": "4620",
-            "tag": "Shattered Web Case"
+            "tag": "Shattered Web Case",
+            "key": "1384"
         },
         "crate_community_24": {
             "index": "4669",
-            "tag": "CS20 Case"
+            "tag": "CS20 Case",
+            "key": "1385"
         },
         "crate_sticker_pack_cs20_capsule": {
             "index": "4670",
@@ -2959,15 +2993,18 @@
         },
         "crate_community_25": {
             "index": "4695",
-            "tag": "Prisma 2 Case"
+            "tag": "Prisma 2 Case",
+            "key": "1386"
         },
         "crate_community_26": {
             "index": "4698",
-            "tag": "Fracture Case"
+            "tag": "Fracture Case",
+            "key": "1387"
         },
         "crate_community_27": {
             "index": "4717",
-            "tag": "Operation Broken Fang Case"
+            "tag": "Operation Broken Fang Case",
+            "key": "1388"
         },
         "crate_sticker_pack_recoil": {
             "index": "4719",
@@ -2979,7 +3016,8 @@
         },
         "crate_community_28": {
             "index": "4747",
-            "tag": "Snakebite Case"
+            "tag": "Snakebite Case",
+            "key": "1389"
         },
         "crate_anubis_storepromo": {
             "index": "4882",
@@ -2999,7 +3037,8 @@
         },
         "crate_community_29": {
             "index": "4790",
-            "tag": "Operation Riptide Case"
+            "tag": "Operation Riptide Case",
+            "key": "1390"
         },
         "crate_sticker_pack_op_riptide_capsule": {
             "index": "4783",
@@ -3007,7 +3046,8 @@
         },
         "crate_community_30": {
             "index": "4818",
-            "tag": "Dreams & Nightmares Case"
+            "tag": "Dreams & Nightmares Case",
+            "key": "1391"
         },
         "crate_sticker_pack_spring2022_capsule": {
             "index": "4784",
@@ -3015,7 +3055,8 @@
         },
         "crate_community_31": {
             "index": "4846",
-            "tag": "Recoil Case"
+            "tag": "Recoil Case",
+            "key": "1392"
         },
         "crate_sticker_pack_csgo10_capsule": {
             "index": "4847",
@@ -3027,7 +3068,8 @@
         },
         "crate_community_32": {
             "index": "4880",
-            "tag": "Revolution Case"
+            "tag": "Revolution Case",
+            "key": "1393"
         }
     },
     "passes": {

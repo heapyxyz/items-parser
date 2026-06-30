@@ -113,6 +113,9 @@ class Items:
                     "tag": self._lang.get(item_tag),
                 }
 
+                if "associated_items" in item_data:
+                    container["key"] = next(iter(item_data["associated_items"]))
+
                 self._containers[item_name] = container
             elif prefab == "hands_paintable":
                 glove_base = {
