@@ -1,0 +1,8 @@
+[project]
+name = "items-parser"
+dynamic = ["version"]
+description = "CS2/CS:GO items_game.txt parser"
+requires-python = ">=3.11"
+dependencies = [
+    "vdf>=3.4"
+]
