@@ -222,15 +222,24 @@ class Items:
 
         data = self._data["items_game"]["keychain_definitions"]
         keychains = {}
+        name_to_rarity = {}
 
         for index in data:
             keychain_data = data[index]
             keychain_name = keychain_data["name"]
 
+            if "item_rarity" in keychain_data:
+                rarity = keychain_data["item_rarity"]
+                name_to_rarity[keychain_name] = rarity
+            elif "base" in keychain_data:
+                rarity = name_to_rarity.get(keychain_data["base"], "default")
+            else:
+                rarity = "default"
+
             keychain = {
                 "index": index,
                 "tag": self._lang.get(keychain_data["loc_name"]),
-                "rarity": keychain_data["item_rarity"],
+                "rarity": rarity,
             }
 
             keychains[keychain_name] = keychain
