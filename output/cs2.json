@@ -1688,6 +1688,170 @@
             "index": "5280",
             "tag": "Sanctum Map Coin"
         },
+        "Map Token Boulder": {
+            "index": "5281",
+            "tag": "Boulder Map Coin"
+        },
+        "Map Token Fachwerk": {
+            "index": "5282",
+            "tag": "Fachwerk Map Coin"
+        },
+        "Map Token Shelter": {
+            "index": "5283",
+            "tag": "Shelter Map Coin"
+        },
+        "Map Token Debris": {
+            "index": "5284",
+            "tag": "Debris Map Coin"
+        },
+        "Map Token El Dorado": {
+            "index": "5285",
+            "tag": "El Dorado Map Coin"
+        },
+        "premier season coin s=5": {
+            "index": "5330",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=1 b=1": {
+            "index": "5331",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=1 b=2": {
+            "index": "5332",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=1 b=3": {
+            "index": "5333",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=1 b=4": {
+            "index": "5334",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=1 b=5": {
+            "index": "5335",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=2 b=1": {
+            "index": "5336",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=2 b=2": {
+            "index": "5337",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=2 b=3": {
+            "index": "5338",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=2 b=4": {
+            "index": "5339",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=2 b=5": {
+            "index": "5340",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=3 b=1": {
+            "index": "5341",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=3 b=2": {
+            "index": "5342",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=3 b=3": {
+            "index": "5343",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=3 b=4": {
+            "index": "5344",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=3 b=5": {
+            "index": "5345",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=4 b=1": {
+            "index": "5346",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=4 b=2": {
+            "index": "5347",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=4 b=3": {
+            "index": "5348",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=4 b=4": {
+            "index": "5349",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=4 b=5": {
+            "index": "5350",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=5 b=1": {
+            "index": "5351",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=5 b=2": {
+            "index": "5352",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=5 b=3": {
+            "index": "5353",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=5 b=4": {
+            "index": "5354",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=5 b=5": {
+            "index": "5355",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=6 b=1": {
+            "index": "5356",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=6 b=2": {
+            "index": "5357",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=6 b=3": {
+            "index": "5358",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=6 b=4": {
+            "index": "5359",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=6 b=5": {
+            "index": "5360",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=7 b=1": {
+            "index": "5361",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=7 b=2": {
+            "index": "5362",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=7 b=3": {
+            "index": "5363",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=7 b=4": {
+            "index": "5364",
+            "tag": "Premier Season Five Medal"
+        },
+        "premier season coin s=5 c=7 b=5": {
+            "index": "5365",
+            "tag": "Premier Season Five Medal"
+        },
         "Collectible Pin - Dust II": {
             "index": "6001",
             "tag": "Dust II Pin"
@@ -2311,6 +2475,38 @@
         "StarLadder Budapest 2025 CS:GO Quarterfinalist": {
             "index": "5229",
             "tag": "Quarterfinalist at StarLadder Budapest 2025"
+        },
+        "tournament_journal_cologne2026": {
+            "index": "5312",
+            "tag": "Cologne 2026 Coin"
+        },
+        "tournament_journal_cologne2026_silver": {
+            "index": "5313",
+            "tag": "Cologne 2026 Silver Coin"
+        },
+        "tournament_journal_cologne2026_gold": {
+            "index": "5314",
+            "tag": "Cologne 2026 Gold Coin"
+        },
+        "tournament_journal_cologne2026_crystal": {
+            "index": "5315",
+            "tag": "Cologne 2026 Diamond Coin"
+        },
+        "IEM Cologne 2026 CS:GO Champion": {
+            "index": "5319",
+            "tag": "Champion at IEM Cologne 2026"
+        },
+        "IEM Cologne 2026 CS:GO Finalist": {
+            "index": "5320",
+            "tag": "Finalist at IEM Cologne 2026"
+        },
+        "IEM Cologne 2026 CS:GO Semifinalist": {
+            "index": "5321",
+            "tag": "Semifinalist at IEM Cologne 2026"
+        },
+        "IEM Cologne 2026 CS:GO Quarterfinalist": {
+            "index": "5322",
+            "tag": "Quarterfinalist at IEM Cologne 2026"
         }
     },
     "agents": {
@@ -4767,6 +4963,11 @@
             "tag": "Warhammer 40,000 Xenos Sticker Capsule",
             "type": "sticker"
         },
+        "crate_sticker_pack_jackass_capsule": {
+            "index": "7041",
+            "tag": "Jackass Sticker Capsule",
+            "type": "sticker"
+        },
         "crate_community_33": {
             "index": "4904",
             "tag": "Kilowatt Case",
@@ -5088,6 +5289,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.67,
                 "rarity": "mythical"
+            },
+            "bizon_traitor": {
+                "index": "1472",
+                "tag": "Traitor",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "bizon_rmx": {
                 "index": "1418",
@@ -5454,6 +5662,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.8,
                 "rarity": "legendary"
+            },
+            "p250_lotus_imprint_glitter_purple": {
+                "index": "1455",
+                "tag": "Lotus Imprint",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
             },
             "p250_bullfrog": {
                 "index": "1345",
@@ -6082,6 +6297,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "fiveseven_desert_seal": {
+                "index": "1457",
+                "tag": "Desert Seal",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
             "fiveseven_polymer_dark": {
                 "index": "1429",
                 "tag": "Dark Polymer",
@@ -6392,6 +6614,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "nova_morning_sun": {
+                "index": "1474",
+                "tag": "Morning Sun",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
             "nova_ocular": {
                 "index": "1350",
                 "tag": "Ocular",
@@ -6412,6 +6641,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "rare"
+            },
+            "nova_smart": {
+                "index": "1442",
+                "tag": "Smart Gun",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
             },
             "hye_geobirds": {
                 "index": "1368",
@@ -6730,6 +6966,13 @@
                 "highest_float": 1.0,
                 "rarity": "uncommon"
             },
+            "m4a4_falak": {
+                "index": "1463",
+                "tag": "Falak",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "m4a4_skrrrt_green": {
                 "index": "1353",
                 "tag": "Full Throttle",
@@ -6750,6 +6993,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.64,
                 "rarity": "rare"
+            },
+            "m4a4_black_side_matte": {
+                "index": "1446",
+                "tag": "Dark Operative",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "hye_abstract_knot_m4": {
                 "index": "1364",
@@ -7043,6 +7293,13 @@
             "gs_constellation_dark_mp7": {
                 "index": "940",
                 "tag": "Astrolabe",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
+            "mp7_binary_green": {
+                "index": "1468",
+                "tag": "Base-2",
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "uncommon"
@@ -8359,6 +8616,13 @@
                 "highest_float": 1.0,
                 "rarity": "legendary"
             },
+            "awp_sovereign_flame": {
+                "index": "1465",
+                "tag": "Sovereign Flame",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
+            },
             "awp_ice_coaled": {
                 "index": "1346",
                 "tag": "Ice Coaled",
@@ -8386,6 +8650,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "mythical"
+            },
+            "awp_black_box": {
+                "index": "1467",
+                "tag": "Black Box",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
             },
             "soe_bw_the_end_awp": {
                 "index": "1356",
@@ -8690,6 +8961,13 @@
                 "highest_float": 0.9,
                 "rarity": "rare"
             },
+            "aug_lapis_lazuli": {
+                "index": "1464",
+                "tag": "Lapis Lazuli",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "aug_trigger_discipline_velco": {
                 "index": "1339",
                 "tag": "Trigger Discipline",
@@ -8710,6 +8988,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.85,
                 "rarity": "mythical"
+            },
+            "aug_ghost_signal": {
+                "index": "1452",
+                "tag": "Signal Scanner",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
             },
             "soe_aug_creep": {
                 "index": "1362",
@@ -9331,6 +9616,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "glock_ifrit_lattice": {
+                "index": "1460",
+                "tag": "Ifrit Lattice",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "glock_mirror_maze_v2_pearl": {
                 "index": "1348",
                 "tag": "Mirror Mosaic",
@@ -9358,6 +9650,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.7,
                 "rarity": "mythical"
+            },
+            "glock_ghost_protocol_red": {
+                "index": "1450",
+                "tag": "Ghost Protocol",
+                "lowest_float": 0.0,
+                "highest_float": 0.9,
+                "rarity": "legendary"
             },
             "ht_white_edges": {
                 "index": "1357",
@@ -9669,11 +9968,25 @@
                 "highest_float": 0.9,
                 "rarity": "rare"
             },
+            "tec9_sultan": {
+                "index": "1462",
+                "tag": "Sultan",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "soch_tiger_stencil_tec9": {
                 "index": "766",
                 "tag": "Tiger Stencil",
                 "lowest_float": 0.0,
                 "highest_float": 0.6,
+                "rarity": "uncommon"
+            },
+            "tec9_perimeter_urban": {
+                "index": "1447",
+                "tag": "Perimeter",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
                 "rarity": "uncommon"
             },
             "so_teal": {
@@ -10000,6 +10313,13 @@
                 "highest_float": 0.08,
                 "rarity": "legendary"
             },
+            "hye_spyglitch_green_m4a1s": {
+                "index": "1476",
+                "tag": "Fatal Glitch",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "cue_stratosphere": {
                 "index": "1216",
                 "tag": "Stratosphere",
@@ -10275,6 +10595,13 @@
                 "highest_float": 1.0,
                 "rarity": "rare"
             },
+            "mp9_dune_asp": {
+                "index": "1473",
+                "tag": "Dune Asp",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
             "mp9_vinyl": {
                 "index": "1341",
                 "tag": "Broken Record",
@@ -10295,6 +10622,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.6,
                 "rarity": "mythical"
+            },
+            "mp9_prototype_extended": {
+                "index": "1469",
+                "tag": "Spy Prototype",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
             },
             "soe_ddpat_swirl_bw": {
                 "index": "1375",
@@ -10676,6 +11010,13 @@
                 "highest_float": 0.66,
                 "rarity": "mythical"
             },
+            "mac10_arabesque_gold": {
+                "index": "1454",
+                "tag": "Arabesque Mosaic",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "mac10_kamicatze": {
                 "index": "1349",
                 "tag": "Cat Fight",
@@ -10689,6 +11030,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.9,
                 "rarity": "rare"
+            },
+            "mac10_video_cam": {
+                "index": "1448",
+                "tag": "Video Cam",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "hye_car_wrap4": {
                 "index": "1367",
@@ -10886,6 +11234,13 @@
                 "tag": "Tango",
                 "lowest_float": 0.0,
                 "highest_float": 0.851064,
+                "rarity": "rare"
+            },
+            "r8_monarch_extended": {
+                "index": "1445",
+                "tag": "Monarch",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
                 "rarity": "rare"
             },
             "soch_smoke_grips": {
@@ -11494,6 +11849,13 @@
                 "highest_float": 0.68,
                 "rarity": "uncommon"
             },
+            "usps_spiral_glitch_iridescent": {
+                "index": "1451",
+                "tag": "Spiral Glitch",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "soe_blue_and_gold": {
                 "index": "1217",
                 "tag": "Royal Guard",
@@ -11747,6 +12109,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.61886,
                 "rarity": "mythical"
+            },
+            "sawedoff_lunar_wyrm": {
+                "index": "1475",
+                "tag": "Lunar Wyrm",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
             },
             "sawedoff_fusion": {
                 "index": "1427",
@@ -12107,6 +12476,13 @@
                 "highest_float": 1.0,
                 "rarity": "mythical"
             },
+            "ak47_jinn_consequence": {
+                "index": "1466",
+                "tag": "Consequence of the Jinn",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
+            },
             "ak47_puffer_custom": {
                 "index": "1352",
                 "tag": "The Oligarch",
@@ -12141,6 +12517,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.5,
                 "rarity": "common"
+            },
+            "ak47_autoexec_camo": {
+                "index": "1449",
+                "tag": "AUTOEXEC",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "legendary"
             },
             "hye_zeds": {
                 "index": "1358",
@@ -12430,6 +12813,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.801418,
                 "rarity": "mythical"
+            },
+            "dualies_mystic_conjunction_v3": {
+                "index": "1459",
+                "tag": "Mystic Conjunction",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "dual_elite_biblical_angel": {
                 "index": "1347",
@@ -12981,6 +13371,13 @@
                 "highest_float": 1.0,
                 "rarity": "ancient"
             },
+            "famas_snake_song": {
+                "index": "1461",
+                "tag": "Snake Song",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "rare"
+            },
             "ht_splash_famas": {
                 "index": "882",
                 "tag": "Halftone Wash",
@@ -12991,6 +13388,13 @@
             "gs_gamebred_famas": {
                 "index": "461",
                 "tag": "Half Sleeve",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
+            "famas_corp_defense": {
+                "index": "1477",
+                "tag": "Corp Defense",
                 "lowest_float": 0.0,
                 "highest_float": 1.0,
                 "rarity": "uncommon"
@@ -13297,6 +13701,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.57,
                 "rarity": "rare"
+            },
+            "deagle_eastern_enigma_blue": {
+                "index": "1458",
+                "tag": "Eastern Enigma",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
             },
             "deagle_firebreathing": {
                 "index": "1430",
@@ -14004,6 +14415,13 @@
                 "highest_float": 0.702614,
                 "rarity": "rare"
             },
+            "scar_sirocco": {
+                "index": "1453",
+                "tag": "Sirocco Script",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
+            },
             "scar_refraction_v4": {
                 "index": "1343",
                 "tag": "Caged",
@@ -14017,6 +14435,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.65,
                 "rarity": "rare"
+            },
+            "scar_arctic_camo_panels": {
+                "index": "1470",
+                "tag": "Arctic Camo Panels",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "hye_chrome_ripple": {
                 "index": "1371",
@@ -14442,6 +14867,13 @@
                 "highest_float": 0.57,
                 "rarity": "mythical"
             },
+            "cz75_hydraulics": {
+                "index": "1443",
+                "tag": "Hydraulics",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "mythical"
+            },
             "hye_paisley_desat": {
                 "index": "1390",
                 "tag": "Honey Paisley",
@@ -14730,6 +15162,13 @@
                 "lowest_float": 0.0,
                 "highest_float": 0.75,
                 "rarity": "mythical"
+            },
+            "xm1014_black_site": {
+                "index": "1471",
+                "tag": "Black Site",
+                "lowest_float": 0.0,
+                "highest_float": 1.0,
+                "rarity": "uncommon"
             },
             "hye_drippy_camo": {
                 "index": "1267",
@@ -42017,6 +42456,341 @@
             "tag": "Aeldari 2",
             "rarity": "rare"
         },
+        "paper_airhorn": {
+            "index": "11196",
+            "tag": "Airhorn",
+            "rarity": "rare"
+        },
+        "paper_assterisk": {
+            "index": "11197",
+            "tag": "Assterisk",
+            "rarity": "rare"
+        },
+        "paper_big_red_rocket": {
+            "index": "11198",
+            "tag": "Big Red Rocket",
+            "rarity": "rare"
+        },
+        "paper_boner_snap": {
+            "index": "11199",
+            "tag": "Boner Snap",
+            "rarity": "rare"
+        },
+        "paper_censored": {
+            "index": "11200",
+            "tag": "Censored",
+            "rarity": "rare"
+        },
+        "paper_explosives": {
+            "index": "11201",
+            "tag": "Explosives",
+            "rarity": "rare"
+        },
+        "paper_golf_cart": {
+            "index": "11202",
+            "tag": "Golf Cart",
+            "rarity": "rare"
+        },
+        "paper_leave_a_mark": {
+            "index": "11203",
+            "tag": "Gonna Leave A Mark",
+            "rarity": "rare"
+        },
+        "paper_head_in_hands": {
+            "index": "11204",
+            "tag": "Head In Hands",
+            "rarity": "rare"
+        },
+        "paper_high_five": {
+            "index": "11205",
+            "tag": "High Five!",
+            "rarity": "rare"
+        },
+        "paper_jackass": {
+            "index": "11206",
+            "tag": "Jackass",
+            "rarity": "rare"
+        },
+        "paper_partyboy": {
+            "index": "11207",
+            "tag": "Partyboy",
+            "rarity": "rare"
+        },
+        "paper_radiograph": {
+            "index": "11208",
+            "tag": "Radiograph",
+            "rarity": "rare"
+        },
+        "paper_rocket_skates": {
+            "index": "11209",
+            "tag": "Rocket Skates",
+            "rarity": "rare"
+        },
+        "paper_skull_bunny": {
+            "index": "11210",
+            "tag": "Skull Bunny",
+            "rarity": "rare"
+        },
+        "paper_bull": {
+            "index": "11211",
+            "tag": "The Magic Trick",
+            "rarity": "rare"
+        },
+        "paper_warning": {
+            "index": "11212",
+            "tag": "WARNING",
+            "rarity": "rare"
+        },
+        "paper_zzzap": {
+            "index": "11213",
+            "tag": "ZZZAP!",
+            "rarity": "rare"
+        },
+        "glitter_airhorn": {
+            "index": "11214",
+            "tag": "Airhorn (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_assterisk": {
+            "index": "11215",
+            "tag": "Assterisk (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_big_red_rocket": {
+            "index": "11216",
+            "tag": "Big Red Rocket (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_head_in_hands": {
+            "index": "11217",
+            "tag": "Head In Hands (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_high_five": {
+            "index": "11218",
+            "tag": "High Five! (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_skull_bunny": {
+            "index": "11219",
+            "tag": "Skull Bunny (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_bull": {
+            "index": "11220",
+            "tag": "The Magic Trick (Glitter)",
+            "rarity": "mythical"
+        },
+        "holo_boner_snap": {
+            "index": "11221",
+            "tag": "Boner Snap (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_jackass": {
+            "index": "11222",
+            "tag": "Jackass (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_leave_a_mark": {
+            "index": "11223",
+            "tag": "Gonna Leave A Mark (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_radiograph": {
+            "index": "11225",
+            "tag": "Radiograph (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_rocket_skates": {
+            "index": "11226",
+            "tag": "Rocket Skates (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_zzzap": {
+            "index": "11227",
+            "tag": "ZZZAP! (Holo)",
+            "rarity": "mythical"
+        },
+        "foil_assterisk": {
+            "index": "11228",
+            "tag": "Assterisk (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_censored": {
+            "index": "11229",
+            "tag": "Censored (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_explosives": {
+            "index": "11230",
+            "tag": "Explosives (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_radiograph": {
+            "index": "11231",
+            "tag": "Radiograph (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_warning": {
+            "index": "11232",
+            "tag": "WARNING (Foil)",
+            "rarity": "legendary"
+        },
+        "lenticular_electric_avenue": {
+            "index": "11233",
+            "tag": "Electric Avenue (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_partyboy": {
+            "index": "11224",
+            "tag": "Partyboy (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_poo_cocktail": {
+            "index": "11234",
+            "tag": "Poo Cocktail Supreme (Lenticular)",
+            "rarity": "ancient"
+        },
+        "paper_boreal_blast": {
+            "index": "10343",
+            "tag": "Boreal Blast",
+            "rarity": "rare"
+        },
+        "paper_safari_shine": {
+            "index": "10350",
+            "tag": "Safari Shine",
+            "rarity": "rare"
+        },
+        "paper_blaze_breeze": {
+            "index": "10341",
+            "tag": "Blaze Breeze",
+            "rarity": "rare"
+        },
+        "paper_be_patient": {
+            "index": "11194",
+            "tag": "Please Be Patient",
+            "rarity": "rare"
+        },
+        "paper_bhop_hydraulics": {
+            "index": "10344",
+            "tag": "Bunnyhop Hydraulics",
+            "rarity": "rare"
+        },
+        "paper_run_boost": {
+            "index": "10349",
+            "tag": "Run Boost Lift Kits",
+            "rarity": "rare"
+        },
+        "paper_w_tires": {
+            "index": "10353",
+            "tag": "W Performance Tires",
+            "rarity": "rare"
+        },
+        "paper_roentgen_raceclub": {
+            "index": "10348",
+            "tag": "Roentgen Raceclub",
+            "rarity": "rare"
+        },
+        "paper_defusal_sprint": {
+            "index": "10346",
+            "tag": "Defusal Sprint",
+            "rarity": "rare"
+        },
+        "paper_killometer": {
+            "index": "10347",
+            "tag": "Killometer",
+            "rarity": "rare"
+        },
+        "paper_racing_flag": {
+            "index": "10345",
+            "tag": "Checkered Kukri",
+            "rarity": "rare"
+        },
+        "paper_bomb_on_board": {
+            "index": "10342",
+            "tag": "Bomb On Board",
+            "rarity": "rare"
+        },
+        "paper_sand_dune_baja_tour": {
+            "index": "10351",
+            "tag": "Sand Dune Baja Tour",
+            "rarity": "rare"
+        },
+        "holo_cone_zone": {
+            "index": "10354",
+            "tag": "Cone Zone (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_first_lap": {
+            "index": "10356",
+            "tag": "First Lap (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_neo_hold": {
+            "index": "10357",
+            "tag": "Neo-Hold (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_neo_rush": {
+            "index": "10358",
+            "tag": "Neo-Rush (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_safety_first": {
+            "index": "10359",
+            "tag": "Safety First (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_engine_start": {
+            "index": "10355",
+            "tag": "Engine Start (Holo)",
+            "rarity": "mythical"
+        },
+        "foil_eco_mode": {
+            "index": "10360",
+            "tag": "Eco Mode (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_lucky_charms": {
+            "index": "10361",
+            "tag": "Lucky Charms (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_born_to_peek": {
+            "index": "11195",
+            "tag": "Born To Peek (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_turbo_peek": {
+            "index": "10363",
+            "tag": "Turbo Peek (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_watch_sniper": {
+            "index": "10364",
+            "tag": "Sniper Ahead (Foil)",
+            "rarity": "legendary"
+        },
+        "lenticular_burnout": {
+            "index": "10365",
+            "tag": "Burnout (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_nitro": {
+            "index": "10368",
+            "tag": "NITRO! (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_digital_dashboard": {
+            "index": "10366",
+            "tag": "Digital Dashboard (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_handheld": {
+            "index": "10367",
+            "tag": "Handheld (Lenticular)",
+            "rarity": "ancient"
+        },
         "paper_candy_apples": {
             "index": "9451",
             "tag": "Candy Apples",
@@ -42160,6 +42934,141 @@
         "lenticular_bullhit": {
             "index": "9479",
             "tag": "BullHit (Lenticular)",
+            "rarity": "ancient"
+        },
+        "paper_nana_strike": {
+            "index": "10314",
+            "tag": "B'nana Strike",
+            "rarity": "rare"
+        },
+        "paper_from_the_source": {
+            "index": "10319",
+            "tag": "From The Source",
+            "rarity": "rare"
+        },
+        "paper_agent_kucumber": {
+            "index": "10315",
+            "tag": "Agent Kucumber",
+            "rarity": "rare"
+        },
+        "paper_box_logo": {
+            "index": "10316",
+            "tag": "Box Logo",
+            "rarity": "rare"
+        },
+        "paper_dont_cry": {
+            "index": "10317",
+            "tag": "Cry Baby",
+            "rarity": "rare"
+        },
+        "paper_fresh_cut": {
+            "index": "10318",
+            "tag": "Fresh Cut",
+            "rarity": "rare"
+        },
+        "paper_heckler": {
+            "index": "10320",
+            "tag": "Heckler",
+            "rarity": "rare"
+        },
+        "paper_lemin": {
+            "index": "10321",
+            "tag": "Lemin",
+            "rarity": "rare"
+        },
+        "paper_peekle": {
+            "index": "10322",
+            "tag": "Peekle",
+            "rarity": "rare"
+        },
+        "paper_pungent_comms": {
+            "index": "10323",
+            "tag": "Pungent Comms",
+            "rarity": "rare"
+        },
+        "paper_radish_k": {
+            "index": "10324",
+            "tag": "Radish K",
+            "rarity": "rare"
+        },
+        "paper_scratch_n_whiff": {
+            "index": "10325",
+            "tag": "Scratch N' Whiff",
+            "rarity": "rare"
+        },
+        "glitter_aceberry": {
+            "index": "10326",
+            "tag": "Aceberry (Glitter)",
+            "rarity": "mythical"
+        },
+        "glitter_apple_a_day": {
+            "index": "10327",
+            "tag": "Apple A Day (Glitter)",
+            "rarity": "mythical"
+        },
+        "holo_juice_box": {
+            "index": "10328",
+            "tag": "Juice Box (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_knife_streak": {
+            "index": "10329",
+            "tag": "Knife Streak (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_from_the_vine": {
+            "index": "10330",
+            "tag": "From The Vine (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_hot_pepper": {
+            "index": "10331",
+            "tag": "Hot Pepper (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_quality_control": {
+            "index": "10332",
+            "tag": "Quality Control (Holo)",
+            "rarity": "mythical"
+        },
+        "holo_ultra_fruity": {
+            "index": "10333",
+            "tag": "Ultra Fruity (Holo)",
+            "rarity": "mythical"
+        },
+        "foil_banana_face": {
+            "index": "10334",
+            "tag": "B-A-N-A-N-A-S (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_modern_art": {
+            "index": "10335",
+            "tag": "Bananart (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_dragon_fruit": {
+            "index": "10336",
+            "tag": "Dragon Fruit (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_early_bird": {
+            "index": "10337",
+            "tag": "Early Bird (Foil)",
+            "rarity": "legendary"
+        },
+        "foil_fruit_fly": {
+            "index": "10338",
+            "tag": "Fruit Fly (Foil)",
+            "rarity": "legendary"
+        },
+        "lenticular_pineapple_pizza": {
+            "index": "10339",
+            "tag": "Pineapple On Pizza (Lenticular)",
+            "rarity": "ancient"
+        },
+        "lenticular_pepper_gauge": {
+            "index": "10340",
+            "tag": "Pepper Gauge (Lenticular)",
             "rarity": "ancient"
         },
         "paper_lightning_two": {
@@ -49556,6 +50465,3966 @@
             "index": "10313",
             "tag": "ZywOo (Gold, Champion) | Budapest 2025",
             "rarity": "ancient"
+        },
+        "cologne2026_team_vita": {
+            "index": "10369",
+            "tag": "Vitality | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_navi": {
+            "index": "10373",
+            "tag": "Natus Vincere | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_fal": {
+            "index": "10377",
+            "tag": "Falcons | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_mngz": {
+            "index": "10381",
+            "tag": "The Mongolz | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_pari": {
+            "index": "10385",
+            "tag": "PARIVISION | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_aura": {
+            "index": "10389",
+            "tag": "Aurora | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_furi": {
+            "index": "10393",
+            "tag": "FURIA | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_mouz": {
+            "index": "10397",
+            "tag": "MOUZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_fut": {
+            "index": "10401",
+            "tag": "FUT | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_spir": {
+            "index": "10405",
+            "tag": "Team Spirit | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_astr": {
+            "index": "10409",
+            "tag": "Astralis | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_g2": {
+            "index": "10413",
+            "tag": "G2 esports | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_lgcy": {
+            "index": "10417",
+            "tag": "Legacy | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_pain": {
+            "index": "10421",
+            "tag": "paiN Gaming | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_mont": {
+            "index": "10425",
+            "tag": "Monte | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_nine": {
+            "index": "10429",
+            "tag": "9z Team | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_gl": {
+            "index": "10433",
+            "tag": "GamerLegion | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_b8": {
+            "index": "10437",
+            "tag": "B8 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_hero": {
+            "index": "10441",
+            "tag": "HEROIC | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_bb": {
+            "index": "10445",
+            "tag": "BetBoom | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_big": {
+            "index": "10449",
+            "tag": "BIG | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_m80": {
+            "index": "10453",
+            "tag": "M80 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_mibr": {
+            "index": "10457",
+            "tag": "MIBR | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_sinn": {
+            "index": "10461",
+            "tag": "SINNERS | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_nrg": {
+            "index": "10465",
+            "tag": "NRG | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_tyl": {
+            "index": "10469",
+            "tag": "TYLOO | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_shrk": {
+            "index": "10473",
+            "tag": "Sharks Esports | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_gaim": {
+            "index": "10477",
+            "tag": "Gaimin Gladiators | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_liq": {
+            "index": "10481",
+            "tag": "Team Liquid | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_lynn": {
+            "index": "10485",
+            "tag": "Lynn Vision | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_thun": {
+            "index": "10489",
+            "tag": "THUNDERdOWNUNDER | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_fq": {
+            "index": "10493",
+            "tag": "FlyQuest | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_iem": {
+            "index": "10497",
+            "tag": "IEM | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_team_vita_foil": {
+            "index": "10370",
+            "tag": "Vitality (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_navi_foil": {
+            "index": "10374",
+            "tag": "Natus Vincere (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_fal_foil": {
+            "index": "10378",
+            "tag": "Falcons (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_mngz_foil": {
+            "index": "10382",
+            "tag": "The Mongolz (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_pari_foil": {
+            "index": "10386",
+            "tag": "PARIVISION (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_aura_foil": {
+            "index": "10390",
+            "tag": "Aurora (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_furi_foil": {
+            "index": "10394",
+            "tag": "FURIA (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_mouz_foil": {
+            "index": "10398",
+            "tag": "MOUZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_fut_foil": {
+            "index": "10402",
+            "tag": "FUT (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_spir_foil": {
+            "index": "10406",
+            "tag": "Team Spirit (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_astr_foil": {
+            "index": "10410",
+            "tag": "Astralis (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_g2_foil": {
+            "index": "10414",
+            "tag": "G2 esports (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_lgcy_foil": {
+            "index": "10418",
+            "tag": "Legacy (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_pain_foil": {
+            "index": "10422",
+            "tag": "paiN Gaming (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_mont_foil": {
+            "index": "10426",
+            "tag": "Monte (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_nine_foil": {
+            "index": "10430",
+            "tag": "9z Team (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_gl_foil": {
+            "index": "10434",
+            "tag": "GamerLegion (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_b8_foil": {
+            "index": "10438",
+            "tag": "B8 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_hero_foil": {
+            "index": "10442",
+            "tag": "HEROIC (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_bb_foil": {
+            "index": "10446",
+            "tag": "BetBoom (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_big_foil": {
+            "index": "10450",
+            "tag": "BIG (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_m80_foil": {
+            "index": "10454",
+            "tag": "M80 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_mibr_foil": {
+            "index": "10458",
+            "tag": "MIBR (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_sinn_foil": {
+            "index": "10462",
+            "tag": "SINNERS (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_nrg_foil": {
+            "index": "10466",
+            "tag": "NRG (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_tyl_foil": {
+            "index": "10470",
+            "tag": "TYLOO (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_shrk_foil": {
+            "index": "10474",
+            "tag": "Sharks Esports (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_gaim_foil": {
+            "index": "10478",
+            "tag": "Gaimin Gladiators (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_liq_foil": {
+            "index": "10482",
+            "tag": "Team Liquid (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_lynn_foil": {
+            "index": "10486",
+            "tag": "Lynn Vision (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_thun_foil": {
+            "index": "10490",
+            "tag": "THUNDERdOWNUNDER (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_fq_foil": {
+            "index": "10494",
+            "tag": "FlyQuest (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_iem_foil": {
+            "index": "10498",
+            "tag": "IEM (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_team_vita_holo": {
+            "index": "10371",
+            "tag": "Vitality (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_navi_holo": {
+            "index": "10375",
+            "tag": "Natus Vincere (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_fal_holo": {
+            "index": "10379",
+            "tag": "Falcons (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_mngz_holo": {
+            "index": "10383",
+            "tag": "The Mongolz (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_pari_holo": {
+            "index": "10387",
+            "tag": "PARIVISION (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_aura_holo": {
+            "index": "10391",
+            "tag": "Aurora (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_furi_holo": {
+            "index": "10395",
+            "tag": "FURIA (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_mouz_holo": {
+            "index": "10399",
+            "tag": "MOUZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_fut_holo": {
+            "index": "10403",
+            "tag": "FUT (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_spir_holo": {
+            "index": "10407",
+            "tag": "Team Spirit (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_astr_holo": {
+            "index": "10411",
+            "tag": "Astralis (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_g2_holo": {
+            "index": "10415",
+            "tag": "G2 esports (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_lgcy_holo": {
+            "index": "10419",
+            "tag": "Legacy (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_pain_holo": {
+            "index": "10423",
+            "tag": "paiN Gaming (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_mont_holo": {
+            "index": "10427",
+            "tag": "Monte (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_nine_holo": {
+            "index": "10431",
+            "tag": "9z Team (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_gl_holo": {
+            "index": "10435",
+            "tag": "GamerLegion (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_b8_holo": {
+            "index": "10439",
+            "tag": "B8 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_hero_holo": {
+            "index": "10443",
+            "tag": "HEROIC (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_bb_holo": {
+            "index": "10447",
+            "tag": "BetBoom (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_big_holo": {
+            "index": "10451",
+            "tag": "BIG (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_m80_holo": {
+            "index": "10455",
+            "tag": "M80 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_mibr_holo": {
+            "index": "10459",
+            "tag": "MIBR (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_sinn_holo": {
+            "index": "10463",
+            "tag": "SINNERS (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_nrg_holo": {
+            "index": "10467",
+            "tag": "NRG (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_tyl_holo": {
+            "index": "10471",
+            "tag": "TYLOO (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_shrk_holo": {
+            "index": "10475",
+            "tag": "Sharks Esports (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_gaim_holo": {
+            "index": "10479",
+            "tag": "Gaimin Gladiators (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_liq_holo": {
+            "index": "10483",
+            "tag": "Team Liquid (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_lynn_holo": {
+            "index": "10487",
+            "tag": "Lynn Vision (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_thun_holo": {
+            "index": "10491",
+            "tag": "THUNDERdOWNUNDER (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_fq_holo": {
+            "index": "10495",
+            "tag": "FlyQuest (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_iem_holo": {
+            "index": "10499",
+            "tag": "IEM (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_team_vita_gold": {
+            "index": "10372",
+            "tag": "Vitality (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_navi_gold": {
+            "index": "10376",
+            "tag": "Natus Vincere (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_fal_gold": {
+            "index": "10380",
+            "tag": "Falcons (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_mngz_gold": {
+            "index": "10384",
+            "tag": "The Mongolz (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_pari_gold": {
+            "index": "10388",
+            "tag": "PARIVISION (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_aura_gold": {
+            "index": "10392",
+            "tag": "Aurora (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_furi_gold": {
+            "index": "10396",
+            "tag": "FURIA (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_mouz_gold": {
+            "index": "10400",
+            "tag": "MOUZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_fut_gold": {
+            "index": "10404",
+            "tag": "FUT (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_spir_gold": {
+            "index": "10408",
+            "tag": "Team Spirit (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_astr_gold": {
+            "index": "10412",
+            "tag": "Astralis (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_g2_gold": {
+            "index": "10416",
+            "tag": "G2 esports (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_lgcy_gold": {
+            "index": "10420",
+            "tag": "Legacy (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_pain_gold": {
+            "index": "10424",
+            "tag": "paiN Gaming (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_mont_gold": {
+            "index": "10428",
+            "tag": "Monte (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_nine_gold": {
+            "index": "10432",
+            "tag": "9z Team (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_gl_gold": {
+            "index": "10436",
+            "tag": "GamerLegion (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_b8_gold": {
+            "index": "10440",
+            "tag": "B8 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_hero_gold": {
+            "index": "10444",
+            "tag": "HEROIC (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_bb_gold": {
+            "index": "10448",
+            "tag": "BetBoom (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_big_gold": {
+            "index": "10452",
+            "tag": "BIG (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_m80_gold": {
+            "index": "10456",
+            "tag": "M80 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_mibr_gold": {
+            "index": "10460",
+            "tag": "MIBR (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_sinn_gold": {
+            "index": "10464",
+            "tag": "SINNERS (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_nrg_gold": {
+            "index": "10468",
+            "tag": "NRG (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_tyl_gold": {
+            "index": "10472",
+            "tag": "TYLOO (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_shrk_gold": {
+            "index": "10476",
+            "tag": "Sharks Esports (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_gaim_gold": {
+            "index": "10480",
+            "tag": "Gaimin Gladiators (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_liq_gold": {
+            "index": "10484",
+            "tag": "Team Liquid (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_lynn_gold": {
+            "index": "10488",
+            "tag": "Lynn Vision (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_thun_gold": {
+            "index": "10492",
+            "tag": "THUNDERdOWNUNDER (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_fq_gold": {
+            "index": "10496",
+            "tag": "FlyQuest (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_team_iem_gold": {
+            "index": "10500",
+            "tag": "IEM (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_zywoo": {
+            "index": "10534",
+            "tag": "ZywOo | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_apex": {
+            "index": "10538",
+            "tag": "apEX | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_mezii": {
+            "index": "10542",
+            "tag": "mezii | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_flamez": {
+            "index": "10546",
+            "tag": "FlameZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_ropz": {
+            "index": "10550",
+            "tag": "ropz | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_w0nderful": {
+            "index": "10554",
+            "tag": "w0nderful | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_aleksib": {
+            "index": "10558",
+            "tag": "Aleksib | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_b1t": {
+            "index": "10562",
+            "tag": "b1t | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_im": {
+            "index": "10566",
+            "tag": "iM | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_makazze": {
+            "index": "10570",
+            "tag": "makazze | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_niko": {
+            "index": "10574",
+            "tag": "NiKo | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kyxsan": {
+            "index": "10578",
+            "tag": "kyxsan | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_m0nesy": {
+            "index": "10582",
+            "tag": "m0NESY | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_teses": {
+            "index": "10586",
+            "tag": "TeSeS | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kyousuke": {
+            "index": "10590",
+            "tag": "kyousuke | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_blitz": {
+            "index": "10594",
+            "tag": "bLitz | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_techno4k": {
+            "index": "10598",
+            "tag": "Techno4K | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_cobra": {
+            "index": "10602",
+            "tag": "cobra | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_mzinho": {
+            "index": "10606",
+            "tag": "mzinho | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_910": {
+            "index": "10610",
+            "tag": "910 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jame": {
+            "index": "10614",
+            "tag": "Jame | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nota": {
+            "index": "10618",
+            "tag": "nota | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_xielo": {
+            "index": "10622",
+            "tag": "xiELO | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_belchonokk": {
+            "index": "10626",
+            "tag": "BELCHONOKK | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_zweih": {
+            "index": "10630",
+            "tag": "zweih | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_xantares": {
+            "index": "10634",
+            "tag": "XANTARES | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_soulfly": {
+            "index": "10638",
+            "tag": "soulfly | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_wicadia": {
+            "index": "10642",
+            "tag": "Wicadia | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_maj3r": {
+            "index": "10646",
+            "tag": "MAJ3R | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_woxic": {
+            "index": "10650",
+            "tag": "woxic | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_yekindar": {
+            "index": "10654",
+            "tag": "YEKINDAR | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kscerato": {
+            "index": "10658",
+            "tag": "KSCERATO | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_fallen": {
+            "index": "10662",
+            "tag": "FalleN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_molodoy": {
+            "index": "10666",
+            "tag": "molodoy | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_yuurih": {
+            "index": "10670",
+            "tag": "yuurih | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jimpphat": {
+            "index": "10674",
+            "tag": "Jimpphat | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_brollan": {
+            "index": "10678",
+            "tag": "Brollan | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_spinx": {
+            "index": "10682",
+            "tag": "Spinx | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_torzsi": {
+            "index": "10686",
+            "tag": "torzsi | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_xertion": {
+            "index": "10690",
+            "tag": "xertioN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_dem0n": {
+            "index": "10694",
+            "tag": "dem0n | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_launx": {
+            "index": "10698",
+            "tag": "lauNX | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_krabeni": {
+            "index": "10702",
+            "tag": "Krabeni | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_cmtry": {
+            "index": "10706",
+            "tag": "cmtry | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_dziugss": {
+            "index": "10710",
+            "tag": "dziugss | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_tn1r": {
+            "index": "10714",
+            "tag": "tN1R | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_donk": {
+            "index": "10718",
+            "tag": "donk | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_magixx": {
+            "index": "10722",
+            "tag": "magixx | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_sh1ro": {
+            "index": "10726",
+            "tag": "sh1ro | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_zont1x": {
+            "index": "10730",
+            "tag": "zont1x | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_hooxi": {
+            "index": "10734",
+            "tag": "HooXi | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_phzy": {
+            "index": "10738",
+            "tag": "phzy | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_ryu": {
+            "index": "10742",
+            "tag": "ryu | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jabbi": {
+            "index": "10746",
+            "tag": "jabbi | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_staehr": {
+            "index": "10750",
+            "tag": "Staehr | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_hunter": {
+            "index": "10754",
+            "tag": "huNter- | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_heavygod": {
+            "index": "10758",
+            "tag": "Heavygod | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nertz": {
+            "index": "10762",
+            "tag": "NertZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_sunpayus": {
+            "index": "10766",
+            "tag": "SunPayus | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_matys": {
+            "index": "10770",
+            "tag": "MATYS | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_art": {
+            "index": "10774",
+            "tag": "arT | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_latto": {
+            "index": "10778",
+            "tag": "latto | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_dumau": {
+            "index": "10782",
+            "tag": "dumau | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_saadzin": {
+            "index": "10786",
+            "tag": "saadzin | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_n1ssim": {
+            "index": "10790",
+            "tag": "n1ssim | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_biguzera": {
+            "index": "10794",
+            "tag": "biguzera | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nqz": {
+            "index": "10798",
+            "tag": "NQZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_snow": {
+            "index": "10802",
+            "tag": "snow | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_piriajr": {
+            "index": "10806",
+            "tag": "piriajr | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_vsm": {
+            "index": "10810",
+            "tag": "v$m | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_rainwaker": {
+            "index": "10814",
+            "tag": "Rainwaker | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_bymas": {
+            "index": "10818",
+            "tag": "Bymas | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_afro": {
+            "index": "10822",
+            "tag": "afro | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_gizmy": {
+            "index": "10826",
+            "tag": "Gizmy | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_azuwu": {
+            "index": "10830",
+            "tag": "AZUWU | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_max": {
+            "index": "10834",
+            "tag": "max | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_dgt": {
+            "index": "10838",
+            "tag": "dgt | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_meyern": {
+            "index": "10842",
+            "tag": "meyern | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_luchov": {
+            "index": "10846",
+            "tag": "luchov | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_huasopeek": {
+            "index": "10850",
+            "tag": "HUASOPEEK | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_snax": {
+            "index": "10854",
+            "tag": "Snax | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_rez": {
+            "index": "10858",
+            "tag": "REZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_tauson": {
+            "index": "10862",
+            "tag": "Tauson | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_pr": {
+            "index": "10866",
+            "tag": "PR | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_hypex": {
+            "index": "10870",
+            "tag": "hypex | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_s1zzi": {
+            "index": "10874",
+            "tag": "s1zzi | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_npl": {
+            "index": "10878",
+            "tag": "npl | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_esenthial": {
+            "index": "10882",
+            "tag": "esenthial | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_alex666": {
+            "index": "10886",
+            "tag": "alex666 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kensizor": {
+            "index": "10890",
+            "tag": "kensizor | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_xfl0ud": {
+            "index": "10894",
+            "tag": "xfl0ud | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nilo": {
+            "index": "10898",
+            "tag": "nilo | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_susp": {
+            "index": "10902",
+            "tag": "susp | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_chr1zn": {
+            "index": "10906",
+            "tag": "Chr1zN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_yxngstxr": {
+            "index": "10910",
+            "tag": "yxngstxr | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_boombl4": {
+            "index": "10914",
+            "tag": "Boombl4 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_zorte": {
+            "index": "10918",
+            "tag": "zorte | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_s1ren": {
+            "index": "10922",
+            "tag": "S1ren | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_fl4mus": {
+            "index": "10926",
+            "tag": "FL4MUS | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_magnojez": {
+            "index": "10930",
+            "tag": "Magnojez | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_tabsen": {
+            "index": "10934",
+            "tag": "tabseN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jdc": {
+            "index": "10938",
+            "tag": "JDC | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_faven": {
+            "index": "10942",
+            "tag": "faveN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_blamef": {
+            "index": "10946",
+            "tag": "blameF | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_gr1ks": {
+            "index": "10950",
+            "tag": "gr1ks | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_swisher": {
+            "index": "10954",
+            "tag": "Swisher | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_lake": {
+            "index": "10958",
+            "tag": "Lake | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jba": {
+            "index": "10962",
+            "tag": "JBa | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_s1n": {
+            "index": "10966",
+            "tag": "s1n | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_slaxz": {
+            "index": "10970",
+            "tag": "slaxz- | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_lnz": {
+            "index": "10974",
+            "tag": "LNZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_insani": {
+            "index": "10978",
+            "tag": "insani | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_brnz4n": {
+            "index": "10982",
+            "tag": "brnz4n | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_venomzera": {
+            "index": "10986",
+            "tag": "venomzera | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kl1m": {
+            "index": "10990",
+            "tag": "kl1m | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_beastik": {
+            "index": "10994",
+            "tag": "beastik | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_shock": {
+            "index": "10998",
+            "tag": "SHOCK | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_modo": {
+            "index": "11002",
+            "tag": "MoDo | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kisserek": {
+            "index": "11006",
+            "tag": "kisserek | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_stressarn": {
+            "index": "11010",
+            "tag": "stressarN | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_grim": {
+            "index": "11014",
+            "tag": "Grim | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_br0": {
+            "index": "11018",
+            "tag": "br0 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_osee": {
+            "index": "11022",
+            "tag": "oSee | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_sonic": {
+            "index": "11026",
+            "tag": "Sonic | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nitro": {
+            "index": "11030",
+            "tag": "nitr0 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_mercury": {
+            "index": "11034",
+            "tag": "Mercury | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jee": {
+            "index": "11038",
+            "tag": "Jee | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jamyoung": {
+            "index": "11042",
+            "tag": "JamYoung | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_moseyuh": {
+            "index": "11046",
+            "tag": "Moseyuh | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_zerocn": {
+            "index": "11050",
+            "tag": "Zero  | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_gafolo": {
+            "index": "11054",
+            "tag": "gafolo | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_koala": {
+            "index": "11058",
+            "tag": "koala | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_maxxkor": {
+            "index": "11062",
+            "tag": "maxxkor | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_rdnzao": {
+            "index": "11066",
+            "tag": "rdnzao | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_doc": {
+            "index": "11070",
+            "tag": "doc | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_hen1": {
+            "index": "11074",
+            "tag": "HEN1 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_felps": {
+            "index": "11078",
+            "tag": "felps | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nekiz": {
+            "index": "11082",
+            "tag": "NEKiZ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_luken": {
+            "index": "11086",
+            "tag": "luken | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jota": {
+            "index": "11090",
+            "tag": "JOTA | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_elige": {
+            "index": "11094",
+            "tag": "EliGE | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_ultimate": {
+            "index": "11098",
+            "tag": "ultimate | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_malbsmd": {
+            "index": "11102",
+            "tag": "malbsMd | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_siuhy": {
+            "index": "11106",
+            "tag": "siuhy | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_naf": {
+            "index": "11110",
+            "tag": "NAF | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_westmelon": {
+            "index": "11114",
+            "tag": "westmelon | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_z4kr": {
+            "index": "11118",
+            "tag": "z4KR | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_starry": {
+            "index": "11122",
+            "tag": "Starry | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_emiliaqaq": {
+            "index": "11126",
+            "tag": "EmiliaQAQ | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_c4llm3su3": {
+            "index": "11130",
+            "tag": "C4LLM3SU3 | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_dexter": {
+            "index": "11134",
+            "tag": "dexter | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_liazz": {
+            "index": "11138",
+            "tag": "Liazz | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_alistair": {
+            "index": "11142",
+            "tag": "aliStair | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_asap": {
+            "index": "11146",
+            "tag": "asap | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_tjp": {
+            "index": "11150",
+            "tag": "TjP | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_ins": {
+            "index": "11154",
+            "tag": "INS | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_jks": {
+            "index": "11158",
+            "tag": "jks | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_vexite": {
+            "index": "11162",
+            "tag": "vexite | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_story": {
+            "index": "11166",
+            "tag": "story | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_nettik": {
+            "index": "11170",
+            "tag": "nettik | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_niko_champion": {
+            "index": "11174",
+            "tag": "NiKo (Champion) | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kyxsan_champion": {
+            "index": "11178",
+            "tag": "kyxsan (Champion) | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_m0nesy_champion": {
+            "index": "11182",
+            "tag": "m0NESY (Champion) | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_teses_champion": {
+            "index": "11186",
+            "tag": "TeSeS (Champion) | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_kyousuke_champion": {
+            "index": "11190",
+            "tag": "kyousuke (Champion) | Cologne 2026",
+            "rarity": "rare"
+        },
+        "cologne2026_signature_zywoo_foil": {
+            "index": "10535",
+            "tag": "ZywOo (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_apex_foil": {
+            "index": "10539",
+            "tag": "apEX (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_mezii_foil": {
+            "index": "10543",
+            "tag": "mezii (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_flamez_foil": {
+            "index": "10547",
+            "tag": "FlameZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_ropz_foil": {
+            "index": "10551",
+            "tag": "ropz (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_w0nderful_foil": {
+            "index": "10555",
+            "tag": "w0nderful (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_aleksib_foil": {
+            "index": "10559",
+            "tag": "Aleksib (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_b1t_foil": {
+            "index": "10563",
+            "tag": "b1t (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_im_foil": {
+            "index": "10567",
+            "tag": "iM (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_makazze_foil": {
+            "index": "10571",
+            "tag": "makazze (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_niko_foil": {
+            "index": "10575",
+            "tag": "NiKo (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kyxsan_foil": {
+            "index": "10579",
+            "tag": "kyxsan (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_m0nesy_foil": {
+            "index": "10583",
+            "tag": "m0NESY (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_teses_foil": {
+            "index": "10587",
+            "tag": "TeSeS (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kyousuke_foil": {
+            "index": "10591",
+            "tag": "kyousuke (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_blitz_foil": {
+            "index": "10595",
+            "tag": "bLitz (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_techno4k_foil": {
+            "index": "10599",
+            "tag": "Techno4K (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_cobra_foil": {
+            "index": "10603",
+            "tag": "cobra (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_mzinho_foil": {
+            "index": "10607",
+            "tag": "mzinho (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_910_foil": {
+            "index": "10611",
+            "tag": "910 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jame_foil": {
+            "index": "10615",
+            "tag": "Jame (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nota_foil": {
+            "index": "10619",
+            "tag": "nota (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_xielo_foil": {
+            "index": "10623",
+            "tag": "xiELO (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_belchonokk_foil": {
+            "index": "10627",
+            "tag": "BELCHONOKK (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_zweih_foil": {
+            "index": "10631",
+            "tag": "zweih (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_xantares_foil": {
+            "index": "10635",
+            "tag": "XANTARES (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_soulfly_foil": {
+            "index": "10639",
+            "tag": "soulfly (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_wicadia_foil": {
+            "index": "10643",
+            "tag": "Wicadia (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_maj3r_foil": {
+            "index": "10647",
+            "tag": "MAJ3R (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_woxic_foil": {
+            "index": "10651",
+            "tag": "woxic (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_yekindar_foil": {
+            "index": "10655",
+            "tag": "YEKINDAR (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kscerato_foil": {
+            "index": "10659",
+            "tag": "KSCERATO (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_fallen_foil": {
+            "index": "10663",
+            "tag": "FalleN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_molodoy_foil": {
+            "index": "10667",
+            "tag": "molodoy (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_yuurih_foil": {
+            "index": "10671",
+            "tag": "yuurih (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jimpphat_foil": {
+            "index": "10675",
+            "tag": "Jimpphat (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_brollan_foil": {
+            "index": "10679",
+            "tag": "Brollan (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_spinx_foil": {
+            "index": "10683",
+            "tag": "Spinx (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_torzsi_foil": {
+            "index": "10687",
+            "tag": "torzsi (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_xertion_foil": {
+            "index": "10691",
+            "tag": "xertioN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_dem0n_foil": {
+            "index": "10695",
+            "tag": "dem0n (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_launx_foil": {
+            "index": "10699",
+            "tag": "lauNX (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_krabeni_foil": {
+            "index": "10703",
+            "tag": "Krabeni (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_cmtry_foil": {
+            "index": "10707",
+            "tag": "cmtry (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_dziugss_foil": {
+            "index": "10711",
+            "tag": "dziugss (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_tn1r_foil": {
+            "index": "10715",
+            "tag": "tN1R (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_donk_foil": {
+            "index": "10719",
+            "tag": "donk (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_magixx_foil": {
+            "index": "10723",
+            "tag": "magixx (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_sh1ro_foil": {
+            "index": "10727",
+            "tag": "sh1ro (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_zont1x_foil": {
+            "index": "10731",
+            "tag": "zont1x (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_hooxi_foil": {
+            "index": "10735",
+            "tag": "HooXi (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_phzy_foil": {
+            "index": "10739",
+            "tag": "phzy (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_ryu_foil": {
+            "index": "10743",
+            "tag": "ryu (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jabbi_foil": {
+            "index": "10747",
+            "tag": "jabbi (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_staehr_foil": {
+            "index": "10751",
+            "tag": "Staehr (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_hunter_foil": {
+            "index": "10755",
+            "tag": "huNter- (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_heavygod_foil": {
+            "index": "10759",
+            "tag": "Heavygod (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nertz_foil": {
+            "index": "10763",
+            "tag": "NertZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_sunpayus_foil": {
+            "index": "10767",
+            "tag": "SunPayus (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_matys_foil": {
+            "index": "10771",
+            "tag": "MATYS (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_art_foil": {
+            "index": "10775",
+            "tag": "arT (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_latto_foil": {
+            "index": "10779",
+            "tag": "latto (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_dumau_foil": {
+            "index": "10783",
+            "tag": "dumau (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_saadzin_foil": {
+            "index": "10787",
+            "tag": "saadzin (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_n1ssim_foil": {
+            "index": "10791",
+            "tag": "n1ssim (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_biguzera_foil": {
+            "index": "10795",
+            "tag": "biguzera (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nqz_foil": {
+            "index": "10799",
+            "tag": "NQZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_snow_foil": {
+            "index": "10803",
+            "tag": "snow (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_piriajr_foil": {
+            "index": "10807",
+            "tag": "piriajr (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_vsm_foil": {
+            "index": "10811",
+            "tag": "v$m (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_rainwaker_foil": {
+            "index": "10815",
+            "tag": "Rainwaker (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_bymas_foil": {
+            "index": "10819",
+            "tag": "Bymas (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_afro_foil": {
+            "index": "10823",
+            "tag": "afro (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_gizmy_foil": {
+            "index": "10827",
+            "tag": "Gizmy (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_azuwu_foil": {
+            "index": "10831",
+            "tag": "AZUWU (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_max_foil": {
+            "index": "10835",
+            "tag": "max (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_dgt_foil": {
+            "index": "10839",
+            "tag": "dgt (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_meyern_foil": {
+            "index": "10843",
+            "tag": "meyern (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_luchov_foil": {
+            "index": "10847",
+            "tag": "luchov (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_huasopeek_foil": {
+            "index": "10851",
+            "tag": "HUASOPEEK (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_snax_foil": {
+            "index": "10855",
+            "tag": "Snax (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_rez_foil": {
+            "index": "10859",
+            "tag": "REZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_tauson_foil": {
+            "index": "10863",
+            "tag": "Tauson (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_pr_foil": {
+            "index": "10867",
+            "tag": "PR (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_hypex_foil": {
+            "index": "10871",
+            "tag": "hypex (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_s1zzi_foil": {
+            "index": "10875",
+            "tag": "s1zzi (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_npl_foil": {
+            "index": "10879",
+            "tag": "npl (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_esenthial_foil": {
+            "index": "10883",
+            "tag": "esenthial (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_alex666_foil": {
+            "index": "10887",
+            "tag": "alex666 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kensizor_foil": {
+            "index": "10891",
+            "tag": "kensizor (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_xfl0ud_foil": {
+            "index": "10895",
+            "tag": "xfl0ud (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nilo_foil": {
+            "index": "10899",
+            "tag": "nilo (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_susp_foil": {
+            "index": "10903",
+            "tag": "susp (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_chr1zn_foil": {
+            "index": "10907",
+            "tag": "Chr1zN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_yxngstxr_foil": {
+            "index": "10911",
+            "tag": "yxngstxr (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_boombl4_foil": {
+            "index": "10915",
+            "tag": "Boombl4 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_zorte_foil": {
+            "index": "10919",
+            "tag": "zorte (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_s1ren_foil": {
+            "index": "10923",
+            "tag": "S1ren (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_fl4mus_foil": {
+            "index": "10927",
+            "tag": "FL4MUS (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_magnojez_foil": {
+            "index": "10931",
+            "tag": "Magnojez (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_tabsen_foil": {
+            "index": "10935",
+            "tag": "tabseN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jdc_foil": {
+            "index": "10939",
+            "tag": "JDC (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_faven_foil": {
+            "index": "10943",
+            "tag": "faveN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_blamef_foil": {
+            "index": "10947",
+            "tag": "blameF (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_gr1ks_foil": {
+            "index": "10951",
+            "tag": "gr1ks (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_swisher_foil": {
+            "index": "10955",
+            "tag": "Swisher (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_lake_foil": {
+            "index": "10959",
+            "tag": "Lake (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jba_foil": {
+            "index": "10963",
+            "tag": "JBa (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_s1n_foil": {
+            "index": "10967",
+            "tag": "s1n (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_slaxz_foil": {
+            "index": "10971",
+            "tag": "slaxz- (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_lnz_foil": {
+            "index": "10975",
+            "tag": "LNZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_insani_foil": {
+            "index": "10979",
+            "tag": "insani (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_brnz4n_foil": {
+            "index": "10983",
+            "tag": "brnz4n (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_venomzera_foil": {
+            "index": "10987",
+            "tag": "venomzera (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kl1m_foil": {
+            "index": "10991",
+            "tag": "kl1m (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_beastik_foil": {
+            "index": "10995",
+            "tag": "beastik (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_shock_foil": {
+            "index": "10999",
+            "tag": "SHOCK (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_modo_foil": {
+            "index": "11003",
+            "tag": "MoDo (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kisserek_foil": {
+            "index": "11007",
+            "tag": "kisserek (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_stressarn_foil": {
+            "index": "11011",
+            "tag": "stressarN (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_grim_foil": {
+            "index": "11015",
+            "tag": "Grim (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_br0_foil": {
+            "index": "11019",
+            "tag": "br0 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_osee_foil": {
+            "index": "11023",
+            "tag": "oSee (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_sonic_foil": {
+            "index": "11027",
+            "tag": "Sonic (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nitro_foil": {
+            "index": "11031",
+            "tag": "nitr0 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_mercury_foil": {
+            "index": "11035",
+            "tag": "Mercury (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jee_foil": {
+            "index": "11039",
+            "tag": "Jee (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jamyoung_foil": {
+            "index": "11043",
+            "tag": "JamYoung (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_moseyuh_foil": {
+            "index": "11047",
+            "tag": "Moseyuh (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_zerocn_foil": {
+            "index": "11051",
+            "tag": "Zero (Foil)  | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_gafolo_foil": {
+            "index": "11055",
+            "tag": "gafolo (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_koala_foil": {
+            "index": "11059",
+            "tag": "koala (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_maxxkor_foil": {
+            "index": "11063",
+            "tag": "maxxkor (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_rdnzao_foil": {
+            "index": "11067",
+            "tag": "rdnzao (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_doc_foil": {
+            "index": "11071",
+            "tag": "doc (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_hen1_foil": {
+            "index": "11075",
+            "tag": "HEN1 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_felps_foil": {
+            "index": "11079",
+            "tag": "felps (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nekiz_foil": {
+            "index": "11083",
+            "tag": "NEKiZ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_luken_foil": {
+            "index": "11087",
+            "tag": "luken (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jota_foil": {
+            "index": "11091",
+            "tag": "JOTA (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_elige_foil": {
+            "index": "11095",
+            "tag": "EliGE (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_ultimate_foil": {
+            "index": "11099",
+            "tag": "ultimate (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_malbsmd_foil": {
+            "index": "11103",
+            "tag": "malbsMd (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_siuhy_foil": {
+            "index": "11107",
+            "tag": "siuhy (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_naf_foil": {
+            "index": "11111",
+            "tag": "NAF (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_westmelon_foil": {
+            "index": "11115",
+            "tag": "westmelon (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_z4kr_foil": {
+            "index": "11119",
+            "tag": "z4KR (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_starry_foil": {
+            "index": "11123",
+            "tag": "Starry (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_emiliaqaq_foil": {
+            "index": "11127",
+            "tag": "EmiliaQAQ (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_c4llm3su3_foil": {
+            "index": "11131",
+            "tag": "C4LLM3SU3 (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_dexter_foil": {
+            "index": "11135",
+            "tag": "dexter (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_liazz_foil": {
+            "index": "11139",
+            "tag": "Liazz (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_alistair_foil": {
+            "index": "11143",
+            "tag": "aliStair (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_asap_foil": {
+            "index": "11147",
+            "tag": "asap (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_tjp_foil": {
+            "index": "11151",
+            "tag": "TjP (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_ins_foil": {
+            "index": "11155",
+            "tag": "INS (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_jks_foil": {
+            "index": "11159",
+            "tag": "jks (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_vexite_foil": {
+            "index": "11163",
+            "tag": "vexite (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_story_foil": {
+            "index": "11167",
+            "tag": "story (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_nettik_foil": {
+            "index": "11171",
+            "tag": "nettik (Foil) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_niko_foil_champion": {
+            "index": "11175",
+            "tag": "NiKo (Foil, Champion) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kyxsan_foil_champion": {
+            "index": "11179",
+            "tag": "kyxsan (Foil, Champion) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_m0nesy_foil_champion": {
+            "index": "11183",
+            "tag": "m0NESY (Foil, Champion) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_teses_foil_champion": {
+            "index": "11187",
+            "tag": "TeSeS (Foil, Champion) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_kyousuke_foil_champion": {
+            "index": "11191",
+            "tag": "kyousuke (Foil, Champion) | Cologne 2026",
+            "rarity": "mythical"
+        },
+        "cologne2026_signature_zywoo_holo": {
+            "index": "10536",
+            "tag": "ZywOo (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_apex_holo": {
+            "index": "10540",
+            "tag": "apEX (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_mezii_holo": {
+            "index": "10544",
+            "tag": "mezii (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_flamez_holo": {
+            "index": "10548",
+            "tag": "FlameZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_ropz_holo": {
+            "index": "10552",
+            "tag": "ropz (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_w0nderful_holo": {
+            "index": "10556",
+            "tag": "w0nderful (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_aleksib_holo": {
+            "index": "10560",
+            "tag": "Aleksib (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_b1t_holo": {
+            "index": "10564",
+            "tag": "b1t (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_im_holo": {
+            "index": "10568",
+            "tag": "iM (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_makazze_holo": {
+            "index": "10572",
+            "tag": "makazze (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_niko_holo": {
+            "index": "10576",
+            "tag": "NiKo (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kyxsan_holo": {
+            "index": "10580",
+            "tag": "kyxsan (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_m0nesy_holo": {
+            "index": "10584",
+            "tag": "m0NESY (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_teses_holo": {
+            "index": "10588",
+            "tag": "TeSeS (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kyousuke_holo": {
+            "index": "10592",
+            "tag": "kyousuke (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_blitz_holo": {
+            "index": "10596",
+            "tag": "bLitz (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_techno4k_holo": {
+            "index": "10600",
+            "tag": "Techno4K (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_cobra_holo": {
+            "index": "10604",
+            "tag": "cobra (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_mzinho_holo": {
+            "index": "10608",
+            "tag": "mzinho (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_910_holo": {
+            "index": "10612",
+            "tag": "910 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jame_holo": {
+            "index": "10616",
+            "tag": "Jame (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nota_holo": {
+            "index": "10620",
+            "tag": "nota (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_xielo_holo": {
+            "index": "10624",
+            "tag": "xiELO (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_belchonokk_holo": {
+            "index": "10628",
+            "tag": "BELCHONOKK (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_zweih_holo": {
+            "index": "10632",
+            "tag": "zweih (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_xantares_holo": {
+            "index": "10636",
+            "tag": "XANTARES (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_soulfly_holo": {
+            "index": "10640",
+            "tag": "soulfly (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_wicadia_holo": {
+            "index": "10644",
+            "tag": "Wicadia (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_maj3r_holo": {
+            "index": "10648",
+            "tag": "MAJ3R (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_woxic_holo": {
+            "index": "10652",
+            "tag": "woxic (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_yekindar_holo": {
+            "index": "10656",
+            "tag": "YEKINDAR (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kscerato_holo": {
+            "index": "10660",
+            "tag": "KSCERATO (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_fallen_holo": {
+            "index": "10664",
+            "tag": "FalleN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_molodoy_holo": {
+            "index": "10668",
+            "tag": "molodoy (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_yuurih_holo": {
+            "index": "10672",
+            "tag": "yuurih (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jimpphat_holo": {
+            "index": "10676",
+            "tag": "Jimpphat (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_brollan_holo": {
+            "index": "10680",
+            "tag": "Brollan (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_spinx_holo": {
+            "index": "10684",
+            "tag": "Spinx (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_torzsi_holo": {
+            "index": "10688",
+            "tag": "torzsi (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_xertion_holo": {
+            "index": "10692",
+            "tag": "xertioN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_dem0n_holo": {
+            "index": "10696",
+            "tag": "dem0n (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_launx_holo": {
+            "index": "10700",
+            "tag": "lauNX (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_krabeni_holo": {
+            "index": "10704",
+            "tag": "Krabeni (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_cmtry_holo": {
+            "index": "10708",
+            "tag": "cmtry (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_dziugss_holo": {
+            "index": "10712",
+            "tag": "dziugss (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_tn1r_holo": {
+            "index": "10716",
+            "tag": "tN1R (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_donk_holo": {
+            "index": "10720",
+            "tag": "donk (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_magixx_holo": {
+            "index": "10724",
+            "tag": "magixx (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_sh1ro_holo": {
+            "index": "10728",
+            "tag": "sh1ro (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_zont1x_holo": {
+            "index": "10732",
+            "tag": "zont1x (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_hooxi_holo": {
+            "index": "10736",
+            "tag": "HooXi (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_phzy_holo": {
+            "index": "10740",
+            "tag": "phzy (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_ryu_holo": {
+            "index": "10744",
+            "tag": "ryu (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jabbi_holo": {
+            "index": "10748",
+            "tag": "jabbi (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_staehr_holo": {
+            "index": "10752",
+            "tag": "Staehr (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_hunter_holo": {
+            "index": "10756",
+            "tag": "huNter- (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_heavygod_holo": {
+            "index": "10760",
+            "tag": "Heavygod (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nertz_holo": {
+            "index": "10764",
+            "tag": "NertZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_sunpayus_holo": {
+            "index": "10768",
+            "tag": "SunPayus (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_matys_holo": {
+            "index": "10772",
+            "tag": "MATYS (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_art_holo": {
+            "index": "10776",
+            "tag": "arT (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_latto_holo": {
+            "index": "10780",
+            "tag": "latto (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_dumau_holo": {
+            "index": "10784",
+            "tag": "dumau (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_saadzin_holo": {
+            "index": "10788",
+            "tag": "saadzin (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_n1ssim_holo": {
+            "index": "10792",
+            "tag": "n1ssim (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_biguzera_holo": {
+            "index": "10796",
+            "tag": "biguzera (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nqz_holo": {
+            "index": "10800",
+            "tag": "NQZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_snow_holo": {
+            "index": "10804",
+            "tag": "snow (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_piriajr_holo": {
+            "index": "10808",
+            "tag": "piriajr (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_vsm_holo": {
+            "index": "10812",
+            "tag": "v$m (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_rainwaker_holo": {
+            "index": "10816",
+            "tag": "Rainwaker (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_bymas_holo": {
+            "index": "10820",
+            "tag": "Bymas (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_afro_holo": {
+            "index": "10824",
+            "tag": "afro (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_gizmy_holo": {
+            "index": "10828",
+            "tag": "Gizmy (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_azuwu_holo": {
+            "index": "10832",
+            "tag": "AZUWU (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_max_holo": {
+            "index": "10836",
+            "tag": "max (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_dgt_holo": {
+            "index": "10840",
+            "tag": "dgt (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_meyern_holo": {
+            "index": "10844",
+            "tag": "meyern (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_luchov_holo": {
+            "index": "10848",
+            "tag": "luchov (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_huasopeek_holo": {
+            "index": "10852",
+            "tag": "HUASOPEEK (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_snax_holo": {
+            "index": "10856",
+            "tag": "Snax (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_rez_holo": {
+            "index": "10860",
+            "tag": "REZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_tauson_holo": {
+            "index": "10864",
+            "tag": "Tauson (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_pr_holo": {
+            "index": "10868",
+            "tag": "PR (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_hypex_holo": {
+            "index": "10872",
+            "tag": "hypex (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_s1zzi_holo": {
+            "index": "10876",
+            "tag": "s1zzi (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_npl_holo": {
+            "index": "10880",
+            "tag": "npl (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_esenthial_holo": {
+            "index": "10884",
+            "tag": "esenthial (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_alex666_holo": {
+            "index": "10888",
+            "tag": "alex666 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kensizor_holo": {
+            "index": "10892",
+            "tag": "kensizor (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_xfl0ud_holo": {
+            "index": "10896",
+            "tag": "xfl0ud (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nilo_holo": {
+            "index": "10900",
+            "tag": "nilo (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_susp_holo": {
+            "index": "10904",
+            "tag": "susp (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_chr1zn_holo": {
+            "index": "10908",
+            "tag": "Chr1zN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_yxngstxr_holo": {
+            "index": "10912",
+            "tag": "yxngstxr (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_boombl4_holo": {
+            "index": "10916",
+            "tag": "Boombl4 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_zorte_holo": {
+            "index": "10920",
+            "tag": "zorte (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_s1ren_holo": {
+            "index": "10924",
+            "tag": "S1ren (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_fl4mus_holo": {
+            "index": "10928",
+            "tag": "FL4MUS (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_magnojez_holo": {
+            "index": "10932",
+            "tag": "Magnojez (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_tabsen_holo": {
+            "index": "10936",
+            "tag": "tabseN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jdc_holo": {
+            "index": "10940",
+            "tag": "JDC (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_faven_holo": {
+            "index": "10944",
+            "tag": "faveN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_blamef_holo": {
+            "index": "10948",
+            "tag": "blameF (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_gr1ks_holo": {
+            "index": "10952",
+            "tag": "gr1ks (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_swisher_holo": {
+            "index": "10956",
+            "tag": "Swisher (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_lake_holo": {
+            "index": "10960",
+            "tag": "Lake (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jba_holo": {
+            "index": "10964",
+            "tag": "JBa (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_s1n_holo": {
+            "index": "10968",
+            "tag": "s1n (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_slaxz_holo": {
+            "index": "10972",
+            "tag": "slaxz- (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_lnz_holo": {
+            "index": "10976",
+            "tag": "LNZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_insani_holo": {
+            "index": "10980",
+            "tag": "insani (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_brnz4n_holo": {
+            "index": "10984",
+            "tag": "brnz4n (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_venomzera_holo": {
+            "index": "10988",
+            "tag": "venomzera (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kl1m_holo": {
+            "index": "10992",
+            "tag": "kl1m (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_beastik_holo": {
+            "index": "10996",
+            "tag": "beastik (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_shock_holo": {
+            "index": "11000",
+            "tag": "SHOCK (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_modo_holo": {
+            "index": "11004",
+            "tag": "MoDo (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kisserek_holo": {
+            "index": "11008",
+            "tag": "kisserek (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_stressarn_holo": {
+            "index": "11012",
+            "tag": "stressarN (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_grim_holo": {
+            "index": "11016",
+            "tag": "Grim (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_br0_holo": {
+            "index": "11020",
+            "tag": "br0 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_osee_holo": {
+            "index": "11024",
+            "tag": "oSee (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_sonic_holo": {
+            "index": "11028",
+            "tag": "Sonic (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nitro_holo": {
+            "index": "11032",
+            "tag": "nitr0 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_mercury_holo": {
+            "index": "11036",
+            "tag": "Mercury (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jee_holo": {
+            "index": "11040",
+            "tag": "Jee (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jamyoung_holo": {
+            "index": "11044",
+            "tag": "JamYoung (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_moseyuh_holo": {
+            "index": "11048",
+            "tag": "Moseyuh (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_zerocn_holo": {
+            "index": "11052",
+            "tag": "Zero (Holo)  | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_gafolo_holo": {
+            "index": "11056",
+            "tag": "gafolo (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_koala_holo": {
+            "index": "11060",
+            "tag": "koala (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_maxxkor_holo": {
+            "index": "11064",
+            "tag": "maxxkor (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_rdnzao_holo": {
+            "index": "11068",
+            "tag": "rdnzao (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_doc_holo": {
+            "index": "11072",
+            "tag": "doc (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_hen1_holo": {
+            "index": "11076",
+            "tag": "HEN1 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_felps_holo": {
+            "index": "11080",
+            "tag": "felps (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nekiz_holo": {
+            "index": "11084",
+            "tag": "NEKiZ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_luken_holo": {
+            "index": "11088",
+            "tag": "luken (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jota_holo": {
+            "index": "11092",
+            "tag": "JOTA (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_elige_holo": {
+            "index": "11096",
+            "tag": "EliGE (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_ultimate_holo": {
+            "index": "11100",
+            "tag": "ultimate (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_malbsmd_holo": {
+            "index": "11104",
+            "tag": "malbsMd (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_siuhy_holo": {
+            "index": "11108",
+            "tag": "siuhy (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_naf_holo": {
+            "index": "11112",
+            "tag": "NAF (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_westmelon_holo": {
+            "index": "11116",
+            "tag": "westmelon (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_z4kr_holo": {
+            "index": "11120",
+            "tag": "z4KR (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_starry_holo": {
+            "index": "11124",
+            "tag": "Starry (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_emiliaqaq_holo": {
+            "index": "11128",
+            "tag": "EmiliaQAQ (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_c4llm3su3_holo": {
+            "index": "11132",
+            "tag": "C4LLM3SU3 (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_dexter_holo": {
+            "index": "11136",
+            "tag": "dexter (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_liazz_holo": {
+            "index": "11140",
+            "tag": "Liazz (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_alistair_holo": {
+            "index": "11144",
+            "tag": "aliStair (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_asap_holo": {
+            "index": "11148",
+            "tag": "asap (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_tjp_holo": {
+            "index": "11152",
+            "tag": "TjP (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_ins_holo": {
+            "index": "11156",
+            "tag": "INS (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_jks_holo": {
+            "index": "11160",
+            "tag": "jks (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_vexite_holo": {
+            "index": "11164",
+            "tag": "vexite (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_story_holo": {
+            "index": "11168",
+            "tag": "story (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_nettik_holo": {
+            "index": "11172",
+            "tag": "nettik (Holo) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_niko_holo_champion": {
+            "index": "11176",
+            "tag": "NiKo (Holo, Champion) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kyxsan_holo_champion": {
+            "index": "11180",
+            "tag": "kyxsan (Holo, Champion) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_m0nesy_holo_champion": {
+            "index": "11184",
+            "tag": "m0NESY (Holo, Champion) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_teses_holo_champion": {
+            "index": "11188",
+            "tag": "TeSeS (Holo, Champion) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_kyousuke_holo_champion": {
+            "index": "11192",
+            "tag": "kyousuke (Holo, Champion) | Cologne 2026",
+            "rarity": "legendary"
+        },
+        "cologne2026_signature_zywoo_gold": {
+            "index": "10537",
+            "tag": "ZywOo (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_apex_gold": {
+            "index": "10541",
+            "tag": "apEX (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_mezii_gold": {
+            "index": "10545",
+            "tag": "mezii (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_flamez_gold": {
+            "index": "10549",
+            "tag": "FlameZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_ropz_gold": {
+            "index": "10553",
+            "tag": "ropz (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_w0nderful_gold": {
+            "index": "10557",
+            "tag": "w0nderful (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_aleksib_gold": {
+            "index": "10561",
+            "tag": "Aleksib (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_b1t_gold": {
+            "index": "10565",
+            "tag": "b1t (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_im_gold": {
+            "index": "10569",
+            "tag": "iM (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_makazze_gold": {
+            "index": "10573",
+            "tag": "makazze (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_niko_gold": {
+            "index": "10577",
+            "tag": "NiKo (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kyxsan_gold": {
+            "index": "10581",
+            "tag": "kyxsan (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_m0nesy_gold": {
+            "index": "10585",
+            "tag": "m0NESY (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_teses_gold": {
+            "index": "10589",
+            "tag": "TeSeS (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kyousuke_gold": {
+            "index": "10593",
+            "tag": "kyousuke (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_blitz_gold": {
+            "index": "10597",
+            "tag": "bLitz (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_techno4k_gold": {
+            "index": "10601",
+            "tag": "Techno4K (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_cobra_gold": {
+            "index": "10605",
+            "tag": "cobra (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_mzinho_gold": {
+            "index": "10609",
+            "tag": "mzinho (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_910_gold": {
+            "index": "10613",
+            "tag": "910 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jame_gold": {
+            "index": "10617",
+            "tag": "Jame (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nota_gold": {
+            "index": "10621",
+            "tag": "nota (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_xielo_gold": {
+            "index": "10625",
+            "tag": "xiELO (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_belchonokk_gold": {
+            "index": "10629",
+            "tag": "BELCHONOKK (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_zweih_gold": {
+            "index": "10633",
+            "tag": "zweih (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_xantares_gold": {
+            "index": "10637",
+            "tag": "XANTARES (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_soulfly_gold": {
+            "index": "10641",
+            "tag": "soulfly (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_wicadia_gold": {
+            "index": "10645",
+            "tag": "Wicadia (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_maj3r_gold": {
+            "index": "10649",
+            "tag": "MAJ3R (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_woxic_gold": {
+            "index": "10653",
+            "tag": "woxic (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_yekindar_gold": {
+            "index": "10657",
+            "tag": "YEKINDAR (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kscerato_gold": {
+            "index": "10661",
+            "tag": "KSCERATO (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_fallen_gold": {
+            "index": "10665",
+            "tag": "FalleN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_molodoy_gold": {
+            "index": "10669",
+            "tag": "molodoy (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_yuurih_gold": {
+            "index": "10673",
+            "tag": "yuurih (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jimpphat_gold": {
+            "index": "10677",
+            "tag": "Jimpphat (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_brollan_gold": {
+            "index": "10681",
+            "tag": "Brollan (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_spinx_gold": {
+            "index": "10685",
+            "tag": "Spinx (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_torzsi_gold": {
+            "index": "10689",
+            "tag": "torzsi (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_xertion_gold": {
+            "index": "10693",
+            "tag": "xertioN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_dem0n_gold": {
+            "index": "10697",
+            "tag": "dem0n (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_launx_gold": {
+            "index": "10701",
+            "tag": "lauNX (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_krabeni_gold": {
+            "index": "10705",
+            "tag": "Krabeni (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_cmtry_gold": {
+            "index": "10709",
+            "tag": "cmtry (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_dziugss_gold": {
+            "index": "10713",
+            "tag": "dziugss (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_tn1r_gold": {
+            "index": "10717",
+            "tag": "tN1R (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_donk_gold": {
+            "index": "10721",
+            "tag": "donk (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_magixx_gold": {
+            "index": "10725",
+            "tag": "magixx (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_sh1ro_gold": {
+            "index": "10729",
+            "tag": "sh1ro (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_zont1x_gold": {
+            "index": "10733",
+            "tag": "zont1x (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_hooxi_gold": {
+            "index": "10737",
+            "tag": "HooXi (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_phzy_gold": {
+            "index": "10741",
+            "tag": "phzy (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_ryu_gold": {
+            "index": "10745",
+            "tag": "ryu (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jabbi_gold": {
+            "index": "10749",
+            "tag": "jabbi (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_staehr_gold": {
+            "index": "10753",
+            "tag": "Staehr (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_hunter_gold": {
+            "index": "10757",
+            "tag": "huNter- (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_heavygod_gold": {
+            "index": "10761",
+            "tag": "Heavygod (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nertz_gold": {
+            "index": "10765",
+            "tag": "NertZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_sunpayus_gold": {
+            "index": "10769",
+            "tag": "SunPayus (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_matys_gold": {
+            "index": "10773",
+            "tag": "MATYS (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_art_gold": {
+            "index": "10777",
+            "tag": "arT (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_latto_gold": {
+            "index": "10781",
+            "tag": "latto (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_dumau_gold": {
+            "index": "10785",
+            "tag": "dumau (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_saadzin_gold": {
+            "index": "10789",
+            "tag": "saadzin (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_n1ssim_gold": {
+            "index": "10793",
+            "tag": "n1ssim (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_biguzera_gold": {
+            "index": "10797",
+            "tag": "biguzera (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nqz_gold": {
+            "index": "10801",
+            "tag": "NQZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_snow_gold": {
+            "index": "10805",
+            "tag": "snow (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_piriajr_gold": {
+            "index": "10809",
+            "tag": "piriajr (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_vsm_gold": {
+            "index": "10813",
+            "tag": "v$m (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_rainwaker_gold": {
+            "index": "10817",
+            "tag": "Rainwaker (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_bymas_gold": {
+            "index": "10821",
+            "tag": "Bymas (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_afro_gold": {
+            "index": "10825",
+            "tag": "afro (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_gizmy_gold": {
+            "index": "10829",
+            "tag": "Gizmy (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_azuwu_gold": {
+            "index": "10833",
+            "tag": "AZUWU (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_max_gold": {
+            "index": "10837",
+            "tag": "max (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_dgt_gold": {
+            "index": "10841",
+            "tag": "dgt (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_meyern_gold": {
+            "index": "10845",
+            "tag": "meyern (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_luchov_gold": {
+            "index": "10849",
+            "tag": "luchov (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_huasopeek_gold": {
+            "index": "10853",
+            "tag": "HUASOPEEK (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_snax_gold": {
+            "index": "10857",
+            "tag": "Snax (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_rez_gold": {
+            "index": "10861",
+            "tag": "REZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_tauson_gold": {
+            "index": "10865",
+            "tag": "Tauson (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_pr_gold": {
+            "index": "10869",
+            "tag": "PR (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_hypex_gold": {
+            "index": "10873",
+            "tag": "hypex (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_s1zzi_gold": {
+            "index": "10877",
+            "tag": "s1zzi (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_npl_gold": {
+            "index": "10881",
+            "tag": "npl (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_esenthial_gold": {
+            "index": "10885",
+            "tag": "esenthial (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_alex666_gold": {
+            "index": "10889",
+            "tag": "alex666 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kensizor_gold": {
+            "index": "10893",
+            "tag": "kensizor (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_xfl0ud_gold": {
+            "index": "10897",
+            "tag": "xfl0ud (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nilo_gold": {
+            "index": "10901",
+            "tag": "nilo (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_susp_gold": {
+            "index": "10905",
+            "tag": "susp (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_chr1zn_gold": {
+            "index": "10909",
+            "tag": "Chr1zN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_yxngstxr_gold": {
+            "index": "10913",
+            "tag": "yxngstxr (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_boombl4_gold": {
+            "index": "10917",
+            "tag": "Boombl4 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_zorte_gold": {
+            "index": "10921",
+            "tag": "zorte (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_s1ren_gold": {
+            "index": "10925",
+            "tag": "S1ren (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_fl4mus_gold": {
+            "index": "10929",
+            "tag": "FL4MUS (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_magnojez_gold": {
+            "index": "10933",
+            "tag": "Magnojez (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_tabsen_gold": {
+            "index": "10937",
+            "tag": "tabseN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jdc_gold": {
+            "index": "10941",
+            "tag": "JDC (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_faven_gold": {
+            "index": "10945",
+            "tag": "faveN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_blamef_gold": {
+            "index": "10949",
+            "tag": "blameF (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_gr1ks_gold": {
+            "index": "10953",
+            "tag": "gr1ks (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_swisher_gold": {
+            "index": "10957",
+            "tag": "Swisher (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_lake_gold": {
+            "index": "10961",
+            "tag": "Lake (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jba_gold": {
+            "index": "10965",
+            "tag": "JBa (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_s1n_gold": {
+            "index": "10969",
+            "tag": "s1n (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_slaxz_gold": {
+            "index": "10973",
+            "tag": "slaxz- (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_lnz_gold": {
+            "index": "10977",
+            "tag": "LNZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_insani_gold": {
+            "index": "10981",
+            "tag": "insani (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_brnz4n_gold": {
+            "index": "10985",
+            "tag": "brnz4n (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_venomzera_gold": {
+            "index": "10989",
+            "tag": "venomzera (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kl1m_gold": {
+            "index": "10993",
+            "tag": "kl1m (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_beastik_gold": {
+            "index": "10997",
+            "tag": "beastik (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_shock_gold": {
+            "index": "11001",
+            "tag": "SHOCK (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_modo_gold": {
+            "index": "11005",
+            "tag": "MoDo (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kisserek_gold": {
+            "index": "11009",
+            "tag": "kisserek (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_stressarn_gold": {
+            "index": "11013",
+            "tag": "stressarN (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_grim_gold": {
+            "index": "11017",
+            "tag": "Grim (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_br0_gold": {
+            "index": "11021",
+            "tag": "br0 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_osee_gold": {
+            "index": "11025",
+            "tag": "oSee (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_sonic_gold": {
+            "index": "11029",
+            "tag": "Sonic (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nitro_gold": {
+            "index": "11033",
+            "tag": "nitr0 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_mercury_gold": {
+            "index": "11037",
+            "tag": "Mercury (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jee_gold": {
+            "index": "11041",
+            "tag": "Jee (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jamyoung_gold": {
+            "index": "11045",
+            "tag": "JamYoung (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_moseyuh_gold": {
+            "index": "11049",
+            "tag": "Moseyuh (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_zerocn_gold": {
+            "index": "11053",
+            "tag": "Zero (Gold)  | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_gafolo_gold": {
+            "index": "11057",
+            "tag": "gafolo (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_koala_gold": {
+            "index": "11061",
+            "tag": "koala (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_maxxkor_gold": {
+            "index": "11065",
+            "tag": "maxxkor (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_rdnzao_gold": {
+            "index": "11069",
+            "tag": "rdnzao (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_doc_gold": {
+            "index": "11073",
+            "tag": "doc (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_hen1_gold": {
+            "index": "11077",
+            "tag": "HEN1 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_felps_gold": {
+            "index": "11081",
+            "tag": "felps (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nekiz_gold": {
+            "index": "11085",
+            "tag": "NEKiZ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_luken_gold": {
+            "index": "11089",
+            "tag": "luken (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jota_gold": {
+            "index": "11093",
+            "tag": "JOTA (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_elige_gold": {
+            "index": "11097",
+            "tag": "EliGE (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_ultimate_gold": {
+            "index": "11101",
+            "tag": "ultimate (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_malbsmd_gold": {
+            "index": "11105",
+            "tag": "malbsMd (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_siuhy_gold": {
+            "index": "11109",
+            "tag": "siuhy (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_naf_gold": {
+            "index": "11113",
+            "tag": "NAF (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_westmelon_gold": {
+            "index": "11117",
+            "tag": "westmelon (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_z4kr_gold": {
+            "index": "11121",
+            "tag": "z4KR (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_starry_gold": {
+            "index": "11125",
+            "tag": "Starry (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_emiliaqaq_gold": {
+            "index": "11129",
+            "tag": "EmiliaQAQ (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_c4llm3su3_gold": {
+            "index": "11133",
+            "tag": "C4LLM3SU3 (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_dexter_gold": {
+            "index": "11137",
+            "tag": "dexter (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_liazz_gold": {
+            "index": "11141",
+            "tag": "Liazz (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_alistair_gold": {
+            "index": "11145",
+            "tag": "aliStair (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_asap_gold": {
+            "index": "11149",
+            "tag": "asap (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_tjp_gold": {
+            "index": "11153",
+            "tag": "TjP (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_ins_gold": {
+            "index": "11157",
+            "tag": "INS (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_jks_gold": {
+            "index": "11161",
+            "tag": "jks (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_vexite_gold": {
+            "index": "11165",
+            "tag": "vexite (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_story_gold": {
+            "index": "11169",
+            "tag": "story (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_nettik_gold": {
+            "index": "11173",
+            "tag": "nettik (Gold) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_niko_gold_champion": {
+            "index": "11177",
+            "tag": "NiKo (Gold, Champion) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kyxsan_gold_champion": {
+            "index": "11181",
+            "tag": "kyxsan (Gold, Champion) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_m0nesy_gold_champion": {
+            "index": "11185",
+            "tag": "m0NESY (Gold, Champion) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_teses_gold_champion": {
+            "index": "11189",
+            "tag": "TeSeS (Gold, Champion) | Cologne 2026",
+            "rarity": "ancient"
+        },
+        "cologne2026_signature_kyousuke_gold_champion": {
+            "index": "11193",
+            "tag": "kyousuke (Gold, Champion) | Cologne 2026",
+            "rarity": "ancient"
         }
     },
     "patches": {
@@ -50524,6 +55393,316 @@
         "kc_bud2025": {
             "index": "83",
             "tag": "Budapest 2025 Highlight",
+            "rarity": "rare"
+        },
+        "kc_cologne2026": {
+            "index": "84",
+            "tag": "Cologne 2026 Highlight",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1ultimatenukejumpkill": {
+            "index": "85",
+            "tag": "ultimate Jump Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1tabsenmirage1v2clutch": {
+            "index": "86",
+            "tag": "tabseN 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1koalainfernoace": {
+            "index": "87",
+            "tag": "koala ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1starryancientquadkill": {
+            "index": "88",
+            "tag": "Starry Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1asapinfernoace": {
+            "index": "89",
+            "tag": "asap ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1hypexinfernosmokekill": {
+            "index": "90",
+            "tag": "hypex Smoke Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1suspinferno1v3clutch": {
+            "index": "91",
+            "tag": "susp 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1beastikancientquadkill": {
+            "index": "92",
+            "tag": "beastik Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1s1zziinferno1v3clutch": {
+            "index": "93",
+            "tag": "s1zzi 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st1magnojezdust21v3clutch": {
+            "index": "94",
+            "tag": "Magnojez 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2nertzinfernoace": {
+            "index": "95",
+            "tag": "NertZ ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2gizmymirageknifekill": {
+            "index": "96",
+            "tag": "Gizmy Knife Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2matysmirageace": {
+            "index": "97",
+            "tag": "MATYS ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2saffeenuketriplekill": {
+            "index": "98",
+            "tag": "saffee Triple Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2gr1ksancient1v3awpclutch": {
+            "index": "99",
+            "tag": "gr1ks 1v3 AWP Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2kensizordust2acetoadvance": {
+            "index": "100",
+            "tag": "kensizor ACE to Advance",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2s1zzioverpassace": {
+            "index": "101",
+            "tag": "s1zzi ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2venomzeramirage1v3clutch": {
+            "index": "102",
+            "tag": "venomzera 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2donknuke4kwithonetaps": {
+            "index": "103",
+            "tag": "donk 4K with One Taps",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st2azuwudust2deagleace": {
+            "index": "104",
+            "tag": "AZUWU Deagle ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3w0nderfuldust22hp1v4clutch": {
+            "index": "105",
+            "tag": "w0nderful 2 HP 1v4 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3sh1rodust24kwith1v2clutch": {
+            "index": "106",
+            "tag": "sh1ro 4K with 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3magixxanubismultiweaponace": {
+            "index": "107",
+            "tag": "magixx Multi-weapon ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3ksceratoinferno1v3clutch": {
+            "index": "108",
+            "tag": "KSCERATO 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3yekindarmiragetriplekill": {
+            "index": "109",
+            "tag": "YEKINDAR Triple Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3zywoooverpassacewith1v3clutch": {
+            "index": "110",
+            "tag": "ZywOo ACE with 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3dgtoverpasspistolace": {
+            "index": "111",
+            "tag": "dgt Pistol ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3woxicdust21v4clutch": {
+            "index": "112",
+            "tag": "woxic 1v4 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3nikomiragequadkill": {
+            "index": "113",
+            "tag": "NiKo Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_st3krabenimirageace": {
+            "index": "114",
+            "tag": "Krabeni ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfboombl4nuke1v3clutch": {
+            "index": "115",
+            "tag": "Boombl4 1v3 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfsoulflynuke1v2clutch": {
+            "index": "116",
+            "tag": "soulfly 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfsh1romirageace": {
+            "index": "117",
+            "tag": "sh1ro ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfmagixxmirage1v4clutch": {
+            "index": "118",
+            "tag": "magixx 1v4 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfdonkdust21v2clutch": {
+            "index": "119",
+            "tag": "donk 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfkyousukeanubis3kills": {
+            "index": "120",
+            "tag": "kyousuke 3 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfmeziidust2molotovkill": {
+            "index": "121",
+            "tag": "mezii Molotov Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfyuurihmirage1v4clutch": {
+            "index": "122",
+            "tag": "yuurih 1v4 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfhuasopeekoverpassace": {
+            "index": "123",
+            "tag": "HUASOPEEK ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_qfmaxdust21v2clutch": {
+            "index": "124",
+            "tag": "max 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfsoulflydust23kills": {
+            "index": "125",
+            "tag": "soulfly 3 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfksceratodust2ace": {
+            "index": "126",
+            "tag": "KSCERATO ACE",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfyekindardust22kills": {
+            "index": "127",
+            "tag": "YEKINDAR 2 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfyekindarnuketriplekill": {
+            "index": "128",
+            "tag": "YEKINDAR 3 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfksceratonukequadkill": {
+            "index": "129",
+            "tag": "KSCERATO Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfkyousukeanubistriplekill": {
+            "index": "130",
+            "tag": "kyousuke Triple Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfsh1roanubisquadkill": {
+            "index": "131",
+            "tag": "sh1ro Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sftesesdust21v2clutch": {
+            "index": "132",
+            "tag": "TeSeS 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfkarriganmirage4kills": {
+            "index": "133",
+            "tag": "karrigan 4 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_sfmagixxmirage4kills": {
+            "index": "134",
+            "tag": "magixx 4 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gffalconsteamentrance": {
+            "index": "135",
+            "tag": "Falcons Team Entrance",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gffuriateamentrance": {
+            "index": "136",
+            "tag": "FURIA Team Entrance",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gffallenmiragequadkill": {
+            "index": "137",
+            "tag": "FalleN Quad Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfm0nesyanubis4kills": {
+            "index": "138",
+            "tag": "m0NESY 4 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfm0nesyanubis3killswith1v2clutch": {
+            "index": "139",
+            "tag": "m0NESY 3 Kills with 1v2 Clutch",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfkyousukeinferno4kills": {
+            "index": "140",
+            "tag": "kyousuke 4 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfkarriganinferno3kills": {
+            "index": "141",
+            "tag": "karrigan 3 Kills",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfnikoinfernotriplekill": {
+            "index": "142",
+            "tag": "NiKo Triple Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfkarriganinfernodoublekill": {
+            "index": "143",
+            "tag": "karrigan Double Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gfm0nesyinfernomajorwinningkill": {
+            "index": "144",
+            "tag": "m0NESY Major-winning Kill",
+            "rarity": "rare"
+        },
+        "kc_cologne2026_gffalconstrophyliftingmoment": {
+            "index": "145",
+            "tag": "Falcons Trophy-lifting Moment",
             "rarity": "rare"
         }
     },
