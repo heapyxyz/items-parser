@@ -1,18 +1,6 @@
 import json, os, vdf
 from .lang import Lang
 
-rarities = [
-    "default",
-    "common",
-    "uncommon",
-    "rare",
-    "mythical",
-    "legendary",
-    "ancient",
-    "immortal",
-    "unusual",
-]
-
 
 class Items:
     def __init__(self, name: str):
@@ -23,6 +11,7 @@ class Items:
         self._file = os.getcwd() + f"/items/{name}.txt"
         self._data = self._parse()
 
+        self._rarities = self._get_rarities()
         self._medals = {}
         self._agents = {"ct": {}, "t": {}}
         self._gloves = {}
@@ -45,6 +34,23 @@ class Items:
             data = f.read()
 
         return vdf.loads(data)
+
+    def _get_rarities(self) -> list:
+        # fallback in case someone gets rid off "rarities" key
+        if "rarities" not in self._data["items_game"]:
+            return [
+                "default",
+                "common",
+                "uncommon",
+                "rare",
+                "mythical",
+                "legendary",
+                "ancient",
+                "immortal",
+                "unusual",
+            ]
+
+        return list(self._data["items_game"]["rarities"].keys())
 
     def _get_items(self) -> dict:
         if "items" not in self._data["items_game"]:
@@ -361,7 +367,7 @@ class Items:
 
                     continue
 
-                if set_split[-1] not in rarities:
+                if set_split[-1] not in self._rarities:
                     continue
 
                 if loot_type not in self._items:
