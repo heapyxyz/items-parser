@@ -12,6 +12,10 @@
 - Patches
 - Keychains
 - Music kits
+- Sprays
+- Collections
+- Rarities
+- Qualities
 
 ## Requirements
 - Python 3.3 or newer
