@@ -25,6 +25,7 @@ class Items:
         self._music_kits = self._get_music_kits()
 
         self._loot = self._get_loot()
+        os.makedirs(os.getcwd() + "/output", exist_ok=True)
         with open(os.getcwd() + f"/output/{name}.json", "w", encoding="utf-8") as f:
             f.write(json.dumps(self._loot, indent=4))
             print(f"Saved to output/{name}.json")
