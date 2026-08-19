@@ -38,22 +38,45 @@ class Items:
 
         return vdf.loads(data)
 
-    def _get_rarities(self) -> list:
+    def _get_rarities(self) -> dict:
         # fallback in case someone gets rid off "rarities" key
         if "rarities" not in self._data["items_game"]:
-            return [
-                "default",
-                "common",
-                "uncommon",
-                "rare",
-                "mythical",
-                "legendary",
-                "ancient",
-                "immortal",
-                "unusual",
-            ]
+            return {
+                name: {}
+                for name in [
+                    "default",
+                    "common",
+                    "uncommon",
+                    "rare",
+                    "mythical",
+                    "legendary",
+                    "ancient",
+                    "immortal",
+                    "unusual",
+                ]
+            }
 
-        return list(self._data["items_game"]["rarities"].keys())
+        data = self._data["items_game"]["rarities"]
+        colors = self._data["items_game"].get("colors", {})
+        rarities = {}
+
+        for name in data:
+            rarity_data = data[name]
+            rarity = {
+                "value": int(rarity_data.get("value", 0)),
+            }
+
+            if "color" in rarity_data:
+                rarity["color"] = rarity_data["color"]
+                if rarity_data["color"] in colors:
+                    rarity["hex"] = colors[rarity_data["color"]].get("hex_color", "")
+
+            if "weight" in rarity_data:
+                rarity["weight"] = int(rarity_data["weight"])
+
+            rarities[name] = rarity
+
+        return rarities
 
     def _get_items(self) -> dict:
         if "items" not in self._data["items_game"]:
@@ -433,6 +456,7 @@ class Items:
             "music_kits": {},
             "sprays": self._sprays,
             "collections": self._collections,
+            "rarities": self._rarities,
         }
 
         for set in data:
