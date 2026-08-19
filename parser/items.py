@@ -181,12 +181,12 @@ class Items:
                     "lowest_float": float(
                         kit_data["wear_remap_min"]
                         if "wear_remap_min" in kit_data
-                        else 0.0
+                        else 0.06
                     ),
                     "highest_float": float(
                         kit_data["wear_remap_max"]
                         if "wear_remap_max" in kit_data
-                        else 1.0
+                        else 0.8
                     ),
                     "rarity": (
                         rarity_data[kit_name] if kit_name in rarity_data else "default"
