@@ -26,6 +26,11 @@ jobs:
 
       - run: uv run main.py
 
+      - name: Determine tag
+        id: tag
+        run: |
+          echo "tag=${GITHUB_SHA:0:7}" >> "$GITHUB_OUTPUT"
+
       - name: Compose release body
         shell: bash
         env:
@@ -33,12 +38,12 @@ jobs:
         run: |
           echo '## Changelog' > body.md
           gh api /repos/${{ github.repository }}/releases/generate-notes \
-            -f tag_name='${{ github.sha }}' \
+            -f tag_name='${{ steps.tag.outputs.tag }}' \
             --jq '.body' >> body.md
 
       - uses: softprops/action-gh-release@v3
         with:
-          tag_name: ${{ github.sha }}
-          name: ${{ github.sha }}
+          tag_name: ${{ steps.tag.outputs.tag }}
+          name: ${{ steps.tag.outputs.tag }}
           body_path: body.md
           files: ./output/*
