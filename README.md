@@ -12,6 +12,10 @@
 - Patches
 - Keychains
 - Music kits
+- Sprays
+- Collections
+- Rarities
+- Qualities
 
 ## Requirements
 - Python 3.3 or newer
@@ -34,22 +38,20 @@
 ### Getting the Output
 Output gets written to the `output/` folder.
 
-1. **Install Dependencies:**
-    Using **pip**:
+1. **Install Dependencies:**  
     ```bash
     python -m pip install -r requirements.txt
     ```
-    Using **uv**:
+    If you're using **uv**, run this instead:
     ```bash
     uv sync
     ```
 
-2. **Run the Parser:**
-    Using **pip**:
+2. **Run the Parser:**  
     ```bash
     python main.py
     ```
-    Using **uv**:
+    If you're using **uv**, run this instead:
     ```bash
     uv run main.py
     ```
