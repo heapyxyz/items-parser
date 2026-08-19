@@ -23,6 +23,7 @@ class Items:
         self._sticker_kits = self._get_sticker_kits()
         self._keychains = self._get_keychains()
         self._music_kits = self._get_music_kits()
+        self._collections = self._get_collections()
 
         self._loot = self._get_loot()
         os.makedirs(os.getcwd() + "/output", exist_ok=True)
@@ -131,6 +132,11 @@ class Items:
 
                 if "associated_items" in item_data:
                     container["key"] = next(iter(item_data["associated_items"]))
+
+                if "tags" in item_data and "ItemSet" in item_data["tags"]:
+                    tag_text = item_data["tags"]["ItemSet"].get("tag_text", "")
+                    if tag_text:
+                        container["collection"] = self._lang.get(tag_text)
 
                 self._containers[item_name] = container
             elif prefab == "hands_paintable":
@@ -255,6 +261,45 @@ class Items:
 
         return keychains
 
+    def _get_collections(self) -> dict:
+        if "item_sets" not in self._data["items_game"]:
+            return {}
+
+        data = self._data["items_game"]["item_sets"]
+        collections = {}
+
+        for set_name in data:
+            set_data = data[set_name]
+
+            collection = {
+                "tag": self._lang.get(set_data["name"]),
+                "is_collection": set_data.get("is_collection", "0") == "1",
+            }
+
+            if "set_description" in set_data:
+                collection["description"] = self._lang.get(
+                    set_data["set_description"]
+                )
+
+            if "items" in set_data:
+                items = {}
+                for key in set_data["items"]:
+                    if "]" in key:
+                        kit, loot_type = key.replace("[", "").split("]", 1)
+
+                        if loot_type not in items:
+                            items[loot_type] = []
+
+                        items[loot_type].append(kit)
+                    else:
+                        items.setdefault(key, [])
+
+                collection["items"] = items
+
+            collections[set_name] = collection
+
+        return collections
+
     def _map_glove_base(self, kit_name: str) -> str:
         if kit_name.startswith("glove_driver_"):
             return "slick_gloves"
@@ -311,6 +356,17 @@ class Items:
 
         return gloves
 
+    def _get_skin_collection(self, set_name: str) -> str:
+        base = "_".join(set_name.split("_")[:-1])
+
+        if base in self._collections:
+            return self._collections[base]["tag"]
+
+        if base in self._containers and "collection" in self._containers[base]:
+            return self._containers[base]["collection"]
+
+        return ""
+
     def _get_music_kits(self) -> dict:
         if "music_definitions" not in self._data["items_game"]:
             return {}
@@ -347,6 +403,7 @@ class Items:
             "patches": {},
             "keychains": self._keychains,
             "music_kits": {},
+            "collections": self._collections,
         }
 
         for set in data:
@@ -380,7 +437,12 @@ class Items:
                     if loot_type not in loot_list["skins"]:
                         loot_list["skins"][loot_type] = {}
 
-                    loot_list["skins"][loot_type][kit] = self._paint_kits[kit]
+                    skin = self._paint_kits[kit]
+                    collection = self._get_skin_collection(set)
+                    if collection:
+                        skin = {**skin, "collection": collection}
+
+                    loot_list["skins"][loot_type][kit] = skin
                 elif loot_type == "sticker":
                     loot_list["stickers"][kit] = self._sticker_kits[kit]
                 elif loot_type == "patch":
