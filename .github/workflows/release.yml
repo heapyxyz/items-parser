@@ -4,8 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - 'items/**'
-      - 'lang/**'
       - 'parser/**'
   workflow_dispatch:
 

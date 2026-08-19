@@ -5,7 +5,7 @@ class Lang:
     def __init__(self, name: str):
         print(f'Parsing "{name}" language file...')
 
-        file = os.getcwd() + f"/lang/{name}.txt"
+        file = os.getcwd() + f"/parser/lang/{name}.txt"
         with open(file, "r", encoding="utf-8") as f:
             data = f.read()
 

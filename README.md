@@ -24,24 +24,34 @@
 > Make sure to convert all `.txt` files to UTF-8 encoding!
 
 ### Preparing `items_game.txt` File
-- **CS2:** To get CS2's `items_game.txt` file, use [Source2Viewer](https://valveresourceformat.github.io/). Open "Expand" tab. Expand "Counter-Strike 2" and open `game/csgo/pak01_dir.vpk`. Navigate to `scripts/items/` and you should be able to see `items_game.txt` file. Right-click it and select "Export as is". Export the file to the `items/` folder within this project as (for example) `cs2.txt`.
-- **CS:GO:** Right-click on CS:GO (in your Steam library), hover over "Manage" and click on "Browse local files". Navigate to `csgo/scripts/items/` and you should be able to see `items_game.txt`. Copy the file to the `items/` folder within this project as (for example) `csgo.txt`.
+- **CS2:** To get CS2's `items_game.txt` file, use [Source2Viewer](https://valveresourceformat.github.io/). Open "Expand" tab. Expand "Counter-Strike 2" and open `game/csgo/pak01_dir.vpk`. Navigate to `scripts/items/` and you should be able to see `items_game.txt` file. Right-click it and select "Export as is". Export the file to the `parser/items/` folder within this project as (for example) `cs2.txt`.
+- **CS:GO:** Right-click on CS:GO (in your Steam library), hover over "Manage" and click on "Browse local files". Navigate to `csgo/scripts/items/` and you should be able to see `items_game.txt`. Copy the file to the `parser/items/` folder within this project as (for example) `csgo.txt`.
 
 ### Changing the Language
-- **CS2:** To get CS2's language file, use [Source2Viewer](https://valveresourceformat.github.io/). Open "Expand" tab. Expand "Counter-Strike 2" and open `game/csgo/pak01_dir.vpk`. Navigate to `resource/` and you should be able to see `csgo_<LANGUAGE>.txt` files. Right-click the one you want to use and select "Export as is". Export the file to the `lang/` folder within this project as (for example) `cs2.txt`.
-- **CS:GO:** Right-click on CS:GO (in your Steam library), hover over "Manage" and click on "Browse local files". Navigate to `csgo/resource/` and you should be able to see `csgo_<LANGUAGE>.txt`. Copy the file to the `lang/` folder within this project as (for example) `csgo.txt`.
+- **CS2:** To get CS2's language file, use [Source2Viewer](https://valveresourceformat.github.io/). Open "Expand" tab. Expand "Counter-Strike 2" and open `game/csgo/pak01_dir.vpk`. Navigate to `resource/` and you should be able to see `csgo_<LANGUAGE>.txt` files. Right-click the one you want to use and select "Export as is". Export the file to the `parser/lang/` folder within this project as (for example) `cs2.txt`.
+- **CS:GO:** Right-click on CS:GO (in your Steam library), hover over "Manage" and click on "Browse local files". Navigate to `csgo/resource/` and you should be able to see `csgo_<LANGUAGE>.txt`. Copy the file to the `parser/lang/` folder within this project as (for example) `csgo.txt`.
 
 ### Getting the Output
 Output gets written to the `output/` folder.
 
 1. **Install Dependencies:**
+    Using **pip**:
     ```bash
-    pip install -r requirements.txt
+    python -m pip install -r requirements.txt
+    ```
+    Using **uv**:
+    ```bash
+    uv sync
     ```
 
 2. **Run the Parser:**
+    Using **pip**:
     ```bash
     python main.py
+    ```
+    Using **uv**:
+    ```bash
+    uv run main.py
     ```
 
 ## To-Do

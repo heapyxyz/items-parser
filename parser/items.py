@@ -8,7 +8,7 @@ class Items:
 
         print(f'Parsing "{name}" items file...')
 
-        self._file = os.getcwd() + f"/items/{name}.txt"
+        self._file = os.getcwd() + f"/parser/items/{name}.txt"
         self._data = self._parse()
 
         self._rarities = self._get_rarities()
