@@ -26,14 +26,6 @@ jobs:
 
       - run: uv run main.py
 
-      - name: Archive output
-        shell: bash
-        run: |
-          (
-            cd output
-            zip -r ../output.zip .
-          )
-
       - name: Compose release body
         shell: bash
         env:
@@ -49,4 +41,4 @@ jobs:
           tag_name: ${{ github.sha }}
           name: ${{ github.sha }}
           body_path: body.md
-          files: ./output.zip
+          files: ./output/*
