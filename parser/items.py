@@ -163,6 +163,13 @@ class Items:
                     if tag_text:
                         container["collection"] = self._lang.get(tag_text)
 
+                try:
+                    container["series"] = int(
+                        item_data["attributes"]["set supply crate series"]["value"]
+                    )
+                except:
+                    pass
+
                 self._containers[item_name] = container
             elif prefab == "hands_paintable":
                 glove_base = {
@@ -252,6 +259,14 @@ class Items:
                 ),
             }
 
+            for field in [
+                "tournament_event_id",
+                "tournament_team_id",
+                "tournament_player_id",
+            ]:
+                if field in sticker_data:
+                    sticker[field] = int(sticker_data[field])
+
             stickers[sticker_name] = sticker
 
         return stickers
@@ -281,6 +296,15 @@ class Items:
                 "tag": self._lang.get(keychain_data["loc_name"]),
                 "rarity": rarity,
             }
+
+            if "display_seed" in keychain_data:
+                keychain["display_seed"] = int(keychain_data["display_seed"])
+
+            if "is commodity" in keychain_data:
+                keychain["is_commodity"] = keychain_data["is commodity"] == "1"
+
+            if "item_quality" in keychain_data:
+                keychain["item_quality"] = keychain_data["item_quality"]
 
             keychains[keychain_name] = keychain
 
