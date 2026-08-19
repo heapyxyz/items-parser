@@ -23,6 +23,7 @@ class Items:
         self._sticker_kits = self._get_sticker_kits()
         self._keychains = self._get_keychains()
         self._music_kits = self._get_music_kits()
+        self._sprays = self._get_sprays()
         self._collections = self._get_collections()
 
         self._loot = self._get_loot()
@@ -261,6 +262,33 @@ class Items:
 
         return keychains
 
+    def _get_sprays(self) -> dict:
+        if "sticker_kits" not in self._data["items_game"]:
+            return {}
+
+        data = self._data["items_game"]["sticker_kits"]
+        sprays = {}
+
+        for index in data:
+            spray_data = data[index]
+
+            if not spray_data.get("item_name", "").startswith("#SprayKit"):
+                continue
+
+            spray = {
+                "index": index,
+                "tag": self._lang.get(spray_data["item_name"]),
+                "rarity": (
+                    spray_data["item_rarity"]
+                    if "item_rarity" in spray_data
+                    else "default"
+                ),
+            }
+
+            sprays[spray_data["name"]] = spray
+
+        return sprays
+
     def _get_collections(self) -> dict:
         if "item_sets" not in self._data["items_game"]:
             return {}
@@ -403,6 +431,7 @@ class Items:
             "patches": {},
             "keychains": self._keychains,
             "music_kits": {},
+            "sprays": self._sprays,
             "collections": self._collections,
         }
 
