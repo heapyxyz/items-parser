@@ -25,6 +25,7 @@ class Items:
         self._music_kits = self._get_music_kits()
         self._sprays = self._get_sprays()
         self._collections = self._get_collections()
+        self._qualities = self._get_qualities()
 
         self._loot = self._get_loot()
         os.makedirs(os.getcwd() + "/output", exist_ok=True)
@@ -312,6 +313,27 @@ class Items:
 
         return sprays
 
+    def _get_qualities(self) -> dict:
+        if "qualities" not in self._data["items_game"]:
+            return {}
+
+        data = self._data["items_game"]["qualities"]
+        qualities = {}
+
+        for name in data:
+            quality_data = data[name]
+            quality = {
+                "value": int(quality_data.get("value", 0)),
+                "hex_color": quality_data.get("hexColor", ""),
+            }
+
+            if "weight" in quality_data:
+                quality["weight"] = int(quality_data["weight"])
+
+            qualities[name] = quality
+
+        return qualities
+
     def _get_collections(self) -> dict:
         if "item_sets" not in self._data["items_game"]:
             return {}
@@ -457,6 +479,7 @@ class Items:
             "sprays": self._sprays,
             "collections": self._collections,
             "rarities": self._rarities,
+            "qualities": self._qualities,
         }
 
         for set in data:
