@@ -1,0 +1,44 @@
+name: Update CS2 files
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download CS2 files
+        run: |
+          curl -fsSL -o parser/items/cs2.txt \
+            'https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/game/csgo/pak01_dir/scripts/items/items_game.txt'
+          curl -fsSL -o parser/lang/cs2.txt \
+            'https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/game/csgo/pak01_dir/resource/csgo_english.txt'
+
+      - name: Force UTF-8 encoding
+        run: sed -i '1s/^\xEF\xBB\xBF//' parser/items/cs2.txt parser/lang/cs2.txt
+
+      - name: Commit, push and dispatch release
+        run: |
+          if git diff --quiet -- parser/items/cs2.txt parser/lang/cs2.txt; then
+            echo "No CS2 changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add parser/items/cs2.txt parser/lang/cs2.txt
+          git commit -m "chore: update cs2 files"
+
+          git push
+          gh workflow run release.yml --ref main
+        env:
+          GH_TOKEN: ${{ github.token }}
