@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit, push and dispatch release
         run: |
-          if git diff --quiet -- parser/items/cs2.txt parser/lang/cs2.txt; then
-            echo "No CS2 changes"
+          if git diff --quiet -- parser/items/cs2.txt; then
+            echo "No CS2 items_game.txt changes"
             exit 0
           fi
 
